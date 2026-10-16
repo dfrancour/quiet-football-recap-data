@@ -1,0 +1,5685 @@
+{
+  "$schema": "./schema.json",
+  "schema_version": 1,
+  "season": 2025,
+  "games": [
+    {
+      "season": 2025,
+      "season_type": "preseason",
+      "week": 1,
+      "away": "LAC",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401772971"
+      },
+      "kickoff": "2025-08-01T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "glxysvg-eHk",
+        "title": "Los Angeles Chargers vs. Detroit Lions Game Highlights | 2025 Hall of Fame Game",
+        "published_at": "2025-08-01T03:14:09Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "IND",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401773001"
+      },
+      "kickoff": "2025-08-07T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "i9vyGrN7_as",
+        "title": "Indianapolis Colts vs. Baltimore Ravens Game Highlights | 2025 Preseason Week 1",
+        "published_at": "2025-08-08T03:06:44Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "CIN",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401773005"
+      },
+      "kickoff": "2025-08-07T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "rDV8fBo_TNs",
+        "title": "Cincinnati Bengals vs. Philadelphia Eagles Game Highlights | 2025 Preseason Week 1",
+        "published_at": "2025-08-08T03:09:51Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "LV",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401774568"
+      },
+      "kickoff": "2025-08-08T02:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "uqgfC3FLnBM",
+        "title": "Las Vegas Raiders vs. Seattle Seahawks Game Highlights | 2025 Preseason Week 1",
+        "published_at": "2025-08-08T05:35:32Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "DET",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401773016"
+      },
+      "kickoff": "2025-08-08T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "IzXKL6fmD_g",
+        "title": "Detroit Lions vs. Atlanta Falcons Game Highlights | 2025 Preseason Week 1",
+        "published_at": "2025-08-09T02:10:48Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "CLE",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401773018"
+      },
+      "kickoff": "2025-08-08T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "gjB_JB3TQuI",
+        "title": "Cleveland Browns vs. Carolina Panthers Game Highlights | 2025 Preseason Week 1",
+        "published_at": "2025-08-09T02:27:44Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "WSH",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401772996"
+      },
+      "kickoff": "2025-08-08T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "PWGjetkKStM",
+        "title": "Washington Commanders vs. New England Patriots Game Highlights | 2025 Preseason Week 1",
+        "published_at": "2025-08-09T03:01:10Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "NYG",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401776263"
+      },
+      "kickoff": "2025-08-09T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "AVi_BjbChAM",
+        "title": "New York Giants vs. Buffalo Bills Game Highlights | 2025 Preseason Week 1",
+        "published_at": "2025-08-09T20:49:35Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "HOU",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401773012"
+      },
+      "kickoff": "2025-08-09T20:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "6RbIzTqX87E",
+        "title": "Houston Texans vs. Minnesota Vikings Game Highlights | 2025 Preseason Week 1",
+        "published_at": "2025-08-09T23:16:29Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "PIT",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401773002"
+      },
+      "kickoff": "2025-08-09T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "90_3VmbvyPQ",
+        "title": "Pittsburgh Steelers vs. Jacksonville Jaguars Game Highlights | 2025 Preseason Week 1",
+        "published_at": "2025-08-10T02:21:26Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "DAL",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401773020"
+      },
+      "kickoff": "2025-08-09T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "haf0sy3b9Mg",
+        "title": "Dallas Cowboys vs. Los Angeles Rams Game Highlights | 2025 Preseason Week 1",
+        "published_at": "2025-08-10T02:24:34Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "TEN",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401774029"
+      },
+      "kickoff": "2025-08-09T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "DMGBULPBNdM",
+        "title": "Tennessee Titans vs. Tampa Bay Buccaneers Game Highlights | 2025 Preseason Week 1",
+        "published_at": "2025-08-10T02:51:15Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "KC",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401774636"
+      },
+      "kickoff": "2025-08-10T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "QMadwAvFk3o",
+        "title": "Kansas City Chiefs vs. Arizona Cardinals Game Highlights | 2025 Preseason Week 1",
+        "published_at": "2025-08-10T03:32:07Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "NYJ",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401773010"
+      },
+      "kickoff": "2025-08-10T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "KiERx5gonIE",
+        "title": "New York Jets vs. Green Bay Packers Game Highlights | 2025 Preseason Week 1",
+        "published_at": "2025-08-10T03:23:56Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "DEN",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401776566"
+      },
+      "kickoff": "2025-08-10T00:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "G6zG9q3laO4",
+        "title": "Denver Broncos vs. San Francisco 49ers Game Highlights | 2025 Preseason Week 1",
+        "published_at": "2025-08-10T03:50:02Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "MIA",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401776564"
+      },
+      "kickoff": "2025-08-10T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "aNf6m3aOpJE",
+        "title": "Miami Dolphins vs. Chicago Bears Game Highlights | 2025 Preseason Week 1",
+        "published_at": "2025-08-10T20:33:18Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "NO",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401773026"
+      },
+      "kickoff": "2025-08-10T20:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "zTce5iw4sno",
+        "title": "New Orleans Saints vs. Los Angeles Chargers Game Highlights | 2025 Preseason Week 1",
+        "published_at": "2025-08-10T23:41:34Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "TEN",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401773017"
+      },
+      "kickoff": "2025-08-15T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "rPTNsLNFqaA",
+        "title": "Tennessee Titans vs. Atlanta Falcons Game Highlights | 2025 Preseason Week 2",
+        "published_at": "2025-08-16T02:31:39Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "KC",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401774591"
+      },
+      "kickoff": "2025-08-16T02:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "HYpKLS-aC68",
+        "title": "Kansas City Chiefs vs. Seattle Seahawks Game Highlights | 2025 Preseason Week 2",
+        "published_at": "2025-08-16T05:16:21Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "MIA",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401776264"
+      },
+      "kickoff": "2025-08-16T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "hXtA9oZMIeM",
+        "title": "Miami Dolphins vs. Detroit Lions Game Highlights | 2025 Preseason Week 2",
+        "published_at": "2025-08-16T20:40:22Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "CAR",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401773027"
+      },
+      "kickoff": "2025-08-16T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "9iwUvXULFRs",
+        "title": "Carolina Panthers vs. Houston Texans Game Highlights | 2025 Preseason Week 2",
+        "published_at": "2025-08-16T20:16:21Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "GB",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401773003"
+      },
+      "kickoff": "2025-08-16T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "kyaxz7Xwz2s",
+        "title": "Green Bay Packers vs. Indianapolis Colts Game Highlights | 2025 Preseason Week 2",
+        "published_at": "2025-08-16T20:31:52Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "NE",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401773013"
+      },
+      "kickoff": "2025-08-16T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "DUvlAxU8PEE",
+        "title": "New England Patriots vs. Minnesota Vikings Game Highlights | 2025 Preseason Week 2",
+        "published_at": "2025-08-16T20:31:40Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "CLE",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401773006"
+      },
+      "kickoff": "2025-08-16T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "NkcUzqgHqb8",
+        "title": "Cleveland Browns vs. Philadelphia Eagles Game Highlights | 2025 Preseason Week 2",
+        "published_at": "2025-08-16T20:18:55Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "SF",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401774569"
+      },
+      "kickoff": "2025-08-16T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Ol32knH6hPg",
+        "title": "San Francisco 49ers vs. Las Vegas Raiders Game Highlights | 2025 Preseason Week 2",
+        "published_at": "2025-08-16T23:17:51Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "BAL",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401773007"
+      },
+      "kickoff": "2025-08-16T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "9TnvNXySyjo",
+        "title": "Baltimore Ravens vs. Dallas Cowboys Game Highlights | 2025 Preseason  Week 2",
+        "published_at": "2025-08-17T02:30:21Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "LAC",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401773021"
+      },
+      "kickoff": "2025-08-16T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "E3O-1L9vt0k",
+        "title": "Los Angeles Chargers vs. Los Angeles Rams Game Highlights | 2025 Preseason Week 2",
+        "published_at": "2025-08-17T02:35:06Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "NYJ",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401773009"
+      },
+      "kickoff": "2025-08-16T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Adtwip2ykKc",
+        "title": "New York Jets vs. New York Giants Game Highlights | 2025 Preseason Week 2",
+        "published_at": "2025-08-17T02:13:24Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "TB",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401773000"
+      },
+      "kickoff": "2025-08-16T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "_dvd3_6_Dno",
+        "title": "Tampa Bay Buccaneers vs. Pittsburgh Steelers Game Highlights | 2025 Preseason Week 2",
+        "published_at": "2025-08-17T02:24:15Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "ARI",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401774637"
+      },
+      "kickoff": "2025-08-17T01:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "MkJU-ttA9Ak",
+        "title": "Arizona Cardinals vs. Denver Broncos Game Highlights | 2025 Preseason Week 2",
+        "published_at": "2025-08-17T04:54:04Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "JAX",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401773014"
+      },
+      "kickoff": "2025-08-17T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "xJH_kff8QBA",
+        "title": "Jacksonville Jaguars vs. New Orleans Saints Game Highlights | 2025 Preseason Week 2",
+        "published_at": "2025-08-17T20:11:10Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "BUF",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401772972"
+      },
+      "kickoff": "2025-08-18T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "-fzFY1uyPtk",
+        "title": "Buffalo Bills vs. Chicago Bears Game Highlights | 2025 Preseason Week 2",
+        "published_at": "2025-08-18T03:33:19Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "CIN",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401772973"
+      },
+      "kickoff": "2025-08-19T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "yOHaJ6KOkbA",
+        "title": "Cincinnati Bengals vs. Washington Commanders Game Highlights | 2025 Preseason Week 2",
+        "published_at": "2025-08-19T03:14:45Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "PIT",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401773019"
+      },
+      "kickoff": "2025-08-21T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "DEJUMcdwmm0",
+        "title": "Pittsburgh Steelers vs. Carolina Panthers Game Highlights | 2025 Preseason Week 3",
+        "published_at": "2025-08-22T02:09:27Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "NE",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401772974"
+      },
+      "kickoff": "2025-08-22T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "fgZUdPZkgD0",
+        "title": "New England Patriots vs. New York Giants Game Highlights | 2025 Preseason Week 3",
+        "published_at": "2025-08-22T03:15:14Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "PHI",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401772997"
+      },
+      "kickoff": "2025-08-22T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "DzzQjtmLF4k",
+        "title": "Philadelphia Eagles vs. New York Jets Game Highlights | 2025 Preseason Week 3",
+        "published_at": "2025-08-23T03:08:57Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "ATL",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401773008"
+      },
+      "kickoff": "2025-08-23T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "2YU0u0D8PrQ",
+        "title": "Atlanta Falcons vs. Dallas Cowboys Game Highlights  | 2025 Preseason Week 3",
+        "published_at": "2025-08-23T03:37:29Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "MIN",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401772975"
+      },
+      "kickoff": "2025-08-23T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "X2IjFCI-uio",
+        "title": "Minnesota Vikings vs. Tennessee Titans Game Highlights | 2025 Preseason Week 3",
+        "published_at": "2025-08-23T03:40:30Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "CHI",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401773004"
+      },
+      "kickoff": "2025-08-23T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "uR-7U1DsMV4",
+        "title": "Chicago Bears vs. Kansas City Chiefs | 2025 Preseason Week 3",
+        "published_at": "2025-08-23T03:44:18Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "BAL",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401777124"
+      },
+      "kickoff": "2025-08-23T16:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "eNXLmKYqRgw",
+        "title": "Baltimore Ravens vs  Washington Commanders | 2025 Preseason Week 3",
+        "published_at": "2025-08-23T19:35:45Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "IND",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401772998"
+      },
+      "kickoff": "2025-08-23T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "stg1w5WL_p8",
+        "title": "Indianapolis Colts vs Cincinnati Bengals | 2025 Preseason Week 3",
+        "published_at": "2025-08-23T20:19:31Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "LAR",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401772999"
+      },
+      "kickoff": "2025-08-23T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "e5oKn9elN_g",
+        "title": "Los Angeles Rams vs Cleveland Browns | 2025 Preseason Week 3",
+        "published_at": "2025-08-23T20:37:50Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "HOU",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401776265"
+      },
+      "kickoff": "2025-08-23T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "GScZYMS9j8Y",
+        "title": "Houston Texans vs Detroit Lions | 2025 Preseason Week 3",
+        "published_at": "2025-08-23T22:26:06Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "DEN",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401773015"
+      },
+      "kickoff": "2025-08-23T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "PE7m-8Y7V54",
+        "title": "Denver Broncos vs New Orleans Saints | 2025 Preseason Week 3",
+        "published_at": "2025-08-23T20:36:23Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "SEA",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401773011"
+      },
+      "kickoff": "2025-08-23T20:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "7q1HFs4neo0",
+        "title": "Seattle Seahawks vs Green Bay Packers | 2025 Preseason Week 3",
+        "published_at": "2025-08-23T23:16:36Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "JAX",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401776565"
+      },
+      "kickoff": "2025-08-23T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "JkjG2C-JwBU",
+        "title": "Jacksonville Jaguars vs Miami Dolphins | 2025 Preseason Week 3",
+        "published_at": "2025-08-24T02:12:20Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "BUF",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401774030"
+      },
+      "kickoff": "2025-08-23T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "cgqcLxanYKM",
+        "title": "Buffalo Bills vs Tampa Bay Buccaneers | 2025 Preseason Week 3",
+        "published_at": "2025-08-24T02:42:58Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "LAC",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401776567"
+      },
+      "kickoff": "2025-08-24T00:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "PCP_ABslv6g",
+        "title": "Los Angeles Chargers vs San Francisco 49ers | 2025 Preseason Week 3",
+        "published_at": "2025-08-24T04:21:20Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "LV",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401774590"
+      },
+      "kickoff": "2025-08-24T02:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "08JkyC7_gc4",
+        "title": "Las Vegas Raiders vs Arizona Cardinals | 2025 Preseason Week 3",
+        "published_at": "2025-08-24T05:10:53Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 1,
+      "away": "DAL",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401772510"
+      },
+      "kickoff": "2025-09-05T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Zn3LxRMAHFQ",
+        "title": "Dallas Cowboys vs Philadelphia Eagles | 2025 Week 1 Kickoff Game Highlights",
+        "published_at": "2025-09-05T04:36:57Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 1,
+      "away": "KC",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401772714"
+      },
+      "kickoff": "2025-09-06T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "620wa-wojh8",
+        "title": "Kansas City Chiefs vs Los Angeles Chargers | 2025 Week 1 São Paulo Game Highlights",
+        "published_at": "2025-09-06T03:38:34Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 1,
+      "away": "TB",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401772830"
+      },
+      "kickoff": "2025-09-07T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "A_EbbsPORqg",
+        "title": "Tampa Bay Buccaneers vs. Atlanta Falcons Game Highlights | NFL 2025 Season Week 1",
+        "published_at": "2025-09-07T20:44:37Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 1,
+      "away": "CIN",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401772829"
+      },
+      "kickoff": "2025-09-07T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "UE2l2S3MBK8",
+        "title": "Cincinnati Bengals vs. Cleveland Browns Game Highlights | NFL 2025 Season Week 1",
+        "published_at": "2025-09-07T20:21:05Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 1,
+      "away": "MIA",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401772719"
+      },
+      "kickoff": "2025-09-07T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "JcRpVsFuGKw",
+        "title": "Miami Dolphins vs Indianapolis Colts Game Highlights | 2025 NFL Season Week 1",
+        "published_at": "2025-09-07T20:31:45Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 1,
+      "away": "CAR",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401772828"
+      },
+      "kickoff": "2025-09-07T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "3t-ZTu1Mm4I",
+        "title": "Carolina Panthers vs. Jacksonville Jaguars Game Highlights | NFL 2025 Season Week 1",
+        "published_at": "2025-09-07T21:44:48Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 1,
+      "away": "LV",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401772720"
+      },
+      "kickoff": "2025-09-07T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "8ynnyBJX_J0",
+        "title": "Las Vegas Raiders vs. New England Patriots Game Highlights | NFL 2025 Season Week 1",
+        "published_at": "2025-09-07T20:23:39Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 1,
+      "away": "ARI",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401772718"
+      },
+      "kickoff": "2025-09-07T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "qa0wI0ptHv4",
+        "title": "Arizona Cardinals vs. New Orleans Saints Game Highlights | NFL 2025 Season Week 1",
+        "published_at": "2025-09-07T20:22:53Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 1,
+      "away": "PIT",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401772721"
+      },
+      "kickoff": "2025-09-07T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "kapv4nxG0eI",
+        "title": "Pittsburgh Steelers vs. New York Jets Game Highlights | NFL 2025 Season Week 1",
+        "published_at": "2025-09-07T20:28:16Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 1,
+      "away": "NYG",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401772827"
+      },
+      "kickoff": "2025-09-07T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "HMw8O4yzEiQ",
+        "title": "New York Giants vs Washington Commanders Game Highlights | NFL 2025 Season Week 1",
+        "published_at": "2025-09-07T20:38:23Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 1,
+      "away": "TEN",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401772832"
+      },
+      "kickoff": "2025-09-07T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "fw1S3xgiZSw",
+        "title": "Tennessee Titans vs. Denver Broncos Game Highlights | NFL 2025 Season Week 1",
+        "published_at": "2025-09-07T23:49:37Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 1,
+      "away": "SF",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401772831"
+      },
+      "kickoff": "2025-09-07T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "zr1dq7edoMs",
+        "title": "San Francisco 49ers vs Seattle Seahawks Game Highlights | 2025 NFL Season Week 1",
+        "published_at": "2025-09-07T23:30:59Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 1,
+      "away": "DET",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401772722"
+      },
+      "kickoff": "2025-09-07T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "eZ_iRs6ZlcI",
+        "title": "Detroit Lions vs. Green Bay Packers Game Highlights | NFL 2025 Season Week 1",
+        "published_at": "2025-09-07T23:32:32Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 1,
+      "away": "HOU",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401772723"
+      },
+      "kickoff": "2025-09-07T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "lvOdHfaB6RQ",
+        "title": "Houston Texans vs. Los Angeles Rams Game Highlights | NFL 2025 Season Week 1",
+        "published_at": "2025-09-07T23:33:53Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 1,
+      "away": "BAL",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401772918"
+      },
+      "kickoff": "2025-09-08T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "37U_cW0OByc",
+        "title": "Baltimore Ravens vs Buffalo Bills Game Highlights | NFL 2025 Season Week 1",
+        "published_at": "2025-09-08T03:54:12Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 1,
+      "away": "MIN",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401772810"
+      },
+      "kickoff": "2025-09-09T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "LQUNYGKKxsM",
+        "title": "Minnesota Vikings vs Chicago Bears Game Highlights | NFL 2025 Season Week 1",
+        "published_at": "2025-09-09T03:54:58Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 2,
+      "away": "WSH",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401772936"
+      },
+      "kickoff": "2025-09-12T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "OugoOrWQ4Lg",
+        "title": "Washington Commanders vs Green Bay Packers Game Highlights | 2025 NFL Season Week 2",
+        "published_at": "2025-09-12T03:53:01Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 2,
+      "away": "CLE",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401772726"
+      },
+      "kickoff": "2025-09-14T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "GtJWEMZbxjc",
+        "title": "Cleveland Browns vs. Baltimore Ravens Game Highlights | 2025 NFL Season Week 2",
+        "published_at": "2025-09-14T20:20:31Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 2,
+      "away": "JAX",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401772725"
+      },
+      "kickoff": "2025-09-14T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Twip3h-TUYA",
+        "title": "Jacksonville Jaguars vs. Cincinnati Bengals Game Highlights | NFL 2025 Season Week 2",
+        "published_at": "2025-09-14T20:40:03Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 2,
+      "away": "NYG",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401772834"
+      },
+      "kickoff": "2025-09-14T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "MmETsfwiIYg",
+        "title": "New York Giants vs Dallas Cowboys Game Highlights | 2025 NFL Season Week 2",
+        "published_at": "2025-09-14T21:13:44Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 2,
+      "away": "CHI",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401772835"
+      },
+      "kickoff": "2025-09-14T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "aW1zg-Tcyl4",
+        "title": "Chicago Bears vs. Detroit Lions Game Highlights | NFL 2025 Season Week 2",
+        "published_at": "2025-09-14T20:50:14Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 2,
+      "away": "NE",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401772728"
+      },
+      "kickoff": "2025-09-14T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "QyifYrph9C8",
+        "title": "New England Patriots vs Miami Dolphins Game Highlights | 2025 NFL Season Week 2",
+        "published_at": "2025-09-14T20:34:50Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 2,
+      "away": "SF",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401772833"
+      },
+      "kickoff": "2025-09-14T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "dyx_u1kpxZ8",
+        "title": "San Francisco 49ers vs New Orleans Saints Game Highlights | 2025 NFL Season Week 2",
+        "published_at": "2025-09-14T20:33:34Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 2,
+      "away": "BUF",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401772727"
+      },
+      "kickoff": "2025-09-14T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "VUUAjfWorNc",
+        "title": "Buffalo Bills vs. New York Jets Game Highlights | NFL 2025 Season Week 2",
+        "published_at": "2025-09-14T20:45:30Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 2,
+      "away": "SEA",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401772836"
+      },
+      "kickoff": "2025-09-14T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "G7czUbqPRTY",
+        "title": "Seattle Seahawks vs. Pittsburgh Steelers Game Highlights | 2025 NFL Season Week 2",
+        "published_at": "2025-09-14T20:12:29Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 2,
+      "away": "LAR",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401772724"
+      },
+      "kickoff": "2025-09-14T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "H9Y_UXyCfPU",
+        "title": "Los Angeles Rams vs. Tennessee Titans Game Highlights | 2025 NFL Season Week 2",
+        "published_at": "2025-09-14T20:23:16Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 2,
+      "away": "CAR",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401772730"
+      },
+      "kickoff": "2025-09-14T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "qWo7PLy9Oec",
+        "title": "Carolina Panthers vs. Arizona Cardinals Game Highlights | NFL 2025 Season Week 2",
+        "published_at": "2025-09-14T23:35:39Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 2,
+      "away": "DEN",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401772729"
+      },
+      "kickoff": "2025-09-14T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "jg7x-tlBJrs",
+        "title": "Denver Broncos vs. Indianapolis Colts Game Highlights | 2025 NFL Season Week 2",
+        "published_at": "2025-09-14T23:26:28Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 2,
+      "away": "PHI",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401772837"
+      },
+      "kickoff": "2025-09-14T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "8uD8dx3QNKs",
+        "title": "Philadelphia Eagles vs Kansas City Chiefs Game Highlights | 2025 NFL Season Week 2",
+        "published_at": "2025-09-14T23:48:34Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 2,
+      "away": "ATL",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401772919"
+      },
+      "kickoff": "2025-09-15T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ZpyQ5pbD3l4",
+        "title": "Atlanta Falcons vs Minnesota Vikings Game Highlights | 2025 NFL Season Week 2",
+        "published_at": "2025-09-15T03:38:56Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 2,
+      "away": "TB",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401772715"
+      },
+      "kickoff": "2025-09-15T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "1ofAzraImBY",
+        "title": "Tampa Bay Buccaneers vs Houston Texans Game Highlights | 2025 NFL Season Week 2",
+        "published_at": "2025-09-16T02:25:31Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 2,
+      "away": "LAC",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401772811"
+      },
+      "kickoff": "2025-09-16T02:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "k6AvlPV-iTE",
+        "title": "Los Angeles Chargers vs Las Vegas Raiders Game Highlights | 2025 NFL Season Week 2",
+        "published_at": "2025-09-16T05:25:14Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 3,
+      "away": "MIA",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401772937"
+      },
+      "kickoff": "2025-09-19T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ctvBmmLkC1k",
+        "title": "Miami Dolphins vs Buffalo Bills Game Highlights | 2025 NFL Season Week 3",
+        "published_at": "2025-09-19T03:58:47Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 3,
+      "away": "ATL",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401772838"
+      },
+      "kickoff": "2025-09-21T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "h6bi8oqivbM",
+        "title": "Atlanta Falcons vs. Carolina Panthers Game Highlights | 2025 NFL Season Week 3",
+        "published_at": "2025-09-21T20:23:11Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 3,
+      "away": "GB",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401772842"
+      },
+      "kickoff": "2025-09-21T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "1wAczDitXXQ",
+        "title": "Green Bay Packers vs. Cleveland Browns Game Highlights | 2025 NFL Season Week 3",
+        "published_at": "2025-09-21T20:26:48Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 3,
+      "away": "HOU",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401772734"
+      },
+      "kickoff": "2025-09-21T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "aGD_0STyYsU",
+        "title": "Houston Texans vs. Jacksonville Jaguars Game Highlights | NFL 2025 Season Week 3",
+        "published_at": "2025-09-21T20:32:32Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 3,
+      "away": "CIN",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401772731"
+      },
+      "kickoff": "2025-09-21T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "lj6E2hGLqFY",
+        "title": "Cincinnati Bengals vs. Minnesota Vikings Game Highlights | NFL 2025 Season Week 3",
+        "published_at": "2025-09-21T20:40:39Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 3,
+      "away": "PIT",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401772732"
+      },
+      "kickoff": "2025-09-21T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "e30qv6NFUfQ",
+        "title": "Pittsburgh Steelers vs. New England Patriots Game Highlights | 2025 NFL Season Week 3",
+        "published_at": "2025-09-21T20:15:59Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 3,
+      "away": "LAR",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401772839"
+      },
+      "kickoff": "2025-09-21T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "RcCnFxPhfd0",
+        "title": "Los Angeles Rams vs Philadelphia Eagles Game Highlights | 2025 NFL Season Week 3",
+        "published_at": "2025-09-21T20:45:24Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 3,
+      "away": "NYJ",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401772840"
+      },
+      "kickoff": "2025-09-21T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "wKmY55D24hA",
+        "title": "New York Jets vs Tampa Bay Buccaneers Game Highlights | 2025 NFL Season Week 3",
+        "published_at": "2025-09-21T20:43:48Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 3,
+      "away": "IND",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401772733"
+      },
+      "kickoff": "2025-09-21T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "lm3VaoeYVb4",
+        "title": "Indianapolis Colts vs. Tennessee Titans Game Highlights | NFL 2025 Season Week 3",
+        "published_at": "2025-09-21T20:23:25Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 3,
+      "away": "LV",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401772841"
+      },
+      "kickoff": "2025-09-21T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "PoLuodFmYCs",
+        "title": "Las Vegas Raiders vs Washington Commanders Game Highlights | 2025 NFL Season Week 3",
+        "published_at": "2025-09-21T20:45:43Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 3,
+      "away": "DEN",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401772735"
+      },
+      "kickoff": "2025-09-21T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "hvYB3_22q6E",
+        "title": "Denver Broncos vs. Los Angeles Chargers Game Highlights | 2025 NFL Season Week 3",
+        "published_at": "2025-09-21T23:29:35Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 3,
+      "away": "NO",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401772736"
+      },
+      "kickoff": "2025-09-21T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "FktDydo70eY",
+        "title": "New Orleans Saints vs Seattle Seahawks Game Highlights | 2025 NFL Season Week 3",
+        "published_at": "2025-09-21T23:18:20Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 3,
+      "away": "DAL",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401772844"
+      },
+      "kickoff": "2025-09-21T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "if1afRCR1jI",
+        "title": "Dallas Cowboys vs. Chicago Bears Game Highlights | NFL 2025 Season Week 3",
+        "published_at": "2025-09-21T23:45:45Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 3,
+      "away": "ARI",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401772843"
+      },
+      "kickoff": "2025-09-21T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "vpdgrfZgzic",
+        "title": "Arizona Cardinals vs San Francisco 49ers Game Highlights | 2025 NFL Season Week 3",
+        "published_at": "2025-09-21T23:44:05Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 3,
+      "away": "KC",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401772920"
+      },
+      "kickoff": "2025-09-22T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ycbdrx_jcI4",
+        "title": "Kansas City Chiefs vs New York Giants Game Highlights | 2025 NFL Season Week 3",
+        "published_at": "2025-09-22T03:51:53Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 3,
+      "away": "DET",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401772812"
+      },
+      "kickoff": "2025-09-23T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "GvxiIvq9kWQ",
+        "title": "Detroit Lions vs Baltimore Ravens Game Highlights | 2025 NFL Season Week 3",
+        "published_at": "2025-09-23T03:50:06Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 4,
+      "away": "SEA",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401772938"
+      },
+      "kickoff": "2025-09-26T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "caqxkOKPE2U",
+        "title": "Seattle Seahawks vs Arizona Cardinals Game Highlights | 2025 NFL Season Week 4",
+        "published_at": "2025-09-26T03:42:33Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 4,
+      "away": "MIN",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401772632"
+      },
+      "kickoff": "2025-09-28T13:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "3rmFasEWP7w",
+        "title": "Minnesota Vikings vs. Pittsburgh Steelers Game Highlights | 2025 NFL Season Week 4",
+        "published_at": "2025-09-28T17:05:11Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 4,
+      "away": "WSH",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401772739"
+      },
+      "kickoff": "2025-09-28T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ov_-rhHIA9Y",
+        "title": "Washington Commanders vs Atlanta Falcons Game Highlights | 2025 NFL Season Week 4",
+        "published_at": "2025-09-28T20:19:11Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 4,
+      "away": "NO",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401772740"
+      },
+      "kickoff": "2025-09-28T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "jxZLukUcBDM",
+        "title": "New Orleans Saints vs. Buffalo Bills Game Highlights | NFL 2025 Season Week 4",
+        "published_at": "2025-09-28T20:34:44Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 4,
+      "away": "CLE",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401772846"
+      },
+      "kickoff": "2025-09-28T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "BX0It_jGRRE",
+        "title": "Cleveland Browns vs Detroit Lions Game Highlights | 2025 NFL Season Week 4",
+        "published_at": "2025-09-28T20:26:48Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 4,
+      "away": "TEN",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401772738"
+      },
+      "kickoff": "2025-09-28T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "1VFwG4rpW1w",
+        "title": "Tennessee Titans vs Houston Texans Game Highlights | NFL 2025 Season Week 4",
+        "published_at": "2025-09-28T20:55:41Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 4,
+      "away": "CAR",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401772847"
+      },
+      "kickoff": "2025-09-28T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "D3L0b2fnG_I",
+        "title": "Carolina Panthers vs. New England Patriots Game Highlights | 2025 NFL Season Week 4",
+        "published_at": "2025-09-28T20:13:32Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 4,
+      "away": "LAC",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401772737"
+      },
+      "kickoff": "2025-09-28T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Q49Cc6-oq7A",
+        "title": "Los Angeles Chargers vs. New York Giants Game Highlights | 2025 NFL Season Week 4",
+        "published_at": "2025-09-28T20:33:28Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 4,
+      "away": "PHI",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401772845"
+      },
+      "kickoff": "2025-09-28T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "h1cMOfWEORQ",
+        "title": "Philadelphia Eagles vs. Tampa Bay Buccaneers Game Highlights | NFL 2025 Season Week 4",
+        "published_at": "2025-09-28T20:47:19Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 4,
+      "away": "IND",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401772849"
+      },
+      "kickoff": "2025-09-28T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "vzayR9hfyJg",
+        "title": "Indianapolis Colts vs. Los Angeles Rams Game Highlights | NFL 2025 Season Week 4",
+        "published_at": "2025-09-28T23:31:35Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 4,
+      "away": "JAX",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401772848"
+      },
+      "kickoff": "2025-09-28T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "mlRYWh8ZP8M",
+        "title": "Jacksonville Jaguars vs. San Francisco 49ers Game Highlights | NFL 2025 Season Week 4",
+        "published_at": "2025-09-28T23:38:12Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 4,
+      "away": "BAL",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401772741"
+      },
+      "kickoff": "2025-09-28T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "wf5W_2rnUbE",
+        "title": "Baltimore Ravens vs Kansas City Chiefs Game Highlights | 2025 NFL Season Week 4",
+        "published_at": "2025-09-28T23:41:01Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 4,
+      "away": "CHI",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401772742"
+      },
+      "kickoff": "2025-09-28T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "icsmIIiWSvI",
+        "title": "Chicago Bears vs Las Vegas Raiders Game Highlights | 2025 NFL Season Week 4",
+        "published_at": "2025-09-28T23:59:31Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 4,
+      "away": "GB",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401772921"
+      },
+      "kickoff": "2025-09-29T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "mqkUVYxEfGU",
+        "title": "Green Bay Packers vs Dallas Cowboys Game Highlights | 2025 NFL Season Week 4",
+        "published_at": "2025-09-29T04:31:40Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 4,
+      "away": "NYJ",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401772813"
+      },
+      "kickoff": "2025-09-29T23:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "D7cq6Z0Qags",
+        "title": "New York Jets vs Miami Dolphins Game Highlights | 2025 NFL Season Week 4",
+        "published_at": "2025-09-30T02:48:39Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 4,
+      "away": "CIN",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401772716"
+      },
+      "kickoff": "2025-09-30T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "IU7Pn5UwAFo",
+        "title": "Cincinnati Bengals vs Denver Broncos Game Highlights | 2025 NFL Season Week 4",
+        "published_at": "2025-09-30T03:42:22Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 5,
+      "away": "SF",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401772939"
+      },
+      "kickoff": "2025-10-03T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "qAGOfj2mlrc",
+        "title": "San Francisco 49ers vs Los Angeles Rams Game Highlights | 2025 NFL Season Week 5",
+        "published_at": "2025-10-03T04:12:38Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 5,
+      "away": "MIN",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401772633"
+      },
+      "kickoff": "2025-10-05T13:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "3oGeyfiLGig",
+        "title": "Minnesota Vikings vs. Cleveland Browns Game Highlights | 2025 NFL Season Week 5",
+        "published_at": "2025-10-05T16:55:27Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 5,
+      "away": "HOU",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401772743"
+      },
+      "kickoff": "2025-10-05T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Zb2580LNEAI",
+        "title": "Houston Texans vs. Baltimore Ravens Game Highlights | NFL 2025 Season Week 5",
+        "published_at": "2025-10-05T20:13:42Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 5,
+      "away": "MIA",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401772852"
+      },
+      "kickoff": "2025-10-05T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "J-4OdZqfyu0",
+        "title": "Miami Dolphins vs. Carolina Panthers Game Highlights | NFL 2025 Season Week 5",
+        "published_at": "2025-10-05T20:24:29Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 5,
+      "away": "LV",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401772851"
+      },
+      "kickoff": "2025-10-05T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "NsCq6D8VyOE",
+        "title": "Las Vegas Raiders vs Indianapolis Colts Game Highlights | 2025 NFL Season Week 5",
+        "published_at": "2025-10-05T20:17:09Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 5,
+      "away": "NYG",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401772744"
+      },
+      "kickoff": "2025-10-05T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "lFNwnfAa4BE",
+        "title": "New York Giants vs New Orleans Saints Game Highlights | 2025 NFL Season Week 5",
+        "published_at": "2025-10-05T20:26:59Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 5,
+      "away": "DAL",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401772850"
+      },
+      "kickoff": "2025-10-05T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "N3p7_XIHM8g",
+        "title": "Dallas Cowboys vs. New York Jets Game Highlights | NFL 2025 Season Week 5",
+        "published_at": "2025-10-05T20:31:11Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 5,
+      "away": "DEN",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401772745"
+      },
+      "kickoff": "2025-10-05T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "_5VBE0pbjNw",
+        "title": "Denver Broncos vs Philadelphia Eagles Game Highlights | 2025 NFL Season Week 5",
+        "published_at": "2025-10-05T20:36:55Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 5,
+      "away": "TEN",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401772747"
+      },
+      "kickoff": "2025-10-05T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "oZtE7EBhaH0",
+        "title": "Tennessee Titans vs Arizona Cardinals Game Highlights | 2025 NFL Season Week 5",
+        "published_at": "2025-10-05T23:37:55Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 5,
+      "away": "TB",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401772746"
+      },
+      "kickoff": "2025-10-05T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "kZhh1z967Sc",
+        "title": "Tampa Bay Buccaneers vs. Seattle Seahawks Game Highlights | NFL 2025 Season Week 5",
+        "published_at": "2025-10-05T23:15:55Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 5,
+      "away": "DET",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401772854"
+      },
+      "kickoff": "2025-10-05T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ZFRXqbdrtuU",
+        "title": "Detroit Lions vs. Cincinnati Bengals Game Highlights | NFL 2025 Season Week 5",
+        "published_at": "2025-10-05T23:43:14Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 5,
+      "away": "WSH",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401772853"
+      },
+      "kickoff": "2025-10-05T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "xorIPpiVxZo",
+        "title": "Washington Commanders vs Los Angeles Chargers Game Highlights | 2025 NFL Season Week 5",
+        "published_at": "2025-10-05T23:38:21Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 5,
+      "away": "NE",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401772922"
+      },
+      "kickoff": "2025-10-06T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "hFfx8yGw34Q",
+        "title": "New England Patriots vs Buffalo Bills Game Highlights | 2025 NFL Season Week 5",
+        "published_at": "2025-10-06T03:48:57Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 5,
+      "away": "KC",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401772814"
+      },
+      "kickoff": "2025-10-07T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "D5_xwX_jxB0",
+        "title": "Kansas City Chiefs vs Jacksonville Jaguars Game Highlights | 2025 NFL Season Week 5",
+        "published_at": "2025-10-07T03:36:34Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 6,
+      "away": "PHI",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401772940"
+      },
+      "kickoff": "2025-10-10T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "JFa_uhVkpio",
+        "title": "Philadelphia Eagles vs New York Giants Game Highlights | 2025 NFL Season Week 6",
+        "published_at": "2025-10-10T03:40:39Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 6,
+      "away": "DEN",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401772634"
+      },
+      "kickoff": "2025-10-12T13:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "QFkJ-SVHmis",
+        "title": "Denver Broncos vs. New York Jets Game Highlights | 2025 NFL Season Week 6",
+        "published_at": "2025-10-12T16:50:29Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 6,
+      "away": "LAR",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401772855"
+      },
+      "kickoff": "2025-10-12T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "2MAidsTY9Y4",
+        "title": "Los Angeles Rams vs. Baltimore Ravens Game Highlights | 2025 NFL Season Week 6",
+        "published_at": "2025-10-12T20:05:13Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 6,
+      "away": "DAL",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401772858"
+      },
+      "kickoff": "2025-10-12T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "2fsbhcaroA4",
+        "title": "Dallas Cowboys vs. Carolina Panthers Game Highlights | NFL 2025 Season Week 6",
+        "published_at": "2025-10-12T20:24:19Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 6,
+      "away": "ARI",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401772856"
+      },
+      "kickoff": "2025-10-12T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "fUY2Bc7wNLs",
+        "title": "Arizona Cardinals vs. Indianapolis Colts Game Highlights | NFL 2025 Season Week 6",
+        "published_at": "2025-10-12T20:22:15Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 6,
+      "away": "SEA",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401772857"
+      },
+      "kickoff": "2025-10-12T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "JAHn4zamXsg",
+        "title": "Seattle Seahawks vs Jacksonville Jaguars Game Highlights | 2025 NFL Season Week 6",
+        "published_at": "2025-10-12T20:28:19Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 6,
+      "away": "LAC",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401772750"
+      },
+      "kickoff": "2025-10-12T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "hJtkfGVMomY",
+        "title": "Los Angeles Chargers vs Miami Dolphins Game Highlights | 2025 NFL Season Week 6",
+        "published_at": "2025-10-12T20:28:21Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 6,
+      "away": "NE",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401772751"
+      },
+      "kickoff": "2025-10-12T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "qpkFmUYCc9U",
+        "title": "New England Patriots vs New Orleans Saints Game Highlights | 2025 NFL Season Week 6",
+        "published_at": "2025-10-12T20:28:16Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 6,
+      "away": "CLE",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401772748"
+      },
+      "kickoff": "2025-10-12T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Hvp9yr4DWAo",
+        "title": "Cleveland Browns vs. Pittsburgh Steelers Game Highlights | 2025 NFL Season Week 6",
+        "published_at": "2025-10-12T20:37:55Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 6,
+      "away": "TEN",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401772859"
+      },
+      "kickoff": "2025-10-12T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "oR8z_F0mugM",
+        "title": "Tennessee Titans vs. Las Vegas Raiders Game Highlights | NFL 2025 Season Week 6",
+        "published_at": "2025-10-12T23:11:41Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 6,
+      "away": "CIN",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401772752"
+      },
+      "kickoff": "2025-10-12T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "1Y50O2YexQw",
+        "title": "Cincinnati Bengals vs Green Bay Packers Game Highlights | 2025 NFL Season Week 6",
+        "published_at": "2025-10-12T23:44:01Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 6,
+      "away": "SF",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401772749"
+      },
+      "kickoff": "2025-10-12T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Q4aACzre6rw",
+        "title": "San Francisco 49ers vs. Tampa Bay Buccaneers Game Highlights | NFL 2025 Season Week 6",
+        "published_at": "2025-10-12T23:35:48Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 6,
+      "away": "DET",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401772923"
+      },
+      "kickoff": "2025-10-13T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "lFc9UFUBBZY",
+        "title": "Detroit Lions vs Kansas City Chiefs Game Highlights | 2025 NFL Season Week 6",
+        "published_at": "2025-10-13T03:28:47Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 6,
+      "away": "BUF",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401772815"
+      },
+      "kickoff": "2025-10-13T23:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "7igpt0dW1Uw",
+        "title": "Buffalo Bills vs Atlanta Falcons Game Highlights | 2025 NFL Season Week 6",
+        "published_at": "2025-10-14T02:46:36Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 6,
+      "away": "CHI",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401772717"
+      },
+      "kickoff": "2025-10-14T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "IzjvQG8HtWc",
+        "title": "Chicago Bears vs Washington Commanders Game Highlights | 2025 NFL Season Week 6",
+        "published_at": "2025-10-14T03:46:58Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 7,
+      "away": "PIT",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401772941"
+      },
+      "kickoff": "2025-10-17T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "iI_9-1w3Ykk",
+        "title": "Pittsburgh Steelers vs Cincinnati Bengals Game Highlights | 2025 NFL Season Week 7",
+        "published_at": "2025-10-17T03:45:08Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 7,
+      "away": "LAR",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401772635"
+      },
+      "kickoff": "2025-10-19T13:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "DVQ4mYEG2GA",
+        "title": "Los Angeles Rams vs. Jacksonville Jaguars Game Highlights | 2025 NFL Season Week 7",
+        "published_at": "2025-10-19T17:05:49Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 7,
+      "away": "NO",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401772861"
+      },
+      "kickoff": "2025-10-19T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ZW_jFEd4njk",
+        "title": "New Orleans Saints vs Chicago Bears Game Highlights | 2025 NFL Season Week 7",
+        "published_at": "2025-10-19T20:21:28Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 7,
+      "away": "MIA",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401772754"
+      },
+      "kickoff": "2025-10-19T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "EhTcntRN7Iw",
+        "title": "Miami Dolphins vs Cleveland Browns Game Highlights | 2025 NFL Season Week 7",
+        "published_at": "2025-10-19T20:18:05Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 7,
+      "away": "LV",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401772753"
+      },
+      "kickoff": "2025-10-19T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "QLb-PBptY3Q",
+        "title": "Las Vegas Raiders vs. Kansas City Chiefs Game Highlights | NFL 2025 Season Week 7",
+        "published_at": "2025-10-19T20:07:41Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 7,
+      "away": "PHI",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401772862"
+      },
+      "kickoff": "2025-10-19T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "t7fA78qswDY",
+        "title": "Philadelphia Eagles vs. Minnesota Vikings Game Highlights | NFL 2025 Season Week 7",
+        "published_at": "2025-10-19T20:23:11Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 7,
+      "away": "CAR",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401772860"
+      },
+      "kickoff": "2025-10-19T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "MCKYBulNq2Q",
+        "title": "Carolina Panthers vs. New York Jets Game Highlights | NFL 2025 Season Week 7",
+        "published_at": "2025-10-19T20:51:09Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 7,
+      "away": "NE",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401772755"
+      },
+      "kickoff": "2025-10-19T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "VcZ1vvhsmKs",
+        "title": "New England Patriots vs Tennessee Titans Game Highlights | 2025 NFL Season Week 7",
+        "published_at": "2025-10-19T20:16:28Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 7,
+      "away": "NYG",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401772757"
+      },
+      "kickoff": "2025-10-19T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "z0mBfBAfyJk",
+        "title": "New York Giants vs Denver Broncos Game Highlights | 2025 NFL Season Week 7",
+        "published_at": "2025-10-20T00:08:34Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 7,
+      "away": "IND",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401772756"
+      },
+      "kickoff": "2025-10-19T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "R3LlV9uf3jI",
+        "title": "Indianapolis Colts vs. Los Angeles Chargers Game Highlights | NFL 2025 Season Week 7",
+        "published_at": "2025-10-19T23:31:37Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 7,
+      "away": "GB",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401772863"
+      },
+      "kickoff": "2025-10-19T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "jH9iu9YgV1w",
+        "title": "Green Bay Packers vs. Arizona Cardinals Game Highlights | NFL 2025 Season Week 7",
+        "published_at": "2025-10-19T23:48:07Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 7,
+      "away": "WSH",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401772864"
+      },
+      "kickoff": "2025-10-19T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "S7Tme5vv0z0",
+        "title": "Washington Commanders vs Dallas Cowboys Game Highlights | 2025 NFL Season Week 7",
+        "published_at": "2025-10-20T00:02:49Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 7,
+      "away": "ATL",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401772924"
+      },
+      "kickoff": "2025-10-20T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "_Y4Ud54FZ4s",
+        "title": "Atlanta Falcons vs San Francisco 49ers Game Highlights | 2025 NFL Season Week 7",
+        "published_at": "2025-10-20T03:40:11Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 7,
+      "away": "TB",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401772816"
+      },
+      "kickoff": "2025-10-20T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "185gWzzqUJg",
+        "title": "Tampa Bay Buccaneers vs Detroit Lions Game Highlights | 2025 NFL Season Week 7",
+        "published_at": "2025-10-21T02:43:01Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 7,
+      "away": "HOU",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401772826"
+      },
+      "kickoff": "2025-10-21T02:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "G1BFXoa6IhI",
+        "title": "Houston Texans vs Seattle Seahawks Game Highlights | 2025 NFL Season Week 7",
+        "published_at": "2025-10-21T05:54:03Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 8,
+      "away": "MIN",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401772942"
+      },
+      "kickoff": "2025-10-24T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "8POp-CJdSuE",
+        "title": "Minnesota Vikings vs Los Angeles Chargers Game Highlights | 2025 NFL Season Week 8",
+        "published_at": "2025-10-24T03:36:51Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 8,
+      "away": "MIA",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401772760"
+      },
+      "kickoff": "2025-10-26T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "pBXaTJz3SSs",
+        "title": "Miami Dolphins vs. Atlanta Falcons Game Highlights | NFL 2025 Season Week 8",
+        "published_at": "2025-10-26T20:53:39Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 8,
+      "away": "CHI",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401772759"
+      },
+      "kickoff": "2025-10-26T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "B59hsVJlsng",
+        "title": "Chicago Bears vs Baltimore Ravens Game Highlights | 2025 NFL Season Week 8",
+        "published_at": "2025-10-26T20:29:39Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 8,
+      "away": "BUF",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401772865"
+      },
+      "kickoff": "2025-10-26T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "wuJGt_Z81sI",
+        "title": "Buffalo Bills vs. Carolina Panthers Game Highlights | NFL 2025 Season Week 8",
+        "published_at": "2025-10-26T20:48:53Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 8,
+      "away": "NYJ",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401772758"
+      },
+      "kickoff": "2025-10-26T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "HT4U6-XmEOw",
+        "title": "New York Jets vs. Cincinnati Bengals Game Highlights | NFL 2025 Season Week 8",
+        "published_at": "2025-10-26T21:04:47Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 8,
+      "away": "SF",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401772866"
+      },
+      "kickoff": "2025-10-26T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "l4b_r1WqIi0",
+        "title": "San Francisco 49ers vs Houston Texans Game Highlights | 2025 NFL Season Week 8",
+        "published_at": "2025-10-26T20:27:00Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 8,
+      "away": "CLE",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401772868"
+      },
+      "kickoff": "2025-10-26T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "kOpqrkR6tnw",
+        "title": "Cleveland Browns vs. New England Patriots Game Highlights | NFL 2025 Season Week 8",
+        "published_at": "2025-10-26T20:58:25Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 8,
+      "away": "NYG",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401772867"
+      },
+      "kickoff": "2025-10-26T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "bfeNzEgvbQg",
+        "title": "New York Giants vs Philadelphia Eagles Game Highlights | 2025 NFL Season Week 8",
+        "published_at": "2025-10-26T20:25:17Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 8,
+      "away": "TB",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401772869"
+      },
+      "kickoff": "2025-10-26T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "0gkuvC3Icoc",
+        "title": "Tampa Bay Buccaneers vs. New Orleans Saints Game Highlights | NFL 2025 Season Week 8",
+        "published_at": "2025-10-26T23:18:01Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 8,
+      "away": "DAL",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401772762"
+      },
+      "kickoff": "2025-10-26T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "sK4IflyyvYw",
+        "title": "Dallas Cowboys vs Denver Broncos Game Highlights | 2025 NFL Season Week 8",
+        "published_at": "2025-10-26T23:49:36Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 8,
+      "away": "TEN",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401772761"
+      },
+      "kickoff": "2025-10-26T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "hhGFtm3jp4M",
+        "title": "Tennessee Titans vs. Indianapolis Colts Game Highlights | NFL 2025 Season Week 8",
+        "published_at": "2025-10-26T23:38:10Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 8,
+      "away": "GB",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401772925"
+      },
+      "kickoff": "2025-10-27T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "M8DrSiTBbd0",
+        "title": "Green Bay Packers vs Pittsburgh Steelers Game Highlights | 2025 NFL Season Week 8",
+        "published_at": "2025-10-27T03:52:13Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 8,
+      "away": "WSH",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401772817"
+      },
+      "kickoff": "2025-10-28T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "UR64HGFbV4Q",
+        "title": "Washington Commanders vs Kansas City Chiefs Game Highlights | 2025 NFL Season Week 8",
+        "published_at": "2025-10-28T03:20:50Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 9,
+      "away": "BAL",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401772943"
+      },
+      "kickoff": "2025-10-31T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "G5US45dr0Ys",
+        "title": "Baltimore Ravens vs Miami Dolphins Game Highlights | 2025 NFL Season Week 9",
+        "published_at": "2025-10-31T03:30:04Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 9,
+      "away": "CHI",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401772765"
+      },
+      "kickoff": "2025-11-02T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "vH6ldlUzXGQ",
+        "title": "Chicago Bears vs Cincinnati Bengals Game Highlights | 2025 NFL Season Week 9",
+        "published_at": "2025-11-02T22:28:36Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 9,
+      "away": "MIN",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401772871"
+      },
+      "kickoff": "2025-11-02T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "_8lMIYOnZsE",
+        "title": "Minnesota Vikings vs. Detroit Lions Game Highlights | NFL 2025 Season Week 9",
+        "published_at": "2025-11-02T21:49:58Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 9,
+      "away": "CAR",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401772872"
+      },
+      "kickoff": "2025-11-02T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "dVxy7tMDVJE",
+        "title": "Carolina Panthers vs Green Bay Packers Game Highlights | 2025 NFL Season Week 9",
+        "published_at": "2025-11-02T21:18:44Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 9,
+      "away": "DEN",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401772870"
+      },
+      "kickoff": "2025-11-02T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "SsRnfOWIJOI",
+        "title": "Denver Broncos vs Houston Texans Game Highlights | 2025 NFL Season Week 9",
+        "published_at": "2025-11-02T21:50:43Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 9,
+      "away": "ATL",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401772763"
+      },
+      "kickoff": "2025-11-02T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "gLt6OqX5ssc",
+        "title": "Atlanta Falcons vs. New England Patriots Game Highlights | NFL 2025 Season Week 9",
+        "published_at": "2025-11-02T21:14:59Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 9,
+      "away": "SF",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401772767"
+      },
+      "kickoff": "2025-11-02T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "fNOBHepcJ4k",
+        "title": "San Francisco 49ers vs. New York Giants Game Highlights | NFL 2025 Season Week 9",
+        "published_at": "2025-11-02T21:20:49Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 9,
+      "away": "IND",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401772766"
+      },
+      "kickoff": "2025-11-02T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "l6ly2Wh6cOk",
+        "title": "Indianapolis Colts vs. Pittsburgh Steelers Game Highlights | NFL 2025 Season Week 9",
+        "published_at": "2025-11-02T21:37:48Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 9,
+      "away": "LAC",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401772764"
+      },
+      "kickoff": "2025-11-02T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Pqv00t2zyQ8",
+        "title": "Los Angeles Chargers vs. Tennessee Titans Game Highlights | NFL 2025 Season Week 9",
+        "published_at": "2025-11-02T21:16:21Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 9,
+      "away": "NO",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401772874"
+      },
+      "kickoff": "2025-11-02T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "YZEmuzr-u7o",
+        "title": "New Orleans Saints vs. Los Angeles Rams Game Highlights | NFL 2025 Season Week 9",
+        "published_at": "2025-11-03T00:09:36Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 9,
+      "away": "JAX",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401772873"
+      },
+      "kickoff": "2025-11-02T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "FJuTqHeUm7k",
+        "title": "Jacksonville Jaguars vs. Las Vegas Raiders Game Highlights | NFL 2025 Season Week 9",
+        "published_at": "2025-11-03T00:51:34Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 9,
+      "away": "KC",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401772768"
+      },
+      "kickoff": "2025-11-02T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "G9SIgQo88zg",
+        "title": "Kansas City Chiefs vs Buffalo Bills Game Highlights | 2025 NFL Season Week 9",
+        "published_at": "2025-11-03T00:46:20Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 9,
+      "away": "SEA",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401772926"
+      },
+      "kickoff": "2025-11-03T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Qh9YqtFy23U",
+        "title": "Seattle Seahawks vs Washington Commanders Game Highlights | 2025 NFL Season Week 9",
+        "published_at": "2025-11-03T04:35:37Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 9,
+      "away": "ARI",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401772818"
+      },
+      "kickoff": "2025-11-04T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "qPIxiCn-gbU",
+        "title": "Arizona Cardinals vs Dallas Cowboys Game Highlights | 2025 NFL Season Week 9",
+        "published_at": "2025-11-04T04:36:14Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 10,
+      "away": "LV",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401772944"
+      },
+      "kickoff": "2025-11-07T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "scsrnqz3up8",
+        "title": "Las Vegas Raiders vs Denver Broncos Game Highlights | 2025 NFL Season Week 10",
+        "published_at": "2025-11-07T05:42:55Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 10,
+      "away": "ATL",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401772636"
+      },
+      "kickoff": "2025-11-09T14:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "uadWVqnESao",
+        "title": "Atlanta Falcons vs. Indianapolis Colts Game Highlights | 2025 NFL Season Week 10",
+        "published_at": "2025-11-09T18:16:30Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 10,
+      "away": "NO",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401772877"
+      },
+      "kickoff": "2025-11-09T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "RKBdvWIwXzk",
+        "title": "New Orleans Saints vs. Carolina Panthers Game Highlights | NFL 2025 Season Week 10",
+        "published_at": "2025-11-09T21:35:14Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 10,
+      "away": "NYG",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401772875"
+      },
+      "kickoff": "2025-11-09T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "CwKp7T2RrK8",
+        "title": "New York Giants vs Chicago Bears Game Highlights | 2025 NFL Season Week 10",
+        "published_at": "2025-11-09T21:35:06Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 10,
+      "away": "JAX",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401772770"
+      },
+      "kickoff": "2025-11-09T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "L3D2GLBCmlg",
+        "title": "Jacksonville Jaguars vs. Houston Texans Game Highlights | NFL 2025 Season Week 10",
+        "published_at": "2025-11-09T22:09:18Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 10,
+      "away": "BUF",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401772771"
+      },
+      "kickoff": "2025-11-09T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "F7LaFBcpJvM",
+        "title": "Buffalo Bills vs. Miami Dolphins Game Highlights | NFL 2025 Season Week 10",
+        "published_at": "2025-11-09T21:41:14Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 10,
+      "away": "BAL",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401772876"
+      },
+      "kickoff": "2025-11-09T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "TUe0TkQ2s9w",
+        "title": "Baltimore Ravens vs Minnesota Vikings Game Highlights | 2025 NFL Season Week 10",
+        "published_at": "2025-11-09T22:44:50Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 10,
+      "away": "CLE",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401772769"
+      },
+      "kickoff": "2025-11-09T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "qYU7B35HzlY",
+        "title": "Cleveland Browns vs New York Jets Game Highlights | 2025 NFL Season Week 10",
+        "published_at": "2025-11-09T21:35:09Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 10,
+      "away": "NE",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401772772"
+      },
+      "kickoff": "2025-11-09T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ci7Cm7yMIXk",
+        "title": "New England Patriots vs. Tampa Bay Buccaneers Game Highlights | NFL 2025 Season Week 10",
+        "published_at": "2025-11-09T21:50:17Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 10,
+      "away": "ARI",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401772773"
+      },
+      "kickoff": "2025-11-09T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "05SoxjT452Y",
+        "title": "Arizona Cardinals vs. Seattle Seahawks Game Highlights | NFL 2025 Season Week 10",
+        "published_at": "2025-11-10T00:45:44Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 10,
+      "away": "LAR",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401772879"
+      },
+      "kickoff": "2025-11-09T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "1Jf5TUu8jxk",
+        "title": "Los Angeles Rams vs. San Francisco 49ers Game Highlights | NFL 2025 Season Week 10",
+        "published_at": "2025-11-10T00:44:31Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 10,
+      "away": "DET",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401772878"
+      },
+      "kickoff": "2025-11-09T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "98dPbzrPSZg",
+        "title": "Detroit Lions vs Washington Commanders Game Highlights | 2025 NFL Season Week 10",
+        "published_at": "2025-11-10T00:41:08Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 10,
+      "away": "PIT",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401772927"
+      },
+      "kickoff": "2025-11-10T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "zqa7dJ2y6uw",
+        "title": "Pittsburgh Steelers vs Los Angeles Chargers Game Highlights | 2025 NFL Season Week 10",
+        "published_at": "2025-11-10T04:50:27Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 10,
+      "away": "PHI",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401772630"
+      },
+      "kickoff": "2025-11-11T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "HoRjRiUG70g",
+        "title": "Philadelphia Eagles vs Green Bay Packers Game Highlights | 2025 NFL Season Week 10",
+        "published_at": "2025-11-11T04:40:44Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 11,
+      "away": "NYJ",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401772945"
+      },
+      "kickoff": "2025-11-14T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "kC2lQT5NVqE",
+        "title": "New York Jets vs New England Patriots Game Highlights | 2025 NFL Season Week 11",
+        "published_at": "2025-11-14T04:25:51Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 11,
+      "away": "WSH",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401772631"
+      },
+      "kickoff": "2025-11-16T14:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "jS599TkCCLo",
+        "title": "Washington Commanders vs. Miami Dolphins Game Highlights | NFL 2025 Season Week 11",
+        "published_at": "2025-11-16T18:05:35Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 11,
+      "away": "CAR",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401772882"
+      },
+      "kickoff": "2025-11-16T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "FC0wZz4Kqnc",
+        "title": "Carolina Panthers vs Atlanta Falcons Game Highlights | 2025 NFL Season Week 11",
+        "published_at": "2025-11-16T22:21:40Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 11,
+      "away": "TB",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401772776"
+      },
+      "kickoff": "2025-11-16T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "CpxkriQh6DM",
+        "title": "Tampa Bay Buccaneers vs. Buffalo Bills Game Highlights | NFL 2025 Season Week 11",
+        "published_at": "2025-11-16T22:00:53Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 11,
+      "away": "LAC",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401772775"
+      },
+      "kickoff": "2025-11-16T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "9xCK05Ybkr8",
+        "title": "Los Angeles Chargers vs Jacksonville Jaguars Game Highlights | 2025 NFL Season Week 11",
+        "published_at": "2025-11-16T21:15:50Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 11,
+      "away": "CHI",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401772880"
+      },
+      "kickoff": "2025-11-16T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "8GiYddBueGM",
+        "title": "Chicago Bears vs Minnesota Vikings Game Highlights | 2025 NFL Season Week 11",
+        "published_at": "2025-11-16T21:28:36Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 11,
+      "away": "GB",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401772883"
+      },
+      "kickoff": "2025-11-16T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Mmk6_RPCojM",
+        "title": "Green Bay Packers vs. New York Giants Game Highlights | NFL 2025 Season Week 11",
+        "published_at": "2025-11-16T21:55:41Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 11,
+      "away": "CIN",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401772774"
+      },
+      "kickoff": "2025-11-16T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "lP9B3wtc1LA",
+        "title": "Cincinnati Bengals vs. Pittsburgh Steelers Game Highlights | NFL 2025 Season Week 11",
+        "published_at": "2025-11-16T21:49:39Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 11,
+      "away": "HOU",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401772881"
+      },
+      "kickoff": "2025-11-16T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "iXa3aVDOMc4",
+        "title": "Houston Texans vs. Tennessee Titans Game Highlights | NFL 2025 Season Week 11",
+        "published_at": "2025-11-16T21:41:42Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 11,
+      "away": "SF",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401772885"
+      },
+      "kickoff": "2025-11-16T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ws1_Hp5461c",
+        "title": "San Francisco 49ers vs Arizona Cardinals Game Highlights | 2025 NFL Season Week 11",
+        "published_at": "2025-11-17T00:57:15Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 11,
+      "away": "SEA",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401772884"
+      },
+      "kickoff": "2025-11-16T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "S0yqdJlujsw",
+        "title": "Seattle Seahawks vs. Los Angeles Rams Game Highlights | NFL 2025 Season Week 11",
+        "published_at": "2025-11-17T00:34:33Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 11,
+      "away": "BAL",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401772777"
+      },
+      "kickoff": "2025-11-16T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "9BJzqetFxRA",
+        "title": "Baltimore Ravens vs. Cleveland Browns Game Highlights | NFL 2025 Season Week 11",
+        "published_at": "2025-11-17T00:45:36Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 11,
+      "away": "KC",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401772778"
+      },
+      "kickoff": "2025-11-16T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "arvbLvX9doA",
+        "title": "Kansas City Chiefs vs Denver Broncos Game Highlights | 2025 NFL Season Week 11",
+        "published_at": "2025-11-17T00:58:58Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 11,
+      "away": "DET",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401772928"
+      },
+      "kickoff": "2025-11-17T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "etQWJzHuhes",
+        "title": "Detroit Lions vs Philadelphia Eagles Game Highlights | 2025 NFL Season Week 11",
+        "published_at": "2025-11-17T05:05:58Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 11,
+      "away": "DAL",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401772819"
+      },
+      "kickoff": "2025-11-18T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "DoL_JZkf78g",
+        "title": "Dallas Cowboys vs Las Vegas Raiders Game Highlights | 2025 NFL Season Week 11",
+        "published_at": "2025-11-18T04:34:46Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 12,
+      "away": "BUF",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401772946"
+      },
+      "kickoff": "2025-11-21T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "nwWQvs4NlJA",
+        "title": "Buffalo Bills vs Houston Texans Game Highlight | 2025 NFL Season Week 12",
+        "published_at": "2025-11-21T04:50:27Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 12,
+      "away": "NYJ",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401772782"
+      },
+      "kickoff": "2025-11-23T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "xDl9XJunYmI",
+        "title": "New York Jets vs. Baltimore Ravens Game Highlights | NFL 2025 Season Week 12",
+        "published_at": "2025-11-23T21:45:35Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 12,
+      "away": "PIT",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401772780"
+      },
+      "kickoff": "2025-11-23T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "AdkD15w412c",
+        "title": "Pittsburgh Steelers vs Chicago Bears Game Highlights | 2025 NFL Season Week 12",
+        "published_at": "2025-11-23T21:36:23Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 12,
+      "away": "NE",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401772781"
+      },
+      "kickoff": "2025-11-23T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "M0uCXBNCqMY",
+        "title": "New England Patriots vs. Cincinnati Bengals Game Highlights | NFL 2025 Season Week 12",
+        "published_at": "2025-11-23T21:53:02Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 12,
+      "away": "NYG",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401772888"
+      },
+      "kickoff": "2025-11-23T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "kpDHkAoui6Q",
+        "title": "New York Giants vs Detroit Lions Game Highlights | 2025 NFL Season Week 12",
+        "published_at": "2025-11-23T22:13:18Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 12,
+      "away": "MIN",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401772887"
+      },
+      "kickoff": "2025-11-23T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "QVd8fqohfb8",
+        "title": "Minnesota Vikings vs. Green Bay Packers Game Highlights | NFL 2025 Season Week 12",
+        "published_at": "2025-11-23T21:45:16Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 12,
+      "away": "IND",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401772779"
+      },
+      "kickoff": "2025-11-23T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "kc0tZrfKb1g",
+        "title": "Indianapolis Colts vs. Kansas City Chiefs Game Highlights | NFL 2025 Season Week 12",
+        "published_at": "2025-11-23T22:01:00Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 12,
+      "away": "SEA",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401772886"
+      },
+      "kickoff": "2025-11-23T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "1yv4nwVkkEM",
+        "title": "Seattle Seahawks vs Tennessee Titans Game Highlights | 2025 NFL Season Week 12",
+        "published_at": "2025-11-23T21:36:12Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 12,
+      "away": "JAX",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401772783"
+      },
+      "kickoff": "2025-11-23T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "4RGlPCmIQGk",
+        "title": "Jacksonville Jaguars vs Arizona Cardinals Game Highlights | 2025 NFL Season Week 12",
+        "published_at": "2025-11-24T01:18:26Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 12,
+      "away": "CLE",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401772784"
+      },
+      "kickoff": "2025-11-23T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ODSVj9l7MU4",
+        "title": "Cleveland Browns vs. Las Vegas Raiders Game Highlights | NFL 2025 Season Week 12",
+        "published_at": "2025-11-24T00:30:25Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 12,
+      "away": "PHI",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401772890"
+      },
+      "kickoff": "2025-11-23T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "_y4jOhn2FXA",
+        "title": "Philadelphia Eagles vs Dallas Cowboys Game Highlights | 2025 NFL Season Week 12",
+        "published_at": "2025-11-24T01:04:22Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 12,
+      "away": "ATL",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401772889"
+      },
+      "kickoff": "2025-11-23T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "yNcUT7pT9h4",
+        "title": "Atlanta Falcons vs. New Orleans Saints Game Highlights | NFL 2025 Season Week 12",
+        "published_at": "2025-11-24T00:48:50Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 12,
+      "away": "TB",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401772929"
+      },
+      "kickoff": "2025-11-24T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "m3RK7Qy2TCI",
+        "title": "Tampa Bay Buccaneers vs Los Angeles Rams Game Highlights | 2025 NFL Season Week 12",
+        "published_at": "2025-11-24T04:33:40Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 12,
+      "away": "CAR",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401772820"
+      },
+      "kickoff": "2025-11-25T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "M9LvzqtNvhw",
+        "title": "Carolina Panthers vs San Francisco 49ers Game Highlights | 2025 NFL Season Week 12",
+        "published_at": "2025-11-25T04:21:39Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 13,
+      "away": "GB",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401772891"
+      },
+      "kickoff": "2025-11-27T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "8fRps_hg45U",
+        "title": "Green Bay Packers vs. Detroit Lions Game Highlights | NFL 2025 Season Week 13",
+        "published_at": "2025-11-27T21:37:06Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 13,
+      "away": "KC",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401772694"
+      },
+      "kickoff": "2025-11-27T21:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "qLBGJPw-dSM",
+        "title": "Kansas City Chiefs vs Dallas Cowboys Thanksgiving Game Highlights | 2025 NFL Season Week 13",
+        "published_at": "2025-11-28T01:17:58Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 13,
+      "away": "CIN",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401772930"
+      },
+      "kickoff": "2025-11-28T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "j2Flfz0DGS8",
+        "title": "Cincinnati Bengals vs Baltimore Ravens Thanksgiving Game Highlights | 2025 NFL Season Week 13",
+        "published_at": "2025-11-28T05:00:57Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 13,
+      "away": "CHI",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401772621"
+      },
+      "kickoff": "2025-11-28T20:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "2OLNwdpjtHo",
+        "title": "Chicago Bears vs Philadelphia Eagles Game Highlights | 2025 NFL Season Week 13",
+        "published_at": "2025-11-28T23:23:20Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 13,
+      "away": "LAR",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401772894"
+      },
+      "kickoff": "2025-11-30T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "cCLBJcv6o4Q",
+        "title": "Los Angeles Rams vs Carolina Panthers Game Highlights | 2025 NFL Season Week 13",
+        "published_at": "2025-11-30T21:04:44Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 13,
+      "away": "SF",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401772785"
+      },
+      "kickoff": "2025-11-30T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "XXlcbpOLMNs",
+        "title": "San Francisco 49ers vs. Cleveland Browns Game Highlights | NFL 2025 Season Week 13",
+        "published_at": "2025-11-30T21:11:02Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 13,
+      "away": "HOU",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401772787"
+      },
+      "kickoff": "2025-11-30T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "hmBXJ0rf2zA",
+        "title": "Houston Texans vs Indianapolis Colts Game Highlights | 2025 NFL Season Week 13",
+        "published_at": "2025-11-30T21:19:15Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 13,
+      "away": "NO",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401772892"
+      },
+      "kickoff": "2025-11-30T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "HMM_LUGf6hQ",
+        "title": "New Orleans Saints vs. Miami Dolphins Game Highlights | NFL 2025 Season Week 13",
+        "published_at": "2025-11-30T21:35:34Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 13,
+      "away": "ATL",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401772893"
+      },
+      "kickoff": "2025-11-30T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ZyKCwYPSg_k",
+        "title": "Atlanta Falcons vs. New York Jets Game Highlights | NFL 2025 Season Week 13",
+        "published_at": "2025-11-30T21:34:35Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 13,
+      "away": "ARI",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401772895"
+      },
+      "kickoff": "2025-11-30T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "FckI37Gxv2o",
+        "title": "Arizona Cardinals vs Tampa Bay Buccaneers Game Highlights | 2025 NFL Season Week 13",
+        "published_at": "2025-12-01T01:20:45Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 13,
+      "away": "JAX",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401772786"
+      },
+      "kickoff": "2025-11-30T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "gUX5TBqpFGQ",
+        "title": "Jacksonville Jaguars vs. Tennessee Titans Game Highlights | NFL 2025 Season Week 13",
+        "published_at": "2025-11-30T21:36:44Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 13,
+      "away": "MIN",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401772896"
+      },
+      "kickoff": "2025-11-30T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "v9LzFS6G3Mk",
+        "title": "Minnesota Vikings vs. Seattle Seahawks Game Highlights | NFL 2025 Season Week 13",
+        "published_at": "2025-12-01T00:26:48Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 13,
+      "away": "LV",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401772788"
+      },
+      "kickoff": "2025-11-30T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "G0hb9RO3y8k",
+        "title": "Las Vegas Raiders vs. Los Angeles Chargers Game Highlights | NFL 2025 Season Week 13",
+        "published_at": "2025-12-01T00:41:49Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 13,
+      "away": "BUF",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401772789"
+      },
+      "kickoff": "2025-11-30T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "nOkuO7Yat90",
+        "title": "Buffalo Bills vs Pittsburgh Steelers Game Highlights | 2025 NFL Season Week 13",
+        "published_at": "2025-12-01T00:33:28Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 13,
+      "away": "DEN",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401772931"
+      },
+      "kickoff": "2025-12-01T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "QXL9KwJO2QI",
+        "title": "Denver Broncos vs Washington Commanders Game Highlights | 2025 NFL Season Week 13",
+        "published_at": "2025-12-01T05:23:56Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 13,
+      "away": "NYG",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401772821"
+      },
+      "kickoff": "2025-12-02T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "LRB3tIVTJnQ",
+        "title": "New York Giants vs New England Patriots Game Highlights | 2025 NFL Season Week 13",
+        "published_at": "2025-12-02T04:23:50Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 14,
+      "away": "DAL",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401772947"
+      },
+      "kickoff": "2025-12-05T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "UPPDFlXn2nY",
+        "title": "Dallas Cowboys vs Detroit Lions Game Highlights | 2025 NFL Season Week 14",
+        "published_at": "2025-12-05T04:57:45Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 14,
+      "away": "SEA",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401772900"
+      },
+      "kickoff": "2025-12-07T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "R7yx3CXm7lc",
+        "title": "Seattle Seahawks vs. Atlanta Falcons Game Highlights | NFL 2025 Season Week 14",
+        "published_at": "2025-12-07T21:28:17Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 14,
+      "away": "PIT",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401772791"
+      },
+      "kickoff": "2025-12-07T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "JP_PjBGIS_4",
+        "title": "Pittsburgh Steelers vs. Baltimore Ravens Game Highlights | NFL 2025 Season Week 14",
+        "published_at": "2025-12-07T22:25:22Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 14,
+      "away": "CIN",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401772902"
+      },
+      "kickoff": "2025-12-07T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "7n3i-a6pJtM",
+        "title": "Cincinnati Bengals vs Buffalo Bills Game Highlights | 2025 NFL Season Week 14",
+        "published_at": "2025-12-07T21:32:12Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 14,
+      "away": "TEN",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401772898"
+      },
+      "kickoff": "2025-12-07T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "C2bl9_EHKmM",
+        "title": "Tennessee Titans vs. Cleveland Browns Game Highlights | NFL 2025 Season Week 14",
+        "published_at": "2025-12-07T22:29:24Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 14,
+      "away": "IND",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401772793"
+      },
+      "kickoff": "2025-12-07T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "y6WTrDqAbNg",
+        "title": "Indianapolis Colts vs Jacksonville Jaguars Game Highlights | 2025 NFL Season Week 14",
+        "published_at": "2025-12-07T21:43:49Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 14,
+      "away": "WSH",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401772899"
+      },
+      "kickoff": "2025-12-07T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ZcHTS6J-yAc",
+        "title": "Washington Commanders vs Minnesota Vikings Game Highlights | 2025 NFL Season Week 14",
+        "published_at": "2025-12-07T21:08:14Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 14,
+      "away": "MIA",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401772790"
+      },
+      "kickoff": "2025-12-07T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "-1lsr_QL4ys",
+        "title": "Miami Dolphins vs New York Jets Game Highlights | 2025 NFL Season Week 14",
+        "published_at": "2025-12-07T21:35:24Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 14,
+      "away": "NO",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401772792"
+      },
+      "kickoff": "2025-12-07T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "5pYafomv7e8",
+        "title": "New Orleans Saints vs. Tampa Bay Buccaneers Game Highlights | NFL 2025 Season Week 14",
+        "published_at": "2025-12-07T22:22:24Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 14,
+      "away": "DEN",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401772794"
+      },
+      "kickoff": "2025-12-07T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "6xyeApLlPLI",
+        "title": "Denver Broncos vs Las Vegas Raiders Game Highlights | 2025 NFL Season Week 14",
+        "published_at": "2025-12-08T00:29:04Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 14,
+      "away": "LAR",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401772901"
+      },
+      "kickoff": "2025-12-07T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "su9x24PMG_Q",
+        "title": "Los Angeles Rams vs Arizona Cardinals Game Highlights | 2025 NFL Season Week 14",
+        "published_at": "2025-12-08T02:03:13Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 14,
+      "away": "CHI",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401772897"
+      },
+      "kickoff": "2025-12-07T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "iJhTIvl-jBg",
+        "title": "Chicago Bears vs. Green Bay Packers Game Highlights | NFL 2025 Season Week 14",
+        "published_at": "2025-12-08T00:44:05Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 14,
+      "away": "HOU",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401772932"
+      },
+      "kickoff": "2025-12-08T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "A3Ig_Hi0xxo",
+        "title": "Houston Texans vs Kansas City Chiefs Game Highlights | 2025 NFL Season Week 14",
+        "published_at": "2025-12-08T04:57:47Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 14,
+      "away": "PHI",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401772822"
+      },
+      "kickoff": "2025-12-09T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Mpj2TpaVo8o",
+        "title": "Philadelphia Eagles vs Los Angeles Chargers Game Highlights | 2025 NFL Season Week 14",
+        "published_at": "2025-12-09T05:22:10Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 15,
+      "away": "ATL",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401772948"
+      },
+      "kickoff": "2025-12-12T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "kurfb90PjzQ",
+        "title": "Atlanta Falcons vs Tampa Bay Buccaneers Game Highlights | 2025 NFL Season Week 15",
+        "published_at": "2025-12-12T05:12:03Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 15,
+      "away": "CLE",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401772904"
+      },
+      "kickoff": "2025-12-14T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "KJrhXGs4Ujk",
+        "title": "Cleveland Browns vs. Chicago Bears Game Highlights | NFL 2025 Season Week 15",
+        "published_at": "2025-12-14T22:02:38Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 15,
+      "away": "BAL",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401772796"
+      },
+      "kickoff": "2025-12-14T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "xFPgMdt1x8M",
+        "title": "Baltimore Ravens vs Cincinnati Bengals Game Highlights | 2025 NFL Season Week 15",
+        "published_at": "2025-12-14T21:38:11Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 15,
+      "away": "ARI",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401772903"
+      },
+      "kickoff": "2025-12-14T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "QP-Bv4DpVFQ",
+        "title": "Arizona Cardinals vs. Houston Texans Game Highlights | NFL 2025 Season Week 15",
+        "published_at": "2025-12-14T22:06:12Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 15,
+      "away": "NYJ",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401772797"
+      },
+      "kickoff": "2025-12-14T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "eFnDJFwKVEc",
+        "title": "New York Jets vs. Jacksonville Jaguars Game Highlights | NFL 2025 Season Week 15",
+        "published_at": "2025-12-14T21:53:37Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 15,
+      "away": "LAC",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401772798"
+      },
+      "kickoff": "2025-12-14T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "qInlDm6e1z8",
+        "title": "Los Angeles Chargers vs Kansa City Chiefs Game Highlights | 2025 NFL Season Week 15",
+        "published_at": "2025-12-14T21:46:28Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 15,
+      "away": "BUF",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401772795"
+      },
+      "kickoff": "2025-12-14T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ayjLNfBRZ1I",
+        "title": "Buffalo Bills vs. New England Patriots Game Highlights | NFL 2025 Season Week 15",
+        "published_at": "2025-12-14T22:11:29Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 15,
+      "away": "WSH",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401772905"
+      },
+      "kickoff": "2025-12-14T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "LLh0_OVltD8",
+        "title": "Washington Commanders vs New York Giant Game Highlights | 2025 NFL Season Week 15",
+        "published_at": "2025-12-14T21:35:26Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 15,
+      "away": "LV",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401772906"
+      },
+      "kickoff": "2025-12-14T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "GY6manhc2SU",
+        "title": "Las Vegas Raiders vs Philadelphia Eagles Game Highlights | 2025 NFL Season Week 15",
+        "published_at": "2025-12-14T20:58:17Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 15,
+      "away": "GB",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401772800"
+      },
+      "kickoff": "2025-12-14T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "94IRFmHRqyY",
+        "title": "Green Bay Packers vs. Denver Broncos Game Highlights | NFL 2025 Season Week 15",
+        "published_at": "2025-12-15T01:13:32Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 15,
+      "away": "DET",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401772909"
+      },
+      "kickoff": "2025-12-14T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "dQ3CdT2j8Fs",
+        "title": "Detroit Lions vs Los Angeles Rams Game Highlights | 2025 NFL Season Week 15",
+        "published_at": "2025-12-15T01:08:23Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 15,
+      "away": "CAR",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401772908"
+      },
+      "kickoff": "2025-12-14T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "4usWCOSrcv8",
+        "title": "Carolina Panthers vs New Orleans Saints Game Highlights | 2025 NFL Season Week 15",
+        "published_at": "2025-12-15T00:56:54Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 15,
+      "away": "IND",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401772799"
+      },
+      "kickoff": "2025-12-14T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Z7o2S7zgHF0",
+        "title": "Indianapolis Colts vs. Seattle Seahawks Game Highlights | NFL 2025 Season Week 15",
+        "published_at": "2025-12-15T01:08:50Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 15,
+      "away": "TEN",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401772907"
+      },
+      "kickoff": "2025-12-14T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Q2ek5rSech0",
+        "title": "Tennessee Titans vs. San Francisco 49ers Game Highlights | NFL 2025 Season Week 15",
+        "published_at": "2025-12-15T01:04:59Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 15,
+      "away": "MIN",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401772933"
+      },
+      "kickoff": "2025-12-15T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "XUfvXIgfgYI",
+        "title": "Minnesota Vikings vs Dallas Cowboys Game Highlights | 2025 NFL Season Week 15",
+        "published_at": "2025-12-15T04:51:10Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 15,
+      "away": "MIA",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401772823"
+      },
+      "kickoff": "2025-12-16T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "W5AG56GJKB0",
+        "title": "Miami Dolphins vs Pittsburgh Steelers Game Highlights | 2025 NFL Season Week 15",
+        "published_at": "2025-12-16T04:34:54Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 16,
+      "away": "LAR",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401772949"
+      },
+      "kickoff": "2025-12-19T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "m6y77P6KLzQ",
+        "title": "Los Angeles Rams vs Seattle Seahawks Game Highlights | 2025 NFL Season Week 16",
+        "published_at": "2025-12-19T05:10:39Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 16,
+      "away": "PHI",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401772612"
+      },
+      "kickoff": "2025-12-20T22:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "iE7A8jG-tN8",
+        "title": "Philadelphia Eagles vs Washington Commanders Game Highlights | 2025 NFL Season Week 16",
+        "published_at": "2025-12-21T01:20:31Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 16,
+      "away": "GB",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401772613"
+      },
+      "kickoff": "2025-12-21T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ngJ_4F4DaZ0",
+        "title": "Green Bay Packers vs Chicago Bears Game Highlights | 2025 NFL Season Week 16",
+        "published_at": "2025-12-21T04:52:38Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 16,
+      "away": "TB",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401772912"
+      },
+      "kickoff": "2025-12-21T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Jzpsm9zkCFg",
+        "title": "Tampa Bay Buccaneers vs Carolina Panthers Game Highlights | 2025 NFL Season Week 16",
+        "published_at": "2025-12-21T21:21:14Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 16,
+      "away": "BUF",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401772802"
+      },
+      "kickoff": "2025-12-21T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "aJNfBaKhus4",
+        "title": "Buffalo Bills vs. Cleveland Browns Game Highlights | NFL 2025 Season Week 16",
+        "published_at": "2025-12-21T21:17:03Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 16,
+      "away": "LAC",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401772910"
+      },
+      "kickoff": "2025-12-21T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "NYsSo-ZUdhY",
+        "title": "Los Angeles Chargers vs. Dallas Cowboys Game Highlights | NFL 2025 Season Week 16",
+        "published_at": "2025-12-21T21:40:07Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 16,
+      "away": "CIN",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401772934"
+      },
+      "kickoff": "2025-12-21T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "_U6tN-OlM0Y",
+        "title": "Cincinatti Bengals vs Miami Dolphins Game Highlights | 2025 NFL Season Week 16",
+        "published_at": "2025-12-21T21:19:06Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 16,
+      "away": "NYJ",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401772801"
+      },
+      "kickoff": "2025-12-21T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "5DAJ2R3Gd80",
+        "title": "New York Jets vs. New Orleans Saints Game Highlights | NFL 2025 Season Week 16",
+        "published_at": "2025-12-21T21:37:04Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 16,
+      "away": "MIN",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401772911"
+      },
+      "kickoff": "2025-12-21T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "TLg030DBz5s",
+        "title": "Minnesota Vikings vs. New York Giants Game Highlights | NFL 2025 Season Week 16",
+        "published_at": "2025-12-21T21:46:27Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 16,
+      "away": "KC",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401772803"
+      },
+      "kickoff": "2025-12-21T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "3aO3EgE3QGk",
+        "title": "Kansas City Chiefs vs Tennessee Titans Game Highlights | 2025 NFL Season Week 16",
+        "published_at": "2025-12-21T21:22:55Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 16,
+      "away": "ATL",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401772914"
+      },
+      "kickoff": "2025-12-21T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "hdPQv8WDFjA",
+        "title": "Atlanta Falcons vs Arizona Cardinals Game Highlights | 2025 NFL Season Week 16",
+        "published_at": "2025-12-22T00:38:44Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 16,
+      "away": "JAX",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401772913"
+      },
+      "kickoff": "2025-12-21T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "yxKLhg9gIM8",
+        "title": "Jacksonville Jaguars vs. Denver Broncos Game Highlights | NFL 2025 Season Week 16",
+        "published_at": "2025-12-22T00:48:58Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 16,
+      "away": "PIT",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401772806"
+      },
+      "kickoff": "2025-12-21T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ZMW4MMr5tvs",
+        "title": "Pittsburgh Steelers vs Detroit Lions Game Highlights | 2025 NFL Season Week 16",
+        "published_at": "2025-12-22T01:10:35Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 16,
+      "away": "LV",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401772805"
+      },
+      "kickoff": "2025-12-21T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "WEgiBc_ehsw",
+        "title": "Las Vegas Raiders vs. Houston Texans Game Highlights | NFL 2025 Season Week 16",
+        "published_at": "2025-12-22T01:05:39Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 16,
+      "away": "NE",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401772804"
+      },
+      "kickoff": "2025-12-22T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "DMyRG2DocCY",
+        "title": "New England Patriots vs Baltimore Ravens Game Highlights | 2025 NFL Season Week 16",
+        "published_at": "2025-12-22T04:51:24Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 16,
+      "away": "SF",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401772824"
+      },
+      "kickoff": "2025-12-23T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "xHOym0Hr3K0",
+        "title": "San Francisco 49ers vs Indianapolis Colts Game Highlights | 2025 NFL Season Week 16",
+        "published_at": "2025-12-23T08:59:00Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 17,
+      "away": "DAL",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401772710"
+      },
+      "kickoff": "2025-12-25T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "spsOKxiK97Y",
+        "title": "Dallas Cowboys vs Washington Commanders Christmas Day Game Highlights | 2025 NFL Season Week 17",
+        "published_at": "2025-12-25T21:36:25Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 17,
+      "away": "DET",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401772711"
+      },
+      "kickoff": "2025-12-25T21:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "-cES7tGVo3o",
+        "title": "Detroit Lions vs Minnesota Vikings Christmas Day Game Highlights | 2025 NFL Season Week 17",
+        "published_at": "2025-12-26T01:09:17Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 17,
+      "away": "DEN",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401772622"
+      },
+      "kickoff": "2025-12-26T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "BNfTwEuxqms",
+        "title": "Denver Broncos vs Kansas City Chiefs Christmas Day Game Highlights | 2025 NFL Season Week 17",
+        "published_at": "2025-12-26T04:18:41Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 17,
+      "away": "HOU",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401772951"
+      },
+      "kickoff": "2025-12-27T21:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "4WBufcaMCHc",
+        "title": "Houston Texans vs Los Angeles Chargers Game Highlights | 2025 NFL Season Week 17",
+        "published_at": "2025-12-28T00:51:06Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 17,
+      "away": "BAL",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401772953"
+      },
+      "kickoff": "2025-12-28T01:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ZChxJhi98L8",
+        "title": "Baltimore Ravens vs Green Bay Packers Game Highlights | 2025 NFL Season Week 17",
+        "published_at": "2025-12-28T04:19:41Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 17,
+      "away": "SEA",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401772952"
+      },
+      "kickoff": "2025-12-28T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "gxbCNz3SLLE",
+        "title": "Seattle Seahawks vs. Carolina Panthers Game Highlights | NFL 2025 Season Week 17",
+        "published_at": "2025-12-28T21:23:48Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 17,
+      "away": "ARI",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401772954"
+      },
+      "kickoff": "2025-12-28T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Kar4RnDpoXM",
+        "title": "Arizona Cardinals vs. Cincinnati Bengals Game Highlights | NFL 2025 Season Week 17",
+        "published_at": "2025-12-28T21:13:13Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 17,
+      "away": "PIT",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401772807"
+      },
+      "kickoff": "2025-12-28T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "12hjOu7RBeE",
+        "title": "Pittsburgh Steelers vs Cleveland Browns Game Highlights | 2025 NFL Season Week 17",
+        "published_at": "2025-12-28T21:20:00Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 17,
+      "away": "JAX",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401772915"
+      },
+      "kickoff": "2025-12-28T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "9OLSbeAunDo",
+        "title": "Jacksonville Jaguars vs. Indianapolis Colts Game Highlights | NFL 2025 Season Week 17",
+        "published_at": "2025-12-28T21:39:04Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 17,
+      "away": "TB",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401772916"
+      },
+      "kickoff": "2025-12-28T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "o84w4-bHMv4",
+        "title": "Tampa Bay Buccaneers vs Miami Dolphins Game Highlights | 2025 NFL Season Week 17",
+        "published_at": "2025-12-28T21:20:04Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 17,
+      "away": "NE",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401772808"
+      },
+      "kickoff": "2025-12-28T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "RrEI2-lwBlQ",
+        "title": "New England Patriots vs New York Jets Game Highlights | 2025 NFL Season Week 17",
+        "published_at": "2025-12-28T21:19:57Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 17,
+      "away": "NO",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401772809"
+      },
+      "kickoff": "2025-12-28T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "xgOzbvikCMg",
+        "title": "New Orleans Saints vs. Tennessee Titans Game Highlights | NFL 2025 Season Week 17",
+        "published_at": "2025-12-28T21:40:05Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 17,
+      "away": "NYG",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401772950"
+      },
+      "kickoff": "2025-12-28T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "w6zHl1nZiQE",
+        "title": "New York Giants vs Las Vegas Raiders Game Highlights | 2025 NFL Season Week 17",
+        "published_at": "2025-12-29T00:11:26Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 17,
+      "away": "PHI",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401772917"
+      },
+      "kickoff": "2025-12-28T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "HetvEG7ndGQ",
+        "title": "Philadelphia Eagles vs. Buffalo Bills Game Highlights | NFL 2025 Season Week 17",
+        "published_at": "2025-12-29T00:58:27Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 17,
+      "away": "CHI",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401772935"
+      },
+      "kickoff": "2025-12-29T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "iReb07eggsY",
+        "title": "Chicago Bears vs San Francisco 49ers Game Highlights | 2025 NFL Season Week 17",
+        "published_at": "2025-12-29T04:56:53Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 17,
+      "away": "LAR",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401772825"
+      },
+      "kickoff": "2025-12-30T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "06l_30fKC38",
+        "title": "Los Angeles Rams vs Atlanta Falcons Game Highlights | 2025 NFL Season Week 17",
+        "published_at": "2025-12-30T04:29:36Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 18,
+      "away": "CAR",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401772969"
+      },
+      "kickoff": "2026-01-03T21:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Np56aguXdrA",
+        "title": "Carolina Panthers vs Tampa Bay Buccaneers Game Highlights | 2025 NFL Season Week 18",
+        "published_at": "2026-01-04T00:43:54Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 18,
+      "away": "SEA",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401772961"
+      },
+      "kickoff": "2026-01-04T01:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "m9_i5axNo9w",
+        "title": "Seattle Seahawks vs San Francisco 49ers Game Highlights | 2025 NFL Season Week 18",
+        "published_at": "2026-01-04T04:21:26Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 18,
+      "away": "NO",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401772966"
+      },
+      "kickoff": "2026-01-04T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "5PeYdCZKVvs",
+        "title": "New Orleans Saints vs Atlanta Falcons Game Highlights | 2025 NFL Season Week 18",
+        "published_at": "2026-01-04T21:28:16Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 18,
+      "away": "CLE",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401772964"
+      },
+      "kickoff": "2026-01-04T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Lt0_Oko0_OM",
+        "title": "Cleveland Browns vs. Cincinnati Bengals Game Highlights | NFL 2025 Season Week 18",
+        "published_at": "2026-01-04T21:14:07Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 18,
+      "away": "IND",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401772962"
+      },
+      "kickoff": "2026-01-04T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "uWYghIkm7GY",
+        "title": "Indianapolis Colts vs. Houston Texans Game Highlights | NFL 2025 Season Week 18",
+        "published_at": "2026-01-04T21:57:01Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 18,
+      "away": "TEN",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401772970"
+      },
+      "kickoff": "2026-01-04T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Ec9zTFY2J2Q",
+        "title": "Tennessee Titans vs. Jacksonville Jaguars Game Highlights | NFL 2025 Season Week 18",
+        "published_at": "2026-01-04T21:42:58Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 18,
+      "away": "GB",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401772968"
+      },
+      "kickoff": "2026-01-04T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "8pgoEj-pJq0",
+        "title": "Green Bay Packers vs Minnesota Vikings Game Highlights | 2025 NFL Season Week 18",
+        "published_at": "2026-01-04T21:13:21Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 18,
+      "away": "DAL",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401772963"
+      },
+      "kickoff": "2026-01-04T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "MWxNQm6JLDo",
+        "title": "Dallas Cowboys vs New York Giants Game Highlights | 2025 NFL Season Week 18",
+        "published_at": "2026-01-04T21:28:50Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 18,
+      "away": "NYJ",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401772967"
+      },
+      "kickoff": "2026-01-04T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ZzMyyUsDgx0",
+        "title": "New York Jets vs. Buffalo Bills Game Highlights | NFL 2025 Season Week 18",
+        "published_at": "2026-01-05T00:42:21Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 18,
+      "away": "DET",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401772965"
+      },
+      "kickoff": "2026-01-04T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "o1qvOaD1fdY",
+        "title": "Detroit Lions vs Chicago Bears Game Highlights | 2025 NFL Season Week 18",
+        "published_at": "2026-01-05T00:41:02Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 18,
+      "away": "LAC",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401772956"
+      },
+      "kickoff": "2026-01-04T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "pm8atRQXdHY",
+        "title": "Los Angeles Chargers vs. Denver Broncos Game Highlights | NFL 2025 Season Week 18",
+        "published_at": "2026-01-05T00:59:40Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 18,
+      "away": "ARI",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401772955"
+      },
+      "kickoff": "2026-01-04T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "_XRAeo9eZpQ",
+        "title": "Arizona Cardinals vs. Los Angeles Rams Game Highlights | NFL 2025 Season Week 18",
+        "published_at": "2026-01-05T00:42:39Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 18,
+      "away": "KC",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401772957"
+      },
+      "kickoff": "2026-01-04T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "x4RPMVe9z24",
+        "title": "Kansas City Chiefs vs. Las Vegas Raiders Game Highlights | NFL 2025 Season Week 18",
+        "published_at": "2026-01-05T00:48:59Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 18,
+      "away": "MIA",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401772958"
+      },
+      "kickoff": "2026-01-04T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "WOUY5H6b6N0",
+        "title": "Miami Dolphins vs New England Patriots Game Highlights | 2025 NFL Season Week 18",
+        "published_at": "2026-01-05T00:36:46Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 18,
+      "away": "WSH",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401772959"
+      },
+      "kickoff": "2026-01-04T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "HmZNZD-TU5E",
+        "title": "Washington Commanders vs Philadelphia Eagles Game Highlights | 2025 NFL Season Week 18",
+        "published_at": "2026-01-05T00:49:39Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "regular",
+      "week": 18,
+      "away": "BAL",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401772960"
+      },
+      "kickoff": "2026-01-05T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "LbgNNw0SJ3o",
+        "title": "Baltimore Ravens vs Pittsburgh Steelers Game Highlights | 2025 NFL Season Week 18",
+        "published_at": "2026-01-05T04:54:11Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "postseason",
+      "week": 19,
+      "away": "LAR",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401772979"
+      },
+      "kickoff": "2026-01-10T21:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Rh9xD2eoJcY",
+        "title": "Los Angeles Rams vs. Carolina Panthers Game Highlights | NFL 2025 Season Wild Card",
+        "published_at": "2026-01-11T01:05:29Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "postseason",
+      "week": 19,
+      "away": "GB",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401772981"
+      },
+      "kickoff": "2026-01-11T01:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "tnX85oZOV40",
+        "title": "Green Bay Packers vs. Chicago Bears Game Highlights | NFL 2025 Season Wild Card",
+        "published_at": "2026-01-11T04:57:20Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "postseason",
+      "week": 19,
+      "away": "BUF",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401772977"
+      },
+      "kickoff": "2026-01-11T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "OZrEboMLou4",
+        "title": "Buffalo Bills vs Jacksonville Jaguars Game Highlights | 2025 NFL Season Wild Card Round",
+        "published_at": "2026-01-11T21:38:04Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "postseason",
+      "week": 19,
+      "away": "SF",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401772980"
+      },
+      "kickoff": "2026-01-11T21:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "YPS3tHwvwR8",
+        "title": "San Francisco 49ers vs Philadelphia Eagles Game Highlights | 2025 NFL Season Wild Card Round",
+        "published_at": "2026-01-12T01:05:23Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "postseason",
+      "week": 19,
+      "away": "LAC",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401772978"
+      },
+      "kickoff": "2026-01-12T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "r4w8LaKWuGM",
+        "title": "Los Angeles Chargers vs New England Patriots Game Highlights | 2025 NFL Season Wild Card Round",
+        "published_at": "2026-01-12T04:19:07Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "postseason",
+      "week": 19,
+      "away": "HOU",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401772976"
+      },
+      "kickoff": "2026-01-13T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "o_VVz5GR1ko",
+        "title": "Houston Texans vs Pittsburgh Steelers Game Highlights | 2025 NFL Season Wild Card Round",
+        "published_at": "2026-01-13T04:48:58Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "postseason",
+      "week": 20,
+      "away": "BUF",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401772982"
+      },
+      "kickoff": "2026-01-17T21:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "VqXRI7Mag3E",
+        "title": "Buffalo Bills vs. Denver Broncos Game Highlights | NFL 2025 Season Divisional",
+        "published_at": "2026-01-18T01:36:15Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "postseason",
+      "week": 20,
+      "away": "SF",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401772984"
+      },
+      "kickoff": "2026-01-18T01:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "QXxCbN48UE8",
+        "title": "San Francisco 49ers vs. Seattle Seahawks Game Highlights | NFL 2025 Season Divisional",
+        "published_at": "2026-01-18T04:33:13Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "postseason",
+      "week": 20,
+      "away": "HOU",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401772983"
+      },
+      "kickoff": "2026-01-18T20:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "FI8w2O3k59I",
+        "title": "Houston Texans vs New England Patriots Game Highlights | 2025 NFL Season Divisional Round",
+        "published_at": "2026-01-18T23:43:18Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "postseason",
+      "week": 20,
+      "away": "LAR",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401772985"
+      },
+      "kickoff": "2026-01-18T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "jFX07LCTrSM",
+        "title": "Los Angeles Rams vs Chicago Bears Game Highlights | 2025 NFL Season Divisional Round",
+        "published_at": "2026-01-19T03:29:33Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "postseason",
+      "week": 21,
+      "away": "NE",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401772986"
+      },
+      "kickoff": "2026-01-25T20:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "4zShusD66jI",
+        "title": "New England Patriots vs Denver Broncos Game Highlights | 2025 NFL Season AFC Championship",
+        "published_at": "2026-01-25T23:21:03Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "postseason",
+      "week": 21,
+      "away": "LAR",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401772987"
+      },
+      "kickoff": "2026-01-25T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "CgCJ2nBAEaU",
+        "title": "Los Angeles Rams vs Seattle Seahawks Game Highlights | 2025 NFL Season NFC Championship",
+        "published_at": "2026-01-26T03:18:44Z"
+      }
+    },
+    {
+      "season": 2025,
+      "season_type": "postseason",
+      "week": 22,
+      "away": "SEA",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401772988"
+      },
+      "kickoff": "2026-02-08T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ksG9O8PHXbI",
+        "title": "Seattle Seahawks vs New England Patriots | Super Bowl LX Game Highlights",
+        "published_at": "2026-02-09T04:08:30Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,5646 @@
+{
+  "$schema": "./schema.json",
+  "schema_version": 1,
+  "season": 2019,
+  "games": [
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 1,
+      "away": "DEN",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401123243"
+      },
+      "kickoff": "2019-08-02T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "pCrvaxU3v3w",
+        "title": "Broncos vs. Falcons HOF Game Highlights | NFL 2019",
+        "published_at": "2019-08-02T04:14:08Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "IND",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401128187"
+      },
+      "kickoff": "2019-08-08T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "7-ZikhYJh50",
+        "title": "Colts vs. Bills Preseason Week 1 Highlights | NFL 2019",
+        "published_at": "2019-08-09T03:06:54Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "NYJ",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401128153"
+      },
+      "kickoff": "2019-08-08T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "KxfcKVM7UUQ",
+        "title": "Jets vs. Giants Preseason Week 1 Highlights | NFL 2019",
+        "published_at": "2019-08-09T03:34:27Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "JAX",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401128135"
+      },
+      "kickoff": "2019-08-08T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "FrVsP-sLksY",
+        "title": "Jaguars vs. Ravens Preseason Week 1 Highlights | NFL 2019",
+        "published_at": "2019-08-09T03:19:56Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "WSH",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401128180"
+      },
+      "kickoff": "2019-08-08T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "MYYq93gJ_rQ",
+        "title": "Redskins vs. Browns Preseason Week 1 Highlights | NFL 2019",
+        "published_at": "2019-08-09T03:38:02Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "NE",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401128155"
+      },
+      "kickoff": "2019-08-08T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "eaqfRxygJ_U",
+        "title": "Patriots vs. Lions Preseason Week 1 Highlights | NFL 2019",
+        "published_at": "2019-08-09T03:05:20Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "ATL",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401128192"
+      },
+      "kickoff": "2019-08-08T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "9jlb8uvoZsU",
+        "title": "Falcons vs. Dolphins Preseason Week 1 Highlights | NFL 2019",
+        "published_at": "2019-08-09T03:35:19Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "TEN",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401128168"
+      },
+      "kickoff": "2019-08-08T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "7cE8RcNQCiM",
+        "title": "Titans vs. Eagles Preseason Week 1 Highlights | NFL 2019",
+        "published_at": "2019-08-09T03:21:26Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "CAR",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401128176"
+      },
+      "kickoff": "2019-08-09T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "VB9znk9kU68",
+        "title": "Panthers vs. Bears Preseason Week 1 Highlights | NFL 2019",
+        "published_at": "2019-08-09T03:52:20Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "HOU",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401128162"
+      },
+      "kickoff": "2019-08-09T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "mmh2lTg8Dc8",
+        "title": "Texans vs. Packers Preseason Week 1 Highlights | NFL 2019",
+        "published_at": "2019-08-09T03:45:47Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "LAC",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401128139"
+      },
+      "kickoff": "2019-08-09T02:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "xEL9nmD1dZ4",
+        "title": "Chargers vs. Cardinals Preseason Week 1 Highlights | NFL 2019",
+        "published_at": "2019-08-09T05:17:12Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "DEN",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401128174"
+      },
+      "kickoff": "2019-08-09T02:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "xHBUkVqFHks",
+        "title": "Broncos vs. Seahawks Preseason Week 1 Highlights | NFL 2019",
+        "published_at": "2019-08-09T06:07:09Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "TB",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401128183"
+      },
+      "kickoff": "2019-08-09T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "5kqL3PZ35bc",
+        "title": "Buccaneers vs. Steelers Preseason Week 1 Highlights | NFL 2019",
+        "published_at": "2019-08-10T03:37:26Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "MIN",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401128167"
+      },
+      "kickoff": "2019-08-10T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "xSfkZhpU_bo",
+        "title": "Vikings vs. Saints Preseason Week 1 Highlights | NFL 2019",
+        "published_at": "2019-08-10T03:41:15Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "CIN",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401128160"
+      },
+      "kickoff": "2019-08-11T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "pSumjsIXkuI",
+        "title": "Bengals vs. Chiefs Preseason Week 1 Highlights | NFL 2019",
+        "published_at": "2019-08-11T03:42:23Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "LAR",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401129055"
+      },
+      "kickoff": "2019-08-11T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "T5IXlCgFNYE",
+        "title": "Rams vs. Raiders Preseason Week 1 Highlights | NFL 2019",
+        "published_at": "2019-08-11T03:28:13Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "DAL",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401128141"
+      },
+      "kickoff": "2019-08-11T01:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "1GSB0B5BMic",
+        "title": "Cowboys vs. 49ers Preseason Week 1 Highlights | NFL 2019",
+        "published_at": "2019-08-11T05:11:24Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "PHI",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401128171"
+      },
+      "kickoff": "2019-08-15T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "HjCMd2a_kCs",
+        "title": "Eagles vs. Jaguars Preseason Week 2 Highlights | NFL 2019",
+        "published_at": "2019-08-16T02:36:25Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "NYJ",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401128193"
+      },
+      "kickoff": "2019-08-15T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Xo22J0i5H60",
+        "title": "Jets vs. Falcons Preseason Week 2 Highlights | NFL 2019",
+        "published_at": "2019-08-16T03:04:02Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "GB",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401128136"
+      },
+      "kickoff": "2019-08-15T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "2_E40sQlznc",
+        "title": "Packers vs. Ravens Preseason Week 2 Highlights | NFL 2019",
+        "published_at": "2019-08-16T02:58:41Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "CIN",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401128161"
+      },
+      "kickoff": "2019-08-15T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "8V4dT4NLBwk",
+        "title": "Bengals vs. Redskins Preseason Week 2 Highlights | NFL 2019",
+        "published_at": "2019-08-16T02:55:10Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "LV",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401126622"
+      },
+      "kickoff": "2019-08-16T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "x92F3K5wnsY",
+        "title": "Raiders vs. Cardinals Preseason Week 2 Highlights | NFL 2019",
+        "published_at": "2019-08-16T03:39:23Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "BUF",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401128188"
+      },
+      "kickoff": "2019-08-16T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "To0jY0YX1tk",
+        "title": "Bills vs. Panthers Preseason Week 2 Highlights | NFL 2019",
+        "published_at": "2019-08-17T02:33:08Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "CHI",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401128154"
+      },
+      "kickoff": "2019-08-16T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "co4Dh-fK0bU",
+        "title": "Bears vs. Giants Preseason Week 2 Highlights | NFL 2019",
+        "published_at": "2019-08-17T03:03:07Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "MIA",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401128184"
+      },
+      "kickoff": "2019-08-16T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Dql1KR-fNk4",
+        "title": "Dolphins vs. Buccaneers Preseason Week 2 Highlights | NFL 2019",
+        "published_at": "2019-08-17T03:08:35Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "CLE",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401128189"
+      },
+      "kickoff": "2019-08-17T20:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "7cJR-7bjouM",
+        "title": "Browns vs. Colts Preseason Week 2 Highlights | NFL 2019",
+        "published_at": "2019-08-17T23:35:30Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "NE",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401128156"
+      },
+      "kickoff": "2019-08-17T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "rDdBrxuD4to",
+        "title": "Patriots vs. Titans Preseason Week 2 Highlights | NFL 2019",
+        "published_at": "2019-08-18T02:29:39Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "KC",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401128182"
+      },
+      "kickoff": "2019-08-17T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "mXVWHAj5eWE",
+        "title": "Chiefs vs. Steelers Preseason Week 2 Highlights | NFL 2019",
+        "published_at": "2019-08-18T03:57:11Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "DET",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401128164"
+      },
+      "kickoff": "2019-08-18T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "24lLvj_NXms",
+        "title": "Lions vs. Texans Preseason Week 2 Highlights | NFL 2019",
+        "published_at": "2019-08-18T03:41:21Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "DAL",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401128953"
+      },
+      "kickoff": "2019-08-18T02:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "98ThEg37q9g",
+        "title": "Cowboys vs. Rams Preseason Week 2 Highlights | NFL 2019",
+        "published_at": "2019-08-18T06:26:06Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "NO",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401126623"
+      },
+      "kickoff": "2019-08-18T20:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "AekQyHXGCxo",
+        "title": "Saints vs. Chargers Preseason Week 2 Highlights | NFL 2019",
+        "published_at": "2019-08-18T23:26:42Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "SEA",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401126624"
+      },
+      "kickoff": "2019-08-19T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "XmQmkcBNVq8",
+        "title": "Seahawks vs. Vikings Preseason Week 2 Highlights | NFL 2019",
+        "published_at": "2019-08-19T03:32:27Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "SF",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401126625"
+      },
+      "kickoff": "2019-08-20T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "dVfAjne_KyI",
+        "title": "49ers vs. Broncos Preseason Week 2 Highlights | NFL 2019",
+        "published_at": "2019-08-20T04:03:20Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "NYG",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401128157"
+      },
+      "kickoff": "2019-08-22T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "dRcb-mdiuBs",
+        "title": "Giants vs. Bengals Preseason Week 3 Highlights | NFL 2019",
+        "published_at": "2019-08-23T02:12:21Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "WSH",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401128181"
+      },
+      "kickoff": "2019-08-22T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "c9tBQc6B_rk",
+        "title": "Redskins vs. Falcons Preseason Week 3 Highlights | NFL 2019",
+        "published_at": "2019-08-23T02:33:53Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "CAR",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401128158"
+      },
+      "kickoff": "2019-08-22T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "USLcDLkxyvo",
+        "title": "Panthers vs. Patriots Preseason Week 3 Highlights | NFL 2019",
+        "published_at": "2019-08-23T02:36:54Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "BAL",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401128137"
+      },
+      "kickoff": "2019-08-22T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "RxKjW0Srk14",
+        "title": "Ravens vs. Eagles Preseason Week 3 Highlights | NFL 2019",
+        "published_at": "2019-08-23T02:57:06Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "GB",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401136833"
+      },
+      "kickoff": "2019-08-23T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Uts13r3J5rU",
+        "title": "Packers vs. Raiders Preseason Week 3 Highlights | NFL 2019",
+        "published_at": "2019-08-23T03:38:51Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "JAX",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401126626"
+      },
+      "kickoff": "2019-08-23T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "61QPBzHF4p8",
+        "title": "Jaguars vs. Dolphins Preseason Week 3 Highlights | NFL 2019",
+        "published_at": "2019-08-23T03:26:03Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "CLE",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401128185"
+      },
+      "kickoff": "2019-08-23T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ks5U2GFGthM",
+        "title": "Browns vs. Buccaneers Preseason Week 3 Highlights | NFL 2019",
+        "published_at": "2019-08-24T02:54:58Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "BUF",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401126627"
+      },
+      "kickoff": "2019-08-24T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "m5EZs3JVeUQ",
+        "title": "Bills vs. Lions Preseason Week 3 Highlights | NFL 2019",
+        "published_at": "2019-08-24T03:27:41Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "ARI",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401128169"
+      },
+      "kickoff": "2019-08-24T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "mg8gFiujHVQ",
+        "title": "Cardinals vs. Vikings Preseason Week 3 Highlights | NFL 2019",
+        "published_at": "2019-08-24T20:28:40Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "HOU",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401128165"
+      },
+      "kickoff": "2019-08-24T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "yM2gqJLaYok",
+        "title": "Texans vs. Cowboys Preseason Week 3 Highlights | NFL 2019",
+        "published_at": "2019-08-25T02:34:18Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "CHI",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401128177"
+      },
+      "kickoff": "2019-08-24T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "eZMFLxt6IpU",
+        "title": "Bears vs. Colts Preseason Week 3 Highlights | NFL 2019",
+        "published_at": "2019-08-25T02:22:22Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "NO",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401128190"
+      },
+      "kickoff": "2019-08-24T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "DqvJ1BqKCVc",
+        "title": "Saints vs. Jets Preseason Week 3 Highlights | NFL 2019",
+        "published_at": "2019-08-25T03:32:17Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "SF",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401128142"
+      },
+      "kickoff": "2019-08-25T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "feUG2AKhcY4",
+        "title": "49ers vs. Chiefs Preseason Week 3 Highlights | NFL 2019",
+        "published_at": "2019-08-25T03:03:37Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "DEN",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401129054"
+      },
+      "kickoff": "2019-08-25T01:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "R-n5YGFBtYI",
+        "title": "Broncos vs. Rams Preseason Week 3 Highlights | NFL 2019",
+        "published_at": "2019-08-25T04:13:36Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "SEA",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401128144"
+      },
+      "kickoff": "2019-08-25T02:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "xb4_OYxoH0Q",
+        "title": "Seahawks vs. Chargers Preseason Week 3 Highlights | NFL 2019",
+        "published_at": "2019-08-25T05:08:19Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "PIT",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401126628"
+      },
+      "kickoff": "2019-08-26T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "8pqG9xukC0k",
+        "title": "Steelers vs. Titans Preseason Week 3 Highlights | NFL 2019",
+        "published_at": "2019-08-26T03:20:21Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 5,
+      "away": "MIN",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401128170"
+      },
+      "kickoff": "2019-08-29T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "63tPv09Mcxs",
+        "title": "Vikings vs. Bills Preseason Week 4 Highlights | NFL 2019",
+        "published_at": "2019-08-30T02:16:28Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 5,
+      "away": "PIT",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401128194"
+      },
+      "kickoff": "2019-08-29T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "k7GsiRbf494",
+        "title": "Steelers vs. Panthers Preseason Week 4 Highlights | NFL 2019",
+        "published_at": "2019-08-30T02:17:56Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 5,
+      "away": "IND",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401128163"
+      },
+      "kickoff": "2019-08-29T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "mWqnuXzOzWY",
+        "title": "Colts vs. Bengals Preseason Week 4 Highlights | NFL 2019",
+        "published_at": "2019-08-30T02:10:19Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 5,
+      "away": "ATL",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401128179"
+      },
+      "kickoff": "2019-08-29T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "V2Yy-1sugd4",
+        "title": "Falcons vs. Jaguars Preseason Week 4 Highlights | NFL 2019",
+        "published_at": "2019-08-30T02:30:13Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 5,
+      "away": "PHI",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401128172"
+      },
+      "kickoff": "2019-08-29T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "6meuiJVK1ic",
+        "title": "Eagles vs. Jets Preseason Week 4 Highlights | NFL 2019",
+        "published_at": "2019-08-30T02:23:28Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 5,
+      "away": "DET",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401128173"
+      },
+      "kickoff": "2019-08-29T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "3UrKibL-N4Q",
+        "title": "Lions vs. Browns Preseason Week 4 Highlights | NFL 2019",
+        "published_at": "2019-08-30T03:00:06Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 5,
+      "away": "NYG",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401128159"
+      },
+      "kickoff": "2019-08-29T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "cIc-4tHv7UU",
+        "title": "Giants vs. Patriots Preseason Week 4 Highlights | NFL 2019",
+        "published_at": "2019-08-30T03:23:44Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 5,
+      "away": "BAL",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401128138"
+      },
+      "kickoff": "2019-08-29T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "dtoWs31-qj8",
+        "title": "Ravens vs. Redskins Preseason Week 4 Highlights | NFL 2019",
+        "published_at": "2019-08-30T02:44:03Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 5,
+      "away": "TEN",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401128178"
+      },
+      "kickoff": "2019-08-30T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "xvb8uTWKmRI",
+        "title": "Titans vs. Bears Preseason Week 4 Highlights | NFL 2019",
+        "published_at": "2019-08-30T03:23:19Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 5,
+      "away": "TB",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401128186"
+      },
+      "kickoff": "2019-08-30T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "nGgmlqh-83k",
+        "title": "Buccaneers vs. Cowboys Preseason Week 4 Highlights | NFL 2019",
+        "published_at": "2019-08-30T03:20:30Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 5,
+      "away": "KC",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401128140"
+      },
+      "kickoff": "2019-08-30T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "2Ffbkr7q4oQ",
+        "title": "Chiefs vs. Packers Preseason Week 4 Highlights | NFL 2019",
+        "published_at": "2019-08-30T03:26:58Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 5,
+      "away": "LAR",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401128166"
+      },
+      "kickoff": "2019-08-30T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "JtsfJud197M",
+        "title": "Rams vs. Texans Preseason Week 4 Highlights | NFL 2019",
+        "published_at": "2019-08-30T03:14:01Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 5,
+      "away": "MIA",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401128191"
+      },
+      "kickoff": "2019-08-30T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "OMCBYZJ-v8U",
+        "title": "Dolphins vs. Saints Preseason Week 4 Highlights | NFL 2019",
+        "published_at": "2019-08-30T02:54:36Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 5,
+      "away": "ARI",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401128175"
+      },
+      "kickoff": "2019-08-30T01:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "9bCbeBruzN0",
+        "title": "Cardinals vs. Broncos Preseason Week 4 Highlights | NFL 2019",
+        "published_at": "2019-08-30T04:13:09Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 5,
+      "away": "LV",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401128145"
+      },
+      "kickoff": "2019-08-30T02:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "T2DisWdsibw",
+        "title": "Raiders vs. Seahawks Preseason Week 4 Highlights | NFL 2019",
+        "published_at": "2019-08-30T05:26:15Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "preseason",
+      "week": 5,
+      "away": "LAC",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401128143"
+      },
+      "kickoff": "2019-08-30T02:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "jeVwrJuqJ2I",
+        "title": "Chargers vs. 49ers Preseason Week 4 Highlights | NFL 2019",
+        "published_at": "2019-08-30T05:20:41Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 1,
+      "away": "GB",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401127913"
+      },
+      "kickoff": "2019-09-06T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "yJE8T861vas",
+        "title": "Packers vs. Bears Week 1 Highlights | NFL 2019",
+        "published_at": "2019-09-06T03:42:54Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 1,
+      "away": "LAR",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401127923"
+      },
+      "kickoff": "2019-09-08T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "nBJc1Hv4TX0",
+        "title": "Rams vs. Panthers Week 1 Highlights | NFL 2019",
+        "published_at": "2019-09-08T20:46:40Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 1,
+      "away": "TEN",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401127928"
+      },
+      "kickoff": "2019-09-08T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "6PaVxb6x4PQ",
+        "title": "Titans vs. Browns Week 1 Highlights | NFL 2019",
+        "published_at": "2019-09-08T20:39:29Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 1,
+      "away": "KC",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401127931"
+      },
+      "kickoff": "2019-09-08T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "hLadNVtzb5A",
+        "title": "Chiefs vs. Jaguars Week 1 Highlights | NFL 2019",
+        "published_at": "2019-09-08T20:24:15Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 1,
+      "away": "BAL",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401127954"
+      },
+      "kickoff": "2019-09-08T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "HbDOfKFJu8I",
+        "title": "Ravens vs. Dolphins Week 1 Highlights | NFL 2019",
+        "published_at": "2019-09-08T20:19:03Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 1,
+      "away": "ATL",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401127961"
+      },
+      "kickoff": "2019-09-08T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "wM-S1fm7cXw",
+        "title": "Falcons vs. Vikings Week 1 Highlights | NFL 2019",
+        "published_at": "2019-09-08T20:29:06Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 1,
+      "away": "BUF",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401127963"
+      },
+      "kickoff": "2019-09-08T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "oCZk9D7pcmA",
+        "title": "Bills vs. Jets Week 1 Highlights | NFL 2019",
+        "published_at": "2019-09-08T20:32:02Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 1,
+      "away": "WSH",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401127968"
+      },
+      "kickoff": "2019-09-08T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "noqSAKL-GSo",
+        "title": "Redskins vs. Eagles Week 1 Highlights | NFL 2019",
+        "published_at": "2019-09-08T20:42:44Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 1,
+      "away": "IND",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401127972"
+      },
+      "kickoff": "2019-09-08T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "7Fj8BT0JVeo",
+        "title": "Colts vs. Chargers Week 1 Highlights | NFL 2019",
+        "published_at": "2019-09-08T23:24:57Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 1,
+      "away": "CIN",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401127995"
+      },
+      "kickoff": "2019-09-08T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "S3dmhhUQG44",
+        "title": "Bengals vs. Seahawks Week 1 Highlights | NFL 2019",
+        "published_at": "2019-09-08T23:36:17Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 1,
+      "away": "DET",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401127999"
+      },
+      "kickoff": "2019-09-08T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "97emBRXwedA",
+        "title": "Lions vs. Cardinals Week 1 Highlights | NFL 2019",
+        "published_at": "2019-09-09T00:43:00Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 1,
+      "away": "NYG",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401128007"
+      },
+      "kickoff": "2019-09-08T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "8EcUz37uHu4",
+        "title": "Giants vs. Cowboys Week 1 Highlights | NFL 2019",
+        "published_at": "2019-09-08T23:40:16Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 1,
+      "away": "SF",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401128010"
+      },
+      "kickoff": "2019-09-08T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "uuLY_HeJTxo",
+        "title": "49ers vs. Buccaneers Week 1 Highlights | NFL 2019",
+        "published_at": "2019-09-08T23:54:07Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 1,
+      "away": "PIT",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401127860"
+      },
+      "kickoff": "2019-09-09T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "kJbE81VVyoM",
+        "title": "Steelers vs. Patriots Week 1 Highlights | NFL 2019",
+        "published_at": "2019-09-09T03:33:57Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 1,
+      "away": "HOU",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401128021"
+      },
+      "kickoff": "2019-09-09T23:10:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "j5mEE7gI3oE",
+        "title": "Texans vs. Saints Week 1 Highlights | NFL 2019",
+        "published_at": "2019-09-10T02:47:47Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 1,
+      "away": "DEN",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401128025"
+      },
+      "kickoff": "2019-09-10T02:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "oxNgpumIWdQ",
+        "title": "Broncos vs. Raiders Week 1 Highlights | NFL 2019",
+        "published_at": "2019-09-10T05:20:36Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 2,
+      "away": "TB",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401128054"
+      },
+      "kickoff": "2019-09-13T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "MeJGpMABpwo",
+        "title": "Buccaneers vs. Panthers Week 2 Highlights | NFL 2019",
+        "published_at": "2019-09-13T04:24:39Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 2,
+      "away": "ARI",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401128061"
+      },
+      "kickoff": "2019-09-15T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "35y80RNlL-U",
+        "title": "Cardinals vs. Ravens Week 2 Highlights | NFL 2019",
+        "published_at": "2019-09-15T20:28:35Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 2,
+      "away": "SF",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401128066"
+      },
+      "kickoff": "2019-09-15T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "aPesLnFhHvM",
+        "title": "49ers vs. Bengals Week 2 Highlights | NFL 2019",
+        "published_at": "2019-09-15T20:43:25Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 2,
+      "away": "LAC",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401128072"
+      },
+      "kickoff": "2019-09-15T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "dVTuivfocDI",
+        "title": "Chargers vs. Lions Week 2 Highlights | NFL 2019",
+        "published_at": "2019-09-15T20:34:45Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 2,
+      "away": "MIN",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401128098"
+      },
+      "kickoff": "2019-09-15T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "IDRV0Q7yjH8",
+        "title": "Vikings vs. Packers Week 2 Highlights | NFL 2019",
+        "published_at": "2019-09-15T20:48:21Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 2,
+      "away": "JAX",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401128101"
+      },
+      "kickoff": "2019-09-15T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ICVJ48BVaGc",
+        "title": "Jaguars vs. Texans Week 2 Highlights | NFL 2019",
+        "published_at": "2019-09-15T20:38:06Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 2,
+      "away": "NE",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401127862"
+      },
+      "kickoff": "2019-09-15T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "9wCvNsXREls",
+        "title": "Patriots vs. Dolphins Week 2 Highlights | NFL 2019",
+        "published_at": "2019-09-15T21:17:40Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 2,
+      "away": "BUF",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401128106"
+      },
+      "kickoff": "2019-09-15T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "KavGZDEgjog",
+        "title": "Bills vs. Giants Week 2 Highlights | NFL 2019",
+        "published_at": "2019-09-15T20:42:03Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 2,
+      "away": "SEA",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401128110"
+      },
+      "kickoff": "2019-09-15T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "yIscwUI80hY",
+        "title": "Seahawks vs. Steelers Week 2 Highlights | NFL 2019",
+        "published_at": "2019-09-15T20:36:51Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 2,
+      "away": "IND",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401128114"
+      },
+      "kickoff": "2019-09-15T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "VBR_Nvfh3WM",
+        "title": "Colts vs. Titans Week 2 Highlights | NFL 2019",
+        "published_at": "2019-09-15T20:25:28Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 2,
+      "away": "DAL",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401128115"
+      },
+      "kickoff": "2019-09-15T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "7F8ZTsKtv9s",
+        "title": "Cowboys vs. Redskins Week 2 Highlights | NFL 2019",
+        "published_at": "2019-09-15T20:14:47Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 2,
+      "away": "KC",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401128118"
+      },
+      "kickoff": "2019-09-15T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "_x_Jjb8wmyQ",
+        "title": "Chiefs vs. Raiders Week 2 Highlights | NFL 2019",
+        "published_at": "2019-09-15T23:34:29Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 2,
+      "away": "CHI",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401128120"
+      },
+      "kickoff": "2019-09-15T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "PI7X1A7ZItw",
+        "title": "Bears vs. Broncos Week 2 Highlights | NFL 2019",
+        "published_at": "2019-09-16T00:10:12Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 2,
+      "away": "NO",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401128122"
+      },
+      "kickoff": "2019-09-15T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "FcaCriI1Syg",
+        "title": "Saints vs. Rams Week 2 Highlights | NFL 2019",
+        "published_at": "2019-09-15T23:54:57Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 2,
+      "away": "PHI",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401128124"
+      },
+      "kickoff": "2019-09-16T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "qcfKIbtot_w",
+        "title": "Eagles vs. Falcons Week 2 Highlights | NFL 2019",
+        "published_at": "2019-09-16T03:51:50Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 2,
+      "away": "CLE",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401128127"
+      },
+      "kickoff": "2019-09-17T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "tLGkE0qzMuo",
+        "title": "Browns vs. Jets Week 2 Highlights | NFL 2019",
+        "published_at": "2019-09-17T03:30:49Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 3,
+      "away": "TEN",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401127859"
+      },
+      "kickoff": "2019-09-20T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "g1MI_yLx3XA",
+        "title": "Titans vs. Jaguars Week 3 Highlights | NFL 2019",
+        "published_at": "2019-09-20T03:36:04Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 3,
+      "away": "CIN",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401127915"
+      },
+      "kickoff": "2019-09-22T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "QJCiobVLuKI",
+        "title": "Bengals vs. Bills Week 3 Highlights | NFL 2019",
+        "published_at": "2019-09-22T20:37:33Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 3,
+      "away": "MIA",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401127921"
+      },
+      "kickoff": "2019-09-22T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "tmv0EMnhTC8",
+        "title": "Dolphins vs. Cowboys Week 3 Highlights | NFL 2019",
+        "published_at": "2019-09-22T20:24:44Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 3,
+      "away": "DEN",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401127925"
+      },
+      "kickoff": "2019-09-22T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "y5hyzry57PI",
+        "title": "Broncos vs. Packers Week 3 Highlights | NFL 2019",
+        "published_at": "2019-09-22T20:08:13Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 3,
+      "away": "ATL",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401127929"
+      },
+      "kickoff": "2019-09-22T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "XeYbH3Zc3GI",
+        "title": "Falcons vs. Colts Week 3 Highlights | NFL 2019",
+        "published_at": "2019-09-22T20:23:41Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 3,
+      "away": "BAL",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401127953"
+      },
+      "kickoff": "2019-09-22T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "nV0y8Uh3hhg",
+        "title": "Ravens vs. Chiefs Week 3 Highlights | NFL 2019",
+        "published_at": "2019-09-22T20:36:03Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 3,
+      "away": "LV",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401127956"
+      },
+      "kickoff": "2019-09-22T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "kRe30bFgL1s",
+        "title": "Raiders vs. Vikings Week 3 Highlights | NFL 2019",
+        "published_at": "2019-09-22T20:02:27Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 3,
+      "away": "NYJ",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401127861"
+      },
+      "kickoff": "2019-09-22T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "cblUl-35um4",
+        "title": "Jets vs. Patriots Week 3 Highlights | NFL 2019",
+        "published_at": "2019-09-22T20:16:19Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 3,
+      "away": "DET",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401127959"
+      },
+      "kickoff": "2019-09-22T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "MNp-q_qtguw",
+        "title": "Lions vs. Eagles Week 3 Highlights | NFL 2019",
+        "published_at": "2019-09-22T20:33:56Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 3,
+      "away": "CAR",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401127962"
+      },
+      "kickoff": "2019-09-22T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "dXE0fuyxnCw",
+        "title": "Panthers vs. Cardinals Week 3 Highlights | NFL 2019",
+        "published_at": "2019-09-22T23:16:15Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 3,
+      "away": "NYG",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401127966"
+      },
+      "kickoff": "2019-09-22T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "zcnpuqYHKXI",
+        "title": "Giants vs. Buccaneers Week 3 Highlights | NFL 2019",
+        "published_at": "2019-09-22T23:40:20Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 3,
+      "away": "HOU",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401127970"
+      },
+      "kickoff": "2019-09-22T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "C7kjHcjkwr0",
+        "title": "Texans vs. Chargers Week 3 Highlights | NFL 2019",
+        "published_at": "2019-09-22T23:55:45Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 3,
+      "away": "NO",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401127993"
+      },
+      "kickoff": "2019-09-22T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "8Mjh0JbdEiY",
+        "title": "Saints vs. Seahawks Week 3 Highlights | NFL 2019",
+        "published_at": "2019-09-22T23:49:48Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 3,
+      "away": "PIT",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401127998"
+      },
+      "kickoff": "2019-09-22T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "VMqmQZ1hB18",
+        "title": "Steelers vs. 49ers Week 3 Highlights | NFL 2019",
+        "published_at": "2019-09-22T23:38:02Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 3,
+      "away": "LAR",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401128125"
+      },
+      "kickoff": "2019-09-23T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "cFmSHjhLMFw",
+        "title": "Rams vs. Browns Week 3 Highlights | NFL 2019",
+        "published_at": "2019-09-23T03:39:10Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 3,
+      "away": "CHI",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401128003"
+      },
+      "kickoff": "2019-09-24T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "rIWTCJ9DhRk",
+        "title": "Bears vs. Redskins Week 3 Highlights | NFL 2019",
+        "published_at": "2019-09-24T03:36:06Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 4,
+      "away": "PHI",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401127863"
+      },
+      "kickoff": "2019-09-27T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "RDb1MGsyY5I",
+        "title": "Eagles vs. Packers Week 4 Highlights | NFL 2019",
+        "published_at": "2019-09-27T04:15:46Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 4,
+      "away": "TEN",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401128016"
+      },
+      "kickoff": "2019-09-29T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "OLcyEPU_NJc",
+        "title": "Titans vs. Falcons Week 4 Highlights | NFL 2019",
+        "published_at": "2019-09-29T20:21:16Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 4,
+      "away": "CLE",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401128018"
+      },
+      "kickoff": "2019-09-29T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "KXkkYwa0jh8",
+        "title": "Browns vs. Ravens Week 4 Highlights | NFL 2019",
+        "published_at": "2019-09-29T20:36:23Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 4,
+      "away": "NE",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401127866"
+      },
+      "kickoff": "2019-09-29T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "cjbLae9Wsfg",
+        "title": "Patriots vs. Bills Week 4 Highlights | NFL 2019",
+        "published_at": "2019-09-29T20:42:27Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 4,
+      "away": "KC",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401128023"
+      },
+      "kickoff": "2019-09-29T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "FsuRDWN9Hrg",
+        "title": "Chiefs vs. Lions Week 4 Highlights | NFL 2019",
+        "published_at": "2019-09-29T20:56:48Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 4,
+      "away": "CAR",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401128026"
+      },
+      "kickoff": "2019-09-29T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "_0uHd6OHs1A",
+        "title": "Panthers vs. Texans Week 4 Highlights | NFL 2019",
+        "published_at": "2019-09-29T20:29:54Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 4,
+      "away": "LV",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401128030"
+      },
+      "kickoff": "2019-09-29T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ZC3feLzImUc",
+        "title": "Raiders vs. Colts Week 4 Highlights | NFL 2019",
+        "published_at": "2019-09-29T20:32:58Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 4,
+      "away": "LAC",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401128055"
+      },
+      "kickoff": "2019-09-29T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "M-t-68xjQYg",
+        "title": "Chargers vs. Dolphins Week 4 Highlights | NFL 2019",
+        "published_at": "2019-09-29T20:05:45Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 4,
+      "away": "WSH",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401128059"
+      },
+      "kickoff": "2019-09-29T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "aRm6IWaMhQo",
+        "title": "Redskins vs. Giants Week 4 Highlights | NFL 2019",
+        "published_at": "2019-09-29T20:09:17Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 4,
+      "away": "SEA",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401128064"
+      },
+      "kickoff": "2019-09-29T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "BT3gNVKmOAk",
+        "title": "Seahawks vs. Cardinals Week 4 Highlights | NFL 2019",
+        "published_at": "2019-09-29T23:12:53Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 4,
+      "away": "TB",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401128069"
+      },
+      "kickoff": "2019-09-29T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "d4lcV5VGCxY",
+        "title": "Buccaneers vs. Rams Week 4 Highlights | NFL 2019",
+        "published_at": "2019-09-29T23:59:50Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 4,
+      "away": "MIN",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401128093"
+      },
+      "kickoff": "2019-09-29T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "a3WbstN2zVc",
+        "title": "Vikings vs. Bears Week 4 Highlights | NFL 2019",
+        "published_at": "2019-09-29T23:39:40Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 4,
+      "away": "JAX",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401128097"
+      },
+      "kickoff": "2019-09-29T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "tTOag7Vq3DI",
+        "title": "Jaguars vs. Broncos Week 4 Highlights | NFL 2019",
+        "published_at": "2019-09-29T23:53:04Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 4,
+      "away": "DAL",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401128102"
+      },
+      "kickoff": "2019-09-30T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "gbPXH0f93RQ",
+        "title": "Cowboys vs. Saints Week 4 Highlights | NFL 2019",
+        "published_at": "2019-09-30T03:33:47Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 4,
+      "away": "CIN",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401128109"
+      },
+      "kickoff": "2019-10-01T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "cq4HM8-XGqY",
+        "title": "Bengals vs. Steelers Week 4 Highlights | NFL 2019",
+        "published_at": "2019-10-01T03:23:57Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 5,
+      "away": "LAR",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401127927"
+      },
+      "kickoff": "2019-10-04T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "kSmUmga1cuo",
+        "title": "Rams vs. Seahawks Week 5 Highlights | NFL 2019",
+        "published_at": "2019-10-04T04:10:04Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 5,
+      "away": "JAX",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401127932"
+      },
+      "kickoff": "2019-10-06T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "9T--KfINBYk",
+        "title": "Jaguars vs. Panthers Week 5 Highlights | NFL 2019",
+        "published_at": "2019-10-06T20:55:34Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 5,
+      "away": "ARI",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401127958"
+      },
+      "kickoff": "2019-10-06T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "gZdGDyWObQI",
+        "title": "Cardinals vs. Bengals Week 5 Highlights | NFL 2019",
+        "published_at": "2019-10-06T20:22:26Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 5,
+      "away": "ATL",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401127960"
+      },
+      "kickoff": "2019-10-06T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "J7vbVfA5B-U",
+        "title": "Falcons vs. Texans Week 5 Highlights | NFL 2019",
+        "published_at": "2019-10-06T20:34:29Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 5,
+      "away": "CHI",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401128001"
+      },
+      "kickoff": "2019-10-06T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "kQpwozXDugo",
+        "title": "Bears vs. Raiders Week 5 Highlights | NFL 2019",
+        "published_at": "2019-10-06T20:40:36Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 5,
+      "away": "TB",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401127965"
+      },
+      "kickoff": "2019-10-06T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "EwQ902BJOSk",
+        "title": "Buccaneers vs. Saints Week 5 Highlights | NFL 2019",
+        "published_at": "2019-10-06T20:28:02Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 5,
+      "away": "MIN",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401127971"
+      },
+      "kickoff": "2019-10-06T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "90bc2Z6b6nk",
+        "title": "Vikings vs. Giants Week 5 Highlights | NFL 2019",
+        "published_at": "2019-10-06T20:36:56Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 5,
+      "away": "NYJ",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401128006"
+      },
+      "kickoff": "2019-10-06T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "8Ngj5WU_31g",
+        "title": "Jets vs. Eagles Week 5 Highlights | NFL 2019",
+        "published_at": "2019-10-06T20:30:25Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 5,
+      "away": "BAL",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401128011"
+      },
+      "kickoff": "2019-10-06T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ZGYLFBXeY5o",
+        "title": "Ravens vs. Steelers Week 5 Highlights | NFL 2019",
+        "published_at": "2019-10-06T20:44:40Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 5,
+      "away": "BUF",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401128014"
+      },
+      "kickoff": "2019-10-06T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "dpqPzJ4tosM",
+        "title": "Bills vs. Titans Week 5 Highlights | NFL 2019",
+        "published_at": "2019-10-06T20:16:35Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 5,
+      "away": "NE",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401127864"
+      },
+      "kickoff": "2019-10-06T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "r_ZbsKGBT9E",
+        "title": "Patriots vs. Redskins Week 5 Highlights | NFL 2019",
+        "published_at": "2019-10-06T20:39:59Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 5,
+      "away": "DEN",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401128019"
+      },
+      "kickoff": "2019-10-06T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "KiLhABp0b7w",
+        "title": "Broncos vs. Chargers Week 5 Highlights | NFL 2019",
+        "published_at": "2019-10-06T23:24:08Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 5,
+      "away": "GB",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401128029"
+      },
+      "kickoff": "2019-10-06T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "o9MOB2r88MM",
+        "title": "Packers vs. Cowboys Week 5 Highlights | NFL 2019",
+        "published_at": "2019-10-07T00:13:32Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 5,
+      "away": "IND",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401128053"
+      },
+      "kickoff": "2019-10-07T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "OVlY5kmr9gQ",
+        "title": "Colts vs. Chiefs Week 5 Highlights | NFL 2019",
+        "published_at": "2019-10-07T03:50:42Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 5,
+      "away": "CLE",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401128062"
+      },
+      "kickoff": "2019-10-08T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "u1smaezh-KE",
+        "title": "Browns vs. 49ers Week 5 Highlights | NFL 2019",
+        "published_at": "2019-10-08T03:22:33Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 6,
+      "away": "NYG",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401127917"
+      },
+      "kickoff": "2019-10-11T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "i5s6DqIrybo",
+        "title": "Giants vs. Patriots Week 6 Highlights | NFL 2019",
+        "published_at": "2019-10-11T03:37:01Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 6,
+      "away": "CAR",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401128096"
+      },
+      "kickoff": "2019-10-13T13:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "vacHJ_AG_fI",
+        "title": "Panthers vs. Buccaneers Week 6 Highlights | NFL 2019",
+        "published_at": "2019-10-13T17:18:14Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 6,
+      "away": "CIN",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401128105"
+      },
+      "kickoff": "2019-10-13T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "XadPqVwYEQ4",
+        "title": "Bengals vs. Ravens Week 6 Highlights | NFL 2019",
+        "published_at": "2019-10-13T20:32:27Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 6,
+      "away": "SEA",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401128111"
+      },
+      "kickoff": "2019-10-13T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "8CtxIK5uG1o",
+        "title": "Seahawks vs. Browns Week 6 Highlights | NFL 2019",
+        "published_at": "2019-10-13T20:54:30Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 6,
+      "away": "NO",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401128116"
+      },
+      "kickoff": "2019-10-13T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "wILAAAfBOyc",
+        "title": "Saints vs. Jaguars Week 6 Highlights | NFL 2019",
+        "published_at": "2019-10-13T20:07:57Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 6,
+      "away": "HOU",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401128119"
+      },
+      "kickoff": "2019-10-13T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "tAalzanFnhs",
+        "title": "Texans vs. Chiefs Week 6 Highlights | NFL 2019",
+        "published_at": "2019-10-13T20:23:08Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 6,
+      "away": "WSH",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401128121"
+      },
+      "kickoff": "2019-10-13T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "-62Ay0uH__o",
+        "title": "Redskins vs. Dolphins Week 6 Highlights | NFL 2019",
+        "published_at": "2019-10-13T20:37:23Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 6,
+      "away": "PHI",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401128123"
+      },
+      "kickoff": "2019-10-13T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "u1yFPjckooY",
+        "title": "Eagles vs. Vikings Week 6 Highlights | NFL 2019",
+        "published_at": "2019-10-13T20:28:23Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 6,
+      "away": "ATL",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401128126"
+      },
+      "kickoff": "2019-10-13T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Sr503a0_mtY",
+        "title": "Falcons vs. Cardinals Week 6 Highlights | NFL 2019",
+        "published_at": "2019-10-13T23:24:23Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 6,
+      "away": "SF",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401128128"
+      },
+      "kickoff": "2019-10-13T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "9heYbDdzMIY",
+        "title": "49ers vs. Rams Week 6 Highlights | NFL 2019",
+        "published_at": "2019-10-13T23:34:08Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 6,
+      "away": "TEN",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401128129"
+      },
+      "kickoff": "2019-10-13T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "HRyHdLl6mOI",
+        "title": "Titans vs. Broncos Week 6 Highlights | NFL 2019",
+        "published_at": "2019-10-13T23:47:34Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 6,
+      "away": "DAL",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401128130"
+      },
+      "kickoff": "2019-10-13T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "-Go6k-Eeg5w",
+        "title": "Cowboys vs. Jets Week 6 Highlights | NFL 2019",
+        "published_at": "2019-10-13T23:38:36Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 6,
+      "away": "PIT",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401128131"
+      },
+      "kickoff": "2019-10-14T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "XLCLyuusmtE",
+        "title": "Steelers vs. Chargers Week 6 Highlights | NFL 2019",
+        "published_at": "2019-10-14T03:27:17Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 6,
+      "away": "DET",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401128132"
+      },
+      "kickoff": "2019-10-15T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "XV0m5HTpmYo",
+        "title": "Lions vs. Packers Week 6 Highlights | NFL 2019",
+        "published_at": "2019-10-15T03:35:57Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 7,
+      "away": "KC",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401127902"
+      },
+      "kickoff": "2019-10-18T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "FRW-KRmZ4Nk",
+        "title": "Chiefs vs. Broncos Week 7 Highlights | NFL 2019",
+        "published_at": "2019-10-18T03:29:42Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 7,
+      "away": "LAR",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401127940"
+      },
+      "kickoff": "2019-10-20T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "D7FaoexULfI",
+        "title": "Rams vs. Falcons Week 7 Highlights | NFL 2019",
+        "published_at": "2019-10-20T20:17:34Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 7,
+      "away": "MIA",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401127942"
+      },
+      "kickoff": "2019-10-20T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "BsqBfYVtt2A",
+        "title": "Dolphins vs. Bills Week 7 Highlights | NFL 2019",
+        "published_at": "2019-10-20T20:15:31Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 7,
+      "away": "JAX",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401127945"
+      },
+      "kickoff": "2019-10-20T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "EUvLPHxaajE",
+        "title": "Jaguars vs. Bengals Week 7 Highlights | NFL 2019",
+        "published_at": "2019-10-20T20:34:44Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 7,
+      "away": "MIN",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401127947"
+      },
+      "kickoff": "2019-10-20T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "qZNXE110-Js",
+        "title": "Vikings vs. Lions Week 7 Highlights | NFL 2019",
+        "published_at": "2019-10-20T20:32:20Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 7,
+      "away": "LV",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401127949"
+      },
+      "kickoff": "2019-10-20T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "nZZn2760fgA",
+        "title": "Raiders vs. Packers Week 7 Highlights | NFL 2019",
+        "published_at": "2019-10-20T20:22:02Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 7,
+      "away": "HOU",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401127951"
+      },
+      "kickoff": "2019-10-20T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "QgO6Ln5sLfc",
+        "title": "Texans vs. Colts Week 7 Highlights | NFL 2019",
+        "published_at": "2019-10-20T20:28:35Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 7,
+      "away": "ARI",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401127974"
+      },
+      "kickoff": "2019-10-20T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "-nwbyU9xmhg",
+        "title": "Cardinals vs. Giants Week 7 Highlights | NFL 2019",
+        "published_at": "2019-10-20T20:20:01Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 7,
+      "away": "SF",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401127977"
+      },
+      "kickoff": "2019-10-20T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Ay_42hl38qA",
+        "title": "49ers vs. Redskins Week 7 Highlights | NFL 2019",
+        "published_at": "2019-10-20T19:52:53Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 7,
+      "away": "LAC",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401127979"
+      },
+      "kickoff": "2019-10-20T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "7rvsXjKMa0w",
+        "title": "Chargers vs. Titans Week 7 Highlights | NFL 2019",
+        "published_at": "2019-10-20T23:32:31Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 7,
+      "away": "NO",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401127982"
+      },
+      "kickoff": "2019-10-20T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "nBSQjopRCRQ",
+        "title": "Saints vs. Bears Week 7 Highlights | NFL 2019",
+        "published_at": "2019-10-21T00:03:19Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 7,
+      "away": "BAL",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401127985"
+      },
+      "kickoff": "2019-10-20T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "x7JquiB4Rgs",
+        "title": "Ravens vs. Seahawks Week 7 Highlights | NFL 2019",
+        "published_at": "2019-10-20T23:40:47Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 7,
+      "away": "PHI",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401127987"
+      },
+      "kickoff": "2019-10-21T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Z6MI4_sZlzg",
+        "title": "Eagles vs. Cowboys Week 7 Highlights | NFL 2019",
+        "published_at": "2019-10-21T03:31:38Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 7,
+      "away": "NE",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401127894"
+      },
+      "kickoff": "2019-10-22T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "oj2i0KXcHQM",
+        "title": "Patriots vs. Jets Week 7 Highlights | NFL 2019",
+        "published_at": "2019-10-22T03:32:07Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 8,
+      "away": "WSH",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401127905"
+      },
+      "kickoff": "2019-10-25T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "fwCS4Lu4qAM",
+        "title": "Redskins vs. Vikings Week 8 Highlights | NFL 2019",
+        "published_at": "2019-10-25T03:15:18Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 8,
+      "away": "SEA",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401128035"
+      },
+      "kickoff": "2019-10-27T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "XCQ1Ae6exzI",
+        "title": "Seahawks vs. Falcons Week 8 Highlights | NFL 2019",
+        "published_at": "2019-10-27T20:23:16Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 8,
+      "away": "PHI",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401128037"
+      },
+      "kickoff": "2019-10-27T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "aP2SwXULebg",
+        "title": "Eagles vs. Bills Week 8 Highlights | NFL 2019",
+        "published_at": "2019-10-27T20:27:25Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 8,
+      "away": "LAC",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401128039"
+      },
+      "kickoff": "2019-10-27T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "zL9HBRgsqqY",
+        "title": "Chargers vs. Bears Week 8 Highlights | NFL 2019",
+        "published_at": "2019-10-27T20:16:48Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 8,
+      "away": "NYG",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401128042"
+      },
+      "kickoff": "2019-10-27T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "IgcnC63JZmQ",
+        "title": "Giants vs. Lions Week 8 Highlights | NFL 2019",
+        "published_at": "2019-10-27T20:20:14Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 8,
+      "away": "DEN",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401128051"
+      },
+      "kickoff": "2019-10-27T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "FCAoROw_Mbw",
+        "title": "Broncos vs. Colts Week 8 Highlights | NFL 2019",
+        "published_at": "2019-10-27T20:34:26Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 8,
+      "away": "NYJ",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401128045"
+      },
+      "kickoff": "2019-10-27T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "CET5QOFOsYo",
+        "title": "Jets vs. Jaguars Week 8 Highlights | NFL 2019",
+        "published_at": "2019-10-27T20:37:36Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 8,
+      "away": "CIN",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401127912"
+      },
+      "kickoff": "2019-10-27T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "eEMeLE2getU",
+        "title": "Bengals vs. Rams Week 8 Highlights | NFL 2019",
+        "published_at": "2019-10-27T20:30:04Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 8,
+      "away": "ARI",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401128046"
+      },
+      "kickoff": "2019-10-27T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "skTUueeRoW0",
+        "title": "Cardinals vs. Saints Week 8 Highlights | NFL 2019",
+        "published_at": "2019-10-27T20:13:51Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 8,
+      "away": "TB",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401128048"
+      },
+      "kickoff": "2019-10-27T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "rNJLcAijU-M",
+        "title": "Buccaneers vs. Titans Week 8 Highlights | NFL 2019",
+        "published_at": "2019-10-27T20:46:04Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 8,
+      "away": "CAR",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401128050"
+      },
+      "kickoff": "2019-10-27T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "9qh98Vk4OC8",
+        "title": "Panthers vs. 49ers Week 8 Highlights | NFL 2019",
+        "published_at": "2019-10-27T23:23:52Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 8,
+      "away": "LV",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401128043"
+      },
+      "kickoff": "2019-10-27T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "UQvonZdksnE",
+        "title": "Raiders vs. Texans Week 8 Highlights | NFL 2019",
+        "published_at": "2019-10-27T23:43:41Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 8,
+      "away": "CLE",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401127895"
+      },
+      "kickoff": "2019-10-27T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "FjYeBCqnWwY",
+        "title": "Browns vs. Patriots Week 8 Highlights | NFL 2019",
+        "published_at": "2019-10-27T23:50:46Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 8,
+      "away": "GB",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401128073"
+      },
+      "kickoff": "2019-10-28T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "EY01Nvpn2Sw",
+        "title": "Packers vs. Chiefs Week 8 Highlights | NFL 2019",
+        "published_at": "2019-10-28T03:40:28Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 8,
+      "away": "MIA",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401128074"
+      },
+      "kickoff": "2019-10-29T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "fbnGvorFjxs",
+        "title": "Dolphins vs. Steelers Week 8 Highlights | NFL 2019",
+        "published_at": "2019-10-29T03:46:29Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 9,
+      "away": "SF",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401127908"
+      },
+      "kickoff": "2019-11-01T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "qAkM3Vyt8WY",
+        "title": "49ers vs. Cardinals Week 9 Highlights | NFL 2019",
+        "published_at": "2019-11-01T03:43:31Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 9,
+      "away": "HOU",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401127936"
+      },
+      "kickoff": "2019-11-03T14:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "dmTkq7CTgjE",
+        "title": "Texans vs. Jaguars Week 9 Highlights | NFL 2019",
+        "published_at": "2019-11-03T18:10:47Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 9,
+      "away": "WSH",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401128076"
+      },
+      "kickoff": "2019-11-03T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "0jZJ71hZmgI",
+        "title": "Redskins vs. Bills Week 9 Highlights | NFL 2019",
+        "published_at": "2019-11-03T21:02:17Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 9,
+      "away": "TEN",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401128078"
+      },
+      "kickoff": "2019-11-03T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "-PHYXvfNjvE",
+        "title": "Titans vs. Panthers Week 9 Highlights | NFL 2019",
+        "published_at": "2019-11-03T21:40:13Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 9,
+      "away": "MIN",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401128079"
+      },
+      "kickoff": "2019-11-03T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Fnx285o0Oq4",
+        "title": "Vikings vs. Chiefs Week 9 Highlights | NFL 2019",
+        "published_at": "2019-11-03T21:28:06Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 9,
+      "away": "NYJ",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401128080"
+      },
+      "kickoff": "2019-11-03T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "mQxWpvbzmcs",
+        "title": "Jets vs. Dolphins Week 9 Highlights | NFL 2019",
+        "published_at": "2019-11-03T21:36:56Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 9,
+      "away": "CHI",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401128082"
+      },
+      "kickoff": "2019-11-03T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "6XMz5gC9vBM",
+        "title": "Bears vs. Eagles Week 9 Highlights | NFL 2019",
+        "published_at": "2019-11-03T21:19:19Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 9,
+      "away": "IND",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401128083"
+      },
+      "kickoff": "2019-11-03T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Gq6gRbUHmH4",
+        "title": "Colts vs. Steelers Week 9 Highlights | NFL 2019",
+        "published_at": "2019-11-04T03:43:12Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 9,
+      "away": "DET",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401128085"
+      },
+      "kickoff": "2019-11-03T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "RILd7yaRc6E",
+        "title": "Lions vs. Raiders Week 9 Highlights | NFL 2019",
+        "published_at": "2019-11-04T00:42:58Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 9,
+      "away": "TB",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401128087"
+      },
+      "kickoff": "2019-11-03T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "c1p4RpaCtqA",
+        "title": "Buccaneers vs. Seahawks Week 9 Highlights | NFL 2019",
+        "published_at": "2019-11-04T01:03:00Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 9,
+      "away": "CLE",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401128088"
+      },
+      "kickoff": "2019-11-03T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "hVxKt6jK1zs",
+        "title": "Browns vs. Broncos Week 9 Highlights | NFL 2019",
+        "published_at": "2019-11-04T00:46:08Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 9,
+      "away": "GB",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401128090"
+      },
+      "kickoff": "2019-11-03T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "zYVojETpAUY",
+        "title": "Packers vs. Chargers Week 9 Highlights | NFL 2019",
+        "published_at": "2019-11-04T00:30:44Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 9,
+      "away": "NE",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401127899"
+      },
+      "kickoff": "2019-11-04T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "93qq-6Sydsk",
+        "title": "Patriots vs. Ravens Week 9 Highlights | NFL 2019",
+        "published_at": "2019-11-04T04:30:48Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 9,
+      "away": "DAL",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401128091"
+      },
+      "kickoff": "2019-11-05T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "S-3lZkQKz6k",
+        "title": "Cowboys vs. Giants Week 9 Highlights | NFL 2019",
+        "published_at": "2019-11-05T04:43:30Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 10,
+      "away": "LAC",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401127907"
+      },
+      "kickoff": "2019-11-08T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "RjJHXczhLX8",
+        "title": "Chargers vs. Raiders Week 10 Highlights | NFL 2019",
+        "published_at": "2019-11-08T04:47:14Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 10,
+      "away": "DET",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401127911"
+      },
+      "kickoff": "2019-11-10T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "e2GeEJ7XG94",
+        "title": "Lions vs. Bears Week 10 Highlights | NFL 2019",
+        "published_at": "2019-11-10T21:40:20Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 10,
+      "away": "BAL",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401127934"
+      },
+      "kickoff": "2019-11-10T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "VTfIPJUlMQU",
+        "title": "Ravens vs. Bengals Week 10 Highlights | NFL 2019",
+        "published_at": "2019-11-10T21:09:37Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 10,
+      "away": "BUF",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401127939"
+      },
+      "kickoff": "2019-11-10T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "7Uv9sYiEscU",
+        "title": "Bills vs. Browns Week 10 Highlights | NFL 2019",
+        "published_at": "2019-11-10T21:33:20Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 10,
+      "away": "ATL",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401127948"
+      },
+      "kickoff": "2019-11-10T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "5Nkyfu0iCmA",
+        "title": "Falcons vs. Saints Week 10 Highlights | NFL 2019",
+        "published_at": "2019-11-10T21:36:48Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 10,
+      "away": "NYG",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401127952"
+      },
+      "kickoff": "2019-11-10T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "gh1ZLx1j2uc",
+        "title": "Giants vs. Jets Week 10 Highlights | NFL 2019",
+        "published_at": "2019-11-10T21:31:57Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 10,
+      "away": "ARI",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401127976"
+      },
+      "kickoff": "2019-11-10T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "jshb-sDfdRk",
+        "title": "Cardinals vs. Buccaneers Week 10 Highlights | NFL 2019",
+        "published_at": "2019-11-10T21:46:35Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 10,
+      "away": "KC",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401127981"
+      },
+      "kickoff": "2019-11-10T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "oJEXxZmJq5k",
+        "title": "Chiefs vs. Titans Week 10 Highlights | NFL 2019",
+        "published_at": "2019-11-10T21:38:28Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 10,
+      "away": "MIA",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401127986"
+      },
+      "kickoff": "2019-11-10T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "1KzBOdZPSDw",
+        "title": "Dolphins vs. Colts Week 10 Highlights | NFL 2019",
+        "published_at": "2019-11-11T00:19:11Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 10,
+      "away": "CAR",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401127944"
+      },
+      "kickoff": "2019-11-10T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "FHBZ6mIB4jQ",
+        "title": "Panthers vs. Packers Week 10 Highlights | NFL 2019",
+        "published_at": "2019-11-11T01:00:55Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 10,
+      "away": "LAR",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401127989"
+      },
+      "kickoff": "2019-11-10T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "dnfGEDHB7Uk",
+        "title": "Rams vs. Steelers Week 10 Highlights | NFL 2019",
+        "published_at": "2019-11-11T01:21:34Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 10,
+      "away": "MIN",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401128041"
+      },
+      "kickoff": "2019-11-11T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "5m-vAN7Uh_s",
+        "title": "Vikings vs. Cowboys Week 10 Highlights | NFL 2019",
+        "published_at": "2019-11-11T04:37:49Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 10,
+      "away": "SEA",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401127992"
+      },
+      "kickoff": "2019-11-12T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "S-OtHWvL8K0",
+        "title": "Seahawks vs. 49ers Week 10 Highlights | NFL 2019",
+        "published_at": "2019-11-12T05:26:29Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 11,
+      "away": "PIT",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401128044"
+      },
+      "kickoff": "2019-11-15T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "7O_aTOSoiTs",
+        "title": "Steelers vs. Browns Week 11 Highlights | NFL 2019",
+        "published_at": "2019-11-15T05:01:08Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 11,
+      "away": "HOU",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401128047"
+      },
+      "kickoff": "2019-11-17T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "1lIwxfxRZvs",
+        "title": "Texans vs. Ravens Week 11 Highlights | NFL 2019",
+        "published_at": "2019-11-17T21:17:56Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 11,
+      "away": "ATL",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401128049"
+      },
+      "kickoff": "2019-11-17T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ODsaLKpT5cg",
+        "title": "Falcons vs. Panthers Week 11 Highlights | NFL 2019",
+        "published_at": "2019-11-17T21:21:10Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 11,
+      "away": "DAL",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401128052"
+      },
+      "kickoff": "2019-11-17T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "aYcaG3gUtbI",
+        "title": "Cowboys vs. Lions Week 11 Highlights | NFL 2019",
+        "published_at": "2019-11-17T21:38:06Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 11,
+      "away": "JAX",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401128075"
+      },
+      "kickoff": "2019-11-17T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "R-67J480IQ8",
+        "title": "Jaguars vs. Colts Week 11 Highlights | NFL 2019",
+        "published_at": "2019-11-17T22:02:33Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 11,
+      "away": "BUF",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401128077"
+      },
+      "kickoff": "2019-11-17T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "xyK9zmFBSsM",
+        "title": "Bills vs. Dolphins Week 11 Highlights | NFL 2019",
+        "published_at": "2019-11-17T21:35:58Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 11,
+      "away": "DEN",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401128081"
+      },
+      "kickoff": "2019-11-17T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "qz4C_i13mxg",
+        "title": "Broncos vs. Vikings Week 11 Highlights | NFL 2019",
+        "published_at": "2019-11-17T21:34:38Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 11,
+      "away": "NO",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401128084"
+      },
+      "kickoff": "2019-11-17T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "kZSY3MuAGNI",
+        "title": "Saints vs. Buccaneers Week 11 Highlights | NFL 2019",
+        "published_at": "2019-11-17T21:25:45Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 11,
+      "away": "NYJ",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401128086"
+      },
+      "kickoff": "2019-11-17T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "xUbp-YQ7f64",
+        "title": "Jets vs. Redskins Week 11 Highlights | NFL 2019",
+        "published_at": "2019-11-17T21:33:30Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 11,
+      "away": "ARI",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401128089"
+      },
+      "kickoff": "2019-11-17T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "0gqxZzgLlWE",
+        "title": "Cardinals vs. 49ers Week 11 Highlights | NFL 2019",
+        "published_at": "2019-11-18T00:45:16Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 11,
+      "away": "CIN",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401128092"
+      },
+      "kickoff": "2019-11-17T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Fvx4af-TR1Q",
+        "title": "Bengals vs. Raiders Week 11 Highlights | NFL 2019",
+        "published_at": "2019-11-18T00:44:55Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 11,
+      "away": "NE",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401127897"
+      },
+      "kickoff": "2019-11-17T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "1ZgOJaP2R2U",
+        "title": "Patriots vs. Eagles Week 11 Highlights | NFL 2019",
+        "published_at": "2019-11-18T01:01:06Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 11,
+      "away": "CHI",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401128133"
+      },
+      "kickoff": "2019-11-18T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "oQyvCfXS81s",
+        "title": "Bears vs. Rams Week 11 Highlights | NFL 2019",
+        "published_at": "2019-11-18T04:22:52Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 11,
+      "away": "KC",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401128134"
+      },
+      "kickoff": "2019-11-19T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "YzopYVd2wzY",
+        "title": "Chiefs vs. Chargers Week 11 Highlights | NFL 2019",
+        "published_at": "2019-11-19T04:56:11Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 12,
+      "away": "IND",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401127865"
+      },
+      "kickoff": "2019-11-22T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "NuNRUnbLSw8",
+        "title": "Colts vs. Texans Week 12 Highlights | NFL 2019",
+        "published_at": "2019-11-22T04:30:22Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 12,
+      "away": "TB",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401127870"
+      },
+      "kickoff": "2019-11-24T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "PPWGRdcQDQI",
+        "title": "Buccaneers vs. Falcons Week 12 Highlights | NFL 2019",
+        "published_at": "2019-11-24T21:43:18Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 12,
+      "away": "DEN",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401127872"
+      },
+      "kickoff": "2019-11-24T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "vYAxuLqcMy8",
+        "title": "Broncos vs. Bills Week 12 Highlights | NFL 2019",
+        "published_at": "2019-11-24T21:23:46Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 12,
+      "away": "NYG",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401127914"
+      },
+      "kickoff": "2019-11-24T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "gmh3MsNoy0M",
+        "title": "Giants vs. Bears Week 12 Highlights | NFL 2019",
+        "published_at": "2019-11-24T21:20:59Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 12,
+      "away": "PIT",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401127918"
+      },
+      "kickoff": "2019-11-24T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "fYARb-QsDSI",
+        "title": "Steelers vs. Bengals Week 12 Highlights | NFL 2019",
+        "published_at": "2019-11-24T21:25:27Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 12,
+      "away": "MIA",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401127919"
+      },
+      "kickoff": "2019-11-24T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "8JdxmTEcVaw",
+        "title": "Dolphins vs. Browns Week 12 Highlights | NFL 2019",
+        "published_at": "2019-11-24T21:31:17Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 12,
+      "away": "CAR",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401127922"
+      },
+      "kickoff": "2019-11-24T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "auWp0HtgF4I",
+        "title": "Panthers vs. Saints Week 12 Highlights | NFL 2019",
+        "published_at": "2019-11-24T21:44:33Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 12,
+      "away": "LV",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401127924"
+      },
+      "kickoff": "2019-11-24T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "7dFJjvlvm0o",
+        "title": "Raiders vs. Jets Week 12 Highlights | NFL 2019",
+        "published_at": "2019-11-24T21:08:42Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 12,
+      "away": "SEA",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401128008"
+      },
+      "kickoff": "2019-11-24T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "rj0sh8KbSF4",
+        "title": "Seahawks vs. Eagles Week 12 Highlights | NFL 2019",
+        "published_at": "2019-11-24T21:37:26Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 12,
+      "away": "DET",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401127996"
+      },
+      "kickoff": "2019-11-24T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "H8k_9VdC5Es",
+        "title": "Lions vs. Redskins Week 12 Highlights | NFL 2019",
+        "published_at": "2019-11-24T21:37:05Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 12,
+      "away": "JAX",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401128000"
+      },
+      "kickoff": "2019-11-24T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "HP90C9NXvrA",
+        "title": "Jaguars vs. Titans Week 12 Highlights | NFL 2019",
+        "published_at": "2019-11-25T00:21:01Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 12,
+      "away": "DAL",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401127957"
+      },
+      "kickoff": "2019-11-24T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "NDj76YId6WI",
+        "title": "Cowboys vs. Patriots Week 12 Highlights | NFL 2019",
+        "published_at": "2019-11-25T00:47:33Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 12,
+      "away": "GB",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401128004"
+      },
+      "kickoff": "2019-11-25T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ZJMyUgvrx2k",
+        "title": "Packers vs. 49ers Week 12 Highlights | NFL 2019",
+        "published_at": "2019-11-25T04:28:22Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 12,
+      "away": "BAL",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401128012"
+      },
+      "kickoff": "2019-11-26T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "92LgF8-WrQk",
+        "title": "Ravens vs. Rams Week 12 Highlights | NFL 2019",
+        "published_at": "2019-11-26T04:20:04Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 13,
+      "away": "CHI",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401128015"
+      },
+      "kickoff": "2019-11-28T17:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "iIvZVUcwaz0",
+        "title": "Bears vs. Lions Week 13 Highlights | NFL 2019",
+        "published_at": "2019-11-28T21:12:08Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 13,
+      "away": "BUF",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401128017"
+      },
+      "kickoff": "2019-11-28T21:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "hmVut-6Acp4",
+        "title": "Bills vs. Cowboys Week 13 Highlights | NFL 2019",
+        "published_at": "2019-11-29T00:55:36Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 13,
+      "away": "NO",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401128022"
+      },
+      "kickoff": "2019-11-29T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "L6YCsk46Lo0",
+        "title": "Saints vs. Falcons Week 13 Highlights | NFL 2019",
+        "published_at": "2019-11-29T04:51:47Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 13,
+      "away": "SF",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401128027"
+      },
+      "kickoff": "2019-12-01T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "j-ryInG6ErA",
+        "title": "49ers vs. Ravens Week 13 Highlights | NFL 2019",
+        "published_at": "2019-12-01T21:14:42Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 13,
+      "away": "WSH",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401128032"
+      },
+      "kickoff": "2019-12-01T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "FamJBwyBgT4",
+        "title": "Redskins vs. Panthers Week 13 Highlights | NFL 2019",
+        "published_at": "2019-12-01T22:46:00Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 13,
+      "away": "NYJ",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401128057"
+      },
+      "kickoff": "2019-12-01T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "E-QcD7kMRpI",
+        "title": "Jets vs. Bengals Week 13 Highlights | NFL 2019",
+        "published_at": "2019-12-01T21:25:03Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 13,
+      "away": "TEN",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401128058"
+      },
+      "kickoff": "2019-12-01T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Yc2gnN3eAsI",
+        "title": "Titans vs. Colts Week 13 Highlights | NFL 2019",
+        "published_at": "2019-12-01T21:27:09Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 13,
+      "away": "TB",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401128063"
+      },
+      "kickoff": "2019-12-01T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "dnOSuMO5dUg",
+        "title": "Buccaneers vs. Jaguars Week 13 Highlights | NFL 2019",
+        "published_at": "2019-12-01T21:36:52Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 13,
+      "away": "PHI",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401128070"
+      },
+      "kickoff": "2019-12-01T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "2GhZEQyS4P8",
+        "title": "Eagles vs. Dolphins Week 13 Highlights | NFL 2019",
+        "published_at": "2019-12-01T21:51:53Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 13,
+      "away": "GB",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401128095"
+      },
+      "kickoff": "2019-12-01T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "NYlocVPlMoM",
+        "title": "Packers vs. Giants Week 13 Highlights | NFL 2019",
+        "published_at": "2019-12-01T21:11:17Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 13,
+      "away": "CLE",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401128107"
+      },
+      "kickoff": "2019-12-01T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "6Xjc-ckQf7A",
+        "title": "Browns vs. Steelers Week 13 Highlights | NFL 2019",
+        "published_at": "2019-12-01T21:33:52Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 13,
+      "away": "LAR",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401128100"
+      },
+      "kickoff": "2019-12-01T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "fTLpld5hpO8",
+        "title": "Rams vs. Cardinals Week 13 Highlights | NFL 2019",
+        "published_at": "2019-12-02T00:15:10Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 13,
+      "away": "LAC",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401128104"
+      },
+      "kickoff": "2019-12-01T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "obsKUjOYSC8",
+        "title": "Chargers vs. Broncos Week 13 Highlights | NFL 2019",
+        "published_at": "2019-12-02T00:46:49Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 13,
+      "away": "LV",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401128067"
+      },
+      "kickoff": "2019-12-01T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "PTbf-VL5UiE",
+        "title": "Raiders vs. Chiefs Week 13 Highlights | NFL 2019",
+        "published_at": "2019-12-02T00:30:38Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 13,
+      "away": "NE",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401127967"
+      },
+      "kickoff": "2019-12-02T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "X3p6tH12HxU",
+        "title": "Patriots vs. Texans Week 13 Highlights | NFL 2019",
+        "published_at": "2019-12-02T04:47:24Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 13,
+      "away": "MIN",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401128112"
+      },
+      "kickoff": "2019-12-03T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "jyBY-I37P9M",
+        "title": "Vikings vs. Seahawks Week 13 Highlights | NFL 2019",
+        "published_at": "2019-12-03T04:42:07Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 14,
+      "away": "DAL",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401127871"
+      },
+      "kickoff": "2019-12-06T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "mvDOx1dP6pE",
+        "title": "Cowboys vs. Bears Week 14 Highlights | NFL 2019",
+        "published_at": "2019-12-06T04:47:57Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 14,
+      "away": "CAR",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401127869"
+      },
+      "kickoff": "2019-12-08T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Y2eBdPq9K0I",
+        "title": "Panthers vs. Falcons Week 14 Highlights | NFL 2019",
+        "published_at": "2019-12-08T22:00:40Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 14,
+      "away": "BAL",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401127868"
+      },
+      "kickoff": "2019-12-08T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "0u_nrju8Ohw",
+        "title": "Ravens vs. Bills Week 14 Highlights | NFL 2019",
+        "published_at": "2019-12-08T21:53:19Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 14,
+      "away": "CIN",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401127867"
+      },
+      "kickoff": "2019-12-08T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "EKnB2qSzvos",
+        "title": "Bengals vs. Browns Week 14 Highlights | NFL 2019",
+        "published_at": "2019-12-08T22:11:07Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 14,
+      "away": "WSH",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401127916"
+      },
+      "kickoff": "2019-12-08T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "cFRzJ5bPwW0",
+        "title": "Redskins vs. Packers Week 14 Highlights | NFL 2019",
+        "published_at": "2019-12-08T22:16:28Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 14,
+      "away": "DEN",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401127920"
+      },
+      "kickoff": "2019-12-08T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "7c6IjKnvgO4",
+        "title": "Broncos vs. Texans Week 14 Highlights | NFL 2019",
+        "published_at": "2019-12-08T22:07:51Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 14,
+      "away": "DET",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401127926"
+      },
+      "kickoff": "2019-12-08T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "nQd5-lps8qg",
+        "title": "Lions vs. Vikings Week 14 Highlights | NFL 2019",
+        "published_at": "2019-12-08T21:57:17Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 14,
+      "away": "SF",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401127964"
+      },
+      "kickoff": "2019-12-08T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "i01R1fA6gos",
+        "title": "49ers vs. Saints Week 14 Highlights | NFL 2019",
+        "published_at": "2019-12-08T22:03:46Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 14,
+      "away": "MIA",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401127969"
+      },
+      "kickoff": "2019-12-08T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "6WJ0Cg3W-94",
+        "title": "Dolphins vs. Jets Week 14 Highlights | NFL 2019",
+        "published_at": "2019-12-08T21:55:23Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 14,
+      "away": "IND",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401127994"
+      },
+      "kickoff": "2019-12-08T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "-5r3LTeT7es",
+        "title": "Colts vs. Buccaneers Week 14 Highlights | NFL 2019",
+        "published_at": "2019-12-08T22:15:05Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 14,
+      "away": "LAC",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401127997"
+      },
+      "kickoff": "2019-12-08T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "o4dq0amHLAQ",
+        "title": "Chargers vs. Jaguars Week 14 Highlights | NFL 2019",
+        "published_at": "2019-12-09T00:16:28Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 14,
+      "away": "PIT",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401128002"
+      },
+      "kickoff": "2019-12-08T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "2dSaS5mQjUs",
+        "title": "Steelers vs. Cardinals Week 14 Highlights | NFL 2019",
+        "published_at": "2019-12-09T00:27:57Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 14,
+      "away": "TEN",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401128005"
+      },
+      "kickoff": "2019-12-08T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "WRl_wkzoWSg",
+        "title": "Titans vs. Raiders Week 14 Highlights | NFL 2019",
+        "published_at": "2019-12-09T00:38:19Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 14,
+      "away": "KC",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401127930"
+      },
+      "kickoff": "2019-12-08T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "S2jwGCHC-sk",
+        "title": "Chiefs vs. Patriots Week 14 Highlights | NFL 2019",
+        "published_at": "2019-12-09T00:51:20Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 14,
+      "away": "SEA",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401128009"
+      },
+      "kickoff": "2019-12-09T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "6TBZ1NDtUQo",
+        "title": "Seahawks vs. Rams Week 14 Highlights | NFL 2019",
+        "published_at": "2019-12-09T04:34:00Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 14,
+      "away": "NYG",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401128013"
+      },
+      "kickoff": "2019-12-10T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "JA240T3Z4xk",
+        "title": "Giants vs. Eagles Week 14 Highlights | NFL 2019",
+        "published_at": "2019-12-10T04:52:24Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 15,
+      "away": "NYJ",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401128020"
+      },
+      "kickoff": "2019-12-13T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "X0RdVpPdpYU",
+        "title": "Jets vs. Ravens Week 15 Highlights | NFL 2019",
+        "published_at": "2019-12-13T04:35:55Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 15,
+      "away": "SEA",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401128024"
+      },
+      "kickoff": "2019-12-15T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "dolPhb5JPgw",
+        "title": "Seahawks vs. Panthers Week 15 Highlights | NFL 2019",
+        "published_at": "2019-12-15T21:28:21Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 15,
+      "away": "NE",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401127955"
+      },
+      "kickoff": "2019-12-15T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "0OuMXtTalCw",
+        "title": "Patriots vs. Bengals Week 15 Highlights | NFL 2019",
+        "published_at": "2019-12-15T21:17:56Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 15,
+      "away": "TB",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401128028"
+      },
+      "kickoff": "2019-12-15T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "QhVTFih2_Qw",
+        "title": "Buccaneers vs. Lions Week 15 Highlights | NFL 2019",
+        "published_at": "2019-12-15T21:43:41Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 15,
+      "away": "CHI",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401128031"
+      },
+      "kickoff": "2019-12-15T18:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 15,
+      "away": "DEN",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401128056"
+      },
+      "kickoff": "2019-12-15T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "PVa_v6Htrlo",
+        "title": "Broncos vs. Chiefs Week 15 Highlights | NFL 2019",
+        "published_at": "2019-12-15T21:21:52Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 15,
+      "away": "MIA",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401128060"
+      },
+      "kickoff": "2019-12-15T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "MNW8MN2HmeM",
+        "title": "Dolphins vs. Giants Week 15 Highlights | NFL 2019",
+        "published_at": "2019-12-15T21:37:55Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 15,
+      "away": "HOU",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401128068"
+      },
+      "kickoff": "2019-12-15T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "PiR0LvqpDSk",
+        "title": "Texans vs. Titans Week 15 Highlights | NFL 2019",
+        "published_at": "2019-12-15T21:21:05Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 15,
+      "away": "PHI",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401128071"
+      },
+      "kickoff": "2019-12-15T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "VxxfeSm4BjE",
+        "title": "Eagles vs. Redskins Week 15 Highlights | NFL 2019",
+        "published_at": "2019-12-15T21:37:35Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 15,
+      "away": "CLE",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401128094"
+      },
+      "kickoff": "2019-12-15T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "QuuHRnoUnqQ",
+        "title": "Browns vs. Cardinals Week 15 Highlights | NFL 2019",
+        "published_at": "2019-12-16T00:25:13Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 15,
+      "away": "MIN",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401128113"
+      },
+      "kickoff": "2019-12-15T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "yzmhDaMXeFw",
+        "title": "Vikings vs. Chargers Week 15 Highlights | NFL 2019",
+        "published_at": "2019-12-16T00:25:00Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 15,
+      "away": "JAX",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401128099"
+      },
+      "kickoff": "2019-12-15T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "fq-v90eLZ1Q",
+        "title": "Jaguars vs. Raiders Week 15 Highlights | NFL 2019",
+        "published_at": "2019-12-16T00:24:42Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 15,
+      "away": "LAR",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401128103"
+      },
+      "kickoff": "2019-12-15T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "f5bOyeuTR78",
+        "title": "Rams vs. Cowboys Week 15 Highlights | NFL 2019",
+        "published_at": "2019-12-16T00:56:14Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 15,
+      "away": "ATL",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401128108"
+      },
+      "kickoff": "2019-12-15T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "7bdThqHu5RY",
+        "title": "Falcons vs. 49ers Week 15 Highlights | NFL 2019",
+        "published_at": "2019-12-16T00:56:53Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 15,
+      "away": "BUF",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401128065"
+      },
+      "kickoff": "2019-12-16T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "M96905O7H_8",
+        "title": "Bills vs. Steelers Week 15 Highlights | NFL 2019",
+        "published_at": "2019-12-16T04:39:01Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 15,
+      "away": "IND",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401128117"
+      },
+      "kickoff": "2019-12-17T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "91EbLwkdkV4",
+        "title": "Colts vs. Saints Week 15 Highlights | NFL 2019",
+        "published_at": "2019-12-17T04:21:12Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 16,
+      "away": "HOU",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401127901"
+      },
+      "kickoff": "2019-12-21T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "mPOIUR1CPP0",
+        "title": "Texans vs. Buccaneers Week 16 Highlights | NFL 2019",
+        "published_at": "2019-12-21T21:38:22Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 16,
+      "away": "BUF",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401127898"
+      },
+      "kickoff": "2019-12-21T21:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "y2BldpOYW_0",
+        "title": "Bills vs. Patriots Week 16 Highlights | NFL 2019",
+        "published_at": "2019-12-22T00:49:37Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 16,
+      "away": "LAR",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401127900"
+      },
+      "kickoff": "2019-12-22T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "qsoIAtuACC0",
+        "title": "Rams vs. 49ers Week 16 Highlights | NFL 2019",
+        "published_at": "2019-12-22T04:35:21Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 16,
+      "away": "JAX",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401127903"
+      },
+      "kickoff": "2019-12-22T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "u4HaBFdA0vo",
+        "title": "Jaguars vs. Falcons Week 16 Highlights | NFL 2019",
+        "published_at": "2019-12-22T21:17:23Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 16,
+      "away": "BAL",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401127904"
+      },
+      "kickoff": "2019-12-22T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "kBQEC0510Bw",
+        "title": "Ravens vs. Browns Week 16 Highlights | NFL 2019",
+        "published_at": "2019-12-22T21:26:39Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 16,
+      "away": "CAR",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401127906"
+      },
+      "kickoff": "2019-12-22T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "PTYQ_JxyYoA",
+        "title": "Panthers vs. Colts Week 16 Highlights | NFL 2019",
+        "published_at": "2019-12-22T21:20:40Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 16,
+      "away": "CIN",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401127910"
+      },
+      "kickoff": "2019-12-22T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "B7EKfgqr1Is",
+        "title": "Bengals vs. Dolphins Week 16 Highlights | NFL 2019",
+        "published_at": "2019-12-22T22:19:39Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 16,
+      "away": "PIT",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401127933"
+      },
+      "kickoff": "2019-12-22T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "t6e2Q5-oVZ8",
+        "title": "Steelers vs. Jets Week 16 Highlights | NFL 2019",
+        "published_at": "2019-12-22T21:17:58Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 16,
+      "away": "NO",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401127935"
+      },
+      "kickoff": "2019-12-22T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "GXFZoeBcrSA",
+        "title": "Saints vs. Titans Week 16 Highlights | NFL 2019",
+        "published_at": "2019-12-22T21:39:06Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 16,
+      "away": "NYG",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401127937"
+      },
+      "kickoff": "2019-12-22T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "bQOFpw8PcCc",
+        "title": "Giants vs. Redskins Week 16 Highlights | NFL 2019",
+        "published_at": "2019-12-22T22:00:35Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 16,
+      "away": "DET",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401127893"
+      },
+      "kickoff": "2019-12-22T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "kTC-WAF-768",
+        "title": "Lions vs. Broncos Week 16 Highlights | NFL 2019",
+        "published_at": "2019-12-23T00:09:17Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 16,
+      "away": "LV",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401127896"
+      },
+      "kickoff": "2019-12-22T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "PZH4u6leh3Q",
+        "title": "Raiders vs. Chargers Week 16 Highlights | NFL 2019",
+        "published_at": "2019-12-23T00:15:42Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 16,
+      "away": "DAL",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401127938"
+      },
+      "kickoff": "2019-12-22T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "6DppN_zO_IU",
+        "title": "Cowboys vs. Eagles Week 16 Highlights | NFL 2019",
+        "published_at": "2019-12-23T00:47:10Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 16,
+      "away": "ARI",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401127941"
+      },
+      "kickoff": "2019-12-22T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "7RDqxTUTPL8",
+        "title": "Cardinals vs. Seahawks Week 16 Highlights | NFL 2019",
+        "published_at": "2019-12-23T01:16:49Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 16,
+      "away": "KC",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401127943"
+      },
+      "kickoff": "2019-12-23T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "W1nl22YjHRQ",
+        "title": "Chiefs vs. Bears Week 16 Highlights | NFL 2019",
+        "published_at": "2019-12-23T04:22:15Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 16,
+      "away": "GB",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401127946"
+      },
+      "kickoff": "2019-12-24T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Et64BG708rU",
+        "title": "Packers vs. Vikings Week 16 Highlights | NFL 2019",
+        "published_at": "2019-12-24T04:40:54Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 17,
+      "away": "NYJ",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401127973"
+      },
+      "kickoff": "2019-12-29T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "B64ZvK45lr0",
+        "title": "Jets vs. Bills Week 17 Highlights | NFL 2019",
+        "published_at": "2019-12-29T21:20:43Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 17,
+      "away": "NO",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401127975"
+      },
+      "kickoff": "2019-12-29T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "TVkD_RmVsJc",
+        "title": "Saints vs. Panthers Week 17 Highlights | NFL 2019",
+        "published_at": "2019-12-29T21:25:49Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 17,
+      "away": "CLE",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401127978"
+      },
+      "kickoff": "2019-12-29T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "7sI7BuuDE5A",
+        "title": "Browns vs. Bengals Week 17 Highlights | NFL 2019",
+        "published_at": "2019-12-29T21:29:38Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 17,
+      "away": "GB",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401127983"
+      },
+      "kickoff": "2019-12-29T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ZosczZuc_Z4",
+        "title": "Packers vs. Lions Week 17 Highlights | NFL 2019",
+        "published_at": "2019-12-29T21:39:43Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 17,
+      "away": "LAC",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401127990"
+      },
+      "kickoff": "2019-12-29T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "DX3IfYegirI",
+        "title": "Chargers vs. Chiefs Week 17 Highlights | NFL 2019",
+        "published_at": "2019-12-29T21:24:25Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 17,
+      "away": "CHI",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401127991"
+      },
+      "kickoff": "2019-12-29T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "i04mRvBggQc",
+        "title": "Bears vs. Vikings Week 17 Highlights | NFL 2019",
+        "published_at": "2019-12-29T21:18:49Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 17,
+      "away": "MIA",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401127909"
+      },
+      "kickoff": "2019-12-29T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "QShZYwHnlW8",
+        "title": "Dolphins vs. Patriots Week 17 Highlights | NFL 2019",
+        "published_at": "2019-12-29T21:31:29Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 17,
+      "away": "ATL",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401128034"
+      },
+      "kickoff": "2019-12-29T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "IhzAQXSSxc4",
+        "title": "Falcons vs. Buccaneers Week 17 Highlights | NFL 2019",
+        "published_at": "2019-12-29T21:36:15Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 17,
+      "away": "PIT",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401127950"
+      },
+      "kickoff": "2019-12-29T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "FzC0CT5DyLA",
+        "title": "Steelers vs. Ravens Week 17 Highlights | NFL 2019",
+        "published_at": "2019-12-30T00:46:15Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 17,
+      "away": "WSH",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401127980"
+      },
+      "kickoff": "2019-12-29T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "wA-3PZjVqnY",
+        "title": "Redskins vs. Cowboys Week 17 Highlights | NFL 2019",
+        "published_at": "2019-12-30T00:57:08Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 17,
+      "away": "LV",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401128036"
+      },
+      "kickoff": "2019-12-29T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "FbteGVnLUGo",
+        "title": "Raiders vs. Broncos Week 17 Highlights | NFL 2019",
+        "published_at": "2019-12-30T01:04:16Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 17,
+      "away": "TEN",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401127984"
+      },
+      "kickoff": "2019-12-29T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Z-tkZ_5U-AQ",
+        "title": "Titans vs. Texans Week 17 Highlights | NFL 2019",
+        "published_at": "2019-12-30T00:38:14Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 17,
+      "away": "IND",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401127988"
+      },
+      "kickoff": "2019-12-29T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Ivt20VY3W-c",
+        "title": "Colts vs. Jaguars Week 17 Highlights | NFL 2019",
+        "published_at": "2019-12-30T00:45:37Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 17,
+      "away": "ARI",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401128038"
+      },
+      "kickoff": "2019-12-29T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "UTj6TtLAPVs",
+        "title": "Cardinals vs. Rams Week 17 Highlights | NFL 2019",
+        "published_at": "2019-12-30T01:02:24Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 17,
+      "away": "PHI",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401128033"
+      },
+      "kickoff": "2019-12-29T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Lb7LCFbpc9g",
+        "title": "Eagles vs. Giants Week 17 Highlights | NFL 2019",
+        "published_at": "2019-12-30T00:53:24Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "regular",
+      "week": 17,
+      "away": "SF",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401128040"
+      },
+      "kickoff": "2019-12-30T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Bru8AddADvo",
+        "title": "49ers vs. Seahawks Week 17 Highlights | NFL 2019",
+        "published_at": "2019-12-30T04:45:42Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "postseason",
+      "week": 18,
+      "away": "BUF",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401131037"
+      },
+      "kickoff": "2020-01-04T21:35:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "OiSv4ReZj7A",
+        "title": "Bills vs. Texans Wild Card Round Highlights | NFL 2019 Playoffs",
+        "published_at": "2020-01-05T01:35:21Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "postseason",
+      "week": 18,
+      "away": "TEN",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401131036"
+      },
+      "kickoff": "2020-01-05T01:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "R9xKoauyyBc",
+        "title": "Titans vs. Patriots Wild Card Round Highlights | NFL 2019 Playoffs",
+        "published_at": "2020-01-05T04:43:54Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "postseason",
+      "week": 18,
+      "away": "MIN",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401131038"
+      },
+      "kickoff": "2020-01-05T18:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "FRF5pcX741o",
+        "title": "Vikings vs. Saints Wild Card Round Highlights | NFL 2019 Playoffs",
+        "published_at": "2020-01-05T21:46:29Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "postseason",
+      "week": 18,
+      "away": "SEA",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401131039"
+      },
+      "kickoff": "2020-01-05T21:40:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "VILnSSsH6Ac",
+        "title": "Seahawks vs. Eagles Wild Card Round Highlights | NFL 2019 Playoffs",
+        "published_at": "2020-01-06T00:48:35Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "postseason",
+      "week": 19,
+      "away": "MIN",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401131040"
+      },
+      "kickoff": "2020-01-11T21:35:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "nMJVlo2h104",
+        "title": "Vikings vs. 49ers Divisional Round Highlights | NFL 2019 Playoffs",
+        "published_at": "2020-01-12T00:42:20Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "postseason",
+      "week": 19,
+      "away": "TEN",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401131041"
+      },
+      "kickoff": "2020-01-12T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "4AklFoHlpas",
+        "title": "Titans vs. Ravens Divisional Round Highlights | NFL 2019 Playoffs",
+        "published_at": "2020-01-12T04:39:46Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "postseason",
+      "week": 19,
+      "away": "HOU",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401131043"
+      },
+      "kickoff": "2020-01-12T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "-R1s1wv5y5g",
+        "title": "Texans vs. Chiefs Divisional Round Highlights | NFL 2019 Playoffs",
+        "published_at": "2020-01-12T23:50:06Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "postseason",
+      "week": 19,
+      "away": "SEA",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401131042"
+      },
+      "kickoff": "2020-01-12T23:40:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "5_bVkYh05ts",
+        "title": "Seahawks vs. Packers Divisional Round Highlights | NFL 2019 Playoffs",
+        "published_at": "2020-01-13T03:02:12Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "postseason",
+      "week": 20,
+      "away": "TEN",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401131044"
+      },
+      "kickoff": "2020-01-19T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "H8vsregtUhM",
+        "title": "Titans vs. Chiefs AFC Championship Highlights | NFL 2019 Playoffs",
+        "published_at": "2020-01-19T23:30:16Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "postseason",
+      "week": 20,
+      "away": "GB",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401131045"
+      },
+      "kickoff": "2020-01-19T23:40:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ma9XORfw_bM",
+        "title": "Packers vs. 49ers NFC Championship Highlights | NFL 2019 Playoffs",
+        "published_at": "2020-01-20T02:56:14Z"
+      }
+    },
+    {
+      "season": 2019,
+      "season_type": "postseason",
+      "week": 21,
+      "away": "SF",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401131047"
+      },
+      "kickoff": "2020-02-02T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "UVV80kTudSM",
+        "title": "49ers vs. Chiefs | Super Bowl LIV Game Highlights",
+        "published_at": "2020-02-03T03:23:38Z"
+      }
+    }
+  ]
+}

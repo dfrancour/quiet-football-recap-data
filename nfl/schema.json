@@ -1,0 +1,229 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/dfrancour/quiet-football-recap-data/nfl/schema.json",
+  "title": "NFL recap season file",
+  "description": "Every game the publisher has seen final in one season, and its official recap on the NFL's YouTube channel once found.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "season", "games"],
+  "properties": {
+    "$schema": {
+      "type": "string"
+    },
+    "schema_version": {
+      "const": 1
+    },
+    "season": {
+      "description": "The year the season starts in; the 2025 season's Super Bowl is in February 2026.",
+      "type": "integer",
+      "minimum": 2002
+    },
+    "games": {
+      "description": "Sorted by season type (preseason, regular, postseason), then week, kickoff and home team. No team appears twice in a week of one season type.",
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/game"
+      }
+    }
+  },
+  "$defs": {
+    "team": {
+      "description": "ESPN's abbreviation, one per team across seasons.",
+      "enum": [
+        "ARI",
+        "ATL",
+        "BAL",
+        "BUF",
+        "CAR",
+        "CHI",
+        "CIN",
+        "CLE",
+        "DAL",
+        "DEN",
+        "DET",
+        "GB",
+        "HOU",
+        "IND",
+        "JAX",
+        "KC",
+        "LAC",
+        "LAR",
+        "LV",
+        "MIA",
+        "MIN",
+        "NE",
+        "NO",
+        "NYG",
+        "NYJ",
+        "PHI",
+        "PIT",
+        "SEA",
+        "SF",
+        "TB",
+        "TEN",
+        "WSH"
+      ]
+    },
+    "instant": {
+      "type": "string",
+      "format": "date-time",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$"
+    },
+    "video": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["youtube_id", "title", "published_at"],
+      "properties": {
+        "youtube_id": {
+          "type": "string",
+          "pattern": "^[A-Za-z0-9_-]{11}$"
+        },
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "published_at": {
+          "$ref": "#/$defs/instant"
+        }
+      }
+    },
+    "game": {
+      "type": "object",
+      "required": [
+        "season",
+        "season_type",
+        "week",
+        "away",
+        "home",
+        "external_ids",
+        "kickoff",
+        "status"
+      ],
+      "properties": {
+        "season": {
+          "description": "The year the season starts in; repeated on every game so each record names its game on its own.",
+          "type": "integer",
+          "minimum": 2002
+        },
+        "season_type": {
+          "description": "ESPN's season types. Each numbers its own weeks, so the type is part of a game's identity.",
+          "enum": ["preseason", "regular", "postseason"]
+        },
+        "week": {
+          "description": "ESPN's week within the season type. The preseason counts from 1 with the Hall of Fame game alone in week 1. The postseason continues the regular season's count (Wild Card is week 19 of an 18-week season).",
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 22
+        },
+        "away": {
+          "$ref": "#/$defs/team"
+        },
+        "home": {
+          "$ref": "#/$defs/team"
+        },
+        "external_ids": {
+          "$ref": "#/$defs/externalIds"
+        },
+        "kickoff": {
+          "$ref": "#/$defs/instant"
+        },
+        "final_seen_at": {
+          "description": "When the publisher saw the game final, watching live. Absent for a game that ended before the publisher was tracking it.",
+          "$ref": "#/$defs/instant"
+        }
+      },
+      "oneOf": [
+        {
+          "properties": {
+            "season": true,
+            "season_type": true,
+            "week": true,
+            "away": true,
+            "home": true,
+            "external_ids": true,
+            "kickoff": true,
+            "final_seen_at": true,
+            "status": {
+              "const": "searching"
+            }
+          },
+          "additionalProperties": false
+        },
+        {
+          "required": ["video"],
+          "properties": {
+            "season": true,
+            "season_type": true,
+            "week": true,
+            "away": true,
+            "home": true,
+            "external_ids": true,
+            "kickoff": true,
+            "final_seen_at": true,
+            "status": {
+              "const": "found"
+            },
+            "video": {
+              "$ref": "#/$defs/video"
+            },
+            "detected_at": {
+              "description": "When the publisher matched the video, watching live. Absent for a backfilled match.",
+              "$ref": "#/$defs/instant"
+            }
+          },
+          "additionalProperties": false
+        },
+        {
+          "properties": {
+            "season": true,
+            "season_type": true,
+            "week": true,
+            "away": true,
+            "home": true,
+            "external_ids": true,
+            "kickoff": true,
+            "final_seen_at": true,
+            "status": {
+              "const": "missing"
+            }
+          },
+          "additionalProperties": false,
+          "description": "The publisher watched the three days after kickoff and no recap was posted."
+        },
+        {
+          "properties": {
+            "season": true,
+            "season_type": true,
+            "week": true,
+            "away": true,
+            "home": true,
+            "external_ids": true,
+            "kickoff": true,
+            "final_seen_at": true,
+            "status": {
+              "const": "unknown"
+            }
+          },
+          "additionalProperties": false,
+          "description": "Final, but no recap was found by a search that didn't watch the game's window, such as a backfill. One may exist."
+        }
+      ]
+    },
+    "externalIds": {
+      "description": "Other sources' ids for the same game, by source. References, not the game's identity: where one disagrees with season, season type, week and teams, those win.",
+      "type": "object",
+      "required": ["espn"],
+      "properties": {
+        "espn": {
+          "description": "ESPN's event id.",
+          "type": "string",
+          "pattern": "^[0-9]+$"
+        }
+      },
+      "additionalProperties": {
+        "type": "string",
+        "minLength": 1
+      }
+    }
+  }
+}

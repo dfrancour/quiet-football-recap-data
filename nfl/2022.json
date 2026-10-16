@@ -1,0 +1,5658 @@
+{
+  "$schema": "./schema.json",
+  "schema_version": 1,
+  "season": 2022,
+  "games": [
+    {
+      "season": 2022,
+      "season_type": "preseason",
+      "week": 1,
+      "away": "JAX",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401437964"
+      },
+      "kickoff": "2022-08-05T00:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2022,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "NYG",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401439619"
+      },
+      "kickoff": "2022-08-11T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "N8SZzp8sz1w",
+        "title": "New York Giants vs. New England Patriots Preseason Week 1 Highlights | 2022 NFL Season",
+        "published_at": "2022-08-12T03:02:58Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "TEN",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401437967"
+      },
+      "kickoff": "2022-08-11T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "WDneNsMssss",
+        "title": "Tennessee Titans vs. Baltimore Ravens Preseason Week 1 Highlights | 2022 NFL Season",
+        "published_at": "2022-08-12T03:30:32Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "ATL",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401441652"
+      },
+      "kickoff": "2022-08-12T22:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "5nal06Szo6Y",
+        "title": "Atlanta Falcons vs. Detroit Lions Preseason Week 1 Highlights | 2022 NFL Season",
+        "published_at": "2022-08-13T01:23:55Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "CLE",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401437965"
+      },
+      "kickoff": "2022-08-12T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "3-qy1T2S4j0",
+        "title": "Cleveland Browns vs. Jacksonville Jaguars Preseason Week 1 Highlights | 2022 NFL Season",
+        "published_at": "2022-08-13T02:23:07Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "ARI",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401439661"
+      },
+      "kickoff": "2022-08-12T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "iLcXpLsD4U0",
+        "title": "Arizona Cardinals vs. Cincinnati Bengals Preseason Week 1 Highlights | 2022 NFL Season",
+        "published_at": "2022-08-13T02:54:55Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "NYJ",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401437970"
+      },
+      "kickoff": "2022-08-12T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "zDGqU0fRyRM",
+        "title": "New York Jets vs. Philadelphia Eagles Preseason Week 1 Highlights | 2022 NFL Season",
+        "published_at": "2022-08-13T02:53:16Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "GB",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401440370"
+      },
+      "kickoff": "2022-08-13T00:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "8JaWa-aflt4",
+        "title": "Green Bay Packers vs. San Francisco 49ers Preseason Week 1 Highlights | 2022 NFL Season",
+        "published_at": "2022-08-13T03:53:55Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "KC",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401437979"
+      },
+      "kickoff": "2022-08-13T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "nGWI_OYIbsM",
+        "title": "Kansas City Chiefs vs. Chicago Bears Preseason Week 1 Highlights | 2022 NFL Season",
+        "published_at": "2022-08-13T20:18:09Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "CAR",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401440372"
+      },
+      "kickoff": "2022-08-13T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "nKXcduUAnBA",
+        "title": "Carolina Panthers vs. Washington Commanders Preseason Week 1 Highlights | 2022 NFL Season",
+        "published_at": "2022-08-13T20:19:37Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "IND",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401438010"
+      },
+      "kickoff": "2022-08-13T20:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "6QYq_zjVGR4",
+        "title": "Indianapolis Colts vs. Buffalo Bills Preseason Week 1 Highlights | 2022 NFL Season",
+        "published_at": "2022-08-13T23:22:10Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "SEA",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401437997"
+      },
+      "kickoff": "2022-08-13T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "GSppyUK1KrA",
+        "title": "Seattle Seahawks vs. Pittsburgh Steelers Preseason Week 1 Highlights | 2022 NFL Season",
+        "published_at": "2022-08-14T02:22:21Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "MIA",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401438013"
+      },
+      "kickoff": "2022-08-13T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "SH-Z8onK5MM",
+        "title": "Miami Dolphins vs. Tampa Bay Buccaneers Preseason Week 1 Highlights | 2022 NFL Season",
+        "published_at": "2022-08-14T02:54:30Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "NO",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401438410"
+      },
+      "kickoff": "2022-08-14T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "1i1TML7HJvI",
+        "title": "New Orleans Saints vs. Houston Texans Preseason Week 1 Highlights | 2022 NFL Season",
+        "published_at": "2022-08-14T03:17:25Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "DAL",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401438174"
+      },
+      "kickoff": "2022-08-14T01:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "1m34dkT1TiE",
+        "title": "Dallas Cowboys vs. Denver Broncos Preseason Week 1 Highlights | 2022 NFL Season",
+        "published_at": "2022-08-14T04:22:06Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "LAR",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401438178"
+      },
+      "kickoff": "2022-08-14T02:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "F5lopIruxWQ",
+        "title": "Los Angeles Rams vs. Los Angeles Chargers Preseason Week 1 Highlights | 2022 NFL Season",
+        "published_at": "2022-08-14T05:12:42Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "MIN",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401439621"
+      },
+      "kickoff": "2022-08-14T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "hGKxSN9iYhA",
+        "title": "Minnesota Vikings vs. Las Vegas Raiders Preseason Week 1 Highlights | 2022 NFL Season",
+        "published_at": "2022-08-14T23:31:10Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "CHI",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401437976"
+      },
+      "kickoff": "2022-08-19T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "xyRAX78QjVc",
+        "title": "Chicago Bears vs. Seattle Seahawks Preseason Week 2 Highlights | 2022 NFL Season",
+        "published_at": "2022-08-19T03:41:33Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "CAR",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401439620"
+      },
+      "kickoff": "2022-08-19T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "_ZqdmvDS7FI",
+        "title": "Carolina Panthers vs. New England Patriots Preseason Week 2 Highlights | 2022 NFL Season",
+        "published_at": "2022-08-20T02:55:54Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "NO",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401441810"
+      },
+      "kickoff": "2022-08-20T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "wodyrD9Jf74",
+        "title": "New Orleans Saints vs. Green Bay Packers Preseason Week 2 Highlights | 2022 NFL Season",
+        "published_at": "2022-08-20T03:42:42Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "HOU",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401441653"
+      },
+      "kickoff": "2022-08-20T02:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "tYiK_sjl1Lc",
+        "title": "Houston Texans vs  Los Angeles Rams 2022 Preseason Week 2 Highlights | 2022 NFL Season",
+        "published_at": "2022-08-20T06:08:50Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "DEN",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401438411"
+      },
+      "kickoff": "2022-08-20T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "UoMvSvyRmio",
+        "title": "Denver Broncos vs. Buffalo Bills 2022 Preseason Week 2 Highlights | 2022 NFL Season",
+        "published_at": "2022-08-20T20:11:53Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "DET",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401438011"
+      },
+      "kickoff": "2022-08-20T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "tZpC2rAg9_Q",
+        "title": "Detroit Lions vs Indianapolis Colts 2022 Preseason Week 2 Highlights | 2022 NFL Season",
+        "published_at": "2022-08-20T20:06:04Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "WSH",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401441650"
+      },
+      "kickoff": "2022-08-20T20:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "NNab--2SFhI",
+        "title": "Washington Commanders vs. Kansas City Chiefs 2022 Preseason Week 2 Highlights | 2022 NFL Season",
+        "published_at": "2022-08-20T23:32:13Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "PIT",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401437966"
+      },
+      "kickoff": "2022-08-20T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "tIsFcDMz2gg",
+        "title": "Pittsburgh Steelers vs. Jacksonville Jaguars Preseason Week 2 Highlights | 2022 NFL Season",
+        "published_at": "2022-08-21T02:20:49Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "LV",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401438014"
+      },
+      "kickoff": "2022-08-20T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "UYlZeoUl2A0",
+        "title": "Las Vegas Raiders vs. Miami Dolphins Preseason Week 2 Highlights | 2022 NFL Season",
+        "published_at": "2022-08-21T02:13:12Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "SF",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401441316"
+      },
+      "kickoff": "2022-08-20T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "HCwWy8aWk1c",
+        "title": "San Francisco 49ers vs. Minnesota Vikings Highlights | 2022 Preseason Week 2",
+        "published_at": "2022-08-21T02:28:12Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "TB",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401439623"
+      },
+      "kickoff": "2022-08-20T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "BXxoeO4oMBw",
+        "title": "Tampa Bay Buccaneers vs. Tennessee Titans Highlights | 2022 Preseason Week 2",
+        "published_at": "2022-08-21T02:27:50Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "DAL",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401438175"
+      },
+      "kickoff": "2022-08-21T02:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "WDYfNV3hTw8",
+        "title": "Dallas Cowboys vs. Los Angeles Chargers Preseason Week 2 Highlights | 2022 NFL Season",
+        "published_at": "2022-08-21T05:09:45Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "PHI",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401437971"
+      },
+      "kickoff": "2022-08-21T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "G7O2AijK3KI",
+        "title": "Philadelphia Eagles vs. Cleveland Browns Preseason Week 2 Highlights | 2022 NFL Season",
+        "published_at": "2022-08-21T20:27:17Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "CIN",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401441317"
+      },
+      "kickoff": "2022-08-21T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "cyP6AMADE9E",
+        "title": "Cincinnati Bengals vs. New York Giants Highlights | 2022 Preseason Week 2",
+        "published_at": "2022-08-22T02:36:09Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "BAL",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401437968"
+      },
+      "kickoff": "2022-08-22T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "fwyL-_E_K04",
+        "title": "Baltimore Ravens vs. Arizona Cardinals Highlights | 2022 Preseason Week 2",
+        "published_at": "2022-08-22T03:22:55Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "ATL",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401437688"
+      },
+      "kickoff": "2022-08-23T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "TvUfQROb6nQ",
+        "title": "Atlanta Falcons vs. New York Jets Highlights | 2022 Preseason Week 2",
+        "published_at": "2022-08-23T03:38:33Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "GB",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401441651"
+      },
+      "kickoff": "2022-08-26T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "JkKMfsB0Nfg",
+        "title": "Green Bay Packers vs. Kansas City Chiefs Highlights | 2022 Preseason Week 3",
+        "published_at": "2022-08-26T04:08:41Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "SF",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401437977"
+      },
+      "kickoff": "2022-08-26T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "aL5MkOoQ-AM",
+        "title": "San Francisco 49ers vs. Houston Texans  Highlights | 2022 Preseason Week 3",
+        "published_at": "2022-08-26T04:07:22Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "BUF",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401439618"
+      },
+      "kickoff": "2022-08-26T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "8rdrKwI-4iw",
+        "title": "Buffalo Bills vs. Carolina Panthers Highlights | 2022 Preseason Week 3",
+        "published_at": "2022-08-27T02:37:29Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "SEA",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401439230"
+      },
+      "kickoff": "2022-08-27T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "czbhHJoGFm4",
+        "title": "Seattle Seahawks vs. Dallas Cowboys - Highlights | 2022 Preseason Week 3",
+        "published_at": "2022-08-27T03:48:57Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "LAC",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401441916"
+      },
+      "kickoff": "2022-08-27T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "s8hpW9O7lAM",
+        "title": "Los Angeles Chargers vs. New Orleans Saints - Highlights | 2022 Preseason Week 3",
+        "published_at": "2022-08-27T03:33:12Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "NE",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401439622"
+      },
+      "kickoff": "2022-08-27T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ZQOOyOwmzcY",
+        "title": "New England Patriots vs. Las Vegas Raiders - Highlights | 2022 Preseason Week 3",
+        "published_at": "2022-08-27T03:37:21Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "JAX",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401439411"
+      },
+      "kickoff": "2022-08-27T19:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "RGKgkw9LBQE",
+        "title": "Jacksonville Jaguars vs. Atlanta Falcons Preseason Week 3 Highlights | 2022 NFL Season",
+        "published_at": "2022-08-27T22:14:38Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "LAR",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401440371"
+      },
+      "kickoff": "2022-08-27T22:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "IuzHMNsWlvI",
+        "title": "Los Angeles Rams vs. Cincinnati Bengals Preseason Week 3 Highlights | 2022 NFL Season",
+        "published_at": "2022-08-28T00:53:33Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "WSH",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401437969"
+      },
+      "kickoff": "2022-08-27T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "-almfnD2SJY",
+        "title": "Washington Commanders vs. Baltimore Ravens Preseason Week 3 Highlights | 2022 NFL Season",
+        "published_at": "2022-08-28T02:13:56Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "CHI",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401437974"
+      },
+      "kickoff": "2022-08-27T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Rbztz-XAS4w",
+        "title": "Chicago Bears vs. Cleveland Browns Preseason Week 3 Highlights | 2022 NFL Season",
+        "published_at": "2022-08-28T02:23:47Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "PHI",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401437972"
+      },
+      "kickoff": "2022-08-27T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "IOwn2biwZi0",
+        "title": "Philadelphia Eagles vs. Miami Dolphins Preseason Week 3 Highlights | 2022 NFL Season",
+        "published_at": "2022-08-28T02:21:49Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "ARI",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401439624"
+      },
+      "kickoff": "2022-08-27T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "1im0A8CurxQ",
+        "title": "Arizona Cardinals vs. Tennessee Titans Preseason Week 3 Highlights | 2022 NFL Season",
+        "published_at": "2022-08-28T02:29:40Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "TB",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401438012"
+      },
+      "kickoff": "2022-08-27T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "axntnZ3Ton0",
+        "title": "Tampa Bay Buccaneers vs. Indianapolis Colts Preseason Week 3 Highlights | 2022 NFL Season",
+        "published_at": "2022-08-28T02:32:20Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "MIN",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401438176"
+      },
+      "kickoff": "2022-08-28T01:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "j_NvpThS-ew",
+        "title": "Minnesota Vikings vs. Denver Broncos Preseason Week 3 Highlights | 2022 NFL Season",
+        "published_at": "2022-08-28T04:21:33Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "NYG",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401438179"
+      },
+      "kickoff": "2022-08-28T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Vltt9URkVNI",
+        "title": "New York Giants vs. New York Jets Preseason Week 3 Highlights | 2022 NFL Season",
+        "published_at": "2022-08-28T20:25:32Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "DET",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401437975"
+      },
+      "kickoff": "2022-08-28T20:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "TtRV7eT0TSk",
+        "title": "Detroit Lions vs. Pittsburgh Steelers Preseason Week 3 Highlights | 2022 NFL Season",
+        "published_at": "2022-08-28T23:52:36Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 1,
+      "away": "BUF",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401437654"
+      },
+      "kickoff": "2022-09-09T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "eWPijiN3vGU",
+        "title": "Buffalo Bills vs. Los Angeles Rams | Week 1 2022 Game Highlights",
+        "published_at": "2022-09-09T03:26:59Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 1,
+      "away": "NO",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401437650"
+      },
+      "kickoff": "2022-09-11T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "BYJHgyXiwvs",
+        "title": "New Orleans Saints vs. Atlanta Falcons | Week 1 2022 Game Highlights",
+        "published_at": "2022-09-11T20:35:42Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 1,
+      "away": "CLE",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401437651"
+      },
+      "kickoff": "2022-09-11T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "xpuOoPPI-AA",
+        "title": "Cleveland Browns vs. Carolina Panthers Game Highlights | Week 1 2022 Game Highlights",
+        "published_at": "2022-09-11T20:35:37Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 1,
+      "away": "SF",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401437647"
+      },
+      "kickoff": "2022-09-11T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "SzDl-VsIEfw",
+        "title": "San Francisco 49ers vs. Chicago Bears | Week 1 2022 Game Highlights",
+        "published_at": "2022-09-11T20:40:13Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 1,
+      "away": "PIT",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401437634"
+      },
+      "kickoff": "2022-09-11T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "XkgLk02XC4M",
+        "title": "Pittsburgh Steelers  vs. Cincinnati Bengals | Week 1 Game Highlights",
+        "published_at": "2022-09-11T21:05:14Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 1,
+      "away": "PHI",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401437648"
+      },
+      "kickoff": "2022-09-11T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "alUxGeJTAl4",
+        "title": "Philadelphia Eagles vs. Detroit Lions | Week 1 Game Highlights",
+        "published_at": "2022-09-11T21:08:17Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 1,
+      "away": "IND",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401437637"
+      },
+      "kickoff": "2022-09-11T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "lKfFRLAA_H4",
+        "title": "Indianapolis Colts vs. Houston Texans | Week 1 2022 Game Highlights",
+        "published_at": "2022-09-11T20:54:23Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 1,
+      "away": "NE",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401437630"
+      },
+      "kickoff": "2022-09-11T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "J09SZ02lu3c",
+        "title": "New England Patriots vs. Miami Dolphins | Week 1 Game Highlights",
+        "published_at": "2022-09-11T20:09:02Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 1,
+      "away": "BAL",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401437632"
+      },
+      "kickoff": "2022-09-11T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "O-y5tXFosns",
+        "title": "Baltimore Ravens vs. New York Jets Highlights | Week 1 2022 Game Highlights",
+        "published_at": "2022-09-11T20:25:02Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 1,
+      "away": "JAX",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401437646"
+      },
+      "kickoff": "2022-09-11T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "aosepuuGeIg",
+        "title": "Jacksonville Jaguars vs. Washington Commanders | Week 1 2022 Game Highlights",
+        "published_at": "2022-09-11T20:39:40Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 1,
+      "away": "KC",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401437653"
+      },
+      "kickoff": "2022-09-11T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "8p0ROqpp0T0",
+        "title": "Kansas City Chiefs vs. Arizona Cardinals | Week 1 Game Highlights",
+        "published_at": "2022-09-11T23:46:46Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 1,
+      "away": "LV",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401437643"
+      },
+      "kickoff": "2022-09-11T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "gEK0WAajKvM",
+        "title": "Las Vegas Raiders vs. Los Angeles Chargers | Week 1 Game Highlights",
+        "published_at": "2022-09-11T23:40:54Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 1,
+      "away": "GB",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401437649"
+      },
+      "kickoff": "2022-09-11T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "hOGBXXowxZ8",
+        "title": "Green Bay Packers vs. Minnesota Vikings Game Highlights  | NFL Week 1 2022 Season",
+        "published_at": "2022-09-11T23:36:12Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 1,
+      "away": "NYG",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401437640"
+      },
+      "kickoff": "2022-09-11T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "TrqkDFVyW-0",
+        "title": "Tennessee Titans vs. New York Giants | Week 1 2022 Game Highlights",
+        "published_at": "2022-09-11T23:43:05Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 1,
+      "away": "TB",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401437644"
+      },
+      "kickoff": "2022-09-12T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "G-qcvqSeXLM",
+        "title": "Tampa Bay Buccaneers vs. Dallas Cowboys | Week 1 Game Highlights",
+        "published_at": "2022-09-12T03:35:58Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 1,
+      "away": "DEN",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401437655"
+      },
+      "kickoff": "2022-09-13T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "xndn2RtEj14",
+        "title": "Denver Broncos vs. Seattle Seahawks Game Highlights  | NFL 2022 Week 1",
+        "published_at": "2022-09-13T03:43:07Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 2,
+      "away": "LAC",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401434030"
+      },
+      "kickoff": "2022-09-16T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "mRWrvWCkRVY",
+        "title": "Los Angeles Chargers vs. Kansas City Chiefs | Week 2 Game Highlights",
+        "published_at": "2022-09-16T03:24:24Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 2,
+      "away": "MIA",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401437633"
+      },
+      "kickoff": "2022-09-18T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "c4Dt6F0ykvA",
+        "title": "Miami Dolphins vs. Baltimore Ravens | 2022 Week 2 Highlights",
+        "published_at": "2022-09-18T20:37:55Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 2,
+      "away": "NYJ",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401437635"
+      },
+      "kickoff": "2022-09-18T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "oT0-zDpuIIk",
+        "title": "New York Jets v Cleveland Browns | 2022 Week 2 Highlights",
+        "published_at": "2022-09-18T20:24:28Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 2,
+      "away": "WSH",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401437732"
+      },
+      "kickoff": "2022-09-18T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "sJZWECsE2d0",
+        "title": "Washington Commanders vs. Detroit Lions | Week 2 Game Highlights",
+        "published_at": "2022-09-18T20:19:47Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 2,
+      "away": "IND",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401437639"
+      },
+      "kickoff": "2022-09-18T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "jiRx2Z5RqWI",
+        "title": "Indianapolis Colts vs. Jacksonville Jaguars | 2022 Week 2 Highlights",
+        "published_at": "2022-09-18T19:58:08Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 2,
+      "away": "TB",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401437652"
+      },
+      "kickoff": "2022-09-18T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "E9jCNiad4kE",
+        "title": "Tampa Bay Buccaneers vs. New Orleans Saints | Week 2 Game Highlights",
+        "published_at": "2022-09-18T20:27:23Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 2,
+      "away": "CAR",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401437645"
+      },
+      "kickoff": "2022-09-18T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "stsa_Llesak",
+        "title": "Carolina Panthers vs. New York Giants | 2022 Week 2 Highlights",
+        "published_at": "2022-09-18T20:28:34Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 2,
+      "away": "NE",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401437636"
+      },
+      "kickoff": "2022-09-18T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "J9a6Sark83s",
+        "title": "New England Patriots vs. Pittsburgh Steelers | Week 2 Game Highlights",
+        "published_at": "2022-09-18T20:15:22Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 2,
+      "away": "ATL",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401437733"
+      },
+      "kickoff": "2022-09-18T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "zzT0P1L3uAA",
+        "title": "Atlanta Falcons vs. Los Angeles Rams | 2022 Week 2 Highlights",
+        "published_at": "2022-09-18T23:16:54Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 2,
+      "away": "SEA",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401437605"
+      },
+      "kickoff": "2022-09-18T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "sSYd-05Vx0E",
+        "title": "Seattle Seahawks vs. San Francisco 49ers | Week 2 Game Highlights",
+        "published_at": "2022-09-18T23:07:20Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 2,
+      "away": "CIN",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401437734"
+      },
+      "kickoff": "2022-09-18T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Jx1u4m3kSD0",
+        "title": "Cincinnati Bengals vs. Dallas Cowboys | 2022 Week 2 Highlights",
+        "published_at": "2022-09-18T23:41:16Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 2,
+      "away": "HOU",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401437641"
+      },
+      "kickoff": "2022-09-18T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "nLTloLRSEfk",
+        "title": "Houston Texans vs. Denver Broncos | 2022 Week 2 Highlights",
+        "published_at": "2022-09-18T23:36:18Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 2,
+      "away": "ARI",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401437642"
+      },
+      "kickoff": "2022-09-18T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "N5ko_NNMuPE",
+        "title": "Arizona Cardinals vs. Las Vegas Raiders | 2022 Week 2 Highlights",
+        "published_at": "2022-09-19T00:04:46Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 2,
+      "away": "CHI",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401437606"
+      },
+      "kickoff": "2022-09-19T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "jke1evV-b2w",
+        "title": "Chicago Bears vs. Green Bay Packers | 2022 Week 2 Highlights",
+        "published_at": "2022-09-19T03:27:01Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 2,
+      "away": "TEN",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401436831"
+      },
+      "kickoff": "2022-09-19T23:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "XDvsaZHpt50",
+        "title": "Tennessee Titans vs. Buffalo Bills | 2022 Week 2 Highlights",
+        "published_at": "2022-09-20T02:42:45Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 2,
+      "away": "MIN",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401436832"
+      },
+      "kickoff": "2022-09-20T00:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "z2AZ-fXC2qg",
+        "title": "Minnesota Vikings vs. Philadelphia Eagles | 2022 Week 2 Highlights",
+        "published_at": "2022-09-20T03:31:00Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 3,
+      "away": "PIT",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401437735"
+      },
+      "kickoff": "2022-09-23T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ntW7FJuXtJA",
+        "title": "Pittsburgh Steelers vs. Cleveland Browns | 2022 Week 3 Game Highlights",
+        "published_at": "2022-09-23T03:38:35Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 3,
+      "away": "NO",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401437736"
+      },
+      "kickoff": "2022-09-25T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "FTncJC1sVqc",
+        "title": "New Orleans Saints vs. Carolina Panthers | Week 3 2022 Game Highlights",
+        "published_at": "2022-09-25T20:24:42Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 3,
+      "away": "HOU",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401437737"
+      },
+      "kickoff": "2022-09-25T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "-nHhxmtFNnw",
+        "title": "Houston Texans vs. Chicago Bears | Week 3 2022 Game Highlights",
+        "published_at": "2022-09-25T20:55:01Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 3,
+      "away": "KC",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401437638"
+      },
+      "kickoff": "2022-09-25T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "9ITQ5lDgJHc",
+        "title": "Kansas City Chiefs vs. Indianapolis Colts | 2022 Week 3 Highlights",
+        "published_at": "2022-09-25T20:39:42Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 3,
+      "away": "BUF",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401437738"
+      },
+      "kickoff": "2022-09-25T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "gUvHlA1-JWQ",
+        "title": "Buffalo Bills vs. Miami Dolphins | 2022 Week 3 Highlights",
+        "published_at": "2022-09-25T20:32:08Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 3,
+      "away": "DET",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401437739"
+      },
+      "kickoff": "2022-09-25T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "3PAFAYNi3mA",
+        "title": "Detroit Lions vs. Minnesota Vikings | 2022 Week 3 Highlights",
+        "published_at": "2022-09-25T20:41:06Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 3,
+      "away": "BAL",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401437631"
+      },
+      "kickoff": "2022-09-25T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "opOYWJRYiXo",
+        "title": "Baltimore Ravens vs. New England Patriots | Week 3 2022 Game Highlights",
+        "published_at": "2022-09-25T20:19:16Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 3,
+      "away": "CIN",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401437740"
+      },
+      "kickoff": "2022-09-25T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "UQPTo2i2PU0",
+        "title": "Cincinnati Bengals vs. New York Jets | Week 2022 Game Highlights",
+        "published_at": "2022-09-25T20:30:56Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 3,
+      "away": "LV",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401437741"
+      },
+      "kickoff": "2022-09-25T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "I4P1xUm3YmI",
+        "title": "Las Vegas Raiders vs. Tennessee Titans | 2022 Week 3 Highlights",
+        "published_at": "2022-09-25T20:33:56Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 3,
+      "away": "PHI",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401437742"
+      },
+      "kickoff": "2022-09-25T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "db_AUNocPkI",
+        "title": "Philadelphia Eagles vs. Washington Commanders | Week 3 2022 Game Highlights",
+        "published_at": "2022-09-25T20:33:40Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 3,
+      "away": "JAX",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401437743"
+      },
+      "kickoff": "2022-09-25T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "pI8k6iIY8No",
+        "title": "Jacksonville Jaguars vs. Los Angeles Chargers | 2022 Week 3 Highlights",
+        "published_at": "2022-09-25T23:17:35Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 3,
+      "away": "LAR",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401437744"
+      },
+      "kickoff": "2022-09-25T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "HhniFa0ycvE",
+        "title": "Los Angeles Rams vs. Arizona Cardinals | 2022 Week 3 Highlights",
+        "published_at": "2022-09-25T23:41:11Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 3,
+      "away": "ATL",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401437745"
+      },
+      "kickoff": "2022-09-25T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "a7_5-J9n_V8",
+        "title": "Atlanta Falcons vs. Seattle Seahawks | Week 3 2022 Game Highlights",
+        "published_at": "2022-09-25T23:27:51Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 3,
+      "away": "GB",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401437607"
+      },
+      "kickoff": "2022-09-25T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "V6ioz5DRzNg",
+        "title": "Green Bay Packers vs. Tampa Bay Buccaneers | 2022 Week 3 Highlights",
+        "published_at": "2022-09-25T23:40:27Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 3,
+      "away": "SF",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401437746"
+      },
+      "kickoff": "2022-09-26T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "mhVD-DQ3Sxc",
+        "title": "San Francisco 49ers vs. Denver Broncos | 2022 Week 3 Highlights",
+        "published_at": "2022-09-26T03:34:40Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 3,
+      "away": "DAL",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401437747"
+      },
+      "kickoff": "2022-09-27T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "KIJJ6YncBrA",
+        "title": "Dallas Cowboys vs. New York Giants | 2022 Week 3 Highlights",
+        "published_at": "2022-09-27T03:35:02Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 4,
+      "away": "MIA",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401437748"
+      },
+      "kickoff": "2022-09-30T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "OQSBtvsm8Ro",
+        "title": "Miami Dolphins vs. Cincinnati Bengals | Week 4 2022 Game Highlights",
+        "published_at": "2022-09-30T03:32:15Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 4,
+      "away": "MIN",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401435639"
+      },
+      "kickoff": "2022-10-02T13:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "xEK863QB7xI",
+        "title": "Minnesota Vikings vs. New Orleans Saints | Week 4 2022 Game Highlights",
+        "published_at": "2022-10-02T16:51:37Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 4,
+      "away": "CLE",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401437749"
+      },
+      "kickoff": "2022-10-02T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "3DIEqkH2YRI",
+        "title": "Cleveland Browns vs. Atlanta Falcons | 2022 Week 4 Highlights",
+        "published_at": "2022-10-02T20:07:57Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 4,
+      "away": "BUF",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401437750"
+      },
+      "kickoff": "2022-10-02T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "a_xvUuFHotQ",
+        "title": "Buffalo Bills vs. Baltimore Ravens | Week 4 2022 Highlights",
+        "published_at": "2022-10-02T23:24:37Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 4,
+      "away": "WSH",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401437751"
+      },
+      "kickoff": "2022-10-02T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "4h6vTqMPPSk",
+        "title": "Washington Commanders vs. Dallas Cowboys | Week 4 2022 Game Highlights",
+        "published_at": "2022-10-02T20:20:07Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 4,
+      "away": "SEA",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401437752"
+      },
+      "kickoff": "2022-10-02T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "4TEk17Jbaiw",
+        "title": "Seattle Seahawks vs. Detroit Lions | Week 4 2022 Game Highlights",
+        "published_at": "2022-10-02T20:43:08Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 4,
+      "away": "LAC",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401437753"
+      },
+      "kickoff": "2022-10-02T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "716IN6uP1dU",
+        "title": "Los Angeles Chargers vs. Houston Texans | 2022 Week 4 Highlights",
+        "published_at": "2022-10-02T20:13:11Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 4,
+      "away": "TEN",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401437754"
+      },
+      "kickoff": "2022-10-02T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "yA2EKXHFemQ",
+        "title": "Tennessee Titans vs. Indianapolis Colts | Week 4 2022 Game Highlights",
+        "published_at": "2022-10-02T20:04:56Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 4,
+      "away": "CHI",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401437755"
+      },
+      "kickoff": "2022-10-02T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "r0p2HiA-S8c",
+        "title": "Chicago Bears vs. New York Giants | 2022 Week 4 Highlights",
+        "published_at": "2022-10-02T20:22:11Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 4,
+      "away": "JAX",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401437756"
+      },
+      "kickoff": "2022-10-02T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "rfHFiOYFExc",
+        "title": "Jacksonville Jaguars vs. Philadelphia Eagles | Week 4 2022 Game Highlights",
+        "published_at": "2022-10-02T20:14:33Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 4,
+      "away": "NYJ",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401437757"
+      },
+      "kickoff": "2022-10-02T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "qyPoVrz2n-A",
+        "title": "New York Jets vs. Pittsburgh Steelers | Week 4 2022 Game Highlights",
+        "published_at": "2022-10-02T20:33:26Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 4,
+      "away": "ARI",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401437758"
+      },
+      "kickoff": "2022-10-02T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "iJx-zc20qx8",
+        "title": "Arizona Cardinals vs. Carolina Panthers | 2022 Week 4 Highlights",
+        "published_at": "2022-10-02T23:19:44Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 4,
+      "away": "NE",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401437759"
+      },
+      "kickoff": "2022-10-02T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "5oGPBRLzd8M",
+        "title": "New England Patriots vs. Green Bay Packers | Week 4 2022 Game Highlights",
+        "published_at": "2022-10-02T23:59:34Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 4,
+      "away": "DEN",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401437760"
+      },
+      "kickoff": "2022-10-02T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "aSKW1F2W7YM",
+        "title": "Denver Broncos vs. Las Vegas Raiders | 2022 Week 4 Highlights",
+        "published_at": "2022-10-02T23:47:20Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 4,
+      "away": "KC",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401437470"
+      },
+      "kickoff": "2022-10-03T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "YXZfwwq3F5s",
+        "title": "Kansas City Chiefs vs. Tampa Bay Buccaneers | 2022 Week 4 Highlights",
+        "published_at": "2022-10-03T03:44:41Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 4,
+      "away": "LAR",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401437761"
+      },
+      "kickoff": "2022-10-04T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "DEBtuggSvbI",
+        "title": "Los Angeles Rams vs. San Francisco 49ers | 2022 Week 4 Highlights",
+        "published_at": "2022-10-04T03:20:16Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 5,
+      "away": "IND",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401437762"
+      },
+      "kickoff": "2022-10-07T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "l4mouVbscZ0",
+        "title": "Indianapolis Colts vs. Denver Broncos | 2022 Week 5 Game Highlights",
+        "published_at": "2022-10-07T03:56:29Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 5,
+      "away": "NYG",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401435640"
+      },
+      "kickoff": "2022-10-09T13:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "C_xUtSKMKK0",
+        "title": "New York Giants vs. Green Bay Packers | 2022 Week 5 Game Highlights",
+        "published_at": "2022-10-09T16:51:16Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 5,
+      "away": "PIT",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401437763"
+      },
+      "kickoff": "2022-10-09T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "OhgPS3s1TO8",
+        "title": "Pittsburgh Steelers vs. Buffalo Bills | 2022 Week 5 Highlights",
+        "published_at": "2022-10-09T20:24:49Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 5,
+      "away": "LAC",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401437764"
+      },
+      "kickoff": "2022-10-09T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "GazRvigMsH0",
+        "title": "Los Angeles Chargers vs. Cleveland Browns | 2022 Week 5 Highlights",
+        "published_at": "2022-10-09T20:41:47Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 5,
+      "away": "HOU",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401437765"
+      },
+      "kickoff": "2022-10-09T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "uHfXrJuQNz4",
+        "title": "Houston Texans vs. Jacksonville Jaguars | 2022 Week 5 Game Highlights",
+        "published_at": "2022-10-09T20:14:47Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 5,
+      "away": "CHI",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401437766"
+      },
+      "kickoff": "2022-10-09T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "q3vK4OqR-Bo",
+        "title": "Chicago Bears vs. Minnesota Vikings | 2022 Week 5 Game Highlights",
+        "published_at": "2022-10-09T20:09:25Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 5,
+      "away": "DET",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401437767"
+      },
+      "kickoff": "2022-10-09T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "STecW2M_Yk0",
+        "title": "Detroit Lions vs. New England Patriots | 2022 Week 5 Highlights",
+        "published_at": "2022-10-09T20:14:33Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 5,
+      "away": "SEA",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401437768"
+      },
+      "kickoff": "2022-10-09T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ivNJHNjafRw",
+        "title": "Seattle Seahawks vs. New Orleans Saints | 2022 Week 5 Game Highlights",
+        "published_at": "2022-10-09T20:34:30Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 5,
+      "away": "MIA",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401437769"
+      },
+      "kickoff": "2022-10-09T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "vGZdkKDS_Hs",
+        "title": "Miami Dolphins vs. New York Jets | 2022 Week 5 Highlights",
+        "published_at": "2022-10-09T20:53:51Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 5,
+      "away": "ATL",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401437770"
+      },
+      "kickoff": "2022-10-09T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "oHkX6uB5pRQ",
+        "title": "Atlanta Falcons vs. Tampa Bay Buccaneers | 2022 Week 5 Highlights",
+        "published_at": "2022-10-09T20:22:53Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 5,
+      "away": "TEN",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401437771"
+      },
+      "kickoff": "2022-10-09T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "o3T4K96JPZg",
+        "title": "Tennesee Titans vs. Washington Commanders | 2022 Week 5 Game Highlights",
+        "published_at": "2022-10-09T20:20:48Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 5,
+      "away": "SF",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401437772"
+      },
+      "kickoff": "2022-10-09T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "-BLZb9Xt2Xw",
+        "title": "San Francisco 49ers vs. Carolina Panthers | 2022 Week 5 Highlights",
+        "published_at": "2022-10-09T23:55:06Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 5,
+      "away": "PHI",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401437773"
+      },
+      "kickoff": "2022-10-09T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "BXrj8VGPM-E",
+        "title": "Philadelphia Eagles vs. Arizona Cardinals | 2022 Week 5 Highlights",
+        "published_at": "2022-10-10T00:12:58Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 5,
+      "away": "DAL",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401437774"
+      },
+      "kickoff": "2022-10-09T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "mKXWBW5G5_Y",
+        "title": "Dallas Cowboys vs. Los Angeles Rams | 2022 Week 5 Game Highlights",
+        "published_at": "2022-10-09T23:29:47Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 5,
+      "away": "CIN",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401437775"
+      },
+      "kickoff": "2022-10-10T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "CPM3yJWWYt0",
+        "title": "Cincinatti Bengals vs. Baltimore Ravens | 2022 Week 5 Highlights",
+        "published_at": "2022-10-10T03:28:48Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 5,
+      "away": "LV",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401437776"
+      },
+      "kickoff": "2022-10-11T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "TRsIVeqOppY",
+        "title": "Las Vegas Raiders vs. Kansas City Chiefs | 2022 Week 5 Highlights",
+        "published_at": "2022-10-11T03:43:32Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 6,
+      "away": "WSH",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401437777"
+      },
+      "kickoff": "2022-10-14T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "6GkdVw9fMP4",
+        "title": "Washington Commanders vs. Chicago Bears | 2022 Week 6 Game Highlights",
+        "published_at": "2022-10-14T03:19:58Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 6,
+      "away": "SF",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401437778"
+      },
+      "kickoff": "2022-10-16T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "OAGadOYDDGg",
+        "title": "San Fransisco 49ers vs. Atlanta Falcons | 2022 Week 6 Game Highlights",
+        "published_at": "2022-10-16T20:09:36Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 6,
+      "away": "NE",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401437779"
+      },
+      "kickoff": "2022-10-16T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "kMibEHZUG9k",
+        "title": "New England Patriots vs. Cleveland Browns | 2022 Week 6 Highlights",
+        "published_at": "2022-10-16T20:40:04Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 6,
+      "away": "NYJ",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401437780"
+      },
+      "kickoff": "2022-10-16T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "FcjsQZGXr9k",
+        "title": "Green Bay Packers vs.  New York Jets | 2022 Week 6 Game Highlights",
+        "published_at": "2022-10-16T20:23:47Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 6,
+      "away": "JAX",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401437781"
+      },
+      "kickoff": "2022-10-16T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "UCVHt5IV03I",
+        "title": "Jacksonville Jaguars vs. Indianapolis Colts | 2022 Week 6 Highlights",
+        "published_at": "2022-10-16T20:20:10Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 6,
+      "away": "MIN",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401437782"
+      },
+      "kickoff": "2022-10-16T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "dAM_HIOdX80",
+        "title": "Minnesota Vikings vs. Miami Dolphins | 2022 Week 6 Game Highlights",
+        "published_at": "2022-10-16T20:20:13Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 6,
+      "away": "CIN",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401437783"
+      },
+      "kickoff": "2022-10-16T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "leD4D30oxCY",
+        "title": "Cincinnati Bengals vs. New Orleans Saints | 2022 Week 6 Highlights",
+        "published_at": "2022-10-16T20:23:01Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 6,
+      "away": "BAL",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401437784"
+      },
+      "kickoff": "2022-10-16T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "YCJgXYxZij0",
+        "title": "Baltimore Ravens vs. New York Giants | 2022 Week 6 Game Highlights",
+        "published_at": "2022-10-16T20:19:05Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 6,
+      "away": "TB",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401437785"
+      },
+      "kickoff": "2022-10-16T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Z3QcTAG7X6Y",
+        "title": "Tampa Bay Buccaneers vs. Pittsburgh Steelers | 2022 Week 6 Highlights",
+        "published_at": "2022-10-16T20:26:29Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 6,
+      "away": "CAR",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401437786"
+      },
+      "kickoff": "2022-10-16T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "FUSRVqzBv3Y",
+        "title": "Carolina Panthers vs. Los Angeles Rams | 2022 Week 6 Game Highlights",
+        "published_at": "2022-10-16T23:11:15Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 6,
+      "away": "ARI",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401437787"
+      },
+      "kickoff": "2022-10-16T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "MLp6CimKB90",
+        "title": "Arizona Cardinals vs. Seattle Seahawks | 2022 Week 6 Game Highlights",
+        "published_at": "2022-10-16T23:23:35Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 6,
+      "away": "BUF",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401437788"
+      },
+      "kickoff": "2022-10-16T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "iWJO6oiV7NI",
+        "title": "Buffalo Bills vs. Kansas City Chiefs | 2022 Week 6 Highlights",
+        "published_at": "2022-10-16T23:50:34Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 6,
+      "away": "DAL",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401437789"
+      },
+      "kickoff": "2022-10-17T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "r0SBrSG08lw",
+        "title": "Dallas Cowboys vs. Philadelphia Eagles | 2022 Week 6 Highlights",
+        "published_at": "2022-10-17T03:40:25Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 6,
+      "away": "DEN",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401437790"
+      },
+      "kickoff": "2022-10-18T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "NkTGbVop8Tk",
+        "title": "Denver Broncos vs. Los Angeles Chargers | 2022 Week 6 Highlights",
+        "published_at": "2022-10-18T03:53:15Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 7,
+      "away": "NO",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401437791"
+      },
+      "kickoff": "2022-10-21T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "7OPcffLuIAo",
+        "title": "New Orleans Saints vs. Arizona Cardinals | 2022 Week 7 Game Highlights",
+        "published_at": "2022-10-21T03:43:39Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 7,
+      "away": "CLE",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401437792"
+      },
+      "kickoff": "2022-10-23T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "kTlO3Ps7a64",
+        "title": "Cleveland Browns vs. Baltimore Ravens | 2022 Week 7 Game Highlights",
+        "published_at": "2022-10-23T20:10:44Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 7,
+      "away": "TB",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401437793"
+      },
+      "kickoff": "2022-10-23T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "C9WDx9k2hDw",
+        "title": "Tampa Bay Buccaneers vs. Carolina Panthers | 2022 Week 7 Game Highlights",
+        "published_at": "2022-10-23T20:01:17Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 7,
+      "away": "ATL",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401437794"
+      },
+      "kickoff": "2022-10-23T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "_ma7eTUBhQE",
+        "title": "Atlanta Falcons vs. Cincinnati Bengals | 2022 Week 7 Game Highlights",
+        "published_at": "2022-10-23T20:06:44Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 7,
+      "away": "DET",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401437795"
+      },
+      "kickoff": "2022-10-23T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "qttnwr6YQt0",
+        "title": "Detroit Lions vs. Dallas Cowboys | 2022 Week 7 Game Highlights",
+        "published_at": "2022-10-23T20:01:02Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 7,
+      "away": "NYG",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401437796"
+      },
+      "kickoff": "2022-10-23T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "g3r6JRnZwEU",
+        "title": "New York Giants vs. Jacksonville Jaguars | 2022 Week 7 Game Highlights",
+        "published_at": "2022-10-23T20:51:27Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 7,
+      "away": "IND",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401437797"
+      },
+      "kickoff": "2022-10-23T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "2ELD5yfzHtM",
+        "title": "Indianapolis Colts vs. Tennessee Titans | 2022 Week 7 Game Highlights",
+        "published_at": "2022-10-23T20:03:44Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 7,
+      "away": "GB",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401437798"
+      },
+      "kickoff": "2022-10-23T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "EIXggA3UTtk",
+        "title": "Green Bay Packers vs. Washington Commanders | 2022 Week 7 Game Highlights",
+        "published_at": "2022-10-23T20:37:10Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 7,
+      "away": "NYJ",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401437799"
+      },
+      "kickoff": "2022-10-23T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "wHY85XlQCKM",
+        "title": "New York Jets vs. Denver Broncos | 2022 Week 7 Game Highlights",
+        "published_at": "2022-10-23T23:34:48Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 7,
+      "away": "HOU",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401437800"
+      },
+      "kickoff": "2022-10-23T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "xsdpwn5E0Qk",
+        "title": "Houston Texans vs. Las Vegas Raiders | 2022 Week 7 Game Highlights",
+        "published_at": "2022-10-23T23:10:51Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 7,
+      "away": "SEA",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401437801"
+      },
+      "kickoff": "2022-10-23T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Mo2OSSZlivY",
+        "title": "Seattle Seahawks vs. Los Angeles Chargers | 2022 Week 7 Game Highlights",
+        "published_at": "2022-10-23T23:57:18Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 7,
+      "away": "KC",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401437802"
+      },
+      "kickoff": "2022-10-23T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ljXOXyAquc0",
+        "title": "Kansas City Chiefs vs. San Francisco 49ers | 2022 Week 7 Game Highlights",
+        "published_at": "2022-10-23T23:45:08Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 7,
+      "away": "PIT",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401437803"
+      },
+      "kickoff": "2022-10-24T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "EHA9T7MMSTU",
+        "title": "Pittsburgh Steelers vs. Miami Dolphins | 2022 Week 7 Game Highlights",
+        "published_at": "2022-10-24T03:35:59Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 7,
+      "away": "CHI",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401437804"
+      },
+      "kickoff": "2022-10-25T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "_jeFstz0Ba8",
+        "title": "Chicago Bears vs. New England Patriots | 2022 Week 7 Highlights",
+        "published_at": "2022-10-25T03:29:25Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 8,
+      "away": "BAL",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401437805"
+      },
+      "kickoff": "2022-10-28T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "u0c68WcmUqE",
+        "title": "Baltimore Ravens vs. Tampa Bay Buccaneers | 2022 Week 8 Game Highlights",
+        "published_at": "2022-10-28T03:35:25Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 8,
+      "away": "DEN",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401435641"
+      },
+      "kickoff": "2022-10-30T13:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "XlyKZ2DXx-U",
+        "title": "Denver Broncos vs. Jacksonville Jaguars | 2022 Week 8 Game Highlights",
+        "published_at": "2022-10-30T16:40:09Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 8,
+      "away": "CAR",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401437806"
+      },
+      "kickoff": "2022-10-30T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "fWf8BOTX7Cc",
+        "title": "Carolina Panthers vs. Atlanta Falcons | 2022 Week 8 Game Highlights",
+        "published_at": "2022-10-30T20:53:09Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 8,
+      "away": "CHI",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401437807"
+      },
+      "kickoff": "2022-10-30T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "vAy-mW6Kg9E",
+        "title": "Chicago Bears vs. Dallas Cowboys | 2022 Week 8 Game Highlights",
+        "published_at": "2022-10-30T20:28:48Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 8,
+      "away": "MIA",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401437808"
+      },
+      "kickoff": "2022-10-30T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "xMdGq5ovdNw",
+        "title": "Miami Dolphins vs Detroit Lions | 2022 Week 8 Game Highlights",
+        "published_at": "2022-10-30T20:04:35Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 8,
+      "away": "ARI",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401437809"
+      },
+      "kickoff": "2022-10-30T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "HycOpZixc9Y",
+        "title": "Arizona Cardinals vs. Minnesota Vikings | 2022 Week 8 Game Highlights",
+        "published_at": "2022-10-30T20:48:43Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 8,
+      "away": "LV",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401437810"
+      },
+      "kickoff": "2022-10-30T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ycf0ZR7A0w4",
+        "title": "Las Vegas Raiders vs. New Orleans Saints | 2022 Week 8 Game Highlights",
+        "published_at": "2022-10-30T19:56:53Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 8,
+      "away": "NE",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401437811"
+      },
+      "kickoff": "2022-10-30T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "F6VGhlgmBhw",
+        "title": "New England Patriots vs. New York Jets | 2022 Week 8 Game Highlights",
+        "published_at": "2022-10-30T20:18:27Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 8,
+      "away": "PIT",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401437812"
+      },
+      "kickoff": "2022-10-30T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Emsr7g3J6wA",
+        "title": "Pittsburgh Steelers vs. Philadelphia Eagles | 2022 Week 8 Game Highlights",
+        "published_at": "2022-10-30T20:09:36Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 8,
+      "away": "TEN",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401437813"
+      },
+      "kickoff": "2022-10-30T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "qCxkiyPMkss",
+        "title": "Tennessee Titans vs. Houston Texans | 2022 Week 8 Game Highlights",
+        "published_at": "2022-10-30T23:05:46Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 8,
+      "away": "WSH",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401437814"
+      },
+      "kickoff": "2022-10-30T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "FQO7QYJ9Jt0",
+        "title": "Washington Commanders vs. Indianapolis Colts | 2022 Week 8 Game Highlights",
+        "published_at": "2022-10-30T23:25:20Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 8,
+      "away": "SF",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401437815"
+      },
+      "kickoff": "2022-10-30T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "nJW8DTjvN5o",
+        "title": "San Francisco 49ers vs. Los Angeles Rams | 2022 Week 8 Game Highlights",
+        "published_at": "2022-10-30T23:21:12Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 8,
+      "away": "NYG",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401437816"
+      },
+      "kickoff": "2022-10-30T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "RmqmSkU_2Lo",
+        "title": "New York Giants vs. Seattle Seahawks | 2022 Week 8 Game Highlights",
+        "published_at": "2022-10-30T23:37:03Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 8,
+      "away": "GB",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401437817"
+      },
+      "kickoff": "2022-10-31T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "1WwBq42po14",
+        "title": "Green Bay Packers vs. Buffalo Bills | 2022 Week 8 Game Highlights",
+        "published_at": "2022-10-31T03:40:11Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 8,
+      "away": "CIN",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401437818"
+      },
+      "kickoff": "2022-11-01T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "l1MC27f3Lew",
+        "title": "Cincinnati Bengals vs. Cleveland Browns | 2022 Week 8 Game Highlights",
+        "published_at": "2022-11-01T03:22:53Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 9,
+      "away": "PHI",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401437819"
+      },
+      "kickoff": "2022-11-04T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "OxC2gP9_oX4",
+        "title": "Philadelphia Eagles vs. Houston Texans | 2022 Week 9 Game Highlights",
+        "published_at": "2022-11-04T03:16:40Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 9,
+      "away": "LAC",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401437820"
+      },
+      "kickoff": "2022-11-06T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "7XVEXv1jFzw",
+        "title": "Los Angeles Chargers vs. Atlanta Falcons | 2022 Week 9 Game Highlights",
+        "published_at": "2022-11-06T21:07:54Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 9,
+      "away": "MIA",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401437821"
+      },
+      "kickoff": "2022-11-06T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "sn_TaoN2PIY",
+        "title": "Miami Dolphins vs. Chicago Bears | 2022 Week 9 Game Highlights",
+        "published_at": "2022-11-06T21:26:26Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 9,
+      "away": "CAR",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401437822"
+      },
+      "kickoff": "2022-11-06T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "AqcDaWDx_qc",
+        "title": "Carolina Panthers vs. Cincinnati Bengals | 2022 Week 9 Game Highlights",
+        "published_at": "2022-11-06T21:17:57Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 9,
+      "away": "GB",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401437823"
+      },
+      "kickoff": "2022-11-06T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "9Yk8Xdso0XE",
+        "title": "Green Bay Packers vs. Detroit Lions | 2022 Week 9 Game Highlights",
+        "published_at": "2022-11-06T21:23:53Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 9,
+      "away": "LV",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401437824"
+      },
+      "kickoff": "2022-11-06T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "vwhw345r2ds",
+        "title": "Las Vegas Raiders vs. Jacksonville Jaguars | 2022 Week 9 Game Highlights",
+        "published_at": "2022-11-06T21:21:12Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 9,
+      "away": "IND",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401437825"
+      },
+      "kickoff": "2022-11-06T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "-GAN0ukEh-4",
+        "title": "Indianapolis Colts vs. New England Patriots | 2022 Week 9 Game Highlights",
+        "published_at": "2022-11-06T21:17:13Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 9,
+      "away": "BUF",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401437826"
+      },
+      "kickoff": "2022-11-06T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "-mMjBSavIzk",
+        "title": "Buffalo Bills vs. New York Jets | 2022 Week 9 Game Highlights",
+        "published_at": "2022-11-06T21:22:18Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 9,
+      "away": "MIN",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401437827"
+      },
+      "kickoff": "2022-11-06T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "fuIp98BPoG4",
+        "title": "Minnesota Vikings vs. Washington Commanders | 2022 Week 9 Game Highlights",
+        "published_at": "2022-11-06T21:25:02Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 9,
+      "away": "SEA",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401437828"
+      },
+      "kickoff": "2022-11-06T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "AhEuKVOhm9o",
+        "title": "Seattle Seahawks vs. Arizona Cardinals | 2022 Week 9 Game Highlights",
+        "published_at": "2022-11-07T00:21:21Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 9,
+      "away": "LAR",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401437829"
+      },
+      "kickoff": "2022-11-06T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "m5QRyFxw4ss",
+        "title": "Los Angeles Rams vs. Tampa Bay Buccaneers | 2022 Week 9 Game Highlights",
+        "published_at": "2022-11-07T00:43:14Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 9,
+      "away": "TEN",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401437830"
+      },
+      "kickoff": "2022-11-07T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "1g5P6kKXiMs",
+        "title": "Tennessee Titans vs. Kansas City Chiefs | 2022 Week 9 Game Highlights",
+        "published_at": "2022-11-07T05:04:37Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 9,
+      "away": "BAL",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401437831"
+      },
+      "kickoff": "2022-11-08T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "8m1lnGZmoHg",
+        "title": "Baltimore Ravens vs. New Orleans Saints | 2022 Week 9 Highlights",
+        "published_at": "2022-11-08T04:18:31Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 10,
+      "away": "ATL",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401437832"
+      },
+      "kickoff": "2022-11-11T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "mYWl8uorFrU",
+        "title": "Atlanta Falcons vs. Carolina Panthers | 2022 Week 10 Game Highlights",
+        "published_at": "2022-11-11T04:24:19Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 10,
+      "away": "SEA",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401435638"
+      },
+      "kickoff": "2022-11-13T14:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "xInE_3Bc2H4",
+        "title": "Seattle Seahawks vs. Tampa Bay Buccaneers | 2022 Week 10 Game Highlights",
+        "published_at": "2022-11-13T17:37:09Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 10,
+      "away": "MIN",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401437833"
+      },
+      "kickoff": "2022-11-13T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Fg8T_xuOvPA",
+        "title": "GAME OF THE YEAR??? Buffalo Bills vs. Minnesota Vikings | 2022 Week 10 Game Highlights",
+        "published_at": "2022-11-13T22:03:10Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 10,
+      "away": "DET",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401437834"
+      },
+      "kickoff": "2022-11-13T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "3XX6l1P1h0I",
+        "title": "Detroit Lions vs. Chicago Bears | 2022 Week 10 Game Highlights",
+        "published_at": "2022-11-13T21:18:48Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 10,
+      "away": "JAX",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401437835"
+      },
+      "kickoff": "2022-11-13T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "zukxHQaLvoQ",
+        "title": "Jacksonville Jaguars vs. Kansas City Chiefs | 2022 Week 10 Game Highlights",
+        "published_at": "2022-11-13T21:12:47Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 10,
+      "away": "CLE",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401437836"
+      },
+      "kickoff": "2022-11-13T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "8ZsrTs6VNOY",
+        "title": "Cleveland Browns vs. Miami Dolphins | 2022 Week 10 Game Highlights",
+        "published_at": "2022-11-13T21:13:01Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 10,
+      "away": "HOU",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401437837"
+      },
+      "kickoff": "2022-11-13T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "sVh68ALy4B8",
+        "title": "Houston Texans vs. New York Giants | 2022 Week 10 Game Highlights",
+        "published_at": "2022-11-13T21:29:33Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 10,
+      "away": "NO",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401437838"
+      },
+      "kickoff": "2022-11-13T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "03Pe5ZsFkDc",
+        "title": "New Orleans Saint vs. Pittsburgh Steelers | 2022 Week 10 Game Highlights",
+        "published_at": "2022-11-13T21:08:11Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 10,
+      "away": "DEN",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401437839"
+      },
+      "kickoff": "2022-11-13T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "N_Zogfa2goo",
+        "title": "Denver Broncos vs. Tennessee Titans | 2022 Week 10 Game Highlights",
+        "published_at": "2022-11-13T21:34:20Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 10,
+      "away": "IND",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401437840"
+      },
+      "kickoff": "2022-11-13T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "GRYsGlEGPds",
+        "title": "Indianapolis Colts vs. Las Vegas Raiders | 2022 Week 10 Game Highlights",
+        "published_at": "2022-11-14T00:21:26Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 10,
+      "away": "DAL",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401437131"
+      },
+      "kickoff": "2022-11-13T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "0j83HfIOWSY",
+        "title": "Dallas Cowboys vs. Green Bay Packers | 2022 Week 10 Game Highlights",
+        "published_at": "2022-11-14T01:08:04Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 10,
+      "away": "ARI",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401437841"
+      },
+      "kickoff": "2022-11-13T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "7Z57Lw1fbVg",
+        "title": "Arizona Cardinals vs. Los Angeles Rams | 2022 Week 10 Game Highlights",
+        "published_at": "2022-11-14T00:40:53Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 10,
+      "away": "LAC",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401437842"
+      },
+      "kickoff": "2022-11-14T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "0ktuADz3KBM",
+        "title": "Los Angeles Chargers vs. San Francisco 49ers | 2022 Week 10 Game Highlights",
+        "published_at": "2022-11-14T04:33:34Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 10,
+      "away": "WSH",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401437843"
+      },
+      "kickoff": "2022-11-15T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "dZJIUQvUaSQ",
+        "title": "Washington Commanders vs. Philadelphia Eagles | 2022 Week 10 Game Highlights",
+        "published_at": "2022-11-15T04:21:10Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 11,
+      "away": "TEN",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401437844"
+      },
+      "kickoff": "2022-11-18T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "MUd1fUyTA5Q",
+        "title": "Tennessee Titans vs. Green Bay Packers | 2022 Week 11 Game Highlights",
+        "published_at": "2022-11-18T04:28:16Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 11,
+      "away": "CHI",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401437845"
+      },
+      "kickoff": "2022-11-20T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "4mPcvGG_8-c",
+        "title": "Chicago Bears vs. Atlanta Falcons | 2022 Week 11 Game Highlights",
+        "published_at": "2022-11-20T21:15:33Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 11,
+      "away": "CAR",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401437846"
+      },
+      "kickoff": "2022-11-20T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "GuHVbpHuKIo",
+        "title": "Carolina Panthers vs. Baltimore Ravens | 2022 Week 11 Game Highlights",
+        "published_at": "2022-11-20T21:26:32Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 11,
+      "away": "CLE",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401437847"
+      },
+      "kickoff": "2022-11-20T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "WcVZO752ujI",
+        "title": "Cleveland Browns vs. Buffalo Bills | 2022 Week 11 Game Highlights",
+        "published_at": "2022-11-20T21:33:30Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 11,
+      "away": "WSH",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401437848"
+      },
+      "kickoff": "2022-11-20T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "n7HRvK-ajMM",
+        "title": "Washington Commanders vs. Houston Texans | 2022 Week 11 Game Highlights",
+        "published_at": "2022-11-20T21:06:25Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 11,
+      "away": "PHI",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401437849"
+      },
+      "kickoff": "2022-11-20T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "RburINFOWoU",
+        "title": "Philadelphia Eagles vs. Indianapolis Colts | 2022 Week 11 Game Highlights",
+        "published_at": "2022-11-20T21:16:29Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 11,
+      "away": "NYJ",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401437850"
+      },
+      "kickoff": "2022-11-20T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Kc20JrxGlm8",
+        "title": "New York Jets vs. New England Patriots | 2022 Week 11 Game Highlights",
+        "published_at": "2022-11-20T21:22:44Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 11,
+      "away": "LAR",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401437851"
+      },
+      "kickoff": "2022-11-20T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "coAe-YthUJo",
+        "title": "Los Angeles Rams vs. New Orleans Saints | 2022 Week 11 Game Highlights",
+        "published_at": "2022-11-20T21:12:40Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 11,
+      "away": "DET",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401437852"
+      },
+      "kickoff": "2022-11-20T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "AZquLHM2ujI",
+        "title": "Detroit Lions vs. New York Giants | 2022 Week 11 Game Highlights",
+        "published_at": "2022-11-20T21:22:18Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 11,
+      "away": "LV",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401437853"
+      },
+      "kickoff": "2022-11-20T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "isAkN4YcAzM",
+        "title": "Las Vegas Raiders vs. Denver Broncos | 2022 Week 11 Game Highlights",
+        "published_at": "2022-11-21T00:27:01Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 11,
+      "away": "DAL",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401437855"
+      },
+      "kickoff": "2022-11-20T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "DVZt9DKuzZg",
+        "title": "Dallas Cowboys vs. Minnesota Vikings | 2022 Week 11 Game Highlights",
+        "published_at": "2022-11-21T00:36:55Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 11,
+      "away": "CIN",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401437856"
+      },
+      "kickoff": "2022-11-20T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "yISH8FkLbFs",
+        "title": "Cincinnati Bengals vs. Pittsburgh Steelers | 2022 Week 11 Game Highlights",
+        "published_at": "2022-11-21T00:56:04Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 11,
+      "away": "KC",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401437854"
+      },
+      "kickoff": "2022-11-21T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "4H33_Cj2Gc8",
+        "title": "Kansas City Chiefs vs. Los Angeles Chargers | 2022 Week 11 Game Highlights",
+        "published_at": "2022-11-21T05:43:41Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 11,
+      "away": "SF",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401435642"
+      },
+      "kickoff": "2022-11-22T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "p_7mMH64Pdk",
+        "title": "San Francisco 49ers vs. Arizona Cardinals | 2022 Week 11 Game Highlights",
+        "published_at": "2022-11-22T04:27:04Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 12,
+      "away": "BUF",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401437857"
+      },
+      "kickoff": "2022-11-24T17:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "hROU2VNy6Vk",
+        "title": "Buffalo Bills vs. Detroit Lions | 2022 Week 12 Game Highlights",
+        "published_at": "2022-11-24T21:03:20Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 12,
+      "away": "NYG",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401437858"
+      },
+      "kickoff": "2022-11-24T21:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "sZ6tUon37eI",
+        "title": "New York Giants vs. Dallas Cowboys | 2022 Week 12 Game Highlights",
+        "published_at": "2022-11-25T01:02:34Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 12,
+      "away": "NE",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401437859"
+      },
+      "kickoff": "2022-11-25T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "oigGsg8FwCM",
+        "title": "New England Patriots vs. Minnesota Vikings | 2022 Week 12 Game Highlights",
+        "published_at": "2022-11-25T04:40:51Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 12,
+      "away": "DEN",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401437860"
+      },
+      "kickoff": "2022-11-27T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "lvbxQNbUCsM",
+        "title": "Denver Broncos vs. Carolina Panthers | 2022 Week 12 Game Highlights",
+        "published_at": "2022-11-27T21:21:57Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 12,
+      "away": "TB",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401437861"
+      },
+      "kickoff": "2022-11-27T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "aJMojYCwSgU",
+        "title": "Tampa Bay Buccaneers vs. Cleveland Browns | 2022 Week 12 Game Highlights",
+        "published_at": "2022-11-27T21:34:25Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 12,
+      "away": "BAL",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401437862"
+      },
+      "kickoff": "2022-11-27T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "5IGt9ZihUO8",
+        "title": "Baltimore Ravens vs. Jacksonville Jaguars | 2022 Week 12 Game Highlights",
+        "published_at": "2022-11-27T21:59:19Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 12,
+      "away": "HOU",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401437863"
+      },
+      "kickoff": "2022-11-27T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "dfMk5fC-w00",
+        "title": "Houston Texans vs. Miami Dolphins | 2022 Week 12 Game Highlights",
+        "published_at": "2022-11-27T21:17:08Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 12,
+      "away": "CHI",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401437864"
+      },
+      "kickoff": "2022-11-27T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "SFhDLf3NkCM",
+        "title": "Chicago Bears vs. New York Jets | 2022 Week 12 Game Highlights",
+        "published_at": "2022-11-27T21:03:17Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 12,
+      "away": "CIN",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401437865"
+      },
+      "kickoff": "2022-11-27T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "VtE1tju622I",
+        "title": "Cincinnati Bengals vs. Tennessee Titans | 2022 Week 12 Game Highlights",
+        "published_at": "2022-11-27T21:31:32Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 12,
+      "away": "ATL",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401437866"
+      },
+      "kickoff": "2022-11-27T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "3wRDTpO692g",
+        "title": "Atlanta Falcons vs. Washington Commanders | 2022 Week 12 Game Highlights",
+        "published_at": "2022-11-27T21:01:27Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 12,
+      "away": "LAC",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401437867"
+      },
+      "kickoff": "2022-11-27T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "oAPsc_RDef8",
+        "title": "Los Angeles Chargers vs. Arizona Cardinals | 2022 Week 12 Game Highlights",
+        "published_at": "2022-11-28T00:27:21Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 12,
+      "away": "LV",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401437868"
+      },
+      "kickoff": "2022-11-27T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "bt4NqAzHTSc",
+        "title": "Las Vegas Raiders vs. Seattle Seahawks | 2022 Week 12 Game Highlights",
+        "published_at": "2022-11-28T00:50:12Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 12,
+      "away": "LAR",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401437869"
+      },
+      "kickoff": "2022-11-27T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ZDa5NB6rCqs",
+        "title": "Los Angeles Rams vs. Kansas City Chiefs | 2022 Week 12 Game Highlights",
+        "published_at": "2022-11-28T00:36:27Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 12,
+      "away": "NO",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401437870"
+      },
+      "kickoff": "2022-11-27T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "dSzTrFLm43U",
+        "title": "New Orleans Saints vs. San Francisco 49ers | 2022 Week 12 Game Highlights",
+        "published_at": "2022-11-28T00:39:57Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 12,
+      "away": "GB",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401437871"
+      },
+      "kickoff": "2022-11-28T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "JbKhPDQH5hA",
+        "title": "Green Bay Packers vs. Philadelphia Eagles | 2022 Week 12 Game Highlights",
+        "published_at": "2022-11-28T04:45:50Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 12,
+      "away": "PIT",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401437872"
+      },
+      "kickoff": "2022-11-29T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "xnXfaFrqGfw",
+        "title": "Pittsburgh Steelers vs. Indianapolis Colts | 2022 Week 12 Game Highlights",
+        "published_at": "2022-11-29T04:25:04Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 13,
+      "away": "BUF",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401437873"
+      },
+      "kickoff": "2022-12-02T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "QVNULUu4xrs",
+        "title": "Buffalo Bills vs New England Patriots | 2022 Week 13 Game Highlights",
+        "published_at": "2022-12-02T04:18:48Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 13,
+      "away": "PIT",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401437874"
+      },
+      "kickoff": "2022-12-04T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "uWN9p22EoLY",
+        "title": "Pittsburgh Steelers vs. Atlanta Falcons | 2022 Week 13 Game Highlights",
+        "published_at": "2022-12-04T21:08:37Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 13,
+      "away": "DEN",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401437875"
+      },
+      "kickoff": "2022-12-04T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "TP0nnL6J1oM",
+        "title": "Denver Broncos vs. Baltimore Ravens | 2022 Week 13 Game Highlights",
+        "published_at": "2022-12-04T21:05:37Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 13,
+      "away": "GB",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401437876"
+      },
+      "kickoff": "2022-12-04T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "xRb_0Bf14e4",
+        "title": "Green Bay Packers vs. Chicago Bears | 2022 Week 13 Game Highlights",
+        "published_at": "2022-12-04T21:09:46Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 13,
+      "away": "JAX",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401437877"
+      },
+      "kickoff": "2022-12-04T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "G2SJqlZR-SE",
+        "title": "Jacksonville Jaguars vs. Detroit Lions | 2022 Week 13 Game Highlights",
+        "published_at": "2022-12-04T21:13:18Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 13,
+      "away": "CLE",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401437878"
+      },
+      "kickoff": "2022-12-04T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "qlxVwi9w_Pw",
+        "title": "Cleveland Browns vs. Houston Texans | 2022 Week 13 Game Highlights",
+        "published_at": "2022-12-04T21:25:18Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 13,
+      "away": "NYJ",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401437879"
+      },
+      "kickoff": "2022-12-04T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "CUijPSVoX_c",
+        "title": "New York Jets vs. Minnesota Vikings | 2022 Week 13 Game Highlights",
+        "published_at": "2022-12-04T21:35:51Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 13,
+      "away": "WSH",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401437880"
+      },
+      "kickoff": "2022-12-04T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "_C3pLqzn4do",
+        "title": "Washington Commanders vs. New York Giants | 2022 Week 13 Game Highlights",
+        "published_at": "2022-12-04T21:37:05Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 13,
+      "away": "TEN",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401437881"
+      },
+      "kickoff": "2022-12-04T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "5CVAy6MUU8g",
+        "title": "Tennessee Titans vs. Philadelphia Eagles | 2022 Week 13 Game Highlights",
+        "published_at": "2022-12-04T21:26:01Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 13,
+      "away": "SEA",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401437882"
+      },
+      "kickoff": "2022-12-04T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "8OO3-jSeIJg",
+        "title": "Seattle Seahawks vs. Los Angeles Rams | 2022 Week 13 Game Highlights",
+        "published_at": "2022-12-05T00:24:14Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 13,
+      "away": "MIA",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401437883"
+      },
+      "kickoff": "2022-12-04T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "fdo8hWD1taw",
+        "title": "Miami Dolphins vs. San Fransisco 49ers | 2022 Week 13 Game Highlights",
+        "published_at": "2022-12-05T00:33:58Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 13,
+      "away": "KC",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401437884"
+      },
+      "kickoff": "2022-12-04T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Yp8zR0CqgKM",
+        "title": "Kansas City Chiefs vs. Cincinnati Bengals | 2022 Week 13 Game Highlights",
+        "published_at": "2022-12-05T00:34:54Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 13,
+      "away": "LAC",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401437885"
+      },
+      "kickoff": "2022-12-04T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "PHKCFQtS75I",
+        "title": "Los Angeles Chargers vs. Las Vegas Raiders | 2022 Week 13 Game Highlights",
+        "published_at": "2022-12-05T00:51:53Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 13,
+      "away": "IND",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401437886"
+      },
+      "kickoff": "2022-12-05T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "J1tFQl8wv9g",
+        "title": "Indianapolis Colts vs. Dallas Cowboys | 2022 Week 13 Game Highlights",
+        "published_at": "2022-12-05T04:42:17Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 13,
+      "away": "NO",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401437887"
+      },
+      "kickoff": "2022-12-06T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "eTDC7DSiaQY",
+        "title": "New Orleans Saints vs. Tampa Bay Buccaneers | 2022 Week 13 Game Highlights",
+        "published_at": "2022-12-06T04:40:36Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 14,
+      "away": "LV",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401437888"
+      },
+      "kickoff": "2022-12-09T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "j3G_H-GH6sg",
+        "title": "Las Vegas Raiders vs. Los Angeles Rams | 2022 Week 14 Game Highlights",
+        "published_at": "2022-12-09T04:32:03Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 14,
+      "away": "NYJ",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401437889"
+      },
+      "kickoff": "2022-12-11T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "3Qs7lyDvtqI",
+        "title": "New York Jets vs. Buffalo Bills | 2022 Week 14 Game Highlights",
+        "published_at": "2022-12-11T21:22:58Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 14,
+      "away": "CLE",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401437890"
+      },
+      "kickoff": "2022-12-11T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "EnAb0MrUMSg",
+        "title": "Cleveland Browns vs. Cincinnati Bengals | 2022 Week 14 Game Highlights",
+        "published_at": "2022-12-11T21:20:56Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 14,
+      "away": "HOU",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401437891"
+      },
+      "kickoff": "2022-12-11T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Tglk5-F8Xzs",
+        "title": "Houston Texans vs. Dallas Cowboys | 2022 Week 14 Game Highlights",
+        "published_at": "2022-12-11T21:27:23Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 14,
+      "away": "MIN",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401437892"
+      },
+      "kickoff": "2022-12-11T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "kLS2MuJ4rRs",
+        "title": "Minnesota Vikings vs. Detroit Lions | 2022 Week 14 Game Highlights",
+        "published_at": "2022-12-11T21:28:41Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 14,
+      "away": "PHI",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401437893"
+      },
+      "kickoff": "2022-12-11T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "S8cJ3j6QUEQ",
+        "title": "Philadelphia Eagles vs. New York Giants | 2022 Week 14 Game Highlights",
+        "published_at": "2022-12-11T21:14:44Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 14,
+      "away": "BAL",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401437894"
+      },
+      "kickoff": "2022-12-11T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "co_R_igNx8Q",
+        "title": "Baltimore Ravens vs. Pittsburgh Steelers | 2022 Week 14 Game Highlights",
+        "published_at": "2022-12-11T21:01:43Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 14,
+      "away": "JAX",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401437895"
+      },
+      "kickoff": "2022-12-11T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "NXmKj1m2_Qg",
+        "title": "Jacksonville Jaguars vs. Tennessee Titans | 2022 Week 14 Game Highlights",
+        "published_at": "2022-12-11T21:30:04Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 14,
+      "away": "KC",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401437899"
+      },
+      "kickoff": "2022-12-11T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "NkxQkYjnrLk",
+        "title": "Kansas City Chiefs vs. Denver Broncos | 2022 Week 14 Game Highlights",
+        "published_at": "2022-12-12T00:28:35Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 14,
+      "away": "CAR",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401437898"
+      },
+      "kickoff": "2022-12-11T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "gnF82-Ku_xI",
+        "title": "Carolina Panthers vs. Seattle Seahawks | 2022 Week 14 Game Highlight",
+        "published_at": "2022-12-12T00:43:58Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 14,
+      "away": "TB",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401437897"
+      },
+      "kickoff": "2022-12-11T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "8mkPk22rGgE",
+        "title": "Tampa Bay Buccaneers vs. San Francisco 49ers | 2022 Week 14 Game Highlights",
+        "published_at": "2022-12-12T00:46:22Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 14,
+      "away": "MIA",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401437896"
+      },
+      "kickoff": "2022-12-12T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "v4x7UU-I0y4",
+        "title": "Miami Dolphins vs. Los Angeles Chargers | 2022 Week 14 Game Highlights",
+        "published_at": "2022-12-12T04:42:07Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 14,
+      "away": "NE",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401437900"
+      },
+      "kickoff": "2022-12-13T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "LKLr4_tfKVo",
+        "title": "New England Patriots vs. Arizona Cardinals | 2022 Week 14 Game Highlights",
+        "published_at": "2022-12-13T04:45:46Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 15,
+      "away": "SF",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401437901"
+      },
+      "kickoff": "2022-12-16T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "6cskezBiQME",
+        "title": "San Francisco 49ers vs. Seattle Seahawks | 2022 Week 15 Game Highlights",
+        "published_at": "2022-12-16T04:27:04Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 15,
+      "away": "IND",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401437904"
+      },
+      "kickoff": "2022-12-17T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "L_hlvNda2E8",
+        "title": "LARGEST COMEBACK IN HISTORY! Indianapolis Colts vs. Minnesota Vikings | 2022 Week 15 Game Highlights",
+        "published_at": "2022-12-17T22:21:00Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 15,
+      "away": "BAL",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401437903"
+      },
+      "kickoff": "2022-12-17T21:40:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "wbGUgKXdxT8",
+        "title": "Baltimore Ravens vs. Cleveland Browns | 2022 Week 15 Game Highlights",
+        "published_at": "2022-12-18T00:37:38Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 15,
+      "away": "MIA",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401437902"
+      },
+      "kickoff": "2022-12-18T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "KiIiJMS4Yo0",
+        "title": "Miami Dolphins vs. Buffalo Bills | 2022 Week 15 Game Highlights",
+        "published_at": "2022-12-18T04:53:44Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 15,
+      "away": "PIT",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401437907"
+      },
+      "kickoff": "2022-12-18T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "xytWPPD1Cls",
+        "title": "Pittsburgh Steelers vs. Carolina Panthers | 2022 Week 15 Game Highlights",
+        "published_at": "2022-12-18T21:16:18Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 15,
+      "away": "PHI",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401437908"
+      },
+      "kickoff": "2022-12-18T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "gJYW1Iu1EXU",
+        "title": "Philadelphia Eagles vs. Chicago Bears | 2022 Week 15 Game Highlights",
+        "published_at": "2022-12-18T21:29:19Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 15,
+      "away": "KC",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401437909"
+      },
+      "kickoff": "2022-12-18T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "XiyMy8xMu5A",
+        "title": "Kansas City Chiefs vs. Houston Texans | 2022 Week 15 Game Highlights",
+        "published_at": "2022-12-18T21:30:58Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 15,
+      "away": "DAL",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401437910"
+      },
+      "kickoff": "2022-12-18T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "R3UeGmocADg",
+        "title": "Dallas Cowboys vs. Jacksonville Jaguars | 2022 Week 15 Game Highlights",
+        "published_at": "2022-12-18T21:30:34Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 15,
+      "away": "ATL",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401437905"
+      },
+      "kickoff": "2022-12-18T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "rb55HDBd2wk",
+        "title": "Atlanta Falcons vs. New Orleans Saints | 2022 Week 15 Game Highlights",
+        "published_at": "2022-12-18T21:04:21Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 15,
+      "away": "DET",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401437911"
+      },
+      "kickoff": "2022-12-18T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "uHKQc3vTe5M",
+        "title": "Detroit Lions vs. New York Jets | 2022 Week 15 Game Highlights",
+        "published_at": "2022-12-18T21:22:07Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 15,
+      "away": "ARI",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401437912"
+      },
+      "kickoff": "2022-12-18T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "yRnXuD7J3oM",
+        "title": "Arizona Cardinals vs. Denver Broncos | 2022 Week 15 Game Highlights",
+        "published_at": "2022-12-19T00:17:12Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 15,
+      "away": "NE",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401437915"
+      },
+      "kickoff": "2022-12-18T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "V5jZC6orXQg",
+        "title": "New England Patriots vs. Las Vegas Raiders | 2022 Week 15 Game Highlights",
+        "published_at": "2022-12-19T00:37:57Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 15,
+      "away": "TEN",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401437913"
+      },
+      "kickoff": "2022-12-18T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "saIodWmvDwg",
+        "title": "Tennessee Titans vs. Los Angeles Chargers | 2022 Week 15 Game Highlights",
+        "published_at": "2022-12-19T00:40:38Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 15,
+      "away": "CIN",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401437914"
+      },
+      "kickoff": "2022-12-18T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "S7AHktqUY5g",
+        "title": "Cincinnati Bengals vs. Tampa Bay Buccaneers | 2022 Week 15 Game Highlights",
+        "published_at": "2022-12-19T00:41:24Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 15,
+      "away": "NYG",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401437906"
+      },
+      "kickoff": "2022-12-19T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "aYQtFvrZJRY",
+        "title": "New York Giants vs. Washington Commanders | 2022 Week 15 Game Highlights",
+        "published_at": "2022-12-19T04:40:51Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 15,
+      "away": "LAR",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401437916"
+      },
+      "kickoff": "2022-12-20T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "HL_p8QLlwkE",
+        "title": "Los Angeles Rams vs. Green Bay Packers | 2022 Week 15 Game Highlights",
+        "published_at": "2022-12-20T04:23:46Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 16,
+      "away": "JAX",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401437917"
+      },
+      "kickoff": "2022-12-23T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "C-q2qw_LqoI",
+        "title": "Jacksonville Jaguars vs. New York Jets | 2022 Week 16 Game Highlights",
+        "published_at": "2022-12-23T04:17:40Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 16,
+      "away": "ATL",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401437918"
+      },
+      "kickoff": "2022-12-24T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "zZmA9t--PK4",
+        "title": "Atlanta Falcons vs. Baltimore Ravens | 2022 Week 16 Game Highlights",
+        "published_at": "2022-12-24T21:14:42Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 16,
+      "away": "DET",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401437919"
+      },
+      "kickoff": "2022-12-24T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "aILh26hthhk",
+        "title": "Detroit Lions vs. Carolina Panthers | 2022 Week 16 Game Highlights",
+        "published_at": "2022-12-24T21:26:31Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 16,
+      "away": "BUF",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401437920"
+      },
+      "kickoff": "2022-12-24T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Ww_T5edZeKQ",
+        "title": "Buffalo Bills vs. Chicago Bears | 2022 Week 16 Game Highlights",
+        "published_at": "2022-12-24T21:26:16Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 16,
+      "away": "NO",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401437921"
+      },
+      "kickoff": "2022-12-24T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "c3gvQ1BqSlE",
+        "title": "New Orleans Saints vs. Cleveland Browns | 2022 Week 16 Game Highlights",
+        "published_at": "2022-12-24T21:01:22Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 16,
+      "away": "SEA",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401437922"
+      },
+      "kickoff": "2022-12-24T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "5IhuSFpX4Cw",
+        "title": "Seattle Seahawks vs. Kansas City Chiefs | 2022 Week 16 Game Highlights",
+        "published_at": "2022-12-24T21:11:10Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 16,
+      "away": "NYG",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401437923"
+      },
+      "kickoff": "2022-12-24T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "g1V9jDs9500",
+        "title": "New York Giants vs. Minnesota Vikings | 2022 Week 16 Game Highlights",
+        "published_at": "2022-12-24T21:21:47Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 16,
+      "away": "CIN",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401437924"
+      },
+      "kickoff": "2022-12-24T18:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 16,
+      "away": "HOU",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401437925"
+      },
+      "kickoff": "2022-12-24T19:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "yVfSDmENRzA",
+        "title": "Houston Texans vs. Tennessee Titans | 2022 Week 16 Game Highlights",
+        "published_at": "2022-12-24T22:00:55Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 16,
+      "away": "WSH",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401437926"
+      },
+      "kickoff": "2022-12-24T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "--5-brQiQFg",
+        "title": "Washington Commanders vs. San Francisco 49ers | 2022 Week 16 Game Highlights",
+        "published_at": "2022-12-25T00:30:17Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 16,
+      "away": "PHI",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401437927"
+      },
+      "kickoff": "2022-12-24T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "SdMJ5bS0PIg",
+        "title": "Philadelphia Eagles vs. Dallas Cowboys | 2022 Week 16 Game Highlights",
+        "published_at": "2022-12-25T00:50:02Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 16,
+      "away": "LV",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401437928"
+      },
+      "kickoff": "2022-12-25T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Oid1bvItUGA",
+        "title": "Las Vegas Raiders vs. Pittsburgh Steelers | 2022 Week 16 Game Highlights",
+        "published_at": "2022-12-25T04:22:40Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 16,
+      "away": "GB",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401437929"
+      },
+      "kickoff": "2022-12-25T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "w_8CV3JCEfw",
+        "title": "Green Bay Packers vs. Miami Dolphins | 2022 Week 16 Game Highlights",
+        "published_at": "2022-12-25T21:14:47Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 16,
+      "away": "DEN",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401436983"
+      },
+      "kickoff": "2022-12-25T21:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "nL4b607uriE",
+        "title": "Denver Broncos vs. Los Angeles Rams | 2022 Week 16 Game Highlights",
+        "published_at": "2022-12-26T00:43:29Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 16,
+      "away": "TB",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401437930"
+      },
+      "kickoff": "2022-12-26T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "-7Gl5GI9JSE",
+        "title": "Tampa Bay Buccaneers vs. Arizona Cardinals | 2022 Week 16 Game Highlights",
+        "published_at": "2022-12-26T05:07:43Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 16,
+      "away": "LAC",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401437931"
+      },
+      "kickoff": "2022-12-27T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "z3BNStfB9KI",
+        "title": "Los Angeles Chargers vs. Indianapolis Colts | 2022 Week 16 Game Highlights",
+        "published_at": "2022-12-27T04:13:54Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 17,
+      "away": "DAL",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401437932"
+      },
+      "kickoff": "2022-12-30T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "xOAvj3-ZUnw",
+        "title": "Dallas Cowboys vs. Tennessee Titans | 2022 Week 17 Game Highlights",
+        "published_at": "2022-12-30T04:31:40Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 17,
+      "away": "ARI",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401437933"
+      },
+      "kickoff": "2023-01-01T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "lwxmwf_iBx0",
+        "title": "Arizona Cardinals vs. Atlanta Falcons | 2022 Week 17 Game Highlights",
+        "published_at": "2023-01-01T21:11:26Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 17,
+      "away": "CHI",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401437935"
+      },
+      "kickoff": "2023-01-01T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "FFMjujQwOKU",
+        "title": "Chicago Bears vs. Detroit Lions | 2022 Week 17 Game Highlights",
+        "published_at": "2023-01-01T21:08:05Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 17,
+      "away": "JAX",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401437936"
+      },
+      "kickoff": "2023-01-01T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "351ywWa-HTQ",
+        "title": "Jacksonville Jaguars vs. Houston Texans | 2022 Week 17 Game Highlights",
+        "published_at": "2023-01-01T21:12:46Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 17,
+      "away": "DEN",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401437937"
+      },
+      "kickoff": "2023-01-01T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "9Gwf1AQby3o",
+        "title": "Denver Broncos vs. Kansas City Chiefs | 2022 Week 17 Game Highlights",
+        "published_at": "2023-01-01T21:22:44Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 17,
+      "away": "MIA",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401437938"
+      },
+      "kickoff": "2023-01-01T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "CTOgSEYqiwA",
+        "title": "Miami Dolphins vs. New England Patriots | 2022 Week 17 Game Highlights",
+        "published_at": "2023-01-01T21:26:38Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 17,
+      "away": "IND",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401437939"
+      },
+      "kickoff": "2023-01-01T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "TkFmARXPfoo",
+        "title": "Indianapolis Colts vs. New York Giants | 2022 Week 17 Game Highlights",
+        "published_at": "2023-01-01T21:12:17Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 17,
+      "away": "NO",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401437940"
+      },
+      "kickoff": "2023-01-01T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "nMVQwS9b38I",
+        "title": "New Orleans Saints vs. Philadelphia Eagles | 2022 Week 17 Game Highlights",
+        "published_at": "2023-01-01T21:06:25Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 17,
+      "away": "CAR",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401437941"
+      },
+      "kickoff": "2023-01-01T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "5SNhZAiEb1s",
+        "title": "Carolina Panthers vs. Tampa Bay Buccaneers | 2022 Week 17 Game Highlights",
+        "published_at": "2023-01-01T21:42:01Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 17,
+      "away": "CLE",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401437942"
+      },
+      "kickoff": "2023-01-01T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "AEHDNuy0IeU",
+        "title": "Cleveland Browns vs. Washington Commanders | 2022 Week 17 Game Highlights",
+        "published_at": "2023-01-01T21:07:46Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 17,
+      "away": "SF",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401437943"
+      },
+      "kickoff": "2023-01-01T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "0ZNzDDf0AOw",
+        "title": "San Francisco 49ers vs. Las Vegas Raiders | 2022 Week 17 Game Highlights",
+        "published_at": "2023-01-02T00:49:08Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 17,
+      "away": "NYJ",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401437944"
+      },
+      "kickoff": "2023-01-01T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ZEiKlUBn9jE",
+        "title": "New York Jets vs. Seattle Seahawks | 2022 Week 17 Game Highlights",
+        "published_at": "2023-01-02T00:19:25Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 17,
+      "away": "MIN",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401437945"
+      },
+      "kickoff": "2023-01-01T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "96NjmasYHuQ",
+        "title": "Minnesota Vikings vs. Green Bay Packers | 2022 Week 17 Game Highlights",
+        "published_at": "2023-01-02T00:31:58Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 17,
+      "away": "LAR",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401437946"
+      },
+      "kickoff": "2023-01-01T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "58H3Z-7Pyss",
+        "title": "Los Angeles Rams vs. Los Angeles Chargers | 2022 Week 17 Game Highlights",
+        "published_at": "2023-01-02T00:17:30Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 17,
+      "away": "PIT",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401437934"
+      },
+      "kickoff": "2023-01-02T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "S-SPpntGMF4",
+        "title": "Pittsburgh Steelers vs. Baltimore Ravens | 2022 Week 17 Game Highlights",
+        "published_at": "2023-01-02T04:26:39Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 18,
+      "away": "KC",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401437961"
+      },
+      "kickoff": "2023-01-07T21:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "RUBrP6SO8Kw",
+        "title": "Kansas City Chiefs vs. Las Vegas Raiders | 2022 Week 18 Game Highlights",
+        "published_at": "2023-01-08T00:30:18Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 18,
+      "away": "TEN",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401437954"
+      },
+      "kickoff": "2023-01-08T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "EgNunih29ag",
+        "title": "Tennessee Titans vs. Jacksonville Jaguars | 2022 Week 18 Game Highlights",
+        "published_at": "2023-01-08T04:22:12Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 18,
+      "away": "TB",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401437948"
+      },
+      "kickoff": "2023-01-08T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "GuC-LfL5-Gc",
+        "title": "Tampa Bay Buccaneers vs. Atlanta Falcons | 2022 Week 18 Game Highlights",
+        "published_at": "2023-01-08T21:16:01Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 18,
+      "away": "NE",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401437949"
+      },
+      "kickoff": "2023-01-08T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "8AefVowMiaQ",
+        "title": "New England Patriots vs. Buffalo Bills | 2022 Week 18 Game Highlights",
+        "published_at": "2023-01-08T21:28:19Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 18,
+      "away": "MIN",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401437950"
+      },
+      "kickoff": "2023-01-08T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "etNZ1fqfuSE",
+        "title": "Minnesota Vikings vs. Chicago Bears | 2022 Week 18 Game Highlights",
+        "published_at": "2023-01-08T21:09:54Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 18,
+      "away": "BAL",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401437951"
+      },
+      "kickoff": "2023-01-08T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "wbkm1mWmA0Y",
+        "title": "Baltimore Ravens vs. Cincinnati Bengals | 2022 Week 18 Game Highlights",
+        "published_at": "2023-01-08T21:37:23Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 18,
+      "away": "HOU",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401437953"
+      },
+      "kickoff": "2023-01-08T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "VEe7YLhTz2Y",
+        "title": "Houston Texans vs. Indianapolis Colts | 2022 Week 18 Game Highlights",
+        "published_at": "2023-01-08T21:27:01Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 18,
+      "away": "NYJ",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401437955"
+      },
+      "kickoff": "2023-01-08T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "6rpz_InKGAs",
+        "title": "New York Jets vs. Miami Dolphins | 2022 Week 18 Game Highlights",
+        "published_at": "2023-01-08T21:17:10Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 18,
+      "away": "CAR",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401437956"
+      },
+      "kickoff": "2023-01-08T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Y9bjtxql-uY",
+        "title": "Carolina Panthers vs. New Orleans Saints | 2022 Week 18 Game Highlights",
+        "published_at": "2023-01-08T21:18:08Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 18,
+      "away": "CLE",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401437958"
+      },
+      "kickoff": "2023-01-08T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "oWQG41grn0k",
+        "title": "Cleveland Browns vs. Pittsburgh Steelers | 2022 Week 18 Game Highlights",
+        "published_at": "2023-01-08T21:22:44Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 18,
+      "away": "LAC",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401437960"
+      },
+      "kickoff": "2023-01-08T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Kwao5-zmj0c",
+        "title": "Los Angeles Chargers vs. Denver Broncos | 2022 Week 18 Game Highlights",
+        "published_at": "2023-01-09T00:53:35Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 18,
+      "away": "NYG",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401437957"
+      },
+      "kickoff": "2023-01-08T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Li2mX1D-UF8",
+        "title": "New York Giants vs. Philadelphia Eagles | 2022 Week 18 Game Highlights",
+        "published_at": "2023-01-09T00:35:36Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 18,
+      "away": "LAR",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401437963"
+      },
+      "kickoff": "2023-01-08T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "5tXQ1vgz52g",
+        "title": "Los Angeles Rams vs. Seattle Seahawks | Week 18 2022 Game Highlights",
+        "published_at": "2023-01-09T00:48:05Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 18,
+      "away": "ARI",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401437962"
+      },
+      "kickoff": "2023-01-08T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "nI8REL5PYm4",
+        "title": "Arizona Cardinals vs. San Francisco 49ers | 2022 Week 18 Game Highlights",
+        "published_at": "2023-01-09T00:31:40Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 18,
+      "away": "DAL",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401437959"
+      },
+      "kickoff": "2023-01-08T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "nmsjP9tGxT0",
+        "title": "Dallas Cowboys vs. Washington Commanders | 2022 Week 18 Game Highlights",
+        "published_at": "2023-01-09T00:43:26Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "regular",
+      "week": 18,
+      "away": "DET",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401437952"
+      },
+      "kickoff": "2023-01-09T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "gglsiPZeCnQ",
+        "title": "Detroit Lions vs. Green Bay Packers | 2022 Week 18 Game Highlights",
+        "published_at": "2023-01-09T04:42:35Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "postseason",
+      "week": 19,
+      "away": "SEA",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401438000"
+      },
+      "kickoff": "2023-01-14T21:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "2fuIZDlbV_g",
+        "title": "Seattle Seahawks vs. San Francisco 49ers | 2022 Super Wild Card Weekend Game Highlights",
+        "published_at": "2023-01-15T00:56:30Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "postseason",
+      "week": 19,
+      "away": "LAC",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401437998"
+      },
+      "kickoff": "2023-01-15T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "RQ0m99laOMQ",
+        "title": "Los Angeles Chargers vs. Jacksonville Jaguars | 2022 Super Wild Card Weekend Game Highlights",
+        "published_at": "2023-01-15T05:05:16Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "postseason",
+      "week": 19,
+      "away": "MIA",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401438002"
+      },
+      "kickoff": "2023-01-15T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "wBxAMoJw_Rw",
+        "title": "Miami Dolphins vs. Buffalo Bills | 2022 Super Wild Card Weekend Game Highlights",
+        "published_at": "2023-01-15T22:09:59Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "postseason",
+      "week": 19,
+      "away": "NYG",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401438001"
+      },
+      "kickoff": "2023-01-15T21:50:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "xU_G-l9IKg8",
+        "title": "New York Giants vs. Minnesota Vikings | 2022 Super Wild Card Weekend Game Highlights",
+        "published_at": "2023-01-16T01:04:18Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "postseason",
+      "week": 19,
+      "away": "BAL",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401437999"
+      },
+      "kickoff": "2023-01-16T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "N2KhR0fxxP4",
+        "title": "Baltimore Ravens vs. Cincinnati Bengals | 2022 Super Wildcard Weekend Game Highlights",
+        "published_at": "2023-01-16T04:34:43Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "postseason",
+      "week": 19,
+      "away": "DAL",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401438003"
+      },
+      "kickoff": "2023-01-17T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "fOfvRG0zlFs",
+        "title": "Dallas Cowboys vs. Tampa Bay Buccaneers | 2022 Super Wild Card Weekend Game Highlights",
+        "published_at": "2023-01-17T04:40:52Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "postseason",
+      "week": 20,
+      "away": "JAX",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401438005"
+      },
+      "kickoff": "2023-01-21T21:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "5S1t4dkGDbU",
+        "title": "Jacksonville Jaguars vs. Kansas City Chiefs | 2023 Division Round Game Highlights",
+        "published_at": "2023-01-22T00:46:36Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "postseason",
+      "week": 20,
+      "away": "NYG",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401438004"
+      },
+      "kickoff": "2023-01-22T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "idKC616WnmE",
+        "title": "New York Giants vs. Philadelphia Eagles | 2023 Divisional Round Game Highlights",
+        "published_at": "2023-01-22T04:18:39Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "postseason",
+      "week": 20,
+      "away": "CIN",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401438007"
+      },
+      "kickoff": "2023-01-22T20:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "BDPOZjNE8iI",
+        "title": "Cincinnati Bengals vs. Buffalo Bills | 2023 Divisional Round Game Highlights",
+        "published_at": "2023-01-22T23:34:55Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "postseason",
+      "week": 20,
+      "away": "DAL",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401438006"
+      },
+      "kickoff": "2023-01-22T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "CwaKooHmJOM",
+        "title": "Dallas Cowboys vs. San Francisco 49ers | 2022 Divisional Round Game Highlights",
+        "published_at": "2023-01-23T02:58:23Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "postseason",
+      "week": 21,
+      "away": "SF",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401438009"
+      },
+      "kickoff": "2023-01-29T20:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "haJM-KD849k",
+        "title": "San Francisco 49ers vs. Philadelphia Eagles | 2023 NFC Conference Championship Game Highlights",
+        "published_at": "2023-01-29T23:18:13Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "postseason",
+      "week": 21,
+      "away": "CIN",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401438008"
+      },
+      "kickoff": "2023-01-29T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "W1X-tap7B6c",
+        "title": "Cincinnati Bengals vs. Kansas City Chiefs | 2023 AFC Championship Game Highlights",
+        "published_at": "2023-01-30T03:27:28Z"
+      }
+    },
+    {
+      "season": 2022,
+      "season_type": "postseason",
+      "week": 22,
+      "away": "KC",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401438030"
+      },
+      "kickoff": "2023-02-12T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "BWkt79xkd00",
+        "title": "Kansas City Chiefs vs. Philadelphia Eagles | Super Bowl LVII Game Highlights",
+        "published_at": "2023-02-13T03:47:00Z"
+      }
+    }
+  ]
+}

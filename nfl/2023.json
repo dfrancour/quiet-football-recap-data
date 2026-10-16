@@ -1,0 +1,5420 @@
+{
+  "$schema": "./schema.json",
+  "schema_version": 1,
+  "season": 2023,
+  "games": [
+    {
+      "season": 2023,
+      "season_type": "preseason",
+      "week": 1,
+      "away": "NYJ",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401547654"
+      },
+      "kickoff": "2023-08-04T00:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2023,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "HOU",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401548631"
+      },
+      "kickoff": "2023-08-10T23:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2023,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "MIN",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401550740"
+      },
+      "kickoff": "2023-08-11T02:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2023,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "GB",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401548624"
+      },
+      "kickoff": "2023-08-11T23:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2023,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "NYG",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401550739"
+      },
+      "kickoff": "2023-08-11T23:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2023,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "ATL",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401548626"
+      },
+      "kickoff": "2023-08-11T23:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2023,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "PIT",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401550178"
+      },
+      "kickoff": "2023-08-11T23:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2023,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "WSH",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401549309"
+      },
+      "kickoff": "2023-08-11T23:30:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2023,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "DEN",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401548496"
+      },
+      "kickoff": "2023-08-12T02:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2023,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "IND",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401547663"
+      },
+      "kickoff": "2023-08-12T17:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2023,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "TEN",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401548411"
+      },
+      "kickoff": "2023-08-12T17:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2023,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "NYJ",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401550833"
+      },
+      "kickoff": "2023-08-12T20:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2023,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "JAX",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401548620"
+      },
+      "kickoff": "2023-08-12T21:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2023,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "PHI",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401547659"
+      },
+      "kickoff": "2023-08-12T23:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2023,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "LAC",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401547666"
+      },
+      "kickoff": "2023-08-13T01:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2023,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "KC",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401548628"
+      },
+      "kickoff": "2023-08-13T17:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2023,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "SF",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401550918"
+      },
+      "kickoff": "2023-08-13T20:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2023,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "CLE",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401547661"
+      },
+      "kickoff": "2023-08-17T23:30:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2023,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "CAR",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401550834"
+      },
+      "kickoff": "2023-08-18T23:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2023,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "CIN",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401548625"
+      },
+      "kickoff": "2023-08-18T23:30:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2023,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "JAX",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401548621"
+      },
+      "kickoff": "2023-08-19T17:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2023,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "MIA",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401547665"
+      },
+      "kickoff": "2023-08-19T20:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2023,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "BUF",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401547662"
+      },
+      "kickoff": "2023-08-19T22:30:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2023,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "CHI",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401547664"
+      },
+      "kickoff": "2023-08-19T23:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2023,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "TB",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401550836"
+      },
+      "kickoff": "2023-08-19T23:30:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2023,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "KC",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401548497"
+      },
+      "kickoff": "2023-08-20T00:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2023,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "NE",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401549211"
+      },
+      "kickoff": "2023-08-20T00:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2023,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "TEN",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401548507"
+      },
+      "kickoff": "2023-08-20T00:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2023,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "DEN",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401548509"
+      },
+      "kickoff": "2023-08-20T00:30:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2023,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "LV",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401547668"
+      },
+      "kickoff": "2023-08-20T01:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2023,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "DAL",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401550161"
+      },
+      "kickoff": "2023-08-20T02:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2023,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "NO",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401547667"
+      },
+      "kickoff": "2023-08-20T23:05:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2023,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "BAL",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401547655"
+      },
+      "kickoff": "2023-08-22T00:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2023,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "PIT",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401548627"
+      },
+      "kickoff": "2023-08-24T23:30:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2023,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "IND",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401547656"
+      },
+      "kickoff": "2023-08-25T00:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2023,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "DET",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401547657"
+      },
+      "kickoff": "2023-08-26T00:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2023,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "NE",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401548508"
+      },
+      "kickoff": "2023-08-26T00:15:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2023,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "LAC",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401548510"
+      },
+      "kickoff": "2023-08-26T02:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2023,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "BUF",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401548412"
+      },
+      "kickoff": "2023-08-26T17:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2023,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "SEA",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401549212"
+      },
+      "kickoff": "2023-08-26T17:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2023,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "CLE",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401548629"
+      },
+      "kickoff": "2023-08-26T17:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2023,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "ARI",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401548498"
+      },
+      "kickoff": "2023-08-26T17:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2023,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "NYJ",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401550835"
+      },
+      "kickoff": "2023-08-26T22:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2023,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "CIN",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401548623"
+      },
+      "kickoff": "2023-08-26T22:05:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2023,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "MIA",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401548622"
+      },
+      "kickoff": "2023-08-26T23:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2023,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "BAL",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401547660"
+      },
+      "kickoff": "2023-08-26T23:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2023,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "LV",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401550167"
+      },
+      "kickoff": "2023-08-27T00:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2023,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "LAR",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401547669"
+      },
+      "kickoff": "2023-08-27T01:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2023,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "HOU",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401547658"
+      },
+      "kickoff": "2023-08-28T00:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 1,
+      "away": "DET",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401547353"
+      },
+      "kickoff": "2023-09-08T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "J4DoMjut2aQ",
+        "title": "Detroit Lions vs. Kansas City Chiefs Game Highlights | NFL 2023 Week 1",
+        "published_at": "2023-09-08T03:35:26Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 1,
+      "away": "CAR",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401547403"
+      },
+      "kickoff": "2023-09-10T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "i2e3Sffr4G8",
+        "title": "Carolina Panthers vs. Atlanta Falcons Game Highlights | NFL 2023 Week 1",
+        "published_at": "2023-09-10T20:20:20Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 1,
+      "away": "HOU",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401547396"
+      },
+      "kickoff": "2023-09-10T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "FCFudOZxElA",
+        "title": "Houston Texans vs. Baltimore Ravens | 2023 Week 1 Game Highlights",
+        "published_at": "2023-09-10T20:28:56Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 1,
+      "away": "CIN",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401547397"
+      },
+      "kickoff": "2023-09-10T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "JnBO7FD2zCY",
+        "title": "Cincinatti Bengals vs. Cleveland Browns | 2023 Week 1 Game Highlights",
+        "published_at": "2023-09-10T20:18:30Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 1,
+      "away": "JAX",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401547404"
+      },
+      "kickoff": "2023-09-10T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "VoR_5bfMvcI",
+        "title": "Jacksonville Jaguars vs. Indianapolis Colts | 2023 Week 1 Game Highlights",
+        "published_at": "2023-09-10T20:31:22Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 1,
+      "away": "TB",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401547398"
+      },
+      "kickoff": "2023-09-10T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "QeHgQ_OwEmk",
+        "title": "Tampa Bay Buccaneers vs. Minnesota Vikings Game Highlights | NFL 2023 Week 1",
+        "published_at": "2023-09-10T20:15:51Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 1,
+      "away": "TEN",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401547399"
+      },
+      "kickoff": "2023-09-10T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "eQov90lWgV4",
+        "title": "Tennessee Titans vs. New Orleans Saints Game Highlights | NFL 2023 Week 1",
+        "published_at": "2023-09-10T21:24:38Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 1,
+      "away": "SF",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401547405"
+      },
+      "kickoff": "2023-09-10T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "MIMW94KGXFs",
+        "title": "San Francisco 49ers vs. Pittsburgh Steelers Game Highlights | NFL 2023 Week 1",
+        "published_at": "2023-09-10T20:19:13Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 1,
+      "away": "ARI",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401547406"
+      },
+      "kickoff": "2023-09-10T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "88R2r9805So",
+        "title": "Arizona Cardinals vs. Washington Commanders Game Highlights | NFL 2023 Week 1",
+        "published_at": "2023-09-10T20:19:35Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 1,
+      "away": "GB",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401547407"
+      },
+      "kickoff": "2023-09-10T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "BwVylUiQI74",
+        "title": "Green Bay Packers vs. Chicago Bears Game Highlights | NFL 2023 Week 1",
+        "published_at": "2023-09-10T23:53:48Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 1,
+      "away": "LV",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401547400"
+      },
+      "kickoff": "2023-09-10T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "JEVmIDXz8GM",
+        "title": "Las Vegas Raiders vs. Denver Broncos Game Highlights | NFL 2023 Week 1",
+        "published_at": "2023-09-10T23:53:54Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 1,
+      "away": "MIA",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401547401"
+      },
+      "kickoff": "2023-09-10T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "YJvCBKhHTEo",
+        "title": "Miami Dolphins vs. Los Angeles Chargers | 2023 Week 1 Game Highlights",
+        "published_at": "2023-09-10T23:57:22Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 1,
+      "away": "PHI",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401547402"
+      },
+      "kickoff": "2023-09-10T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "9ScvSGsDtfo",
+        "title": "Philadelphia Eagles vs. New England Patriots | 2023 Week 1 Game Highlights",
+        "published_at": "2023-09-10T23:52:23Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 1,
+      "away": "LAR",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401547408"
+      },
+      "kickoff": "2023-09-10T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ozLQwG2-iaY",
+        "title": "Los Angeles Rams vs. Seattle Seahawks Game Highlights | NFL 2023 Week 1",
+        "published_at": "2023-09-10T23:40:02Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 1,
+      "away": "DAL",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401547409"
+      },
+      "kickoff": "2023-09-11T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Eg8V0CcqdfE",
+        "title": "Dallas Cowboys vs. New York Giants | 2023 Week 1 Game Highlights",
+        "published_at": "2023-09-11T03:29:54Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 1,
+      "away": "BUF",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401547352"
+      },
+      "kickoff": "2023-09-12T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Zk8DnHKqBRg",
+        "title": "Buffalo Bills vs. New York Jets | 2023 Week 1 Game Highlights",
+        "published_at": "2023-09-12T03:38:37Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 2,
+      "away": "MIN",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401547410"
+      },
+      "kickoff": "2023-09-15T00:15:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 2,
+      "away": "GB",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401547417"
+      },
+      "kickoff": "2023-09-17T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "RXXoU8auU4A",
+        "title": "Green Bay Packers vs. Atlanta Falcons | 2023 Week 2 Game Highlights",
+        "published_at": "2023-09-17T20:28:52Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 2,
+      "away": "LV",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401547411"
+      },
+      "kickoff": "2023-09-17T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "UdDHY5AUAKg",
+        "title": "Las Vegas Raiders vs. Buffalo Bills Game Highlights | NFL 2023 Week 2",
+        "published_at": "2023-09-17T20:31:16Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 2,
+      "away": "BAL",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401547412"
+      },
+      "kickoff": "2023-09-17T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "P_4CkIx6uwE",
+        "title": "Baltimore Ravens vs. Cincinnati Bengals Game Highlights | NFL 2023 Week 2",
+        "published_at": "2023-09-17T20:43:15Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 2,
+      "away": "SEA",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401547418"
+      },
+      "kickoff": "2023-09-17T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "6Ti_a8ZrWeo",
+        "title": "Seattle Seahawks vs. Detroit Lions | 2023 Week 2 Game Highlights",
+        "published_at": "2023-09-17T20:20:18Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 2,
+      "away": "IND",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401547419"
+      },
+      "kickoff": "2023-09-17T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ACcUO8GGXL4",
+        "title": "Indianapolis Colts vs. Houston Texans Game Highlights | NFL 2023 Week 2",
+        "published_at": "2023-09-17T20:48:33Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 2,
+      "away": "KC",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401547413"
+      },
+      "kickoff": "2023-09-17T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "_3mDT2ZKbbo",
+        "title": "Kansas City Chiefs vs. Jacksonville Jaguars | 2023 Week 2 Game Highlights",
+        "published_at": "2023-09-17T20:23:38Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 2,
+      "away": "CHI",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401547420"
+      },
+      "kickoff": "2023-09-17T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "4LUIkguImng",
+        "title": "Chicago Bears vs. Tampa Bay Buccaneers | 2023 Week 2 Game Highlights",
+        "published_at": "2023-09-17T20:11:33Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 2,
+      "away": "LAC",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401547414"
+      },
+      "kickoff": "2023-09-17T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "2Han62P2Cis",
+        "title": "Los Angeles Chargers vs. Tennessee Titans | 2023 Week 2 Game Highlights",
+        "published_at": "2023-09-17T20:44:42Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 2,
+      "away": "NYG",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401547421"
+      },
+      "kickoff": "2023-09-17T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "b-hOJlARpJ4",
+        "title": "New York Giants vs. Arizona Cardinals Game Highlights | NFL 2023 Week 2",
+        "published_at": "2023-09-17T23:54:29Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 2,
+      "away": "SF",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401547422"
+      },
+      "kickoff": "2023-09-17T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "0h_uxJhuM_0",
+        "title": "San Francisco 49ers vs. Los Angeles Rams | 2023 Week 2 Game Highlights",
+        "published_at": "2023-09-17T23:27:08Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 2,
+      "away": "NYJ",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401547415"
+      },
+      "kickoff": "2023-09-17T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "V4IBFuWJGP4",
+        "title": "New York Jets vs. Dallas Cowboys | 2023 Week 2 Game Highlights",
+        "published_at": "2023-09-17T23:37:06Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 2,
+      "away": "WSH",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401547416"
+      },
+      "kickoff": "2023-09-17T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "hOLvWKmnlsw",
+        "title": "Washington Commanders vs. Denver Broncos | 2023 Week 2 Game Highlights",
+        "published_at": "2023-09-18T00:00:34Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 2,
+      "away": "MIA",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401547423"
+      },
+      "kickoff": "2023-09-18T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Wvadap4QRSQ",
+        "title": "Miami Dolphins vs. New England Patriots | 2023 Week 2 Game Highlights",
+        "published_at": "2023-09-18T03:37:33Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 2,
+      "away": "NO",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401547425"
+      },
+      "kickoff": "2023-09-18T23:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "haL3wiTxTOQ",
+        "title": "New Orleans Saints vs. Carolina Panthers | 2023 Week 2 Game Highlights",
+        "published_at": "2023-09-19T02:36:09Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 2,
+      "away": "CLE",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401547424"
+      },
+      "kickoff": "2023-09-19T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "MFvuORB3Llc",
+        "title": "Cleveland Browns vs. Pittsburgh Steelers | 2023 Week 2 Game Highlights",
+        "published_at": "2023-09-19T04:14:14Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 3,
+      "away": "NYG",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401547426"
+      },
+      "kickoff": "2023-09-22T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Ihjw0UClLnM",
+        "title": "New York Giants vs. San Francisco 49ers | 2023 Week 3 Game Highlights",
+        "published_at": "2023-09-22T03:34:52Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 3,
+      "away": "IND",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401547427"
+      },
+      "kickoff": "2023-09-24T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "vLUtSmfmdU4",
+        "title": "Indianapolis Colts vs. Baltimore Ravens | 2023 Week 3 Game Highlights",
+        "published_at": "2023-09-24T21:11:02Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 3,
+      "away": "TEN",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401547428"
+      },
+      "kickoff": "2023-09-24T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "QA4V5D0KIX4",
+        "title": "Tennessee Titans vs. Cleveland Browns | 2023 Week 3 Game Highlights",
+        "published_at": "2023-09-24T20:09:21Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 3,
+      "away": "ATL",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401547433"
+      },
+      "kickoff": "2023-09-24T17:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 3,
+      "away": "NO",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401547434"
+      },
+      "kickoff": "2023-09-24T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "do6I3xL5jWQ",
+        "title": "New Orleans Saints vs. Green Bay Packers Game Highlights | NFL 2023 Week 3",
+        "published_at": "2023-09-24T20:25:14Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 3,
+      "away": "HOU",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401547435"
+      },
+      "kickoff": "2023-09-24T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "gTE1VHo727s",
+        "title": "Houston Texans vs. Jacksonville Jaguars | 2023 Week 3 Game Highlights",
+        "published_at": "2023-09-24T20:20:01Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 3,
+      "away": "DEN",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401547429"
+      },
+      "kickoff": "2023-09-24T17:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 3,
+      "away": "LAC",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401547436"
+      },
+      "kickoff": "2023-09-24T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ZwOJUJuwPRQ",
+        "title": "Los Angeles Chargers vs. Minnesota Vikings Game Highlights | NFL 2023 Week 3",
+        "published_at": "2023-09-24T20:48:03Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 3,
+      "away": "NE",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401547430"
+      },
+      "kickoff": "2023-09-24T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "5SzGYQQ7oJg",
+        "title": "New England Patriots vs. New York Jets | 2023 Week 3 Game Highlights",
+        "published_at": "2023-09-24T22:45:41Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 3,
+      "away": "BUF",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401547431"
+      },
+      "kickoff": "2023-09-24T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "nXkyPkOEA0E",
+        "title": "Buffalo Bills vs. Washington Commanders | 2023 Week 3 Game Highlights",
+        "published_at": "2023-09-24T20:05:38Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 3,
+      "away": "CAR",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401547432"
+      },
+      "kickoff": "2023-09-24T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ivQFTANHJs8",
+        "title": "Carolina Panthers vs. Seattle Seahawks | 2023 Week 3 Game Highlights",
+        "published_at": "2023-09-24T23:59:25Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 3,
+      "away": "DAL",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401547437"
+      },
+      "kickoff": "2023-09-24T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "tVnj5eGilR4",
+        "title": "Dallas Cowboys vs. Arizona Cardinals Game Highlights | NFL 2023 Week 3",
+        "published_at": "2023-09-24T23:35:29Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 3,
+      "away": "CHI",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401547438"
+      },
+      "kickoff": "2023-09-24T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "V696kcbe-VA",
+        "title": "Chicago Bears vs. Kansas City Chiefs | 2023 Week 3 Game Highlights",
+        "published_at": "2023-09-24T23:57:49Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 3,
+      "away": "PIT",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401547439"
+      },
+      "kickoff": "2023-09-25T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ce-Jbe-p0ow",
+        "title": "Pittsburgh Steelers vs. Las Vegas Raiders | 2023 Week 3 Game Highlights",
+        "published_at": "2023-09-25T03:57:05Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 3,
+      "away": "PHI",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401547440"
+      },
+      "kickoff": "2023-09-25T23:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "GelBbS0-lTA",
+        "title": "Philadelphia Eagles vs. Tampa Bay Buccaneers | 2023 Week 3 Game Highlights",
+        "published_at": "2023-09-26T02:19:42Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 3,
+      "away": "LAR",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401547441"
+      },
+      "kickoff": "2023-09-26T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "QPJ3dBmhLGI",
+        "title": "Los Angeles Rams vs. Cincinnati Bengals | 2023 Week 3 Game Highlights",
+        "published_at": "2023-09-26T03:41:19Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 4,
+      "away": "DET",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401547442"
+      },
+      "kickoff": "2023-09-29T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "TA0o5SEueQY",
+        "title": "Detroit Lions vs. Green Bay Packers | 2023 Week 4 Game Highlights",
+        "published_at": "2023-09-29T03:28:52Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 4,
+      "away": "ATL",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401547227"
+      },
+      "kickoff": "2023-10-01T13:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "-WCRI8p4Uqo",
+        "title": "Atlanta Falcons vs. Jacksonville Jaguars Game Highlights | NFL 2023 Week 4",
+        "published_at": "2023-10-01T17:18:01Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 4,
+      "away": "MIA",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401547443"
+      },
+      "kickoff": "2023-10-01T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "oX-Szmb3Ils",
+        "title": "Miami Dolphins vs. Buffalo Bills Game Highlights | NFL 2023 Week 4",
+        "published_at": "2023-10-01T20:44:52Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 4,
+      "away": "MIN",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401547448"
+      },
+      "kickoff": "2023-10-01T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "HBCsX7leZb4",
+        "title": "Minnesota Vikings vs. Carolina Panthers Game Highlights | NFL 2023 Week 4",
+        "published_at": "2023-10-01T20:35:00Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 4,
+      "away": "DEN",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401547444"
+      },
+      "kickoff": "2023-10-01T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "LL88pbrcaHI",
+        "title": "Denver Broncos vs. Chicago Bears | 2023 Week 4 Game Highlights",
+        "published_at": "2023-10-01T20:12:07Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 4,
+      "away": "BAL",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401547445"
+      },
+      "kickoff": "2023-10-01T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "PPgcTQBpT6w",
+        "title": "Baltimore Ravens vs. Cleveland Browns | 2023 Week 4 Game Highlights",
+        "published_at": "2023-10-01T20:33:49Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 4,
+      "away": "PIT",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401547446"
+      },
+      "kickoff": "2023-10-01T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "dX3U9ue-JEY",
+        "title": "Pittsburgh Steelers vs. Houston Texans Game Highlights | NFL 2023 Week 4",
+        "published_at": "2023-10-01T20:37:25Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 4,
+      "away": "LAR",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401547449"
+      },
+      "kickoff": "2023-10-01T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "6r-7RhJOCX8",
+        "title": "Los Angeles Rams vs. Indianapolis Colts | 2023 Week 4 Game Highlights",
+        "published_at": "2023-10-01T20:37:51Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 4,
+      "away": "TB",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401547450"
+      },
+      "kickoff": "2023-10-01T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "TEDA_KJ90Rw",
+        "title": "Tampa Bay Buccaneers vs. New Orleans Saints | 2023 Week 4 Game Highlights",
+        "published_at": "2023-10-01T20:19:49Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 4,
+      "away": "WSH",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401547451"
+      },
+      "kickoff": "2023-10-01T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "L3O5JyHIoyo",
+        "title": "Washington Commanders vs Philadelphia Eagles | 2023 Week 4 Game Highlights",
+        "published_at": "2023-10-01T20:58:15Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 4,
+      "away": "CIN",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401547452"
+      },
+      "kickoff": "2023-10-01T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "llbhvwP2Qs8",
+        "title": "Cincinnati Bengals vs. Tennessee Titans Game Highlights | NFL 2023 Week 4",
+        "published_at": "2023-10-01T20:35:43Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 4,
+      "away": "LV",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401547447"
+      },
+      "kickoff": "2023-10-01T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "_K0ZDOoKtT0",
+        "title": "Las Vegas Raiders vs. Los Angeles Chargers | 2023 Week 4 Game Highlights",
+        "published_at": "2023-10-01T23:22:45Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 4,
+      "away": "NE",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401547453"
+      },
+      "kickoff": "2023-10-01T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "3yFJb769c60",
+        "title": "New England Patriots vs. Dallas Cowboys Game Highlights | NFL 2023 Week 4",
+        "published_at": "2023-10-01T23:45:04Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 4,
+      "away": "ARI",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401547454"
+      },
+      "kickoff": "2023-10-01T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "-sbBlEofzFs",
+        "title": "Arizona Cardinals vs. San Francisco 49ers | 2023 Week 4 Game Highlights",
+        "published_at": "2023-10-01T23:28:55Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 4,
+      "away": "KC",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401547455"
+      },
+      "kickoff": "2023-10-02T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ctBSAKDKr94",
+        "title": "Kansas City Chiefs vs. New York Jets | 2023 Week 4 Game Highlights",
+        "published_at": "2023-10-02T03:46:02Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 4,
+      "away": "SEA",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401547456"
+      },
+      "kickoff": "2023-10-03T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "GQ7EnbMz_Ac",
+        "title": "Seattle Seahawks vs. New York Giants | 2023 Week 4 Game Highlights",
+        "published_at": "2023-10-03T03:35:05Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 5,
+      "away": "CHI",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401547457"
+      },
+      "kickoff": "2023-10-06T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "JA_NVR-xwNI",
+        "title": "Chicago Bears vs. Washington Commanders | 2023 Week 5 Game Highlights",
+        "published_at": "2023-10-06T03:33:29Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 5,
+      "away": "JAX",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401547228"
+      },
+      "kickoff": "2023-10-08T13:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "_Yp6Sq30eJA",
+        "title": "Jacksonville Jaguars vs. Buffalo Bills Game Highlights | NFL 2023 Week 5",
+        "published_at": "2023-10-08T17:09:43Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 5,
+      "away": "HOU",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401547463"
+      },
+      "kickoff": "2023-10-08T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "m7BMnzm-Bb8",
+        "title": "Houston Texans vs. Atlanta Falcons Game Highlights | NFL 2023 Week 5",
+        "published_at": "2023-10-08T20:54:10Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 5,
+      "away": "CAR",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401547464"
+      },
+      "kickoff": "2023-10-08T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "8N0jK9wvR2A",
+        "title": "Carolina Panthers vs. Detroit Lions Game Highlights | NFL 2023 Week 5",
+        "published_at": "2023-10-08T20:24:02Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 5,
+      "away": "TEN",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401547458"
+      },
+      "kickoff": "2023-10-08T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "1NPepNLHBtc",
+        "title": "Tennessee Titans vs. Indianapolis Colts Game Highlights | NFL 2023 Week 5",
+        "published_at": "2023-10-08T20:20:33Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 5,
+      "away": "NYG",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401547465"
+      },
+      "kickoff": "2023-10-08T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "9cOWVwCrOMk",
+        "title": "New York Giants vs. Miami Dolphins | 2023 Week 5 Game Highlights",
+        "published_at": "2023-10-08T20:14:16Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 5,
+      "away": "NO",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401547459"
+      },
+      "kickoff": "2023-10-08T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "_9tgJYGvg7E",
+        "title": "New Orleans Saints vs. New England Patriots | 2023 Week 5 Game Highlights",
+        "published_at": "2023-10-08T20:07:17Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 5,
+      "away": "BAL",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401547460"
+      },
+      "kickoff": "2023-10-08T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "rekGwJ7_sP4",
+        "title": "Baltimore Ravens vs. Pittsburgh Steelers Game Highlights | NFL 2023 Week 5",
+        "published_at": "2023-10-08T20:52:58Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 5,
+      "away": "CIN",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401547466"
+      },
+      "kickoff": "2023-10-08T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "0pQc6PMoCds",
+        "title": "Cincinnati Bengals vs. Arizona Cardinals | 2023 Week 5 Game Highlights",
+        "published_at": "2023-10-09T00:12:32Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 5,
+      "away": "PHI",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401547467"
+      },
+      "kickoff": "2023-10-08T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "uwJ5tgXVIp4",
+        "title": "Philadelphia Eagles vs. Los Angeles Rams | 2023 Week 5 Game Highlights",
+        "published_at": "2023-10-08T23:25:14Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 5,
+      "away": "NYJ",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401547461"
+      },
+      "kickoff": "2023-10-08T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "jdY86oghPQc",
+        "title": "New York Jets vs. Denver Broncos | 2023 Week 5 Game Highlights",
+        "published_at": "2023-10-08T23:44:16Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 5,
+      "away": "KC",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401547462"
+      },
+      "kickoff": "2023-10-08T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "LluAI0f0N9s",
+        "title": "Kansas City Chiefs vs. Minnesota Vikings | 2023 Week 5 Game Highlights",
+        "published_at": "2023-10-08T23:38:38Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 5,
+      "away": "DAL",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401547354"
+      },
+      "kickoff": "2023-10-09T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "x-fWSwgSluE",
+        "title": "Dallas Cowboys vs. San Francisco 49ers | 2023 Week 5 Game Highlights",
+        "published_at": "2023-10-09T03:40:29Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 5,
+      "away": "GB",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401547468"
+      },
+      "kickoff": "2023-10-10T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "-xTQmdnQbbg",
+        "title": "Green Bay Packers vs. Las Vegas Raiders | 2023 Week 5 Game Highlights",
+        "published_at": "2023-10-10T03:25:42Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 6,
+      "away": "DEN",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401547469"
+      },
+      "kickoff": "2023-10-13T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "KP2ZX8mld1Q",
+        "title": "Denver Broncos vs. Kansas City Chiefs | 2023 Week 6 Game Highlights",
+        "published_at": "2023-10-13T03:19:58Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 6,
+      "away": "BAL",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401547229"
+      },
+      "kickoff": "2023-10-15T13:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "RUCNnG21c9Y",
+        "title": "Baltimore Ravens vs. Tennessee Titans Game Highlights | NFL 2023 Week 6",
+        "published_at": "2023-10-15T16:55:21Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 6,
+      "away": "WSH",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401547470"
+      },
+      "kickoff": "2023-10-15T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "6Oktv2jgsZc",
+        "title": "Washington Commanders vs. Atlanta Falcons | 2023 Week 6 Game Highlights",
+        "published_at": "2023-10-15T20:14:43Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 6,
+      "away": "MIN",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401547475"
+      },
+      "kickoff": "2023-10-15T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "I63MBuRG83c",
+        "title": "Minnesota Vikings vs. Chicago Bears Game Highlights | NFL 2023 Week 6",
+        "published_at": "2023-10-15T20:49:36Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 6,
+      "away": "SEA",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401547471"
+      },
+      "kickoff": "2023-10-15T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "nOWBiMkQ6g4",
+        "title": "Seattle Seahawks vs. Cincinnati Bengals Game Highlights | NFL 2023 Week 6",
+        "published_at": "2023-10-15T20:53:48Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 6,
+      "away": "SF",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401547476"
+      },
+      "kickoff": "2023-10-15T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "fOsi1eFC4yc",
+        "title": "San Francisco 49ers vs. Cleveland Browns | 2023 Week 6 Game Highlights",
+        "published_at": "2023-10-15T20:51:41Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 6,
+      "away": "NO",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401547477"
+      },
+      "kickoff": "2023-10-15T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Bi6MBsXFcmc",
+        "title": "New Orleans Saints vs. Houston Texans Game Highlights | NFL 2023 Week 6",
+        "published_at": "2023-10-15T20:23:36Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 6,
+      "away": "IND",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401547472"
+      },
+      "kickoff": "2023-10-15T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "6kuTYzNStJM",
+        "title": "Indianapolis Colts vs. Jacksonville Jaguars Game Highlights | NFL 2023 Week 6",
+        "published_at": "2023-10-15T20:45:16Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 6,
+      "away": "CAR",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401547473"
+      },
+      "kickoff": "2023-10-15T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "tGhRlwswcq0",
+        "title": "Carolina Panthers vs. Miami Dolphins Game Highlights | NFL 2023 Week 6",
+        "published_at": "2023-10-15T20:29:27Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 6,
+      "away": "NE",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401547474"
+      },
+      "kickoff": "2023-10-15T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "-BuRmIYHtJ8",
+        "title": "New England Patriots vs. Las Vegas Raiders | 2023 Week 6 Game Highlights",
+        "published_at": "2023-10-15T23:24:24Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 6,
+      "away": "ARI",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401547479"
+      },
+      "kickoff": "2023-10-15T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "WHYhrC359y4",
+        "title": "Arizona Cardinals vs Los Angeles Rams | 2023 Game Highlights",
+        "published_at": "2023-10-15T23:38:46Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 6,
+      "away": "PHI",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401547480"
+      },
+      "kickoff": "2023-10-15T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "3cxcnrGaN0Q",
+        "title": "Philadelphia Eagles vs. New York Jets | 2023 Week 6 Game Highlights",
+        "published_at": "2023-10-15T23:52:08Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 6,
+      "away": "DET",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401547478"
+      },
+      "kickoff": "2023-10-15T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Zpbvp1eWmAg",
+        "title": "Detroit Lions vs. Tampa Bay Buccaneers | 2023 Week 6 Game Highlights",
+        "published_at": "2023-10-15T23:32:42Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 6,
+      "away": "NYG",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401547481"
+      },
+      "kickoff": "2023-10-16T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "XSXvxJOpapc",
+        "title": "New York Giants vs. Buffalo Bills | 2023 Week 6 Game Highlights",
+        "published_at": "2023-10-16T03:51:36Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 6,
+      "away": "DAL",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401547482"
+      },
+      "kickoff": "2023-10-17T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "B_4X2oSs6LI",
+        "title": "Dallas Cowboys vs. Los Angeles Chargers | 2023 Week 6 Game Highlights",
+        "published_at": "2023-10-17T03:43:01Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 7,
+      "away": "JAX",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401547483"
+      },
+      "kickoff": "2023-10-20T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "tJq8LO78XuM",
+        "title": "Jacksonville Jaguars vs.  New Orleans Saints  | 2023 Week 7 Game Highlights",
+        "published_at": "2023-10-20T03:54:38Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 7,
+      "away": "DET",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401547489"
+      },
+      "kickoff": "2023-10-22T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "m4S6-G5Zyzs",
+        "title": "Detroit Lions vs. Baltimore Ravens Game Highlights | NFL 2023 Week 7",
+        "published_at": "2023-10-22T20:21:15Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 7,
+      "away": "LV",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401547490"
+      },
+      "kickoff": "2023-10-22T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "yeLl3rNThZE",
+        "title": "Las Vegas Raiders vs. Chicago Bears | 2023 Week 7 Game Highlights",
+        "published_at": "2023-10-22T20:26:06Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 7,
+      "away": "CLE",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401547484"
+      },
+      "kickoff": "2023-10-22T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "-wsIcWAAn8U",
+        "title": "Cleveland Browns vs. Indianapolis Colts | 2023 Week 7 Game Highlights",
+        "published_at": "2023-10-22T20:51:39Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 7,
+      "away": "BUF",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401547485"
+      },
+      "kickoff": "2023-10-22T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "JjxdKGOwYr0",
+        "title": "Buffalo Bills vs. New England Patriots | 2023 Week 7 Game Highlights",
+        "published_at": "2023-10-22T20:20:30Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 7,
+      "away": "WSH",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401547486"
+      },
+      "kickoff": "2023-10-22T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Cn_1B9tuLhk",
+        "title": "Washington Commanders vs. New York Giants | 2023 Week 7 Game Highlights",
+        "published_at": "2023-10-22T20:21:57Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 7,
+      "away": "ATL",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401547491"
+      },
+      "kickoff": "2023-10-22T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "_GVylKko8KA",
+        "title": "Atlanta Falcons vs. Tampa Bay Buccaneers | 2023 Week 7 Game Highlights",
+        "published_at": "2023-10-22T20:22:07Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 7,
+      "away": "PIT",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401547492"
+      },
+      "kickoff": "2023-10-22T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "B5ad_Hi_i4g",
+        "title": "Pittsburgh Steelers vs. Los Angeles Rams | 2023 Week 7 Game Highlights",
+        "published_at": "2023-10-22T23:26:14Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 7,
+      "away": "ARI",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401547493"
+      },
+      "kickoff": "2023-10-22T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "O9c9dTPzXgc",
+        "title": "Arizona Cardinals vs. Seattle Seahawks | 2023 Week 7 Game Highlights",
+        "published_at": "2023-10-22T23:26:40Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 7,
+      "away": "GB",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401547487"
+      },
+      "kickoff": "2023-10-22T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "TMreaXTj6dY",
+        "title": "Green Bay Packers vs. Denver Broncos | 2023 Week 7 Game Highlights",
+        "published_at": "2023-10-22T23:36:38Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 7,
+      "away": "LAC",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401547488"
+      },
+      "kickoff": "2023-10-22T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "pICXVLR6SrI",
+        "title": "Los Angeles Chargers vs. Kansas City Chiefs | 2023 Week 7 Game Highlights",
+        "published_at": "2023-10-22T23:35:33Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 7,
+      "away": "MIA",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401547494"
+      },
+      "kickoff": "2023-10-23T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Grh0GJjcbg0",
+        "title": "Miami Dolphins vs. Philadelphia Eagles | 2023 Week 7 Game Highlights",
+        "published_at": "2023-10-23T03:29:47Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 7,
+      "away": "SF",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401547495"
+      },
+      "kickoff": "2023-10-24T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "goAvP2I-twQ",
+        "title": "San Francisco 49ers vs. Minnesota Vikings | 2023 Week 7 Game Highlights",
+        "published_at": "2023-10-24T03:28:11Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 8,
+      "away": "TB",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401547496"
+      },
+      "kickoff": "2023-10-27T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "XuSrkkdZjkQ",
+        "title": "Tampa Bay Buccaneers vs. Buffalo Bills | 2023 Week 8 Game Highlgihts",
+        "published_at": "2023-10-27T03:32:10Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 8,
+      "away": "HOU",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401547504"
+      },
+      "kickoff": "2023-10-29T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "RD2nP_Ts-Zs",
+        "title": "Houston Texans vs. Carolina Panthers | 2023 Week 8 Game Highlights",
+        "published_at": "2023-10-29T21:09:41Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 8,
+      "away": "LAR",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401547505"
+      },
+      "kickoff": "2023-10-29T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "R8pZqvdhj_A",
+        "title": "Los Angeles Rams vs. Dallas Cowboys Game Highlights | NFL 2023 Week 8",
+        "published_at": "2023-10-29T20:41:11Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 8,
+      "away": "MIN",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401547506"
+      },
+      "kickoff": "2023-10-29T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "pJQwEeQWO8w",
+        "title": "Minnesota Vikings vs. Green Bay Packers | 2023 Week 8 Game Highlights",
+        "published_at": "2023-10-29T20:30:57Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 8,
+      "away": "NO",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401547507"
+      },
+      "kickoff": "2023-10-29T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "sdiRNkheSQw",
+        "title": "New Orleans Saints vs. Indianapolis Colts Game Highlights | NFL 2023 Week 8",
+        "published_at": "2023-10-29T20:46:42Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 8,
+      "away": "NE",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401547497"
+      },
+      "kickoff": "2023-10-29T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "T_WP2DXae6w",
+        "title": "New England Patriots vs. Miami Dolphins | 2023 Week 8 Game Highlights",
+        "published_at": "2023-10-29T20:25:46Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 8,
+      "away": "NYJ",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401547498"
+      },
+      "kickoff": "2023-10-29T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "azNyUkMQc7w",
+        "title": "New York Jets vs. New York Giants | 2023 Week 8 Game Highlights",
+        "published_at": "2023-10-29T21:05:18Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 8,
+      "away": "JAX",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401547499"
+      },
+      "kickoff": "2023-10-29T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "8aJ1p_KGTLo",
+        "title": "Jacksonville Jaguars vs. Pittsburgh Steelers Game Highlights | NFL 2023 Week 8",
+        "published_at": "2023-10-29T20:44:37Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 8,
+      "away": "ATL",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401547500"
+      },
+      "kickoff": "2023-10-29T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "fR5p-fxkVe0",
+        "title": "Atlanta Falcons vs. Tennessee Titans Game Highlights | NFL 2023 Week 8",
+        "published_at": "2023-10-29T20:49:43Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 8,
+      "away": "PHI",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401547508"
+      },
+      "kickoff": "2023-10-29T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "cPRmx0jKWRc",
+        "title": "Philadelphia Eagles vs. Washington Commanders | 2023 Week 8 Game Highlights",
+        "published_at": "2023-10-29T20:41:04Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 8,
+      "away": "CLE",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401547509"
+      },
+      "kickoff": "2023-10-29T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "z_N12qw3Br4",
+        "title": "Cleveland Browns vs. Seattle Seahawks | 2023 Week 8 Game Highlights",
+        "published_at": "2023-10-29T23:56:18Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 8,
+      "away": "BAL",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401547501"
+      },
+      "kickoff": "2023-10-29T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "y5XNQzKowBg",
+        "title": "Baltimore Ravens vs. Arizona Cardinals Game Highlights | NFL 2023 Week 8",
+        "published_at": "2023-10-29T23:57:54Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 8,
+      "away": "KC",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401547502"
+      },
+      "kickoff": "2023-10-29T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "sVNXZWbEEMk",
+        "title": "Kansas City Chiefs vs. Denver Broncos Game Highlights | NFL 2023 Week 8",
+        "published_at": "2023-10-29T23:41:29Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 8,
+      "away": "CIN",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401547503"
+      },
+      "kickoff": "2023-10-29T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "lpCusbU66cM",
+        "title": "Cincinnati Bengals vs. San Francisco 49ers | 2023 Week 8 Game Highlights",
+        "published_at": "2023-10-30T00:02:33Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 8,
+      "away": "CHI",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401547510"
+      },
+      "kickoff": "2023-10-30T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "9aFQlK1uzxg",
+        "title": "Chicago Bears vs. Los Angeles Chargers | 2023 Week 8 Game Highlights",
+        "published_at": "2023-10-30T03:35:34Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 8,
+      "away": "LV",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401547511"
+      },
+      "kickoff": "2023-10-31T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "w9egNPaosJY",
+        "title": "Las Vegas Raiders vs. Detroit Lions | 2023 Week 8 Game Highlights",
+        "published_at": "2023-10-31T03:30:06Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 9,
+      "away": "TEN",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401547512"
+      },
+      "kickoff": "2023-11-03T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "0tfb8gJaTuw",
+        "title": "Tennessee Titans vs. Pittsburgh Steelers | 2023 Week 9 Game Highlights",
+        "published_at": "2023-11-03T03:39:09Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 9,
+      "away": "MIA",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401547230"
+      },
+      "kickoff": "2023-11-05T14:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "E9t05pXwIZQ",
+        "title": "Miami Dolphins vs. Kansas City Chiefs Game Highlights | NFL 2023 Week 9",
+        "published_at": "2023-11-05T17:48:21Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 9,
+      "away": "MIN",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401547518"
+      },
+      "kickoff": "2023-11-05T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "rqR6jEHdGDA",
+        "title": "Minnesota Vikings vs. Atlanta Falcons Game Highlights | NFL 2023 Week 9",
+        "published_at": "2023-11-05T21:33:32Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 9,
+      "away": "SEA",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401547513"
+      },
+      "kickoff": "2023-11-05T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "KcnOuQMxN4E",
+        "title": "Seattle Seahawks vs. Baltimore Ravens Game Highlights | NFL 2023 Week 9",
+        "published_at": "2023-11-05T21:33:12Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 9,
+      "away": "ARI",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401547514"
+      },
+      "kickoff": "2023-11-05T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "5427nqYJlT0",
+        "title": "Arizona Cardinals vs. Cleveland Browns | 2023 Week 9 Game Highlights",
+        "published_at": "2023-11-05T21:16:31Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 9,
+      "away": "LAR",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401547519"
+      },
+      "kickoff": "2023-11-05T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "-FWZabn1D7Q",
+        "title": "Los Angeles Rams vs. Green Bay Packers Game Highlights | NFL 2023 Week 9",
+        "published_at": "2023-11-05T21:42:23Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 9,
+      "away": "TB",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401547515"
+      },
+      "kickoff": "2023-11-05T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "bMykBLbbD9s",
+        "title": "Tampa Bay Buccaneers vs. Houston Texans Game Highlights | NFL 2023 Week 9",
+        "published_at": "2023-11-05T21:40:37Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 9,
+      "away": "WSH",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401547520"
+      },
+      "kickoff": "2023-11-05T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "UvW8kw6gInY",
+        "title": "Washington Commanders vs. New England Patriots | 2023 Week 9 Game Highlights",
+        "published_at": "2023-11-05T21:31:31Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 9,
+      "away": "CHI",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401547516"
+      },
+      "kickoff": "2023-11-05T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "jBGPhocvRSY",
+        "title": "Chicago Bears vs. New Orleans Saints Game Highlights | NFL 2023 Week 9",
+        "published_at": "2023-11-05T21:20:02Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 9,
+      "away": "IND",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401547517"
+      },
+      "kickoff": "2023-11-05T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "smNaFKR6VC8",
+        "title": "Indianapolis Colts vs. Carolina Panthers | 2023 Week 9 Game Highlights",
+        "published_at": "2023-11-06T00:16:28Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 9,
+      "away": "NYG",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401547521"
+      },
+      "kickoff": "2023-11-05T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "MYnCCYCI_1Q",
+        "title": "New York Giants vs. Las Vegas Raiders | 2023 Week 9 Game Highlights",
+        "published_at": "2023-11-06T00:37:50Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 9,
+      "away": "DAL",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401547522"
+      },
+      "kickoff": "2023-11-05T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "bnt-5JKAO14",
+        "title": "Dallas Cowboys vs. Philadelphia Eagles | 2023 Week 9 Game Highlights",
+        "published_at": "2023-11-06T01:03:29Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 9,
+      "away": "BUF",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401547523"
+      },
+      "kickoff": "2023-11-06T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "vgbwUSb3q8k",
+        "title": "Buffalo Bills vs. Cincinnati Bengals | 2023 Week 9 Game Highlights",
+        "published_at": "2023-11-06T04:40:26Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 9,
+      "away": "LAC",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401547524"
+      },
+      "kickoff": "2023-11-07T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "huLxtlt6I8E",
+        "title": "Los Angeles Chargers vs. New York Jets | 2023 Week 9 Game Highlights",
+        "published_at": "2023-11-07T04:34:38Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 10,
+      "away": "CAR",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401547525"
+      },
+      "kickoff": "2023-11-10T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "lfxxIv9sIj0",
+        "title": "Carolina Panthers vs. Chicago Bears | 2023 Week 10 Game Highlights",
+        "published_at": "2023-11-10T04:20:07Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 10,
+      "away": "IND",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401547231"
+      },
+      "kickoff": "2023-11-12T14:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "w0LCp_4ylPQ",
+        "title": "Indianapolis Colts vs. New England Patriots Game Highlights | NFL 2023 Week 10",
+        "published_at": "2023-11-12T17:36:59Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 10,
+      "away": "CLE",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401547531"
+      },
+      "kickoff": "2023-11-12T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "KqzdFbNOJq8",
+        "title": "Cleveland Browns vs. Baltimore Ravens | 2023 Week 10 Game Highlights",
+        "published_at": "2023-11-12T21:52:56Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 10,
+      "away": "HOU",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401547526"
+      },
+      "kickoff": "2023-11-12T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Ft_LN51zACQ",
+        "title": "Houston Texans vs. Cincinnati Bengals Game Highlights | NFL 2023 Week 10",
+        "published_at": "2023-11-12T21:36:18Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 10,
+      "away": "SF",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401547532"
+      },
+      "kickoff": "2023-11-12T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "5WCV3HHIeZI",
+        "title": "San Francisco 49ers vs. Jacksonville Jaguars Game Highlights | NFL 2023 Week 10",
+        "published_at": "2023-11-12T21:26:46Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 10,
+      "away": "NO",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401547533"
+      },
+      "kickoff": "2023-11-12T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "gXfQtiEDi9E",
+        "title": "New Orleans Saints vs. Minnesota Vikings | 2023 Week 10 Game Highlights",
+        "published_at": "2023-11-12T21:53:53Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 10,
+      "away": "GB",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401547527"
+      },
+      "kickoff": "2023-11-12T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "kZah4221wfE",
+        "title": "Green Bay Packers vs. Pittsburgh Steelers | 2023 Week 10 Game Highlights",
+        "published_at": "2023-11-12T21:37:43Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 10,
+      "away": "TEN",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401547528"
+      },
+      "kickoff": "2023-11-12T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "gZ5rgXgTLhg",
+        "title": "Tennessee Titans vs. Tampa Bay Buccaneers | 2023 Week 10 Game Highlights",
+        "published_at": "2023-11-12T21:35:08Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 10,
+      "away": "ATL",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401547529"
+      },
+      "kickoff": "2023-11-12T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "6zFNnRr7rB4",
+        "title": "Atlanta Falcons vs. Arizona Cardinals | 2023 Week 10 Game Highlights",
+        "published_at": "2023-11-13T00:32:34Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 10,
+      "away": "DET",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401547530"
+      },
+      "kickoff": "2023-11-12T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "JzxJMRnhHss",
+        "title": "Detroit Lions vs. Los Angeles Chargers | 2023 Week 10 Game Highlights",
+        "published_at": "2023-11-13T00:31:57Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 10,
+      "away": "NYG",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401547534"
+      },
+      "kickoff": "2023-11-12T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ShIkktu3ueE",
+        "title": "New York Giants vs. Dallas Cowboys | 2023 Week 10 Game Highlights",
+        "published_at": "2023-11-13T00:58:44Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 10,
+      "away": "WSH",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401547535"
+      },
+      "kickoff": "2023-11-12T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "0wsYdtldMiU",
+        "title": "Washington Commanders vs. Seattle Seahawks | 2023 Week 10 Game Highlights",
+        "published_at": "2023-11-13T00:55:42Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 10,
+      "away": "NYJ",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401547536"
+      },
+      "kickoff": "2023-11-13T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "WiMcrrxlSIg",
+        "title": "New York Jets vs. Las Vegas Raiders | 2023 Week 10 Game Highlights",
+        "published_at": "2023-11-13T04:38:09Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 10,
+      "away": "DEN",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401547537"
+      },
+      "kickoff": "2023-11-14T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "88CVD5a9OpQ",
+        "title": "Denver Broncos vs. Buffalo Bills | 2023 Week 10 Game Highlights",
+        "published_at": "2023-11-14T04:55:34Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 11,
+      "away": "CIN",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401547538"
+      },
+      "kickoff": "2023-11-17T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "usK_TYjxMgM",
+        "title": "Cincinnati Bengals vs. Baltimore Ravens | 2023 Week 11 Game Highlights",
+        "published_at": "2023-11-17T04:35:11Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 11,
+      "away": "DAL",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401547545"
+      },
+      "kickoff": "2023-11-19T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "F5BHqhx3fHc",
+        "title": "Dallas Cowboys vs. Carolina Panthers Game Highlights | NFL 2023 Week 11",
+        "published_at": "2023-11-19T21:23:51Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 11,
+      "away": "PIT",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401547539"
+      },
+      "kickoff": "2023-11-19T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "WzErT7PJWdQ",
+        "title": "Pittsburgh Steelers vs. Cleveland Browns | 2023 Week 11 Game Highlights",
+        "published_at": "2023-11-19T21:40:03Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 11,
+      "away": "CHI",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401547546"
+      },
+      "kickoff": "2023-11-19T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "pOoKkiHGVoY",
+        "title": "Chicago Bears vs. Detroit Lions | 2023 Week 11 Game Highlights",
+        "published_at": "2023-11-19T21:43:09Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 11,
+      "away": "LAC",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401547547"
+      },
+      "kickoff": "2023-11-19T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "wFWhChkhmKc",
+        "title": "Los Angeles Chargers vs. Green Bay Packers Game Highlights | NFL 2023 Week 11",
+        "published_at": "2023-11-19T21:31:28Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 11,
+      "away": "ARI",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401547540"
+      },
+      "kickoff": "2023-11-19T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "d-9SgldS3J8",
+        "title": "Arizona Cardinals vs. Houston Texans | 2023 Week 11 Game Highlights",
+        "published_at": "2023-11-19T21:29:28Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 11,
+      "away": "TEN",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401547541"
+      },
+      "kickoff": "2023-11-19T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "fBnTvOdsHEw",
+        "title": "Tennessee Titans vs. Jacksonville Jaguars | 2023 Week 11 Game Highlights",
+        "published_at": "2023-11-19T21:23:08Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 11,
+      "away": "LV",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401547542"
+      },
+      "kickoff": "2023-11-19T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "D85oX6-p0r8",
+        "title": "Las Vegas Raiders vs. Miami Dolphins Game Highlights | NFL 2023 Week 11",
+        "published_at": "2023-11-19T21:33:57Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 11,
+      "away": "NYG",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401547548"
+      },
+      "kickoff": "2023-11-19T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "tr5Nr6tsBaY",
+        "title": "New York Giants vs. Washington Commanders | 2023 Week 11 Game Highlights",
+        "published_at": "2023-11-19T21:33:35Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 11,
+      "away": "TB",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401547549"
+      },
+      "kickoff": "2023-11-19T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "LEvX-CDxROY",
+        "title": "Tampa Bay Buccaneers vs. San Francisco 49ers Game Highlights | NFL 2023 Week 11",
+        "published_at": "2023-11-20T00:20:17Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 11,
+      "away": "NYJ",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401547543"
+      },
+      "kickoff": "2023-11-19T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "1IdXSsK6IPo",
+        "title": "New York Jets vs. Buffalo Bills | 2023 Week 11 Game Highlights",
+        "published_at": "2023-11-20T01:05:02Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 11,
+      "away": "SEA",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401547544"
+      },
+      "kickoff": "2023-11-19T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "g6jtLm7NcGU",
+        "title": "Seattle Seahawks vs. Los Angeles Rams | 2023 Week 11 Game Highlights",
+        "published_at": "2023-11-20T00:48:01Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 11,
+      "away": "MIN",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401547550"
+      },
+      "kickoff": "2023-11-20T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Qx8LGbMyokg",
+        "title": "Minnesota Vikings vs. Denver Broncos | 2023 Week 11 Game Highlights",
+        "published_at": "2023-11-20T04:36:59Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 11,
+      "away": "PHI",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401547345"
+      },
+      "kickoff": "2023-11-21T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "PGm0bif8_jc",
+        "title": "Philadelphia Eagles vs. Kansas City Chiefs | 2023 Week 11 Game Highlights",
+        "published_at": "2023-11-21T04:32:51Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 12,
+      "away": "GB",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401547552"
+      },
+      "kickoff": "2023-11-23T17:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "LJMqeKmIVGM",
+        "title": "Green Bay Packers vs. Detroit Lions | 2023 Week 12 Game Highlights",
+        "published_at": "2023-11-23T20:55:03Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 12,
+      "away": "WSH",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401547551"
+      },
+      "kickoff": "2023-11-23T21:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "cs32EDEzmpI",
+        "title": "Washington Commanders vs. Dallas Cowboys Game Highlights | NFL 2023 Week 12",
+        "published_at": "2023-11-24T01:02:53Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 12,
+      "away": "SF",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401547553"
+      },
+      "kickoff": "2023-11-24T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "VL3AyJvvvcE",
+        "title": "San Francisco 49ers vs. Seattle Seahawks | 2023 Week 12 Game Highlights",
+        "published_at": "2023-11-24T04:29:31Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 12,
+      "away": "MIA",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401547242"
+      },
+      "kickoff": "2023-11-24T20:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "5YeakoallWA",
+        "title": "Miami Dolphins vs. New York Jets | 2023 Week 12 Game Highlights",
+        "published_at": "2023-11-24T23:57:07Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 12,
+      "away": "NO",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401547559"
+      },
+      "kickoff": "2023-11-26T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Wa7hnICGpDo",
+        "title": "New Orleans Saints vs. Atlanta Falcons Game Highlights | NFL 2023 Week 12",
+        "published_at": "2023-11-26T21:22:04Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 12,
+      "away": "PIT",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401547554"
+      },
+      "kickoff": "2023-11-26T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "-QRO-zpZP9o",
+        "title": "Pittsburgh Steelers vs. Cincinnati Bengals | 2023 Week 12 Game Highlights",
+        "published_at": "2023-11-26T21:10:59Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 12,
+      "away": "JAX",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401547555"
+      },
+      "kickoff": "2023-11-26T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "5SzOlPw_XLY",
+        "title": "Jacksonville Jaguars vs. Houston Texans | 2023 Week 12 Game Highlights",
+        "published_at": "2023-11-26T21:31:53Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 12,
+      "away": "TB",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401547556"
+      },
+      "kickoff": "2023-11-26T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "8VgrWZiGLo8",
+        "title": "Tampa Bay Buccaneers vs. Indianapolis Colts Game Highlights | NFL 2023 Week 12",
+        "published_at": "2023-11-26T21:15:07Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 12,
+      "away": "NE",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401547560"
+      },
+      "kickoff": "2023-11-26T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Peo0nK1Eh9I",
+        "title": "New England Patriots vs. New York Giants | 2023 Week 12 Game Highlights",
+        "published_at": "2023-11-26T21:14:49Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 12,
+      "away": "CAR",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401547561"
+      },
+      "kickoff": "2023-11-26T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "PPKFGVgS3h4",
+        "title": "Carolina Panthers vs. Tennessee Titans Game Highlights | NFL 2023 Week 12",
+        "published_at": "2023-11-26T21:25:07Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 12,
+      "away": "LAR",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401547562"
+      },
+      "kickoff": "2023-11-26T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "7VWzSRQAI6Q",
+        "title": "Los Angeles Rams vs. Arizona Cardinals Game Highlights | NFL 2023 Week 12",
+        "published_at": "2023-11-27T00:19:55Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 12,
+      "away": "CLE",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401547563"
+      },
+      "kickoff": "2023-11-26T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "kf6xEh5qUqU",
+        "title": "Cleveland Browns vs. Denver Broncos | 2023 Week 12 Game Highlights",
+        "published_at": "2023-11-27T00:32:42Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 12,
+      "away": "KC",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401547557"
+      },
+      "kickoff": "2023-11-26T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "lGOCc-r4tb8",
+        "title": "Kansas City Chiefs vs. Las Vegas Raiders Game Highlights | NFL 2023 Week 12",
+        "published_at": "2023-11-27T00:27:00Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 12,
+      "away": "BUF",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401547558"
+      },
+      "kickoff": "2023-11-26T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "RbplX6ELLaQ",
+        "title": "Buffalo Bills vs. Philadelphia Eagles | 2023 Week 12 Game Highlights",
+        "published_at": "2023-11-27T01:23:50Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 12,
+      "away": "BAL",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401547564"
+      },
+      "kickoff": "2023-11-27T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "VWf3r7-r9N0",
+        "title": "Baltimore Ravens vs. Los Angeles Chargers | 2023 Week 12 Game Highlights",
+        "published_at": "2023-11-27T04:48:25Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 12,
+      "away": "CHI",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401547565"
+      },
+      "kickoff": "2023-11-28T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "UyLRE4JC07k",
+        "title": "Chicago Bears vs. Minnesota Vikings | 2023 Week 12 Game Highlights",
+        "published_at": "2023-11-28T04:22:58Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 13,
+      "away": "SEA",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401547566"
+      },
+      "kickoff": "2023-12-01T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "mI7OzPrr6YQ",
+        "title": "Seattle Seahawks vs. Dallas Cowboys | 2023 Week 13 Game Highlights",
+        "published_at": "2023-12-01T04:52:33Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 13,
+      "away": "DEN",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401547571"
+      },
+      "kickoff": "2023-12-03T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "fXqHp20fX0o",
+        "title": "Denver Broncos vs. Houston Texans | 2023 Week 13 Game Highlights",
+        "published_at": "2023-12-03T21:26:50Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 13,
+      "away": "LAC",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401547567"
+      },
+      "kickoff": "2023-12-03T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "I9rJkAy_4QA",
+        "title": "Los Angeles Chargers vs. New England Patriots Game Highlights | NFL 2023 Week 13",
+        "published_at": "2023-12-03T21:07:23Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 13,
+      "away": "DET",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401547572"
+      },
+      "kickoff": "2023-12-03T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "HKeLM92ZWwY",
+        "title": "Detroit Lions vs. New Orleans Saints | 2023 Week 13 Game Highlights",
+        "published_at": "2023-12-03T21:31:35Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 13,
+      "away": "ATL",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401547573"
+      },
+      "kickoff": "2023-12-03T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "0NhUH7KMCM4",
+        "title": "Atlanta Falcons vs. New York Jets Game Highlights | NFL 2023 Week 13",
+        "published_at": "2023-12-03T21:32:41Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 13,
+      "away": "ARI",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401547568"
+      },
+      "kickoff": "2023-12-03T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "0YnTtULmlFE",
+        "title": "Arizona Cardinals vs. Pittsburgh Steelers | 2023 Week 13 Game Highlights",
+        "published_at": "2023-12-03T22:44:08Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 13,
+      "away": "IND",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401547570"
+      },
+      "kickoff": "2023-12-03T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "9sDRMQH7EnA",
+        "title": "Indianapolis Colts vs. Tennessee Titans Game Highlights | NFL 2023 Week 13",
+        "published_at": "2023-12-03T21:51:11Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 13,
+      "away": "MIA",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401547574"
+      },
+      "kickoff": "2023-12-03T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "4ApSVg20Iuw",
+        "title": "Miami Dolphins vs. Washington Commanders | 2023 Week 13 Game Highlights",
+        "published_at": "2023-12-03T21:08:02Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 13,
+      "away": "CAR",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401547569"
+      },
+      "kickoff": "2023-12-03T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "pB77BdNRm4s",
+        "title": "Carolina Panthers vs. Tampa Bay Buccaneers | 2023 Week 13 Game Highlights",
+        "published_at": "2023-12-04T01:56:16Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 13,
+      "away": "CLE",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401547575"
+      },
+      "kickoff": "2023-12-03T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "EhaVgPSa6oQ",
+        "title": "Cleveland Browns vs. Los Angeles Rams | 2023 Week 13 Game Highlights",
+        "published_at": "2023-12-04T01:00:45Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 13,
+      "away": "SF",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401547276"
+      },
+      "kickoff": "2023-12-03T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "NG7LbR6jwe4",
+        "title": "San Francisco 49ers vs. Philadelphia Eagles | 2023 Week 13 Game Highlights",
+        "published_at": "2023-12-04T02:10:46Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 13,
+      "away": "KC",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401547576"
+      },
+      "kickoff": "2023-12-04T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "hOtv5V9II8o",
+        "title": "Kansas City Chiefs vs. Green Bay Packers | 2023 Week 13 Game Highlights",
+        "published_at": "2023-12-04T04:46:24Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 13,
+      "away": "CIN",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401547577"
+      },
+      "kickoff": "2023-12-05T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "4UFWib2q14g",
+        "title": "Cincinnati Bengals vs. Jacksonville Jaguars | 2023 Week 13 Game Highlights",
+        "published_at": "2023-12-05T05:08:27Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 14,
+      "away": "NE",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401547578"
+      },
+      "kickoff": "2023-12-08T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "3r_lXz3nQfY",
+        "title": "New England Patriots vs. Pittsburgh Steelers | 2023 Week 14 Game Highlights",
+        "published_at": "2023-12-08T04:28:00Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 14,
+      "away": "TB",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401547579"
+      },
+      "kickoff": "2023-12-10T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "8BTRGDFTXRU",
+        "title": "Tampa Bay Buccaneers vs. Atlanta Falcons Game Highlights | NFL 2023 Week 14",
+        "published_at": "2023-12-10T21:28:08Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 14,
+      "away": "LAR",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401547585"
+      },
+      "kickoff": "2023-12-10T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "SXtcCn8tmSQ",
+        "title": "Los Angeles Rams vs. Baltimore Ravens | 2023 Week 14 Game Highlights",
+        "published_at": "2023-12-10T22:01:59Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 14,
+      "away": "DET",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401547586"
+      },
+      "kickoff": "2023-12-10T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Jds9aeNJwdE",
+        "title": "Detroit Lions vs. Chicago Bears Game Highlights | NFL 2023 Week 14",
+        "published_at": "2023-12-10T21:28:38Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 14,
+      "away": "IND",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401547580"
+      },
+      "kickoff": "2023-12-10T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "5lRuREcc89M",
+        "title": "Indianapolis Colts vs. Cincinnati Bengals | 2023 Week 14 Game Highlights",
+        "published_at": "2023-12-10T21:17:41Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 14,
+      "away": "JAX",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401547581"
+      },
+      "kickoff": "2023-12-10T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "4SaQgigF2B8",
+        "title": "Jacksonville Jaguars vs. Cleveland Browns | 2023 Week 14 Game Highlights",
+        "published_at": "2023-12-10T23:50:22Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 14,
+      "away": "CAR",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401547587"
+      },
+      "kickoff": "2023-12-10T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "u15wcPeBG4M",
+        "title": "Carolina Panthers vs. New Orleans Saints Game Highlights | NFL 2023 Week 14",
+        "published_at": "2023-12-10T21:30:08Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 14,
+      "away": "HOU",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401547582"
+      },
+      "kickoff": "2023-12-10T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "zgz3sShjwO8",
+        "title": "Houston Texans vs. New York Jets | 2023 Week 14 Game Highlights",
+        "published_at": "2023-12-10T21:23:22Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 14,
+      "away": "MIN",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401547588"
+      },
+      "kickoff": "2023-12-10T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "U52oIDuo3AI",
+        "title": "Minnesota Vikings vs. Las Vegas Raiders  | 2023 Week 14 Game Highlights",
+        "published_at": "2023-12-11T00:29:33Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 14,
+      "away": "SEA",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401547589"
+      },
+      "kickoff": "2023-12-10T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "LtY3IGszeDE",
+        "title": "Seattle Seahawks vs. San Francisco 49ers Game Highlights | NFL 2023 Week 14",
+        "published_at": "2023-12-11T00:26:54Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 14,
+      "away": "BUF",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401547583"
+      },
+      "kickoff": "2023-12-10T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "aYvAakypELE",
+        "title": "Buffalo Bills vs. Kansas City Chiefs | 2023 Week 14 Game Highlights",
+        "published_at": "2023-12-11T03:23:10Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 14,
+      "away": "DEN",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401547584"
+      },
+      "kickoff": "2023-12-10T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "W84zXc2F7bk",
+        "title": "Denver Broncos vs. Los Angeles Chargers Game Highlights | NFL 2023 Week 14",
+        "published_at": "2023-12-11T00:36:22Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 14,
+      "away": "PHI",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401547590"
+      },
+      "kickoff": "2023-12-11T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "dThB2onAoko",
+        "title": "Philadelphia Eagles vs. Dallas Cowboys | 2023 Week 14 Game Highlights",
+        "published_at": "2023-12-11T04:49:31Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 14,
+      "away": "TEN",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401547592"
+      },
+      "kickoff": "2023-12-12T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ArQ8wriT0Zk",
+        "title": "Tennessee Titans vs. Miami Dolphins | 2023 Week 14 Game Highlights",
+        "published_at": "2023-12-12T05:02:06Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 14,
+      "away": "GB",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401547591"
+      },
+      "kickoff": "2023-12-12T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "J1D-BaeRbUc",
+        "title": "Green Bay Packers vs. New York Giants | 2023 Week 14 Game Highlights",
+        "published_at": "2023-12-12T04:51:42Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 15,
+      "away": "LAC",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401547593"
+      },
+      "kickoff": "2023-12-15T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "wwS12cMIhwg",
+        "title": "Los Angeles Chargers vs. Las Vegas Raiders | 2023 Week 15 Game Highlights",
+        "published_at": "2023-12-15T04:39:44Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 15,
+      "away": "MIN",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401547604"
+      },
+      "kickoff": "2023-12-16T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "lu0hnU6pWlQ",
+        "title": "Minnesota Vikings vs. Cincinnati Bengals Game Highlights | NFL 2023 Week 15",
+        "published_at": "2023-12-16T21:36:58Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 15,
+      "away": "PIT",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401547607"
+      },
+      "kickoff": "2023-12-16T21:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "3jnBWydsgBk",
+        "title": "Pittsburgh Steelers vs. Indianapolis Colts | 2023 Week 15 Game Highlights",
+        "published_at": "2023-12-17T00:46:01Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 15,
+      "away": "DEN",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401547606"
+      },
+      "kickoff": "2023-12-17T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "vMEGR3sf3qo",
+        "title": "Denver Broncos vs. Detroit Lions | 2023 Week 15 Game Highlights",
+        "published_at": "2023-12-17T04:27:12Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 15,
+      "away": "ATL",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401547603"
+      },
+      "kickoff": "2023-12-17T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "COPxrKKuFQ8",
+        "title": "Atlanta Falcons vs. Carolina Panthers Game Highlights | NFL 2023 Week 15",
+        "published_at": "2023-12-17T21:08:05Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 15,
+      "away": "CHI",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401547605"
+      },
+      "kickoff": "2023-12-17T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "A9VtCfXzV7c",
+        "title": "Chicago Bears vs. Cleveland Browns | 2023 Week 15 Game Highlights",
+        "published_at": "2023-12-17T21:52:15Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 15,
+      "away": "TB",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401547598"
+      },
+      "kickoff": "2023-12-17T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "zu2JC9OQibQ",
+        "title": "Tampa Bay Buccaneers vs. Green Bay Packers Game Highlights | NFL 2023 Week 15",
+        "published_at": "2023-12-17T21:20:30Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 15,
+      "away": "NYJ",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401547594"
+      },
+      "kickoff": "2023-12-17T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Rr17PZPZbXY",
+        "title": "New York Jets vs. Miami Dolphins Game Highlights | NFL 2023 Week 15",
+        "published_at": "2023-12-17T21:16:30Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 15,
+      "away": "KC",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401547608"
+      },
+      "kickoff": "2023-12-17T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "YGK_k0Spe6U",
+        "title": "Kansas City Chiefs vs. New England Patriots | 2023 Week 15 Game Highlights",
+        "published_at": "2023-12-17T21:40:50Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 15,
+      "away": "NYG",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401547599"
+      },
+      "kickoff": "2023-12-17T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "VvHSZCdIqqI",
+        "title": "New York Giants vs. New Orleans Saints | 2023 Week 15 Game Highlights",
+        "published_at": "2023-12-17T21:57:59Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 15,
+      "away": "HOU",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401547595"
+      },
+      "kickoff": "2023-12-17T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "mQ0LRWjffzI",
+        "title": "Houston Texans vs. Tennessee Titans | 2023 Week 15 Game Highlights",
+        "published_at": "2023-12-17T21:49:08Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 15,
+      "away": "SF",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401547596"
+      },
+      "kickoff": "2023-12-17T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "--47FjCWgrU",
+        "title": "San Francisco 49ers vs. Arizona Cardinals Game Highlights | NFL 2023 Week 15",
+        "published_at": "2023-12-18T00:21:58Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 15,
+      "away": "WSH",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401547597"
+      },
+      "kickoff": "2023-12-17T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "-FeGbNKn_qQ",
+        "title": "Washington Commanders vs. Los Angeles Rams | 2023 Week 15 Game Highlights",
+        "published_at": "2023-12-18T00:48:54Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 15,
+      "away": "DAL",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401547600"
+      },
+      "kickoff": "2023-12-17T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "qc7PxMEPP5M",
+        "title": "Buffalo Bills vs. Dallas Cowboys Game Highlights | NFL 2023 Week 15",
+        "published_at": "2023-12-18T00:21:32Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 15,
+      "away": "BAL",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401547602"
+      },
+      "kickoff": "2023-12-18T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "6vkAoB5KXuY",
+        "title": "Baltimore Ravens vs. Jacksonville Jaguars | 2023 Week 15 Game Highlights",
+        "published_at": "2023-12-18T04:46:25Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 15,
+      "away": "PHI",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401547601"
+      },
+      "kickoff": "2023-12-19T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "qhlsFDIHe0w",
+        "title": "Philadelphia Eagles vs. Seattle Seahawks | 2023 Week 15 Game Highlights",
+        "published_at": "2023-12-19T04:44:56Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 16,
+      "away": "NO",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401547609"
+      },
+      "kickoff": "2023-12-22T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "0iVUDHXSGBY",
+        "title": "New Orleans Saints vs. Los Angeles Rams | 2023 Week 16 Game Highlights",
+        "published_at": "2023-12-22T04:20:09Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 16,
+      "away": "CIN",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401547610"
+      },
+      "kickoff": "2023-12-23T21:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "0TN01oJUJQc",
+        "title": "Cincinnati Bengals vs. Pittsburgh Steelers | 2023 Week 16 Game Highlights",
+        "published_at": "2023-12-24T00:36:52Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 16,
+      "away": "BUF",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401547611"
+      },
+      "kickoff": "2023-12-24T01:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "vqiGrrmpL34",
+        "title": "Buffalo Bills vs. Los Angeles Chargers | 2023 Week 16 Game Highlights",
+        "published_at": "2023-12-24T04:12:00Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 16,
+      "away": "IND",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401547616"
+      },
+      "kickoff": "2023-12-24T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Bu_WZiaJJTU",
+        "title": "Indianapolis Colts vs. Atlanta Falcons Game Highlights | NFL 2023 Week 16",
+        "published_at": "2023-12-24T21:16:33Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 16,
+      "away": "GB",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401547617"
+      },
+      "kickoff": "2023-12-24T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "zRH0gIRtUe4",
+        "title": "Green Bay Packers vs. Carolina Panthers Game Highlights | NFL 2023 Week 16",
+        "published_at": "2023-12-24T21:42:26Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 16,
+      "away": "CLE",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401547612"
+      },
+      "kickoff": "2023-12-24T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "WbBHO6bWL6Q",
+        "title": "Cleveland Browns vs. Houston Texans | 2023 Week 16 Game Highlights",
+        "published_at": "2023-12-24T21:48:31Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 16,
+      "away": "DET",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401547618"
+      },
+      "kickoff": "2023-12-24T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "fdlIkY7D_G8",
+        "title": "Detroit Lions vs. Minnesota Vikings | 2023 Week 16 Game Highlights",
+        "published_at": "2023-12-24T21:41:39Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 16,
+      "away": "WSH",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401547613"
+      },
+      "kickoff": "2023-12-24T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "den0UKN_TuU",
+        "title": "Washington Commanders vs. New York Jets | 2023 Week 16 Game Highlights",
+        "published_at": "2023-12-24T21:58:08Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 16,
+      "away": "SEA",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401547614"
+      },
+      "kickoff": "2023-12-24T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "T6xLdrz2UcU",
+        "title": "Seattle Seahawks vs. Tennessee Titans Game Highlights | NFL 2023 Week 16",
+        "published_at": "2023-12-24T21:19:23Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 16,
+      "away": "JAX",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401547615"
+      },
+      "kickoff": "2023-12-24T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "69d6IRuKFlM",
+        "title": "Jacksonville Jaguars vs. Tampa Bay Buccaneers Game Highlights | NFL 2023 Week 16",
+        "published_at": "2023-12-25T00:11:51Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 16,
+      "away": "ARI",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401547619"
+      },
+      "kickoff": "2023-12-24T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "R_mIc_mcdj8",
+        "title": "Arizona Cardinals vs. Chicago Bears | 2023 Week 16 Game Highlights",
+        "published_at": "2023-12-25T01:03:04Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 16,
+      "away": "DAL",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401547620"
+      },
+      "kickoff": "2023-12-24T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "8xDSty_QtLA",
+        "title": "Dallas Cowboys vs. Miami Dolphins | 2023 Week 16 Game Highlights",
+        "published_at": "2023-12-25T00:46:21Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 16,
+      "away": "NE",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401547621"
+      },
+      "kickoff": "2023-12-25T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Mcki_LetpUo",
+        "title": "New England Patriots vs. Denver Broncos | 2023 Week 16 Game Highlights",
+        "published_at": "2023-12-25T04:37:14Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 16,
+      "away": "LV",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401547351"
+      },
+      "kickoff": "2023-12-25T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "6dhCZ1xJT6U",
+        "title": "Las Vegas Raiders vs. Kansas City Chiefs Game Highlights | NFL 2023 Week 16",
+        "published_at": "2023-12-25T21:33:15Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 16,
+      "away": "NYG",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401547241"
+      },
+      "kickoff": "2023-12-25T21:30:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 16,
+      "away": "BAL",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401547622"
+      },
+      "kickoff": "2023-12-26T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "AHL9ki1uW0s",
+        "title": "Baltimore Ravens vs. San Francisco 49ers | 2023 Week 16 Game Highlights",
+        "published_at": "2023-12-26T05:07:26Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 17,
+      "away": "NYJ",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401547623"
+      },
+      "kickoff": "2023-12-29T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "FHqUVY4sw2s",
+        "title": "New York Jets vs. Cleveland Browns | 2023 Week 17 Game Highlights",
+        "published_at": "2023-12-29T04:37:26Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 17,
+      "away": "DET",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401547624"
+      },
+      "kickoff": "2023-12-31T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "2IE9igiIXtY",
+        "title": "Detroit Lions vs. Dallas Cowboys | 2023 Week 17 Game Highlights",
+        "published_at": "2023-12-31T04:39:40Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 17,
+      "away": "MIA",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401547625"
+      },
+      "kickoff": "2023-12-31T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "jL04MQV6RhU",
+        "title": "Miami Dolphins vs. Baltimore Ravens | 2023 Week 17 Game Highlights",
+        "published_at": "2023-12-31T21:32:48Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 17,
+      "away": "NE",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401547626"
+      },
+      "kickoff": "2023-12-31T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "6SGIF0At2yg",
+        "title": "New England Patriots vs. Buffalo Bills Game Highlights | NFL 2023 Week 17",
+        "published_at": "2023-12-31T21:17:50Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 17,
+      "away": "ATL",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401547627"
+      },
+      "kickoff": "2023-12-31T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "lKIwhs35wXA",
+        "title": "Atlanta Falcons vs. Chicago Bears Game Highlights | NFL 2023 Week 17",
+        "published_at": "2023-12-31T21:32:03Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 17,
+      "away": "TEN",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401547631"
+      },
+      "kickoff": "2023-12-31T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "xw12DHuHEFY",
+        "title": "Tennessee Titans vs. Houston Texans | 2023 Week 17 Game Highlights",
+        "published_at": "2023-12-31T21:15:30Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 17,
+      "away": "LV",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401547628"
+      },
+      "kickoff": "2023-12-31T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "bZIBit6x0H0",
+        "title": "Las Vegas Raiders vs. Indianapolis Colts | 2023 Week 17 Game Highlights",
+        "published_at": "2023-12-31T21:23:11Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 17,
+      "away": "CAR",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401547629"
+      },
+      "kickoff": "2023-12-31T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "f7PSjegOyRU",
+        "title": "Carolina Panthers vs. Jacksonville Jaguars | 2023 Week 17 Game Highlights",
+        "published_at": "2023-12-31T21:20:25Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 17,
+      "away": "LAR",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401547632"
+      },
+      "kickoff": "2023-12-31T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "OqpE3vjvwr4",
+        "title": "Los Angeles Rams vs. New York Giants | 2023 Week 17 Game Highlights",
+        "published_at": "2023-12-31T21:30:07Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 17,
+      "away": "ARI",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401547633"
+      },
+      "kickoff": "2023-12-31T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "s_oSmeMBDGU",
+        "title": "Arizona Cardinals vs. Philadelphia Eagles | 2023 Week 17 Game Highlights",
+        "published_at": "2023-12-31T21:33:54Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 17,
+      "away": "NO",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401547634"
+      },
+      "kickoff": "2023-12-31T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "8OvTS1pXiAU",
+        "title": "New Orleans Saints vs. Tampa Bay Buccaneers Game Highlights | NFL 2023 Week 17",
+        "published_at": "2023-12-31T21:18:16Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 17,
+      "away": "SF",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401547635"
+      },
+      "kickoff": "2023-12-31T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "TdezhhDpW4w",
+        "title": "San Francisco 49ers vs. Washington Commanders Game Highlights | NFL 2023 Week 17",
+        "published_at": "2023-12-31T21:03:12Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 17,
+      "away": "PIT",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401547636"
+      },
+      "kickoff": "2023-12-31T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "9KivG2YwtXI",
+        "title": "Pittsburgh Steelers vs. Seattle Seahawks Game Highlights | NFL 2023 Week 17",
+        "published_at": "2024-01-01T00:23:25Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 17,
+      "away": "LAC",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401547630"
+      },
+      "kickoff": "2023-12-31T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "e5nhKzKfYzM",
+        "title": "Los Angeles Chargers vs. Denver Broncos | 2023 Week 17 Game Highlights",
+        "published_at": "2024-01-01T00:32:05Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 17,
+      "away": "CIN",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401547235"
+      },
+      "kickoff": "2023-12-31T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "F3YogLecG_Y",
+        "title": "Cincinnati Bengals vs. Kansas City Chiefs Game Highlights | NFL 2023 Week 17",
+        "published_at": "2024-01-01T00:33:14Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 17,
+      "away": "GB",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401547637"
+      },
+      "kickoff": "2024-01-01T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "VXOXrPhepTw",
+        "title": "Green Bay Packers vs. Minnesota Vikings | 2023 Week 17 Game Highlights",
+        "published_at": "2024-01-01T04:30:08Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 18,
+      "away": "PIT",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401547639"
+      },
+      "kickoff": "2024-01-06T21:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "gjbYxeHxewA",
+        "title": "Pittsburgh Steelers vs. Baltimore Ravens | 2023 Week 18 Game Highlights",
+        "published_at": "2024-01-07T00:46:19Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 18,
+      "away": "HOU",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401547644"
+      },
+      "kickoff": "2024-01-07T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "J9XlAomP3_A",
+        "title": "Houston Texans vs. Indianapolis Colts | 2023 Week 18 Game Highlights",
+        "published_at": "2024-01-07T04:40:31Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 18,
+      "away": "TB",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401547640"
+      },
+      "kickoff": "2024-01-07T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "2RR-xjpWvkc",
+        "title": "Tampa Bay Buccaneers vs. Carolina Panthers | 2023 Week 18 Game Highlights",
+        "published_at": "2024-01-07T21:16:28Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 18,
+      "away": "CLE",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401547641"
+      },
+      "kickoff": "2024-01-07T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Z1hACGuXXpk",
+        "title": "Cleveland Browns vs. Cincinnati Bengals | 2023 Week 18 Game Highlights",
+        "published_at": "2024-01-07T21:21:24Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 18,
+      "away": "MIN",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401547642"
+      },
+      "kickoff": "2024-01-07T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "NUXnt0_SlFs",
+        "title": "Minnesota Vikings vs. Detroit Lions | 2023 Week 18 Game Highlights",
+        "published_at": "2024-01-07T21:32:05Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 18,
+      "away": "NYJ",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401547648"
+      },
+      "kickoff": "2024-01-07T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "60FtjhcO-Ss",
+        "title": "New York Jets vs. New England Patriots | 2023 Week 18 Game Highlights",
+        "published_at": "2024-01-07T21:33:08Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 18,
+      "away": "ATL",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401547649"
+      },
+      "kickoff": "2024-01-07T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "RDDBhEAQC8s",
+        "title": "Atlanta Falcons vs. New Orleans Saints | 2023 Week 18 Game Highlights",
+        "published_at": "2024-01-07T21:24:33Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 18,
+      "away": "JAX",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401547652"
+      },
+      "kickoff": "2024-01-07T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "1kCPt3bcgF0",
+        "title": "Jacksonville Jaguars vs. Tennessee Titans | 2023 Week 18 Game Highlights",
+        "published_at": "2024-01-07T21:20:50Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 18,
+      "away": "SEA",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401547638"
+      },
+      "kickoff": "2024-01-07T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "BdZYegUo2lo",
+        "title": "Seattle Seahawks vs. Arizona Cardinals Game Highlights | NFL 2023 Week 18",
+        "published_at": "2024-01-08T00:36:57Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 18,
+      "away": "CHI",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401547643"
+      },
+      "kickoff": "2024-01-07T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "XaeGmA0TkK8",
+        "title": "Chicago Bears vs. Green Bay Packers | 2023 Week 18 Game Highlights",
+        "published_at": "2024-01-08T00:22:22Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 18,
+      "away": "KC",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401547645"
+      },
+      "kickoff": "2024-01-07T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "6dP9XQ0blNA",
+        "title": "Kansas City Chiefs vs. Los Angeles Chargers | 2023 Week 18 Game Highlights",
+        "published_at": "2024-01-08T00:40:25Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 18,
+      "away": "DEN",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401547646"
+      },
+      "kickoff": "2024-01-07T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "fM4Br7tTE50",
+        "title": "Denver Broncos vs. Las Vegas Raiders Game Highlights | NFL 2023 Week 18",
+        "published_at": "2024-01-08T00:44:14Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 18,
+      "away": "PHI",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401547650"
+      },
+      "kickoff": "2024-01-07T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Ni3tXzBeasY",
+        "title": "Philadelphia Eagles vs. New York Giants - Highlights | 2023 Regular Season Week 18",
+        "published_at": "2024-01-08T00:47:28Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 18,
+      "away": "LAR",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401547651"
+      },
+      "kickoff": "2024-01-07T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "OJxrc7lvlxw",
+        "title": "Los Angeles Rams vs. San Francisco 49ers | 2023 Week 18 Game Highlights",
+        "published_at": "2024-01-08T00:44:06Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 18,
+      "away": "DAL",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401547653"
+      },
+      "kickoff": "2024-01-07T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "7VjgC6kDgZQ",
+        "title": "Dallas Cowboys vs. Washington Commanders Game Highlights | NFL 2023 Week 18",
+        "published_at": "2024-01-08T00:25:03Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "regular",
+      "week": 18,
+      "away": "BUF",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401547647"
+      },
+      "kickoff": "2024-01-08T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "5kHYGN4IOzg",
+        "title": "Buffalo Bills vs. Miami Dolphins | 2023 Week 18 Game Highlights",
+        "published_at": "2024-01-08T04:34:36Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "postseason",
+      "week": 19,
+      "away": "CLE",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401547749"
+      },
+      "kickoff": "2024-01-13T21:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "0pB9o1aLm6M",
+        "title": "Cleveland Browns vs. Houston Texans Game Highlights | NFL 2023 Super Wild Card Weekend",
+        "published_at": "2024-01-14T00:37:12Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "postseason",
+      "week": 19,
+      "away": "MIA",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401547750"
+      },
+      "kickoff": "2024-01-14T01:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Ul_UFVnFj1k",
+        "title": "Miami Dolphins vs. Kansas City Chiefs Game Highlights | NFL 2023 Super Wild Card Weekend",
+        "published_at": "2024-01-14T04:32:03Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "postseason",
+      "week": 19,
+      "away": "GB",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401547752"
+      },
+      "kickoff": "2024-01-14T21:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "JRhRhGIWqQA",
+        "title": "Green Bay Packers vs. Dallas Cowboys Game Highlights | NFL 2023 Super Wild Card Weekend",
+        "published_at": "2024-01-15T01:15:03Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "postseason",
+      "week": 19,
+      "away": "LAR",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401547753"
+      },
+      "kickoff": "2024-01-15T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "rvoQpoy9Zv4",
+        "title": "Los Angeles Rams vs. Detroit Lions Game Highlights | NFL 2023 Super Wild Card Weekend",
+        "published_at": "2024-01-15T04:25:07Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "postseason",
+      "week": 19,
+      "away": "PIT",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401547751"
+      },
+      "kickoff": "2024-01-15T21:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "9_4Ybszo0lk",
+        "title": "Pittsburgh Steelers vs. Buffalo Bills Game Highlights | NFL 2023 Super Wild Card Weekend",
+        "published_at": "2024-01-16T01:05:19Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "postseason",
+      "week": 19,
+      "away": "PHI",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401547754"
+      },
+      "kickoff": "2024-01-16T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "UKBAcibnGpw",
+        "title": "Philadelphia Eagles vs. Tampa Bay Buccaneers Game Highlights | NFL 2023 Super Wild Card Weekend",
+        "published_at": "2024-01-16T04:43:49Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "postseason",
+      "week": 20,
+      "away": "HOU",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401547755"
+      },
+      "kickoff": "2024-01-20T21:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "MLk6OFtWJaU",
+        "title": "Houston Texans vs. Baltimore Ravens Game Highlights | NFL 2023 Divisional Round",
+        "published_at": "2024-01-21T00:47:36Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "postseason",
+      "week": 20,
+      "away": "GB",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401547756"
+      },
+      "kickoff": "2024-01-21T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "XdfRD0ZsMbQ",
+        "title": "Green Bay Packers vs. San Francisco 49ers Game Highlights | NFL 2023 Divisional Round",
+        "published_at": "2024-01-21T04:30:17Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "postseason",
+      "week": 20,
+      "away": "TB",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401547757"
+      },
+      "kickoff": "2024-01-21T20:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "iatLmdIyvcg",
+        "title": "Tampa Bay Buccaneers vs. Detroit Lions Game Highlights | NFL 2023 Divisional Round",
+        "published_at": "2024-01-21T23:30:52Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "postseason",
+      "week": 20,
+      "away": "KC",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401547758"
+      },
+      "kickoff": "2024-01-21T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Clj_Bdf6toA",
+        "title": "Kansas City Chiefs vs. Buffalo Bills Game Highlights | NFL 2023 Divisional Round",
+        "published_at": "2024-01-22T04:14:19Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "postseason",
+      "week": 21,
+      "away": "KC",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401547379"
+      },
+      "kickoff": "2024-01-28T20:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "jb_lnAvZSa4",
+        "title": "Kansas City Chiefs vs. Baltimore Ravens Game Highlights | 2023 AFC Championship",
+        "published_at": "2024-01-28T23:44:59Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "postseason",
+      "week": 21,
+      "away": "DET",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401547380"
+      },
+      "kickoff": "2024-01-28T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "hFQy0I3g8co",
+        "title": "Detroit Lions vs. San Francisco 49ers Game Highlights | 2023 NFC Championship",
+        "published_at": "2024-01-29T03:35:25Z"
+      }
+    },
+    {
+      "season": 2023,
+      "season_type": "postseason",
+      "week": 22,
+      "away": "SF",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401547378"
+      },
+      "kickoff": "2024-02-11T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "O17DfQco2JQ",
+        "title": "San Francisco 49ers vs. Kansas City Chiefs | Super Bowl LVIII Game Highlights",
+        "published_at": "2024-02-12T04:46:24Z"
+      }
+    }
+  ]
+}

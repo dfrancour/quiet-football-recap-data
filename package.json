@@ -1,0 +1,23 @@
+{
+  "name": "football-recaps-data",
+  "private": true,
+  "license": "CC0-1.0",
+  "type": "module",
+  "scripts": {
+    "check": "node scripts/check.mjs && node scripts/validate.mjs",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "test": "node --test 'test/**/*.test.ts'",
+    "typecheck": "tsc"
+  },
+  "dependencies": {
+    "zod": "4.3.6"
+  },
+  "devDependencies": {
+    "@types/node": "25.0.10",
+    "ajv": "8.17.1",
+    "ajv-formats": "3.0.1",
+    "prettier": "3.8.1",
+    "typescript": "5.9.3"
+  }
+}

@@ -1,0 +1,4580 @@
+{
+  "$schema": "./schema.json",
+  "schema_version": 1,
+  "season": 2020,
+  "games": [
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 1,
+      "away": "HOU",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401220225"
+      },
+      "kickoff": "2020-09-11T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Tt94jkztAlY",
+        "title": "Texans vs. Chiefs Week 1 Highlights | NFL 2020",
+        "published_at": "2020-09-11T03:34:43Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 1,
+      "away": "SEA",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401220313"
+      },
+      "kickoff": "2020-09-13T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "kSlTw4aR6ac",
+        "title": "Seahawks vs. Falcons Week 1 Highlights | NFL 2020",
+        "published_at": "2020-09-13T20:24:14Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 1,
+      "away": "CLE",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401220147"
+      },
+      "kickoff": "2020-09-13T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "kGKusJg6hqE",
+        "title": "Browns vs. Ravens Week 1 Highlights | NFL 2020",
+        "published_at": "2020-09-13T20:43:49Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 1,
+      "away": "NYJ",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401220116"
+      },
+      "kickoff": "2020-09-13T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "U-EvIfO1TRA",
+        "title": "Jets vs. Bills Week 1 Highlights | NFL 2020",
+        "published_at": "2020-09-13T20:34:15Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 1,
+      "away": "LV",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401220370"
+      },
+      "kickoff": "2020-09-13T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "0syZpDXeIv0",
+        "title": "Raiders vs. Panthers Week 1 Highlights | NFL 2020",
+        "published_at": "2020-09-13T20:16:35Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 1,
+      "away": "CHI",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401220282"
+      },
+      "kickoff": "2020-09-13T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "f_8QpWgxU6w",
+        "title": "Bears vs. Lions Week 1 Highlights | NFL 2020",
+        "published_at": "2020-09-13T21:22:53Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 1,
+      "away": "IND",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401220195"
+      },
+      "kickoff": "2020-09-13T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "3a_e8YhmSwM",
+        "title": "Colts vs. Jaguars Week 1 Highlights | NFL 2020",
+        "published_at": "2020-09-13T21:16:07Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 1,
+      "away": "GB",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401220300"
+      },
+      "kickoff": "2020-09-13T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "oD1hU6ucXeA",
+        "title": "Packers vs. Vikings Week 1 Highlights | NFL 2020",
+        "published_at": "2020-09-13T20:32:56Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 1,
+      "away": "MIA",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401220131"
+      },
+      "kickoff": "2020-09-13T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "CyLAwy5l6No",
+        "title": "Dolphins vs. Patriots Week 1 Highlights | NFL 2020",
+        "published_at": "2020-09-13T20:05:47Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 1,
+      "away": "PHI",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401220268"
+      },
+      "kickoff": "2020-09-13T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ytqJoTdaKB0",
+        "title": "Eagles vs. Washington Football Team Week 1 Highlights | NFL 2020",
+        "published_at": "2020-09-13T21:55:31Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 1,
+      "away": "LAC",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401220161"
+      },
+      "kickoff": "2020-09-13T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "88K0uh_Ddj0",
+        "title": "Chargers vs. Bengals Week 1 Highlights | NFL 2020",
+        "published_at": "2020-09-13T23:41:31Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 1,
+      "away": "TB",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401220369"
+      },
+      "kickoff": "2020-09-13T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "eUlgPM4IQbU",
+        "title": "Buccaneers vs. Saints Week 1 Highlights | NFL 2020",
+        "published_at": "2020-09-13T23:58:06Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 1,
+      "away": "ARI",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401220352"
+      },
+      "kickoff": "2020-09-13T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "tUhRR_Q8_JY",
+        "title": "Cardinals vs. 49ers Week 1 Highlights | NFL 2020",
+        "published_at": "2020-09-14T00:05:52Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 1,
+      "away": "DAL",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401220347"
+      },
+      "kickoff": "2020-09-14T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "6nQ82QMD1c0",
+        "title": "Cowboys vs. Rams Week 1 Highlights | NFL 2020",
+        "published_at": "2020-09-14T03:40:59Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 1,
+      "away": "PIT",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401220256"
+      },
+      "kickoff": "2020-09-14T23:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "j8XQ0q1ksVM",
+        "title": "Steelers vs. Giants Week 1 Highlights | NFL 2020",
+        "published_at": "2020-09-15T02:21:16Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 1,
+      "away": "TEN",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401220217"
+      },
+      "kickoff": "2020-09-15T02:10:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "fVRhndC9NFg",
+        "title": "Titans vs. Broncos Week 1 Highlights | NFL 2020",
+        "published_at": "2020-09-15T05:41:00Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 2,
+      "away": "CIN",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401220163"
+      },
+      "kickoff": "2020-09-18T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "R2tv7_9c9Bo",
+        "title": "Bengals vs. Browns Week 2 Highlights | NFL 2020",
+        "published_at": "2020-09-18T03:57:35Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 2,
+      "away": "NYG",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401220281"
+      },
+      "kickoff": "2020-09-20T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "m33eyz54Tn0",
+        "title": "Giants vs. Bears Week 2 Highlights | NFL 2020",
+        "published_at": "2020-09-20T20:16:28Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 2,
+      "away": "ATL",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401220249"
+      },
+      "kickoff": "2020-09-20T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Y2bu5qENekY",
+        "title": "Falcons vs. Cowboys Week 2 Highlights | NFL 2020",
+        "published_at": "2020-09-20T20:50:47Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 2,
+      "away": "DET",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401220291"
+      },
+      "kickoff": "2020-09-20T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "RzuYg08vdlc",
+        "title": "Lions vs. Packers Week 2 Highlights | NFL 2020",
+        "published_at": "2020-09-20T20:22:54Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 2,
+      "away": "MIN",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401220192"
+      },
+      "kickoff": "2020-09-20T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "2Jo7je2JVDE",
+        "title": "Vikings vs. Colts Week 2 Highlights | NFL 2020",
+        "published_at": "2020-09-20T20:09:27Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 2,
+      "away": "BUF",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401220122"
+      },
+      "kickoff": "2020-09-20T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "17JpOLg3FbY",
+        "title": "Bills vs. Dolphins Week 2 Highlights | NFL 2020",
+        "published_at": "2020-09-20T21:00:39Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 2,
+      "away": "SF",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401220144"
+      },
+      "kickoff": "2020-09-20T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "knxLZpGPcps",
+        "title": "49ers vs. Jets Week 2 Highlights | NFL 2020",
+        "published_at": "2020-09-20T20:19:25Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 2,
+      "away": "LAR",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401220261"
+      },
+      "kickoff": "2020-09-20T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "wAtJMC0brhM",
+        "title": "Rams vs. Eagles Week 2 Highlights | NFL 2020",
+        "published_at": "2020-09-20T20:21:05Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 2,
+      "away": "DEN",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401220177"
+      },
+      "kickoff": "2020-09-20T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "WuzAR1UMyPQ",
+        "title": "Broncos vs. Steelers Week 2 Highlights | NFL 2020",
+        "published_at": "2020-09-21T14:39:50Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 2,
+      "away": "CAR",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401220329"
+      },
+      "kickoff": "2020-09-20T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "cARKs_fP0vE",
+        "title": "Panthers vs. Buccaneers Week 2 Highlights | NFL 2020",
+        "published_at": "2020-09-20T20:30:51Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 2,
+      "away": "JAX",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401220204"
+      },
+      "kickoff": "2020-09-20T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "flWnL4EoGtA",
+        "title": "Jaguars vs. Titans Week 2 Highlights | NFL 2020",
+        "published_at": "2020-09-20T20:28:04Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 2,
+      "away": "WSH",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401220340"
+      },
+      "kickoff": "2020-09-20T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Qpc4wqHCuk4",
+        "title": "Washington Football Team vs. Cardinals Week 2 Highlights | NFL 2020",
+        "published_at": "2020-09-20T23:41:05Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 2,
+      "away": "BAL",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401220181"
+      },
+      "kickoff": "2020-09-20T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "997b7xtL264",
+        "title": "Ravens vs. Texans Week 2 Highlights | NFL 2020",
+        "published_at": "2020-09-20T23:35:44Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 2,
+      "away": "KC",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401220235"
+      },
+      "kickoff": "2020-09-20T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "hIRrwFsE7-0",
+        "title": "Chiefs vs. Chargers Week 2 Highlights | NFL 2020",
+        "published_at": "2020-09-20T23:58:12Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 2,
+      "away": "NE",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401220365"
+      },
+      "kickoff": "2020-09-21T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "JARfiJicZSg",
+        "title": "Patriots vs. Seahawks Week 2 Highlights | NFL 2020",
+        "published_at": "2020-09-21T03:44:43Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 2,
+      "away": "NO",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401220231"
+      },
+      "kickoff": "2020-09-22T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "PJeM_jLlWUU",
+        "title": "Saints vs. Raiders Week 2 Highlights | NFL 2020",
+        "published_at": "2020-09-22T03:43:31Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 3,
+      "away": "MIA",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401220201"
+      },
+      "kickoff": "2020-09-25T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "IPsFIThYgTc",
+        "title": "Dolphins vs. Jaguars Week 3 Highlights | NFL 2020",
+        "published_at": "2020-09-25T03:34:47Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 3,
+      "away": "CHI",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401220309"
+      },
+      "kickoff": "2020-09-27T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "KLvGgzHtvWc",
+        "title": "Bears vs. Falcons Week 3 Highlights | NFL 2020",
+        "published_at": "2020-09-27T20:41:02Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 3,
+      "away": "LAR",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401220119"
+      },
+      "kickoff": "2020-09-27T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ylRLV_SsXNA",
+        "title": "Rams vs. Bills Week 3 Highlights | NFL 2020",
+        "published_at": "2020-09-27T20:24:42Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 3,
+      "away": "WSH",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401220168"
+      },
+      "kickoff": "2020-09-27T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "lmpQQl8yab0",
+        "title": "Washington Football Team vs. Browns Week 3 Highlights | NFL 2020",
+        "published_at": "2020-09-27T20:07:12Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 3,
+      "away": "TEN",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401220304"
+      },
+      "kickoff": "2020-09-27T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "p87ff2NvQPg",
+        "title": "Titans vs. Vikings Week 3 Highlights | NFL 2020",
+        "published_at": "2020-09-27T20:27:30Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 3,
+      "away": "LV",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401220134"
+      },
+      "kickoff": "2020-09-27T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "vw4xR9ohzTA",
+        "title": "Raiders vs. Patriots Week 3 Highlights | NFL 2020",
+        "published_at": "2020-09-27T20:39:28Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 3,
+      "away": "SF",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401220254"
+      },
+      "kickoff": "2020-09-27T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "H5qlTs2SXQ4",
+        "title": "49ers vs. Giants Week 3 Highlights | NFL 2020",
+        "published_at": "2020-09-27T20:12:16Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 3,
+      "away": "CIN",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401220264"
+      },
+      "kickoff": "2020-09-27T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "3gDkvC8fhF8",
+        "title": "Bengals vs. Eagles Week 3 Highlights | NFL 2020",
+        "published_at": "2020-09-27T21:08:59Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 3,
+      "away": "HOU",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401220173"
+      },
+      "kickoff": "2020-09-27T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "8VwgnJlcmgw",
+        "title": "Texans vs. Steelers Week 3 Highlights | NFL 2020",
+        "published_at": "2020-09-27T20:10:33Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 3,
+      "away": "NYJ",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401220193"
+      },
+      "kickoff": "2020-09-27T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "h3a5TTzBjDc",
+        "title": "Jets vs. Colts Week 3 Highlights | NFL 2020",
+        "published_at": "2020-09-27T23:04:20Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 3,
+      "away": "CAR",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401220240"
+      },
+      "kickoff": "2020-09-27T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "gTqmgFLq4rE",
+        "title": "Panthers vs. Chargers Week 3 Highlights | NFL 2020",
+        "published_at": "2020-09-28T00:00:22Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 3,
+      "away": "DET",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401220343"
+      },
+      "kickoff": "2020-09-27T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "9NhEl0YACmY",
+        "title": "Lions vs. Cardinals Week 3 Highlights | NFL 2020",
+        "published_at": "2020-09-27T23:38:52Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 3,
+      "away": "TB",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401220216"
+      },
+      "kickoff": "2020-09-27T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "UsXjpaIe1LY",
+        "title": "Buccaneers vs. Broncos Week 3 Highlights | NFL 2020",
+        "published_at": "2020-09-27T23:34:20Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 3,
+      "away": "DAL",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401220363"
+      },
+      "kickoff": "2020-09-27T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "TWQ7tWsf5lM",
+        "title": "Cowboys vs. Seahawks Week 3 Highlights | NFL 2020",
+        "published_at": "2020-09-28T00:08:19Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 3,
+      "away": "GB",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401220323"
+      },
+      "kickoff": "2020-09-28T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "cXqRUDglvcs",
+        "title": "Packers vs. Saints Week 3 Highlights | NFL 2020",
+        "published_at": "2020-09-28T04:11:34Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 3,
+      "away": "KC",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401220153"
+      },
+      "kickoff": "2020-09-29T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "5wqkMk1DhAw",
+        "title": "Chiefs vs. Ravens Week 3 Highlights | NFL 2020",
+        "published_at": "2020-09-29T03:27:06Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 4,
+      "away": "DEN",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401220141"
+      },
+      "kickoff": "2020-10-02T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Hfhl-hOlb2Y",
+        "title": "Broncos vs. Jets Week 4 Highlights | NFL 2020",
+        "published_at": "2020-10-02T04:03:59Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 4,
+      "away": "ARI",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401220320"
+      },
+      "kickoff": "2020-10-04T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "fWpTVkmWpR4",
+        "title": "Cardinals vs. Panthers Week 4 Highlights | NFL 2020",
+        "published_at": "2020-10-04T20:15:56Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 4,
+      "away": "JAX",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401220157"
+      },
+      "kickoff": "2020-10-04T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "pbjFUxemfXk",
+        "title": "Jaguars vs. Bengals Week 4 Highlights | NFL 2020",
+        "published_at": "2020-10-04T20:22:12Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 4,
+      "away": "CLE",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401220247"
+      },
+      "kickoff": "2020-10-04T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "KzFSeeTKZLQ",
+        "title": "Browns vs. Cowboys Week 4 Highlights | NFL 2020",
+        "published_at": "2020-10-04T20:33:23Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 4,
+      "away": "NO",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401220285"
+      },
+      "kickoff": "2020-10-04T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "z6-QNcLg3Ug",
+        "title": "Saints vs. Lions Week 4 Highlights | NFL 2020",
+        "published_at": "2020-10-04T20:19:34Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 4,
+      "away": "MIN",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401220184"
+      },
+      "kickoff": "2020-10-04T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "V0Dok8uIKAc",
+        "title": "Vikings vs. Texans Week 4 Highlights | NFL 2020",
+        "published_at": "2020-10-04T20:10:31Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 4,
+      "away": "SEA",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401220128"
+      },
+      "kickoff": "2020-10-04T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "hY4A_VRuyag",
+        "title": "Seahawks vs. Dolphins Week 4 Highlights | NFL 2020",
+        "published_at": "2020-10-04T20:20:29Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 4,
+      "away": "LAC",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401220334"
+      },
+      "kickoff": "2020-10-04T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "W7VcuM9wKx8",
+        "title": "Chargers vs. Buccaneers Week 4 Highlights | NFL 2020",
+        "published_at": "2020-10-04T20:24:11Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 4,
+      "away": "BAL",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401220271"
+      },
+      "kickoff": "2020-10-04T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "xchQh9ZEB9Q",
+        "title": "Ravens vs. Washington Football Team Week 4 Highlights | NFL 2020",
+        "published_at": "2020-10-04T20:02:07Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 4,
+      "away": "NYG",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401220348"
+      },
+      "kickoff": "2020-10-04T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "sR31HGgUUg4",
+        "title": "Giants vs. Rams Week 4 Highlights | NFL 2020",
+        "published_at": "2020-10-04T23:02:37Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 4,
+      "away": "IND",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401220280"
+      },
+      "kickoff": "2020-10-04T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "KK0KPyU92D0",
+        "title": "Colts vs. Bears Week 4 Highlights | NFL 2020",
+        "published_at": "2020-10-04T23:39:30Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 4,
+      "away": "BUF",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401220229"
+      },
+      "kickoff": "2020-10-04T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Px6DGYx7DK0",
+        "title": "Bills vs. Raiders Week 4 Highlights | NFL 2020",
+        "published_at": "2020-10-04T23:44:59Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 4,
+      "away": "PHI",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401220355"
+      },
+      "kickoff": "2020-10-05T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "qAZj4vQRleo",
+        "title": "Eagles vs. 49ers Week 4 Highlights | NFL 2020",
+        "published_at": "2020-10-05T03:47:09Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 4,
+      "away": "NE",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401220221"
+      },
+      "kickoff": "2020-10-05T23:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "jp4TR6YBjlg",
+        "title": "Patriots vs. Chiefs Week 4 Highlights | NFL 2020",
+        "published_at": "2020-10-06T02:00:46Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 4,
+      "away": "ATL",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401220293"
+      },
+      "kickoff": "2020-10-06T01:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "mvCf1rB2RvY",
+        "title": "Falcons vs. Packers Week 4 Highlights | NFL 2020",
+        "published_at": "2020-10-06T04:11:45Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 5,
+      "away": "TB",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401220278"
+      },
+      "kickoff": "2020-10-09T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "avI2_Bc8sYo",
+        "title": "Buccaneers vs. Bears Week 5 Highlights | NFL 2020",
+        "published_at": "2020-10-09T03:46:14Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 5,
+      "away": "CAR",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401220306"
+      },
+      "kickoff": "2020-10-11T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "AGiR5xiWSN8",
+        "title": "Panthers vs. Falcons Week 5 Highlights | NFL 2020",
+        "published_at": "2020-10-11T20:11:33Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 5,
+      "away": "CIN",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401220146"
+      },
+      "kickoff": "2020-10-11T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "siev3DVYg_w",
+        "title": "Bengals vs. Ravens Week 5 Highlights | NFL 2020",
+        "published_at": "2020-10-11T20:18:53Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 5,
+      "away": "JAX",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401220179"
+      },
+      "kickoff": "2020-10-11T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "eeIVSDufvF4",
+        "title": "Jaguars vs. Texans Week 5 Highlights | NFL 2020",
+        "published_at": "2020-10-11T20:13:39Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 5,
+      "away": "LV",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401220219"
+      },
+      "kickoff": "2020-10-11T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "vXFCtCFi7jc",
+        "title": "Raiders vs. Chiefs Week 5 Highlights | NFL 2020",
+        "published_at": "2020-10-11T20:41:02Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 5,
+      "away": "ARI",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401220143"
+      },
+      "kickoff": "2020-10-11T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "D484ICiviTA",
+        "title": "Cardinals vs. Jets Week 5 Highlights | NFL 2020",
+        "published_at": "2020-10-11T20:24:21Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 5,
+      "away": "PHI",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401220175"
+      },
+      "kickoff": "2020-10-11T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "u0WE5RmZxGw",
+        "title": "Eagles vs. Steelers Week 5 Highlights | NFL 2020",
+        "published_at": "2020-10-11T20:31:44Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 5,
+      "away": "LAR",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401220269"
+      },
+      "kickoff": "2020-10-11T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "XnR7ASW40JY",
+        "title": "Rams vs. Washington Football Team Week 5 Highlights | NFL 2020",
+        "published_at": "2020-10-11T20:15:10Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 5,
+      "away": "MIA",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401220358"
+      },
+      "kickoff": "2020-10-11T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "V5HqqFu4sfA",
+        "title": "Dolphins vs. 49ers Week 5 Highlights | NFL 2020",
+        "published_at": "2020-10-11T23:19:39Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 5,
+      "away": "IND",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401220166"
+      },
+      "kickoff": "2020-10-11T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "rPMLyYNigAk",
+        "title": "Colts vs. Browns Week 5 Highlights | NFL 2020",
+        "published_at": "2020-10-11T23:44:34Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 5,
+      "away": "NYG",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401220242"
+      },
+      "kickoff": "2020-10-11T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "eujFTIUuMYs",
+        "title": "Giants vs. Cowboys Week 5 Highlights | NFL 2020",
+        "published_at": "2020-10-11T23:58:30Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 5,
+      "away": "MIN",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401220367"
+      },
+      "kickoff": "2020-10-12T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "1YIigArbYoo",
+        "title": "Vikings vs. Seahawks Week 5 Highlights | NFL 2020",
+        "published_at": "2020-10-12T03:44:18Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 5,
+      "away": "LAC",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401220326"
+      },
+      "kickoff": "2020-10-13T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "3_zLyE8eIUo",
+        "title": "Chargers vs. Saints Week 5 Highlights | NFL 2020",
+        "published_at": "2020-10-14T00:06:47Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 5,
+      "away": "BUF",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401220209"
+      },
+      "kickoff": "2020-10-13T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "cXzlc-iKfEQ",
+        "title": "Bills vs. Titans Week 5 Highlights | NFL 2020",
+        "published_at": "2020-10-14T02:10:16Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 6,
+      "away": "CHI",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401220317"
+      },
+      "kickoff": "2020-10-18T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "taprc6l4sCE",
+        "title": "Bears vs. Panthers Week 6 Highlights | NFL 2020",
+        "published_at": "2020-10-18T20:24:41Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 6,
+      "away": "CIN",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401220190"
+      },
+      "kickoff": "2020-10-18T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "U2x7rmMnFc8",
+        "title": "Bengals vs. Colts Week 6 Highlights | NFL 2020",
+        "published_at": "2020-10-18T20:37:16Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 6,
+      "away": "DET",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401220200"
+      },
+      "kickoff": "2020-10-18T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "APxgP8QWtbk",
+        "title": "Lions vs. Jaguars Week 6 Highlights | NFL 2020",
+        "published_at": "2020-10-18T20:18:54Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 6,
+      "away": "ATL",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401220301"
+      },
+      "kickoff": "2020-10-18T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "eiFsqXSLxVU",
+        "title": "Falcons vs. Vikings Week 6 Highlights | NFL 2020",
+        "published_at": "2020-10-18T20:17:04Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 6,
+      "away": "DEN",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401220133"
+      },
+      "kickoff": "2020-10-18T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ZHB9siRXoBM",
+        "title": "Broncos vs. Patriots Week 6 Highlights | NFL 2020",
+        "published_at": "2020-10-18T20:09:36Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 6,
+      "away": "WSH",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401220252"
+      },
+      "kickoff": "2020-10-18T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "WYoPe8Eublk",
+        "title": "Washington Football Team vs. Giants Week 6 Highlights | NFL 2020",
+        "published_at": "2020-10-18T20:16:13Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 6,
+      "away": "BAL",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401220263"
+      },
+      "kickoff": "2020-10-18T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "mmlCqeI2jdA",
+        "title": "Ravens vs. Eagles Week 6 Highlights | NFL 2020",
+        "published_at": "2020-10-18T20:43:52Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 6,
+      "away": "CLE",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401220172"
+      },
+      "kickoff": "2020-10-18T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "082rPTTde1w",
+        "title": "Browns vs. Steelers Week 6 Highlights | NFL 2020",
+        "published_at": "2020-10-18T20:10:42Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 6,
+      "away": "HOU",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401220202"
+      },
+      "kickoff": "2020-10-18T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "jac6Vem50sE",
+        "title": "Texans vs. Titans Week 6 Highlights | NFL 2020",
+        "published_at": "2020-10-18T20:28:00Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 6,
+      "away": "NYJ",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401220124"
+      },
+      "kickoff": "2020-10-18T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "x3BAtP0bUb8",
+        "title": "Jets vs. Dolphins Week 6 Highlights | NFL 2020",
+        "published_at": "2020-10-18T23:19:59Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 6,
+      "away": "GB",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401220331"
+      },
+      "kickoff": "2020-10-18T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "LtAD1jLuSFc",
+        "title": "Packers vs. Buccaneers Week 6 Highlights | NFL 2020",
+        "published_at": "2020-10-18T23:41:34Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 6,
+      "away": "LAR",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401220353"
+      },
+      "kickoff": "2020-10-19T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Aj7T2rAJRWE",
+        "title": "Rams vs. 49ers Week 6 Highlights | NFL 2020",
+        "published_at": "2020-10-19T03:39:20Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 6,
+      "away": "KC",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401220117"
+      },
+      "kickoff": "2020-10-19T21:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Hq73Ql_MrGY",
+        "title": "Chiefs vs. Bills Week 6 Highlights | NFL 2020",
+        "published_at": "2020-10-20T00:10:32Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 6,
+      "away": "ARI",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401220245"
+      },
+      "kickoff": "2020-10-20T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "fOp-Pl82Z2A",
+        "title": "Cardinals vs. Cowboys Week 6 Highlights | NFL 2020",
+        "published_at": "2020-10-20T03:47:58Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 7,
+      "away": "NYG",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401220259"
+      },
+      "kickoff": "2020-10-23T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "i4Vj5HAzwiE",
+        "title": "Giants vs. Eagles Week 7 Highlights | NFL 2020",
+        "published_at": "2020-10-23T04:22:19Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 7,
+      "away": "DET",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401220310"
+      },
+      "kickoff": "2020-10-25T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "oxm7T4h-IOs",
+        "title": "Lions vs. Falcons Week 7 Highlights | NFL 2020",
+        "published_at": "2020-10-25T20:27:11Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 7,
+      "away": "CLE",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401220155"
+      },
+      "kickoff": "2020-10-25T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "BZejGZFvafE",
+        "title": "Browns vs. Bengals Week 7 Highlights | NFL 2020",
+        "published_at": "2020-10-25T20:29:10Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 7,
+      "away": "GB",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401220183"
+      },
+      "kickoff": "2020-10-25T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "PWJmLMoy3zQ",
+        "title": "Packers vs. Texans Week 7 Highlights | NFL 2020",
+        "published_at": "2020-10-25T20:18:10Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 7,
+      "away": "CAR",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401220322"
+      },
+      "kickoff": "2020-10-25T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "xJbNitw6REM",
+        "title": "Panthers vs. Saints Week 7 Highlights | NFL 2020",
+        "published_at": "2020-10-25T20:01:25Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 7,
+      "away": "BUF",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401220138"
+      },
+      "kickoff": "2020-10-25T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "efCEnvvPCdQ",
+        "title": "Bills vs. Jets Week 7 Highlights | NFL 2020",
+        "published_at": "2020-10-25T20:17:16Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 7,
+      "away": "PIT",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401249063"
+      },
+      "kickoff": "2020-10-25T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "8iLi9XXAmSQ",
+        "title": "Steelers vs. Titans Week 7 Highlights | NFL 2020",
+        "published_at": "2020-10-25T20:25:10Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 7,
+      "away": "DAL",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401220266"
+      },
+      "kickoff": "2020-10-25T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "PUU-u1ks0yI",
+        "title": "Cowboys vs. Washington Football Team Week 7 Highlights | NFL 2020",
+        "published_at": "2020-10-25T20:09:14Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 7,
+      "away": "TB",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401220232"
+      },
+      "kickoff": "2020-10-25T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "oCNkJEAMkXM",
+        "title": "Buccaneers vs. Raiders Week 7 Highlights | NFL 2020",
+        "published_at": "2020-10-25T23:26:24Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 7,
+      "away": "KC",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401220210"
+      },
+      "kickoff": "2020-10-25T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "_6UPmIFDSso",
+        "title": "Chiefs vs. Broncos Week 7 Highlights | NFL 2020",
+        "published_at": "2020-10-25T23:35:24Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 7,
+      "away": "JAX",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401220241"
+      },
+      "kickoff": "2020-10-25T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "BmqKLHzixFA",
+        "title": "Jaguars vs. Chargers Week 7 Highlights | NFL 2020",
+        "published_at": "2020-10-25T23:48:25Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 7,
+      "away": "SF",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401220136"
+      },
+      "kickoff": "2020-10-25T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "kq2hxifx3nc",
+        "title": "49ers vs. Patriots Week 7 Highlights | NFL 2020",
+        "published_at": "2020-10-25T23:38:47Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 7,
+      "away": "SEA",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401220338"
+      },
+      "kickoff": "2020-10-26T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "bywrMfiALmU",
+        "title": "Seahawks vs. Cardinals Week 7 Highlights | NFL 2020",
+        "published_at": "2020-10-26T04:31:36Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 7,
+      "away": "CHI",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401220351"
+      },
+      "kickoff": "2020-10-27T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "-KrwC8QJf04",
+        "title": "Bears vs. Rams Week 7 Highlights | NFL 2020",
+        "published_at": "2020-10-27T03:34:05Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 8,
+      "away": "ATL",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401220314"
+      },
+      "kickoff": "2020-10-30T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "GB_EEiVuptM",
+        "title": "Falcons vs. Panthers Week 8 Highlights | NFL 2020",
+        "published_at": "2020-10-30T03:36:13Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 8,
+      "away": "PIT",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401220148"
+      },
+      "kickoff": "2020-11-01T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "_v-ybX4QVR0",
+        "title": "Steelers vs. Ravens Week 8 Highlights | NFL 2020",
+        "published_at": "2020-11-02T18:25:08Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 8,
+      "away": "NE",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401220115"
+      },
+      "kickoff": "2020-11-01T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "9OyEi0MHIIw",
+        "title": "Patriots vs. Bills Week 8 Highlights | NFL 2020",
+        "published_at": "2020-11-01T21:04:17Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 8,
+      "away": "TEN",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401220158"
+      },
+      "kickoff": "2020-11-01T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "kAW2ZSTdtQ0",
+        "title": "Titans vs. Bengals Week 8 Highlights | NFL 2020",
+        "published_at": "2020-11-01T21:35:39Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 8,
+      "away": "LV",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401220169"
+      },
+      "kickoff": "2020-11-01T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "roYn3NhNEJI",
+        "title": "Raiders vs. Browns Week 8 Highlights | NFL 2020",
+        "published_at": "2020-11-01T21:05:50Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 8,
+      "away": "IND",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401220288"
+      },
+      "kickoff": "2020-11-01T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "74Ue9P9ayfs",
+        "title": "Colts vs. Lions Week 8 Highlights | NFL 2020",
+        "published_at": "2020-11-01T21:31:03Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 8,
+      "away": "MIN",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401220292"
+      },
+      "kickoff": "2020-11-01T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "AO7s6J6ms7c",
+        "title": "Vikings vs. Packers Week 8 Highlights | NFL 2020",
+        "published_at": "2020-11-01T21:24:54Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 8,
+      "away": "NYJ",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401220222"
+      },
+      "kickoff": "2020-11-01T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "TvXzDkgBgZI",
+        "title": "Jets vs. Chiefs Week 8 Highlights | NFL 2020",
+        "published_at": "2020-11-01T21:10:35Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 8,
+      "away": "LAR",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401220127"
+      },
+      "kickoff": "2020-11-01T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "OnRQEHWY0DU",
+        "title": "Rams vs. Dolphins Week 8 Highlights | NFL 2020",
+        "published_at": "2020-11-01T21:39:45Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 8,
+      "away": "LAC",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401220212"
+      },
+      "kickoff": "2020-11-01T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "BIq3bf1OcjU",
+        "title": "Chargers vs. Broncos Week 8 Highlights | NFL 2020",
+        "published_at": "2020-11-02T00:48:53Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 8,
+      "away": "NO",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401220277"
+      },
+      "kickoff": "2020-11-01T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "BXN7Pel4A2A",
+        "title": "Saints vs. Bears Week 8 Highlights | NFL 2020",
+        "published_at": "2020-11-02T01:13:55Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 8,
+      "away": "SF",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401220361"
+      },
+      "kickoff": "2020-11-01T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "9B45wdu4M2E",
+        "title": "49ers vs. Seahawks Week 8 Highlights | NFL 2020",
+        "published_at": "2020-11-02T00:59:44Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 8,
+      "away": "DAL",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401220258"
+      },
+      "kickoff": "2020-11-02T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "AeXPKSJRbzY",
+        "title": "Cowboys vs. Eagles Week 8 Highlights | NFL 2020",
+        "published_at": "2020-11-02T04:48:59Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 8,
+      "away": "TB",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401220257"
+      },
+      "kickoff": "2020-11-03T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "6lqhhSX7Occ",
+        "title": "Buccaneers vs. Giants Week 8 Highlights | NFL 2020",
+        "published_at": "2020-11-03T04:32:40Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 9,
+      "away": "GB",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401220359"
+      },
+      "kickoff": "2020-11-06T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ZBunphIsgAw",
+        "title": "Packers vs. 49ers Week 9 Highlights | NFL 2020",
+        "published_at": "2020-11-06T04:32:46Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 9,
+      "away": "DEN",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401220311"
+      },
+      "kickoff": "2020-11-08T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "c_GbjNJ0IFc",
+        "title": "Broncos vs. Falcons Week 9 Highlights | NFL 2020",
+        "published_at": "2020-11-08T21:31:08Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 9,
+      "away": "SEA",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401220120"
+      },
+      "kickoff": "2020-11-08T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "OuFp_eDls54",
+        "title": "Seahawks vs. Bills Week 9 Highlights | NFL 2020",
+        "published_at": "2020-11-08T21:35:49Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 9,
+      "away": "BAL",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401220189"
+      },
+      "kickoff": "2020-11-08T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "xr8HwJW2bps",
+        "title": "Ravens vs. Colts Week 9 Highlights | NFL 2020",
+        "published_at": "2020-11-08T21:21:59Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 9,
+      "away": "HOU",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401220194"
+      },
+      "kickoff": "2020-11-08T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "7VqrRatSBpk",
+        "title": "Texans vs. Jaguars Week 9 Highlights | NFL 2020",
+        "published_at": "2020-11-08T21:27:55Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 9,
+      "away": "CAR",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401220224"
+      },
+      "kickoff": "2020-11-08T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "3imGBLYj_lc",
+        "title": "Panthers vs. Chiefs Week 9 Highlights | NFL 2020",
+        "published_at": "2020-11-08T21:47:50Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 9,
+      "away": "DET",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401220299"
+      },
+      "kickoff": "2020-11-08T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "M_IhAqjDuz4",
+        "title": "Lions vs. Vikings Week 9 Highlights | NFL 2020",
+        "published_at": "2020-11-08T21:16:41Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 9,
+      "away": "CHI",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401220207"
+      },
+      "kickoff": "2020-11-08T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "bfbs7h8Mz7Q",
+        "title": "Bears vs. Titans Week 9 Highlights | NFL 2020",
+        "published_at": "2020-11-08T21:22:35Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 9,
+      "away": "NYG",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401220267"
+      },
+      "kickoff": "2020-11-08T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "hv5wObqf-cc",
+        "title": "Giants vs. Washington Football Team Week 9 Highlights | NFL 2020",
+        "published_at": "2020-11-08T21:13:39Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 9,
+      "away": "LV",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401220236"
+      },
+      "kickoff": "2020-11-08T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "JHSw_twwzlo",
+        "title": "Raiders vs. Chargers Week 9 Highlights | NFL 2020",
+        "published_at": "2020-11-09T00:26:58Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 9,
+      "away": "MIA",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401220342"
+      },
+      "kickoff": "2020-11-08T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "HknlyJVc7AQ",
+        "title": "Dolphins vs. Cardinals Week 9 Highlights | NFL 2020",
+        "published_at": "2020-11-09T00:47:01Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 9,
+      "away": "PIT",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401220248"
+      },
+      "kickoff": "2020-11-08T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "HrFL4gDa9KU",
+        "title": "Steelers vs. Cowboys Week 9 Highlights | NFL 2020",
+        "published_at": "2020-11-09T00:55:18Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 9,
+      "away": "NO",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401220330"
+      },
+      "kickoff": "2020-11-09T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "T3MDyQ9nrV8",
+        "title": "Saints vs. Buccaneers Week 9 Highlights | NFL 2020",
+        "published_at": "2020-11-09T04:23:17Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 9,
+      "away": "NE",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401220140"
+      },
+      "kickoff": "2020-11-10T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "a966sfszNa8",
+        "title": "Patriots vs. Jets Week 9 Highlights | NFL 2020",
+        "published_at": "2020-11-10T04:21:15Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 10,
+      "away": "IND",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401220203"
+      },
+      "kickoff": "2020-11-13T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "j0F6caPFS38",
+        "title": "Colts vs. Titans Week 10 Highlights | NFL 2020",
+        "published_at": "2020-11-13T04:30:42Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 10,
+      "away": "TB",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401220368"
+      },
+      "kickoff": "2020-11-15T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "4YuCabFqcP8",
+        "title": "Buccaneers vs. Panthers Week 10 Highlights | NFL 2020",
+        "published_at": "2020-11-15T21:32:42Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 10,
+      "away": "HOU",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401220165"
+      },
+      "kickoff": "2020-11-15T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "UriS35_PrFM",
+        "title": "Texans vs. Browns Week 10 Highlights | NFL 2020",
+        "published_at": "2020-11-15T21:23:43Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 10,
+      "away": "WSH",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401220289"
+      },
+      "kickoff": "2020-11-15T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "UY9ixq9uG_k",
+        "title": "Washington Football Team vs. Lions Week 10 Highlights | NFL 2020",
+        "published_at": "2020-11-15T21:35:06Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 10,
+      "away": "JAX",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401220295"
+      },
+      "kickoff": "2020-11-15T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "s_Z5oRDqyN8",
+        "title": "Jaguars vs. Packers Week 10 Highlights | NFL 2020",
+        "published_at": "2020-11-15T21:30:13Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 10,
+      "away": "PHI",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401220251"
+      },
+      "kickoff": "2020-11-15T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "fWu70BGHBmM",
+        "title": "Eagles vs. Giants Week 10 Highlights | NFL 2020",
+        "published_at": "2020-11-15T21:19:21Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 10,
+      "away": "BUF",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401220341"
+      },
+      "kickoff": "2020-11-15T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "VQsemjPaCjU",
+        "title": "Bills vs. Cardinals Week 10 Highlights | NFL 2020",
+        "published_at": "2020-11-16T00:48:07Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 10,
+      "away": "DEN",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401220226"
+      },
+      "kickoff": "2020-11-15T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "-_UlDcp_zlE",
+        "title": "Broncos vs. Raiders Week 10 Highlights | NFL 2020",
+        "published_at": "2020-11-16T00:42:04Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 10,
+      "away": "LAC",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401220126"
+      },
+      "kickoff": "2020-11-15T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "iUUdQcaps00",
+        "title": "Chargers vs. Dolphins Week 10 Highlights | NFL 2020",
+        "published_at": "2020-11-16T00:11:02Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 10,
+      "away": "SEA",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401220346"
+      },
+      "kickoff": "2020-11-15T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "6KRAZuq-1uU",
+        "title": "Seahawks vs. Rams Week 10 Highlights | NFL 2020",
+        "published_at": "2020-11-16T00:51:47Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 10,
+      "away": "SF",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401220327"
+      },
+      "kickoff": "2020-11-15T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "oThGdPt-Wbw",
+        "title": "49ers vs. Saints Week 10 Highlights | NFL 2020",
+        "published_at": "2020-11-16T00:57:05Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 10,
+      "away": "CIN",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401220171"
+      },
+      "kickoff": "2020-11-15T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "uwKjCmiuG0c",
+        "title": "Bengals vs. Steelers Week 10 Highlights | NFL 2020",
+        "published_at": "2020-11-16T00:55:51Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 10,
+      "away": "BAL",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401220137"
+      },
+      "kickoff": "2020-11-16T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "jlBCJ6CS5hE",
+        "title": "Ravens vs. Patriots Week 10 Highlights | NFL 2020",
+        "published_at": "2020-11-16T04:30:56Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 10,
+      "away": "MIN",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401220276"
+      },
+      "kickoff": "2020-11-17T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "IHBxAsSEjBo",
+        "title": "Vikings vs. Bears Week 10 Highlights | NFL 2020",
+        "published_at": "2020-11-17T04:22:11Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 11,
+      "away": "ARI",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401220360"
+      },
+      "kickoff": "2020-11-20T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "lUCEAPc1Ub8",
+        "title": "Cardinals vs. Seahawks Week 11 Highlights | NFL 2020",
+        "published_at": "2020-11-20T05:07:52Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 11,
+      "away": "TEN",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401220150"
+      },
+      "kickoff": "2020-11-22T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "MIJTWPV8sbQ",
+        "title": "Titans vs. Ravens Week 11 Highlights | NFL 2020",
+        "published_at": "2020-11-22T21:30:45Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 11,
+      "away": "DET",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401220318"
+      },
+      "kickoff": "2020-11-22T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "5dkdACkvGS4",
+        "title": "Lions vs. Panthers Week 11 Highlights | NFL 2020",
+        "published_at": "2020-11-22T21:07:14Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 11,
+      "away": "PHI",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401220167"
+      },
+      "kickoff": "2020-11-22T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "MdPu85u0oZc",
+        "title": "Eagles vs. Browns Week 11 Highlights | NFL 2020",
+        "published_at": "2020-11-22T21:31:47Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 11,
+      "away": "NE",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401220185"
+      },
+      "kickoff": "2020-11-22T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "J9UqUAXLDjc",
+        "title": "Patriots vs. Texans Week 11 Highlights | NFL 2020",
+        "published_at": "2020-11-22T21:16:58Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 11,
+      "away": "PIT",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401220198"
+      },
+      "kickoff": "2020-11-22T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "5iYfuWHQtWk",
+        "title": "Steelers vs. Jaguars Week 11 Highlights | NFL 2020",
+        "published_at": "2020-11-22T21:19:01Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 11,
+      "away": "ATL",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401220321"
+      },
+      "kickoff": "2020-11-22T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "nrd8nZN1HCI",
+        "title": "Falcons vs. Saints Week 11 Highlights | NFL 2020",
+        "published_at": "2020-11-22T21:26:38Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 11,
+      "away": "CIN",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401220272"
+      },
+      "kickoff": "2020-11-22T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Zy042Zu-WDg",
+        "title": "Bengals vs. Washington Football Team Week 11 Highlights | NFL 2020",
+        "published_at": "2020-11-22T21:24:47Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 11,
+      "away": "MIA",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401220214"
+      },
+      "kickoff": "2020-11-22T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "_TEIPlnxMdw",
+        "title": "Dolphins vs. Broncos Week 11 Highlights | NFL 2020",
+        "published_at": "2020-11-23T00:25:35Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 11,
+      "away": "NYJ",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401220238"
+      },
+      "kickoff": "2020-11-22T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "kGF6RfpKCyk",
+        "title": "Jets vs. Chargers Week 11 Highlights | NFL 2020",
+        "published_at": "2020-11-23T00:29:56Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 11,
+      "away": "GB",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401220191"
+      },
+      "kickoff": "2020-11-22T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Uv6J8DBCAYM",
+        "title": "Packers vs. Colts Week 11 Highlights | NFL 2020",
+        "published_at": "2020-11-23T01:06:53Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 11,
+      "away": "DAL",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401220305"
+      },
+      "kickoff": "2020-11-22T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Kk_jE_rSho0",
+        "title": "Cowboys vs. Vikings Week 11 Highlights | NFL 2020",
+        "published_at": "2020-11-23T00:39:12Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 11,
+      "away": "KC",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401220227"
+      },
+      "kickoff": "2020-11-23T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "3xccQ_kxVhc",
+        "title": "Chiefs vs. Raiders Week 11 Highlights | NFL 2020",
+        "published_at": "2020-11-23T04:54:49Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 11,
+      "away": "LAR",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401220335"
+      },
+      "kickoff": "2020-11-24T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "EeWXw6UuPrM",
+        "title": "Rams vs. Buccaneers Week 11 Highlights | NFL 2020",
+        "published_at": "2020-11-24T04:48:31Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 12,
+      "away": "HOU",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401220287"
+      },
+      "kickoff": "2020-11-26T17:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ZgRruN2h3Ak",
+        "title": "Texans vs. Lions Week 12 Highlights | NFL 2020",
+        "published_at": "2020-11-26T21:01:31Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 12,
+      "away": "WSH",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401220244"
+      },
+      "kickoff": "2020-11-26T21:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ZpJ61jmIi60",
+        "title": "Washington Football Team vs. Cowboys Week 12 Highlights | NFL 2020",
+        "published_at": "2020-11-27T01:39:07Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 12,
+      "away": "LV",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401220312"
+      },
+      "kickoff": "2020-11-29T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ULFf5HwwsYg",
+        "title": "Raiders vs. Falcons Week 12 Highlights | NFL 2020",
+        "published_at": "2020-11-29T21:45:05Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 12,
+      "away": "LAC",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401220118"
+      },
+      "kickoff": "2020-11-29T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "lFZo7oIMlsw",
+        "title": "Chargers vs. Bills Week 12 Highlights | NFL 2020",
+        "published_at": "2020-11-29T21:28:47Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 12,
+      "away": "NYG",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401220160"
+      },
+      "kickoff": "2020-11-29T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "TFi27HEg3mA",
+        "title": "Giants vs. Bengals Week 12 Highlights | NFL 2020",
+        "published_at": "2020-11-29T21:11:32Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 12,
+      "away": "TEN",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401220188"
+      },
+      "kickoff": "2020-11-29T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "a4F3jvnga0U",
+        "title": "Titans vs. Colts Week 12 Highlights | NFL 2020",
+        "published_at": "2020-11-29T21:42:22Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 12,
+      "away": "CLE",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401220197"
+      },
+      "kickoff": "2020-11-29T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "jNanuzPpdqU",
+        "title": "Browns vs. Jaguars Week 12 Highlights | NFL 2020",
+        "published_at": "2020-11-29T21:28:04Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 12,
+      "away": "CAR",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401220302"
+      },
+      "kickoff": "2020-11-29T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "6DzHoKoGqf4",
+        "title": "Panthers vs. Vikings Week 12 Highlights | NFL 2020",
+        "published_at": "2020-11-29T23:08:20Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 12,
+      "away": "ARI",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401220135"
+      },
+      "kickoff": "2020-11-29T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "KLgHkDBKZRY",
+        "title": "Cardinals vs. Patriots Week 12 Highlights | NFL 2020",
+        "published_at": "2020-11-29T21:23:22Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 12,
+      "away": "MIA",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401220139"
+      },
+      "kickoff": "2020-11-29T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "mx1oLtRiDAQ",
+        "title": "Dolphins vs. Jets Week 12 Highlights | NFL 2020",
+        "published_at": "2020-11-29T21:14:08Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 12,
+      "away": "NO",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401220215"
+      },
+      "kickoff": "2020-11-29T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "LQYKNbuWfq0",
+        "title": "Saints vs. Broncos Week 12 Highlights | NFL 2020",
+        "published_at": "2020-11-29T23:59:26Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 12,
+      "away": "SF",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401220345"
+      },
+      "kickoff": "2020-11-29T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "pr1c4wClXkI",
+        "title": "49ers vs. Rams Week 12 Highlights | NFL 2020",
+        "published_at": "2020-11-30T00:28:24Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 12,
+      "away": "KC",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401220333"
+      },
+      "kickoff": "2020-11-29T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "j9hlfqaw4i8",
+        "title": "Chiefs vs. Buccaneers Week 12 Highlights | NFL 2020",
+        "published_at": "2020-11-30T00:43:42Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 12,
+      "away": "CHI",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401220290"
+      },
+      "kickoff": "2020-11-30T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Jn0-h1fZL28",
+        "title": "Bears vs. Packers Week 12 Highlights | NFL 2020",
+        "published_at": "2020-11-30T05:02:43Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 12,
+      "away": "SEA",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401220262"
+      },
+      "kickoff": "2020-12-01T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Y9PSykRZFtQ",
+        "title": "Seahawks vs. Eagles Week 12 Highlights | NFL 2020",
+        "published_at": "2020-12-01T05:57:45Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 12,
+      "away": "BAL",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401220170"
+      },
+      "kickoff": "2020-12-02T20:40:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Vw4S00rPbZM",
+        "title": "Ravens vs. Steelers Week 12 Highlights | NFL 2020",
+        "published_at": "2020-12-03T00:03:50Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 13,
+      "away": "NO",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401220307"
+      },
+      "kickoff": "2020-12-06T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "djtwh_-f7V8",
+        "title": "Saints vs. Falcons Week 13 Highlights | NFL 2020",
+        "published_at": "2020-12-06T21:30:54Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 13,
+      "away": "DET",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401220274"
+      },
+      "kickoff": "2020-12-06T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ZYsSxuGsasI",
+        "title": "Lions vs. Bears Week 13 Highlights | NFL 2020",
+        "published_at": "2020-12-06T21:28:19Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 13,
+      "away": "IND",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401220178"
+      },
+      "kickoff": "2020-12-06T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "RbAAn7-DtzY",
+        "title": "Colts vs. Texans Week 13 Highlights | NFL 2020",
+        "published_at": "2020-12-06T21:26:54Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 13,
+      "away": "CIN",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401220129"
+      },
+      "kickoff": "2020-12-06T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "9lyNile-w1U",
+        "title": "Bengals vs. Dolphins Week 13 Highlights | NFL 2020",
+        "published_at": "2020-12-06T21:46:14Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 13,
+      "away": "JAX",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401220303"
+      },
+      "kickoff": "2020-12-06T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "lYCC2ieqPNU",
+        "title": "Jaguars vs. Vikings Week 13 Highlights | NFL 2020",
+        "published_at": "2020-12-06T21:55:13Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 13,
+      "away": "LV",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401220142"
+      },
+      "kickoff": "2020-12-06T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "2rgQoNzBuY8",
+        "title": "Raiders vs. Jets Week 13 Highlights | NFL 2020",
+        "published_at": "2020-12-06T21:43:17Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 13,
+      "away": "CLE",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401220205"
+      },
+      "kickoff": "2020-12-06T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "JSTfg_LNyMI",
+        "title": "Browns vs. Titans Week 13 Highlights | NFL 2020",
+        "published_at": "2020-12-06T21:44:36Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 13,
+      "away": "LAR",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401220336"
+      },
+      "kickoff": "2020-12-06T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "VUn9qdWJfcM",
+        "title": "Rams vs. Cardinals Week 13 Highlights | NFL 2020",
+        "published_at": "2020-12-07T00:34:01Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 13,
+      "away": "NYG",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401220364"
+      },
+      "kickoff": "2020-12-06T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "x9HRL3izVw8",
+        "title": "Giants vs. Seahawks Week 13 Highlights | NFL 2020",
+        "published_at": "2020-12-07T00:19:31Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 13,
+      "away": "PHI",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401220297"
+      },
+      "kickoff": "2020-12-06T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "uxnaTgtrOmU",
+        "title": "Eagles vs. Packers Week 13 Highlights | NFL 2020",
+        "published_at": "2020-12-07T00:38:59Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 13,
+      "away": "NE",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401220237"
+      },
+      "kickoff": "2020-12-06T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "6EsXyhDrpf8",
+        "title": "Patriots vs. Chargers Week 13 Highlights | NFL 2020",
+        "published_at": "2020-12-07T00:36:46Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 13,
+      "away": "DEN",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401220218"
+      },
+      "kickoff": "2020-12-07T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "cqIYOcrum7s",
+        "title": "Broncos vs. Chiefs Week 13 Highlights | NFL 2020",
+        "published_at": "2020-12-07T04:45:10Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 13,
+      "away": "WSH",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401220176"
+      },
+      "kickoff": "2020-12-07T22:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "KZ6yUrYYEBM",
+        "title": "Washington Football Team vs. Steelers Week 13 Highlights | NFL 2020",
+        "published_at": "2020-12-08T01:43:28Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 13,
+      "away": "BUF",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401220357"
+      },
+      "kickoff": "2020-12-08T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "HBsOYvCTsH0",
+        "title": "Bills vs. 49ers Week 13 Highlights | NFL 2020",
+        "published_at": "2020-12-08T04:30:01Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 13,
+      "away": "DAL",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401220151"
+      },
+      "kickoff": "2020-12-09T01:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "H1QWCg9A-p4",
+        "title": "Cowboys vs. Ravens Week 13 Highlights | NFL 2020",
+        "published_at": "2020-12-09T04:14:31Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 14,
+      "away": "NE",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401220349"
+      },
+      "kickoff": "2020-12-11T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "uRWqmdWindA",
+        "title": "Patriots vs. Rams Week 14 Highlights | NFL 2020",
+        "published_at": "2020-12-11T04:20:33Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 14,
+      "away": "DEN",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401220319"
+      },
+      "kickoff": "2020-12-13T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "VnFE5w_ZKcg",
+        "title": "Broncos vs. Panthers Week 14 Highlights | NFL 2020",
+        "published_at": "2020-12-13T21:22:18Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 14,
+      "away": "HOU",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401220279"
+      },
+      "kickoff": "2020-12-13T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "V67Ok-p9ngY",
+        "title": "Texans vs. Bears Week 14 Highlights | NFL 2020",
+        "published_at": "2020-12-13T21:23:43Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 14,
+      "away": "DAL",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401220159"
+      },
+      "kickoff": "2020-12-13T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "eNr7RWj66io",
+        "title": "Cowboys vs. Bengals Week 14 Highlights | NFL 2020",
+        "published_at": "2020-12-13T21:03:31Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 14,
+      "away": "TEN",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401220196"
+      },
+      "kickoff": "2020-12-13T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "2NV-j4RVEXQ",
+        "title": "Titans vs. Jaguars Week 14 Highlights | NFL 2020",
+        "published_at": "2020-12-13T21:17:21Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 14,
+      "away": "KC",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401220125"
+      },
+      "kickoff": "2020-12-13T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "g_PZu0IAjbo",
+        "title": "Chiefs vs. Dolphins Week 14 Highlights | NFL 2020",
+        "published_at": "2020-12-13T21:31:34Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 14,
+      "away": "ARI",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401220253"
+      },
+      "kickoff": "2020-12-13T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "lMU_IZuIr6o",
+        "title": "Cardinals vs. Giants Week 14 Highlights | NFL 2020",
+        "published_at": "2020-12-13T21:27:31Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 14,
+      "away": "MIN",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401220332"
+      },
+      "kickoff": "2020-12-13T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "jrvRIJEtVEg",
+        "title": "Vikings vs. Buccaneers Week 14 Highlights | NFL 2020",
+        "published_at": "2020-12-14T00:15:22Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 14,
+      "away": "IND",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401220233"
+      },
+      "kickoff": "2020-12-13T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "7iGqrcUGDSc",
+        "title": "Colts vs. Raiders Week 14 Highlights | NFL 2020",
+        "published_at": "2020-12-14T00:23:16Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 14,
+      "away": "NYJ",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401220366"
+      },
+      "kickoff": "2020-12-13T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "5Mbi8d1FkCc",
+        "title": "Jets vs. Seahawks Week 14 Highlights | NFL 2020",
+        "published_at": "2020-12-14T00:11:43Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 14,
+      "away": "GB",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401220283"
+      },
+      "kickoff": "2020-12-13T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "pi4I06YVyNo",
+        "title": "Packers vs. Lions Week 14 Highlights | NFL 2020",
+        "published_at": "2020-12-14T00:48:10Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 14,
+      "away": "ATL",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401220239"
+      },
+      "kickoff": "2020-12-13T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "QJr-70PbIpg",
+        "title": "Falcons vs. Chargers Week 14 Highlights | NFL 2020",
+        "published_at": "2020-12-14T00:38:09Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 14,
+      "away": "NO",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401220265"
+      },
+      "kickoff": "2020-12-13T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "10MjAQKz6cQ",
+        "title": "Saints vs. Eagles Week 14 Highlights | NFL 2020",
+        "published_at": "2020-12-14T00:44:24Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 14,
+      "away": "WSH",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401220356"
+      },
+      "kickoff": "2020-12-13T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "WMzEfPKotQo",
+        "title": "Washington Football Team vs. 49ers Week 14 Highlights | NFL 2020",
+        "published_at": "2020-12-14T00:58:51Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 14,
+      "away": "PIT",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401220121"
+      },
+      "kickoff": "2020-12-14T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "S0eIKWFgIT0",
+        "title": "Steelers vs. Bills Week 14 Highlights | NFL 2020",
+        "published_at": "2020-12-14T04:40:28Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 14,
+      "away": "BAL",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401220162"
+      },
+      "kickoff": "2020-12-15T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "3xYOB7kSCIk",
+        "title": "Ravens vs. Browns Week 14 Highlights | NFL 2020",
+        "published_at": "2020-12-15T04:56:22Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 15,
+      "away": "LAC",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401220228"
+      },
+      "kickoff": "2020-12-18T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "yQRVin-cQxc",
+        "title": "Chargers vs. Raiders Week 15 Highlights | NFL 2020",
+        "published_at": "2020-12-18T04:52:40Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 15,
+      "away": "BUF",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401220213"
+      },
+      "kickoff": "2020-12-19T21:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "JzveW8IUKcU",
+        "title": "Bills vs. Broncos Week 15 Highlights | NFL 2020",
+        "published_at": "2020-12-20T01:07:24Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 15,
+      "away": "CAR",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401220294"
+      },
+      "kickoff": "2020-12-20T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "O71Yem15xYM",
+        "title": "Panthers vs. Packers Week 15 Highlights | NFL 2020",
+        "published_at": "2020-12-20T04:33:30Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 15,
+      "away": "TB",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401220308"
+      },
+      "kickoff": "2020-12-20T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "nkzys5ARecw",
+        "title": "Buccaneers vs. Falcons Week 15 Highlights | NFL 2020",
+        "published_at": "2020-12-20T21:30:19Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 15,
+      "away": "JAX",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401220149"
+      },
+      "kickoff": "2020-12-20T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "0WHcj1Q3RFI",
+        "title": "Jaguars vs. Ravens Week 15 Highlights | NFL 2020",
+        "published_at": "2020-12-20T21:12:06Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 15,
+      "away": "SF",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401220246"
+      },
+      "kickoff": "2020-12-20T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "PUmTnFe6Tis",
+        "title": "49ers vs. Cowboys Week 15 Highlights | NFL 2020",
+        "published_at": "2020-12-20T21:46:49Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 15,
+      "away": "HOU",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401220186"
+      },
+      "kickoff": "2020-12-20T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "yWWnqN-upRA",
+        "title": "Texans vs. Colts Week 15 Highlights | NFL 2020",
+        "published_at": "2020-12-20T21:05:36Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 15,
+      "away": "NE",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401220123"
+      },
+      "kickoff": "2020-12-20T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "MxplvsyTowc",
+        "title": "Patriots vs. Dolphins Week 15 Highlights | NFL 2020",
+        "published_at": "2020-12-20T21:14:08Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 15,
+      "away": "CHI",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401220298"
+      },
+      "kickoff": "2020-12-20T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "saWXy4a-FQQ",
+        "title": "Bears vs. Vikings Week 15 Highlights | NFL 2020",
+        "published_at": "2020-12-20T21:26:14Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 15,
+      "away": "DET",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401220208"
+      },
+      "kickoff": "2020-12-20T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "PfrnxsV58rk",
+        "title": "Lions vs. Titans Week 15 Highlights | NFL 2020",
+        "published_at": "2020-12-20T21:19:44Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 15,
+      "away": "SEA",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401220270"
+      },
+      "kickoff": "2020-12-20T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "HOLAEKfqe4c",
+        "title": "Seahawks vs. Washington Football Team Week 15 Highlights | NFL 2020",
+        "published_at": "2020-12-20T21:24:25Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 15,
+      "away": "PHI",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401220339"
+      },
+      "kickoff": "2020-12-20T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "MNXXo5w0DFU",
+        "title": "Eagles vs. Cardinals Week 15 Highlights | NFL 2020",
+        "published_at": "2020-12-21T01:01:02Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 15,
+      "away": "NYJ",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401220350"
+      },
+      "kickoff": "2020-12-20T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "mgEowDyihyY",
+        "title": "Jets vs. Rams Week 15 Highlights | NFL 2020",
+        "published_at": "2020-12-21T00:18:09Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 15,
+      "away": "KC",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401220325"
+      },
+      "kickoff": "2020-12-20T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "JuZmdYn1Hi8",
+        "title": "Chiefs vs. Saints Week 15 Highlights | NFL 2020",
+        "published_at": "2020-12-21T01:10:37Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 15,
+      "away": "CLE",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401220255"
+      },
+      "kickoff": "2020-12-21T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ppOKWJ9WGcg",
+        "title": "Browns vs. Giants Week 15 Highlights | NFL 2020",
+        "published_at": "2020-12-21T04:20:40Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 15,
+      "away": "PIT",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401220156"
+      },
+      "kickoff": "2020-12-22T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "oQGrEvW4dDo",
+        "title": "Steelers vs. Bengals Week 15 Highlights | NFL 2020",
+        "published_at": "2020-12-22T04:32:58Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 16,
+      "away": "MIN",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401220324"
+      },
+      "kickoff": "2020-12-25T21:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "zvDV3tyACes",
+        "title": "Vikings vs. Saints Week 16 Highlights | NFL 2020",
+        "published_at": "2020-12-26T01:01:30Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 16,
+      "away": "TB",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401220286"
+      },
+      "kickoff": "2020-12-26T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "CSNAHkBb0FY",
+        "title": "Buccaneers vs. Lions Week 16 Highlights | NFL 2020",
+        "published_at": "2020-12-26T21:25:13Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 16,
+      "away": "SF",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401220337"
+      },
+      "kickoff": "2020-12-26T21:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "i1WzShZBpBg",
+        "title": "49ers vs. Cardinals Week 16 Highlights | NFL 2020",
+        "published_at": "2020-12-27T00:38:44Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 16,
+      "away": "MIA",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401220230"
+      },
+      "kickoff": "2020-12-27T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "EpW3nmig7Oo",
+        "title": "Dolphins vs. Raiders Week 16 Highlights | NFL 2020",
+        "published_at": "2020-12-27T04:35:37Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 16,
+      "away": "NYG",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401220152"
+      },
+      "kickoff": "2020-12-27T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "vj_dllJONi8",
+        "title": "Giants vs. Ravens Week 16 Highlights | NFL 2020",
+        "published_at": "2020-12-27T21:19:19Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 16,
+      "away": "CIN",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401220182"
+      },
+      "kickoff": "2020-12-27T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "qPOGBH55D78",
+        "title": "Bengals vs. Texans Week 16 Highlights | NFL 2020",
+        "published_at": "2020-12-27T21:21:44Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 16,
+      "away": "CHI",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401220199"
+      },
+      "kickoff": "2020-12-27T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "vRtlFaeHqps",
+        "title": "Bears vs. Jaguars Week 16 Highlights | NFL 2020",
+        "published_at": "2020-12-27T21:11:03Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 16,
+      "away": "ATL",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401220223"
+      },
+      "kickoff": "2020-12-27T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Ong86hFuAnM",
+        "title": "Falcons vs. Chiefs Week 16 Highlights | NFL 2020",
+        "published_at": "2020-12-27T21:10:14Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 16,
+      "away": "CLE",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401220145"
+      },
+      "kickoff": "2020-12-27T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "fPrAu9neHio",
+        "title": "Browns vs. Jets Week 16 Highlights | NFL 2020",
+        "published_at": "2020-12-27T21:35:38Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 16,
+      "away": "IND",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401220174"
+      },
+      "kickoff": "2020-12-27T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "iFJflbHLgWM",
+        "title": "Colts vs. Steelers Week 16 Highlights | NFL 2020",
+        "published_at": "2020-12-27T21:27:27Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 16,
+      "away": "DEN",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401220234"
+      },
+      "kickoff": "2020-12-27T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "0MTMMRcrtAQ",
+        "title": "Broncos vs. Chargers Week 16 Highlights | NFL 2020",
+        "published_at": "2020-12-28T00:21:29Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 16,
+      "away": "CAR",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401220273"
+      },
+      "kickoff": "2020-12-27T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "A_eibQlFap0",
+        "title": "Panthers vs. Washington Football Team Week 16 Highlights | NFL 2020",
+        "published_at": "2020-12-28T00:18:49Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 16,
+      "away": "PHI",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401220243"
+      },
+      "kickoff": "2020-12-27T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "O1vCXnyOJD0",
+        "title": "Eagles vs. Cowboys Week 16 Highlights | NFL 2020",
+        "published_at": "2020-12-28T01:00:28Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 16,
+      "away": "LAR",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401220362"
+      },
+      "kickoff": "2020-12-27T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "3q8o7y9ef6A",
+        "title": "Rams vs. Seahawks Week 16 Highlights | NFL 2020",
+        "published_at": "2020-12-28T00:54:36Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 16,
+      "away": "TEN",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401220296"
+      },
+      "kickoff": "2020-12-28T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "0C7_1eT29wY",
+        "title": "Titans vs. Packers Week 16 Highlights | NFL 2020",
+        "published_at": "2020-12-28T04:19:26Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 16,
+      "away": "BUF",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401220130"
+      },
+      "kickoff": "2020-12-29T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "zki-HDVDhc8",
+        "title": "Bills vs. Patriots Week 16 Highlights | NFL 2020",
+        "published_at": "2020-12-29T04:16:53Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 17,
+      "away": "MIA",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401220114"
+      },
+      "kickoff": "2021-01-03T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "9szcmHGXdJk",
+        "title": "Dolphins vs. Bills Week 17 Highlights | NFL 2020",
+        "published_at": "2021-01-03T21:31:57Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 17,
+      "away": "BAL",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401220154"
+      },
+      "kickoff": "2021-01-03T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "JOQIVWqeJHA",
+        "title": "Ravens vs. Bengals Week 17 Highlights | NFL 2020",
+        "published_at": "2021-01-03T21:08:49Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 17,
+      "away": "PIT",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401220164"
+      },
+      "kickoff": "2021-01-03T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Tb8r-ZySZ6c",
+        "title": "Steelers vs. Browns Week 17 Highlights | NFL 2020",
+        "published_at": "2021-01-03T21:20:36Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 17,
+      "away": "MIN",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401220284"
+      },
+      "kickoff": "2021-01-03T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "-u4-jUjRMF0",
+        "title": "Vikings vs. Lions Week 17 Highlights | NFL 2020",
+        "published_at": "2021-01-03T21:24:47Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 17,
+      "away": "NYJ",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401220132"
+      },
+      "kickoff": "2021-01-03T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "5kyc-1Aw75s",
+        "title": "Jets vs. Patriots Week 17 Highlights | NFL 2020",
+        "published_at": "2021-01-03T21:14:37Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 17,
+      "away": "DAL",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401220250"
+      },
+      "kickoff": "2021-01-03T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "srLSmgdYrRE",
+        "title": "Cowboys vs. Giants Week 17 Highlights | NFL 2020",
+        "published_at": "2021-01-03T21:38:19Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 17,
+      "away": "ATL",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401220328"
+      },
+      "kickoff": "2021-01-03T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "dly-nKcW-GA",
+        "title": "Falcons vs. Buccaneers Week 17 Highlights | NFL 2020",
+        "published_at": "2021-01-03T21:18:35Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 17,
+      "away": "NO",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401220315"
+      },
+      "kickoff": "2021-01-03T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "m4HTNaelBCQ",
+        "title": "Saints vs. Panthers Week 17 Highlights | NFL 2020",
+        "published_at": "2021-01-04T00:35:48Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 17,
+      "away": "GB",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401220275"
+      },
+      "kickoff": "2021-01-03T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ZTt-ilqgtL0",
+        "title": "Packers vs. Bears Week 17 Highlights | NFL 2020",
+        "published_at": "2021-01-04T00:33:57Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 17,
+      "away": "LV",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401220211"
+      },
+      "kickoff": "2021-01-03T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "MXHOJDWqe7Y",
+        "title": "Raiders vs. Broncos Week 17 Highlights | NFL 2020",
+        "published_at": "2021-01-04T01:03:25Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 17,
+      "away": "TEN",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401220180"
+      },
+      "kickoff": "2021-01-03T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "QWk-Wu6Dxq8",
+        "title": "Titans vs. Texans Week 17 Highlights | NFL 2020",
+        "published_at": "2021-01-04T00:48:22Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 17,
+      "away": "JAX",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401220187"
+      },
+      "kickoff": "2021-01-03T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "EnQVM9QRNZQ",
+        "title": "Jaguars vs. Colts Week 17 Highlights | NFL 2020",
+        "published_at": "2021-01-04T00:37:22Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 17,
+      "away": "LAC",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401220220"
+      },
+      "kickoff": "2021-01-03T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "x-pyIioJYbI",
+        "title": "Chargers vs. Chiefs Week 17 Highlights | NFL 2020",
+        "published_at": "2021-01-04T00:49:44Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 17,
+      "away": "ARI",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401220344"
+      },
+      "kickoff": "2021-01-03T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "nW41nNoGWsg",
+        "title": "Cardinals vs. Rams Week 17 Highlights | NFL 2020",
+        "published_at": "2021-01-04T00:39:16Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 17,
+      "away": "SEA",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401220354"
+      },
+      "kickoff": "2021-01-03T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Zdl_WIuXNFE",
+        "title": "Seahawks vs. 49ers Week 17 Highlights | NFL 2020",
+        "published_at": "2021-01-04T00:44:58Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "regular",
+      "week": 17,
+      "away": "WSH",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401220260"
+      },
+      "kickoff": "2021-01-04T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "qFZgCo3_YaU",
+        "title": "Washington Football Team vs. Eagles Week 17 Highlights | NFL 2020",
+        "published_at": "2021-01-04T04:38:28Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "postseason",
+      "week": 18,
+      "away": "IND",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401220393"
+      },
+      "kickoff": "2021-01-09T18:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "zHpKu-LFD64",
+        "title": "Colts vs. Bills Super Wild Card Weekend Highlights | NFL 2020 Playoffs",
+        "published_at": "2021-01-09T21:38:57Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "postseason",
+      "week": 18,
+      "away": "LAR",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401220372"
+      },
+      "kickoff": "2021-01-09T21:40:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "HNT6WElv9Yw",
+        "title": "Rams vs. Seahawks Super Wild Card Weekend Highlights | NFL 2020 Playoffs",
+        "published_at": "2021-01-10T01:24:18Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "postseason",
+      "week": 18,
+      "away": "TB",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401220371"
+      },
+      "kickoff": "2021-01-10T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "WrXfJJEu-Oc",
+        "title": "Buccaneers vs. Washington Football Team Super Wild Card Weekend Highlights | NFL 2020 Playoffs",
+        "published_at": "2021-01-10T04:44:19Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "postseason",
+      "week": 18,
+      "away": "BAL",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401220396"
+      },
+      "kickoff": "2021-01-10T18:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ugFLt8cIIzM",
+        "title": "Ravens vs. Titans Super Wild Card Weekend Highlights | NFL 2020 Playoffs",
+        "published_at": "2021-01-10T21:00:42Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "postseason",
+      "week": 18,
+      "away": "CHI",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401220395"
+      },
+      "kickoff": "2021-01-10T21:40:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "S1TsLvj2tG8",
+        "title": "Bears vs. Saints Super Wild Card Weekend Highlights | NFL 2020 Playoffs",
+        "published_at": "2021-01-11T01:05:07Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "postseason",
+      "week": 18,
+      "away": "CLE",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401220394"
+      },
+      "kickoff": "2021-01-11T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "vnrytrYaK64",
+        "title": "Browns vs. Steelers Super Wild Card Weekend Highlights | NFL 2020 Playoffs",
+        "published_at": "2021-01-11T05:01:36Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "postseason",
+      "week": 19,
+      "away": "LAR",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401220398"
+      },
+      "kickoff": "2021-01-16T21:35:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "mp0c8xkCacM",
+        "title": "Rams vs. Packers Divisional Round Highlights | NFL 2020 Playoffs",
+        "published_at": "2021-01-17T00:57:34Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "postseason",
+      "week": 19,
+      "away": "BAL",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401220397"
+      },
+      "kickoff": "2021-01-17T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "jdw2LwLAMas",
+        "title": "Ravens vs. Bills Divisional Round Highlights | NFL 2020 Playoffs",
+        "published_at": "2021-01-17T04:30:26Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "postseason",
+      "week": 19,
+      "away": "CLE",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401220400"
+      },
+      "kickoff": "2021-01-17T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "c5CPyLlSWQ8",
+        "title": "Browns vs. Chiefs Divisional Round Highlights | NFL 2020 Playoffs",
+        "published_at": "2021-01-17T23:17:27Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "postseason",
+      "week": 19,
+      "away": "TB",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401220399"
+      },
+      "kickoff": "2021-01-17T23:40:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "elkS8MEHY0Q",
+        "title": "Buccaneers vs. Saints Divisional Round Highlights | NFL 2020 Playoffs",
+        "published_at": "2021-01-18T03:02:29Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "postseason",
+      "week": 20,
+      "away": "TB",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401220402"
+      },
+      "kickoff": "2021-01-24T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Gt6NsqMbByo",
+        "title": "Buccaneers vs. Packers NFC Championship Game Highlights | NFL 2020 Playoffs",
+        "published_at": "2021-01-24T23:28:13Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "postseason",
+      "week": 20,
+      "away": "BUF",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401220401"
+      },
+      "kickoff": "2021-01-24T23:40:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "_FojDFDN99U",
+        "title": "Bills vs. Chiefs AFC Championship Game Highlights | NFL 2020 Playoffs",
+        "published_at": "2021-01-25T03:18:03Z"
+      }
+    },
+    {
+      "season": 2020,
+      "season_type": "postseason",
+      "week": 21,
+      "away": "KC",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401220403"
+      },
+      "kickoff": "2021-02-07T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Gz5-NQROQGw",
+        "title": "Chiefs vs. Buccaneers | Super Bowl LV Game Highlights",
+        "published_at": "2021-02-08T03:38:15Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,5543 @@
+{
+  "$schema": "./schema.json",
+  "schema_version": 1,
+  "season": 2021,
+  "games": [
+    {
+      "season": 2021,
+      "season_type": "preseason",
+      "week": 1,
+      "away": "DAL",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401326605"
+      },
+      "kickoff": "2021-08-06T00:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2021,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "WSH",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401326352"
+      },
+      "kickoff": "2021-08-12T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "snFlsA_YvSY",
+        "title": "Washington Football Team vs. New England Patriots | Preseason Week 1 2021 NFL Game Highlights",
+        "published_at": "2021-08-13T03:18:33Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "PIT",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401326606"
+      },
+      "kickoff": "2021-08-12T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "oDS6o_DWIWA",
+        "title": "Pittsburgh Steelers vs. Philadelphia Eagles | Preseason Week 1 2021 NFL Game Highlights",
+        "published_at": "2021-08-13T03:06:16Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "TEN",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401326621"
+      },
+      "kickoff": "2021-08-13T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "KZXNEqMVoJ0",
+        "title": "Tennessee Titans vs. Atlanta Falcons | Preseason Week 1 2021 NFL Game Highlights",
+        "published_at": "2021-08-14T02:23:04Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "BUF",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401327515"
+      },
+      "kickoff": "2021-08-13T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Vti6heKN3m0",
+        "title": "Buffalo Bills vs. Detroit Lions | Preseason Week 1 2021 NFL Game Highlights",
+        "published_at": "2021-08-14T02:30:51Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "DAL",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401332403"
+      },
+      "kickoff": "2021-08-14T02:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "VFAaA0gZ2PI",
+        "title": "Dallas Cowboys vs. Arizona Cardinals | Preseason Week 1 2021 NFL Game Highlights",
+        "published_at": "2021-08-14T05:30:46Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "MIA",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401326617"
+      },
+      "kickoff": "2021-08-14T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "4nj54DycagA",
+        "title": "Miami Dolphins vs. Chicago Bears | Preseason Week 1",
+        "published_at": "2021-08-14T20:17:15Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "DEN",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401333579"
+      },
+      "kickoff": "2021-08-14T20:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "pRFu7avbDQ8",
+        "title": "Denver Broncos vs. Minnesota Vikings | Preseason Week 1 2021 NFL Game Highlights",
+        "published_at": "2021-08-14T23:17:49Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "NO",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401326921"
+      },
+      "kickoff": "2021-08-14T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ePR3kC2iVY0",
+        "title": "New Orleans Saints vs. Baltimore Ravens | Preseason Week 1 NFL Game Highlight",
+        "published_at": "2021-08-15T04:15:31Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "CLE",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401330875"
+      },
+      "kickoff": "2021-08-14T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ce2JLSuk48A",
+        "title": "Cleveland Browns vs. Jacksonville Jaguars | Preseason Week 1 2021 NFL Game Highlights",
+        "published_at": "2021-08-15T02:34:04Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "NYJ",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401333568"
+      },
+      "kickoff": "2021-08-14T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "AvywSEtO4N0",
+        "title": "New York Jets vs. New York Giants | Preseason Week 1 2021 NFL Game Highlights",
+        "published_at": "2021-08-15T03:42:04Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "CIN",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401326351"
+      },
+      "kickoff": "2021-08-14T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "G_iGj8TtAY8",
+        "title": "Cincinnati Bengals vs. Tampa Bay Buccaneers | Preseason Week 1 2021 NFL Game Highlights",
+        "published_at": "2021-08-15T04:09:38Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "HOU",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401326604"
+      },
+      "kickoff": "2021-08-15T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "F3xnZ7X1P4o",
+        "title": "Houston Texans vs. Green Bay Packers | Preseason Week 1 Game Highlights",
+        "published_at": "2021-08-15T05:50:01Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "KC",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401329166"
+      },
+      "kickoff": "2021-08-15T00:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "D2-syOQQjbA",
+        "title": "Kansas City Chiefs vs. San Francisco 49ers  | Preseason Week 1 Game Highlights",
+        "published_at": "2021-08-15T05:55:06Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "SEA",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401333584"
+      },
+      "kickoff": "2021-08-15T01:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "4YXrQkmRWQE",
+        "title": "Seattle Seahawks vs. Las Vegas Raiders | Preseason Week 1 2021 NFL Game Highlights",
+        "published_at": "2021-08-15T04:27:30Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "LAC",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401329163"
+      },
+      "kickoff": "2021-08-15T02:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "wSL2vkMg9nQ",
+        "title": "Los Angeles Chargers vs. Los Angeles Rams | Preseason Week 1 Game Highlights",
+        "published_at": "2021-08-15T05:41:48Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "CAR",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401333578"
+      },
+      "kickoff": "2021-08-15T17:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2021,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "NE",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401326613"
+      },
+      "kickoff": "2021-08-19T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "yrF3TPC98c0",
+        "title": "New England Patriots vs. Philadelphia Eagles | Preseason Week 2 2021 NFL Game Highlights",
+        "published_at": "2021-08-20T02:54:09Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "KC",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401326624"
+      },
+      "kickoff": "2021-08-21T00:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2021,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "CIN",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401326954"
+      },
+      "kickoff": "2021-08-21T00:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2021,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "BUF",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401326622"
+      },
+      "kickoff": "2021-08-21T17:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2021,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "NYJ",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401326609"
+      },
+      "kickoff": "2021-08-21T20:25:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2021,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "BAL",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401326922"
+      },
+      "kickoff": "2021-08-21T23:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2021,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "ATL",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401326618"
+      },
+      "kickoff": "2021-08-21T23:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2021,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "DET",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401326607"
+      },
+      "kickoff": "2021-08-21T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "7RL2z3-gWg8",
+        "title": "Detroit Lions vs. Pittsburgh Steelers | Preseason Week 2 2021 NFL Game Highlights",
+        "published_at": "2021-08-22T03:57:30Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "TEN",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401326614"
+      },
+      "kickoff": "2021-08-21T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ZtUvqmUKH4c",
+        "title": "Tennessee Titans vs. Tampa Bay Buccaneers | Preseason Week 2 2021 NFL Game Highlights",
+        "published_at": "2021-08-22T03:26:16Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "HOU",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401333536"
+      },
+      "kickoff": "2021-08-22T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "u9X6sSbLmho",
+        "title": "Houston Texans vs. Dallas Cowboys | Preseason Week 2 2021 NFL Game Highlights",
+        "published_at": "2021-08-22T03:26:52Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "IND",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401333582"
+      },
+      "kickoff": "2021-08-22T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "l3GiGnl1-2g",
+        "title": "Indianapolis Colts vs. Minnesota Vikings | Preseason Week 2 2021 NFL Game Highlights",
+        "published_at": "2021-08-22T03:26:57Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "LV",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401329164"
+      },
+      "kickoff": "2021-08-22T02:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "L8p4BwKiYUw",
+        "title": "Las Vegas Raiders vs. Los Angeles Rams | Preseason Week 2 2021 NFL Game Highlights",
+        "published_at": "2021-08-22T05:36:27Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "DEN",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401333580"
+      },
+      "kickoff": "2021-08-22T02:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "JRsWHfwd2jI",
+        "title": "Denver Broncos vs. Seattle Seahawks | Preseason Week 2 2021 Game Highlights",
+        "published_at": "2021-08-22T05:20:04Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "NYG",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401333560"
+      },
+      "kickoff": "2021-08-22T17:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2021,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "SF",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401329167"
+      },
+      "kickoff": "2021-08-22T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "IzktUDV0J-k",
+        "title": "San Francisco 49ers vs. Los Angeles Chargers | Preseason Week 2 NFL Highlights",
+        "published_at": "2021-08-23T03:01:37Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "JAX",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401326620"
+      },
+      "kickoff": "2021-08-24T00:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2021,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "IND",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401333581"
+      },
+      "kickoff": "2021-08-27T23:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2021,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "PIT",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401326608"
+      },
+      "kickoff": "2021-08-27T23:30:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2021,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "PHI",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401333570"
+      },
+      "kickoff": "2021-08-27T23:30:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2021,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "MIN",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401333583"
+      },
+      "kickoff": "2021-08-28T00:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2021,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "GB",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401326610"
+      },
+      "kickoff": "2021-08-28T17:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2021,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "BAL",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401326923"
+      },
+      "kickoff": "2021-08-28T22:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2021,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "CHI",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401326623"
+      },
+      "kickoff": "2021-08-28T23:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2021,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "TB",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401326615"
+      },
+      "kickoff": "2021-08-29T00:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2021,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "LAR",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401327826"
+      },
+      "kickoff": "2021-08-29T01:05:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2021,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "LAC",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401333585"
+      },
+      "kickoff": "2021-08-29T02:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2021,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "JAX",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401330876"
+      },
+      "kickoff": "2021-08-29T17:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2021,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "MIA",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401326619"
+      },
+      "kickoff": "2021-08-29T20:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2021,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "LV",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401329168"
+      },
+      "kickoff": "2021-08-29T20:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2021,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "NE",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401326616"
+      },
+      "kickoff": "2021-08-29T22:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2021,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "CLE",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401326603"
+      },
+      "kickoff": "2021-08-30T00:00:00Z",
+      "status": "unknown"
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 1,
+      "away": "DAL",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401326322"
+      },
+      "kickoff": "2021-09-10T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ipczB9JRtEg",
+        "title": "INSANE ENDING to Tampa Bay Buccaneers vs. Dallas Cowboys | Week 1 2021 NFL Game Highlights",
+        "published_at": "2021-09-10T04:11:45Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 1,
+      "away": "PHI",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401326315"
+      },
+      "kickoff": "2021-09-12T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "5M3CYbz2k0M",
+        "title": "Eagles vs. Falcons Week 1 Highlights | NFL 2021",
+        "published_at": "2021-09-12T20:31:17Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 1,
+      "away": "PIT",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401326308"
+      },
+      "kickoff": "2021-09-12T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "1eAqi8fwzD8",
+        "title": "Steelers vs. Bills Week 1 Highlights | NFL 2021",
+        "published_at": "2021-09-12T20:43:24Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 1,
+      "away": "NYJ",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401326309"
+      },
+      "kickoff": "2021-09-12T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "2b_fnJnBZHQ",
+        "title": "Jets vs. Panthers Week 1 Highlights | NFL 2021",
+        "published_at": "2021-09-12T20:49:16Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 1,
+      "away": "MIN",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401326316"
+      },
+      "kickoff": "2021-09-12T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "bqkdUIOmxNc",
+        "title": "Vikings vs. Bengals Week 1 Highlights | NFL 2021",
+        "published_at": "2021-09-12T21:09:03Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 1,
+      "away": "SF",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401326317"
+      },
+      "kickoff": "2021-09-12T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "jXriPs8KNZs",
+        "title": "49ers vs. Lions Week 1 Highlights | NFL 2021",
+        "published_at": "2021-09-12T20:39:24Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 1,
+      "away": "JAX",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401326310"
+      },
+      "kickoff": "2021-09-12T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "kUG24IIrhDc",
+        "title": "Jaguars vs. Texans Week 1 Highlights | NFL 2021",
+        "published_at": "2021-09-12T20:47:33Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 1,
+      "away": "SEA",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401326318"
+      },
+      "kickoff": "2021-09-12T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "v7Xuh2vnOOQ",
+        "title": "Seahawks vs. Colts Week 1 Highlights | NFL 2021",
+        "published_at": "2021-09-12T20:20:55Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 1,
+      "away": "ARI",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401326311"
+      },
+      "kickoff": "2021-09-12T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Aog9RuHLS7E",
+        "title": "Cardinals vs. Titans Week 1 Highlights | NFL 2021",
+        "published_at": "2021-09-12T20:46:05Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 1,
+      "away": "LAC",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401326312"
+      },
+      "kickoff": "2021-09-12T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "IYO2Qlpw3tI",
+        "title": "Chargers vs. Washington Football Team Week 1 Highlights | NFL 2021",
+        "published_at": "2021-09-12T20:17:21Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 1,
+      "away": "CLE",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401326314"
+      },
+      "kickoff": "2021-09-12T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "4g2R-kn_-0c",
+        "title": "Browns vs. Chiefs Week 1 Highlights | NFL 2021",
+        "published_at": "2021-09-12T23:39:19Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 1,
+      "away": "MIA",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401326313"
+      },
+      "kickoff": "2021-09-12T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "dc_e6GdLzls",
+        "title": "Dolphins vs. Patriots Week 1 Highlights | NFL 2021",
+        "published_at": "2021-09-12T23:31:01Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 1,
+      "away": "GB",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401326319"
+      },
+      "kickoff": "2021-09-12T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "417WfNmPhos",
+        "title": "Packers vs. Saints Week 1 Highlights | NFL 2021",
+        "published_at": "2021-09-12T23:46:58Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 1,
+      "away": "DEN",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401326320"
+      },
+      "kickoff": "2021-09-12T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "EyayebZZTR0",
+        "title": "Broncos vs. Giants Week 1 Highlights | NFL 2021",
+        "published_at": "2021-09-12T23:28:51Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 1,
+      "away": "CHI",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401326323"
+      },
+      "kickoff": "2021-09-13T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Z7gSNTRSFRI",
+        "title": "Bears vs. Rams Week 1 Highlights | NFL 2021",
+        "published_at": "2021-09-13T03:19:05Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 1,
+      "away": "BAL",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401326321"
+      },
+      "kickoff": "2021-09-14T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "gSVEE0JIbRs",
+        "title": "Game of the Year? Baltimore Ravens vs. Las Vegas Raiders | Week 1 2021 NFL Game Highlights",
+        "published_at": "2021-09-14T04:15:25Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 2,
+      "away": "NYG",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401326127"
+      },
+      "kickoff": "2021-09-17T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "DW-xsGKoF9A",
+        "title": "Giants vs. Washington Week 2 Highlights | NFL 2021",
+        "published_at": "2021-09-17T04:13:12Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 2,
+      "away": "NO",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401326128"
+      },
+      "kickoff": "2021-09-19T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "h9e0gIX3oAI",
+        "title": "Saints vs. Panthers Week 2 Highlights | NFL 2021",
+        "published_at": "2021-09-19T20:30:30Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 2,
+      "away": "CIN",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401326129"
+      },
+      "kickoff": "2021-09-19T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "IUlwPvkswvc",
+        "title": "Bengals vs. Bears Week 2 Highlights | NFL 2021",
+        "published_at": "2021-09-19T20:09:41Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 2,
+      "away": "HOU",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401326130"
+      },
+      "kickoff": "2021-09-19T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "WeHukztDfgY",
+        "title": "Texans vs. Browns Week 2 Highlights | NFL 2021",
+        "published_at": "2021-09-19T20:22:58Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 2,
+      "away": "LAR",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401326131"
+      },
+      "kickoff": "2021-09-19T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "4Pe8VQmvg-0",
+        "title": "Rams vs. Colts Week 2 Highlights | NFL 2021",
+        "published_at": "2021-09-19T20:20:45Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 2,
+      "away": "DEN",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401326132"
+      },
+      "kickoff": "2021-09-19T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "OY_WzXWYvqg",
+        "title": "Broncos vs. Jaguars Week 2 Highlights | NFL 2021",
+        "published_at": "2021-09-19T20:28:02Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 2,
+      "away": "BUF",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401326353"
+      },
+      "kickoff": "2021-09-19T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "kyiRCLREpmU",
+        "title": "Bills vs. Dolphins Week 2 Highlights | NFL 2021",
+        "published_at": "2021-09-19T20:35:34Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 2,
+      "away": "NE",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401326354"
+      },
+      "kickoff": "2021-09-19T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "YJd2cDsFQaA",
+        "title": "Patriots vs. Jets Week 2 Highlights | NFL 2021",
+        "published_at": "2021-09-19T20:12:47Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 2,
+      "away": "SF",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401326355"
+      },
+      "kickoff": "2021-09-19T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "9-2SVoKI7n0",
+        "title": "49ers vs. Eagles Week 2 Highlights | NFL 2021",
+        "published_at": "2021-09-19T20:40:39Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 2,
+      "away": "LV",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401326356"
+      },
+      "kickoff": "2021-09-19T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "THfd4Kjz9wQ",
+        "title": "Raiders vs. Steelers Week 2 Highlights | NFL 2021",
+        "published_at": "2021-09-19T20:24:22Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 2,
+      "away": "MIN",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401326357"
+      },
+      "kickoff": "2021-09-19T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "2PftSjuqbuc",
+        "title": "Vikings vs. Cardinals Week 2 Highlights | NFL 2021",
+        "published_at": "2021-09-19T23:46:30Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 2,
+      "away": "ATL",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401326358"
+      },
+      "kickoff": "2021-09-19T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "TyvEdM5e4qY",
+        "title": "Falcons vs. Buccaneers Week 2 Highlights | NFL 2021",
+        "published_at": "2021-09-19T23:26:03Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 2,
+      "away": "DAL",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401326359"
+      },
+      "kickoff": "2021-09-19T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "oNEgdtQ0bwo",
+        "title": "Cowboys vs. Chargers Week 2 Highlights | NFL 2021",
+        "published_at": "2021-09-19T23:32:21Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 2,
+      "away": "TEN",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401326360"
+      },
+      "kickoff": "2021-09-19T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Kg-_0PTXGoc",
+        "title": "Titans vs. Seahawks Week 2 Highlights | NFL 2021",
+        "published_at": "2021-09-20T00:07:03Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 2,
+      "away": "KC",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401326361"
+      },
+      "kickoff": "2021-09-20T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "T_AwUOyxMlY",
+        "title": "Chiefs vs. Ravens Week 2 Highlights | NFL 2021",
+        "published_at": "2021-09-20T03:35:20Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 2,
+      "away": "DET",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401326362"
+      },
+      "kickoff": "2021-09-21T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "IVAC_bIbv2E",
+        "title": "Detroit Lions vs. Green Bay Packers Week 2 | 2021 NFL GameHighlights",
+        "published_at": "2021-09-21T03:18:45Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 3,
+      "away": "CAR",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401326363"
+      },
+      "kickoff": "2021-09-24T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "HIEyDE4poAs",
+        "title": "Carolina Panthers vs. Houston Texans Week 3 | 2021 NFL Game Highlights",
+        "published_at": "2021-09-24T03:37:32Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 3,
+      "away": "WSH",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401326364"
+      },
+      "kickoff": "2021-09-26T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "quV0TIKAf14",
+        "title": "Washington Football Team vs. Bills Week 3 Highlights | NFL 2021",
+        "published_at": "2021-09-26T20:31:35Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 3,
+      "away": "CHI",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401326365"
+      },
+      "kickoff": "2021-09-26T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "KBSPaBEWgrk",
+        "title": "Bears vs. Browns Week 3 Highlights | NFL 2021",
+        "published_at": "2021-09-26T20:14:26Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 3,
+      "away": "BAL",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401326366"
+      },
+      "kickoff": "2021-09-26T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "PzGCEopXKf4",
+        "title": "Ravens vs. Lions Week 3 Highlights | NFL 2021",
+        "published_at": "2021-09-26T20:47:31Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 3,
+      "away": "ARI",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401326367"
+      },
+      "kickoff": "2021-09-26T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "FMM3sxmnjh8",
+        "title": "Cardinals vs. Jaguars Week 3 Highlights | NFL 2021",
+        "published_at": "2021-09-26T20:30:57Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 3,
+      "away": "LAC",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401326368"
+      },
+      "kickoff": "2021-09-26T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "aPIL3zv9hfc",
+        "title": "Chargers vs. Chiefs Week 3 Highlights | NFL 2021",
+        "published_at": "2021-09-26T20:42:36Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 3,
+      "away": "NO",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401326369"
+      },
+      "kickoff": "2021-09-26T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "arcYlq_3Du4",
+        "title": "Saints vs. Patriots Week 3 Highlights | NFL 2021",
+        "published_at": "2021-09-26T20:22:08Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 3,
+      "away": "ATL",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401326370"
+      },
+      "kickoff": "2021-09-26T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "QF5ouJODw2A",
+        "title": "Falcons vs. Giants Week 3 Highlights | NFL 2021",
+        "published_at": "2021-09-26T20:11:15Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 3,
+      "away": "CIN",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401326371"
+      },
+      "kickoff": "2021-09-26T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "O0Tdw0mCg28",
+        "title": "Bengals vs. Steelers Week 3 Highlights | NFL 2021",
+        "published_at": "2021-09-26T20:24:17Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 3,
+      "away": "IND",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401326372"
+      },
+      "kickoff": "2021-09-26T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "hRbvnVJL9PI",
+        "title": "Colts vs. Titans Week 3 Highlights | NFL 2021",
+        "published_at": "2021-09-26T20:19:46Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 3,
+      "away": "NYJ",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401326373"
+      },
+      "kickoff": "2021-09-26T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Pxft5VutF8U",
+        "title": "Jets vs. Broncos Week 3 Highlights | NFL 2021",
+        "published_at": "2021-09-26T23:11:19Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 3,
+      "away": "MIA",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401326374"
+      },
+      "kickoff": "2021-09-26T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "QyGDrrkL8Nc",
+        "title": "Dolphins vs. Raiders Week 3 Highlights | NFL 2021",
+        "published_at": "2021-09-27T00:01:03Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 3,
+      "away": "TB",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401326375"
+      },
+      "kickoff": "2021-09-26T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "2SNQ8xxAmfo",
+        "title": "Buccaneers vs. Rams Week 3 Highlights | NFL 2021",
+        "published_at": "2021-09-27T00:03:05Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 3,
+      "away": "SEA",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401326376"
+      },
+      "kickoff": "2021-09-26T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "WMj6Zawd-aQ",
+        "title": "Seahawks vs. Vikings Week 3 Highlights | NFL 2021",
+        "published_at": "2021-09-26T23:33:32Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 3,
+      "away": "GB",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401326377"
+      },
+      "kickoff": "2021-09-27T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "hMhpt2L4BIY",
+        "title": "Packers vs. 49ers Week 3 Highlights | NFL 2021",
+        "published_at": "2021-09-27T03:39:58Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 3,
+      "away": "PHI",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401326378"
+      },
+      "kickoff": "2021-09-28T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "tjwbdgi05I8",
+        "title": "Eagles vs. Cowboys Week 3 Highlights | NFL 2021",
+        "published_at": "2021-09-28T03:40:52Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 4,
+      "away": "JAX",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401326379"
+      },
+      "kickoff": "2021-10-01T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "vKTl6DczK9k",
+        "title": "Jaguars vs. Bengals Week 4 Highlights | NFL 2021",
+        "published_at": "2021-10-01T03:48:39Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 4,
+      "away": "WSH",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401326380"
+      },
+      "kickoff": "2021-10-03T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "6JQCcm8pItM",
+        "title": "Washington Football Team vs. Falcons Week 4 Highlights | NFL 2021",
+        "published_at": "2021-10-03T20:42:36Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 4,
+      "away": "HOU",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401326381"
+      },
+      "kickoff": "2021-10-03T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "88h-jaMN_tE",
+        "title": "Texans vs. Bills Week 4 Highlights | NFL 2021",
+        "published_at": "2021-10-03T20:21:25Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 4,
+      "away": "DET",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401326382"
+      },
+      "kickoff": "2021-10-03T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "fu8fX9WhcMY",
+        "title": "Lions vs. Bears Week 4 Highlights | NFL 2021",
+        "published_at": "2021-10-03T20:10:07Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 4,
+      "away": "CAR",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401326383"
+      },
+      "kickoff": "2021-10-03T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "hhmTrkxBNKc",
+        "title": "Panthers vs. Cowboys Week 4 Highlights | NFL 2021",
+        "published_at": "2021-10-03T20:32:29Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 4,
+      "away": "IND",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401326384"
+      },
+      "kickoff": "2021-10-03T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "piIkWPubjDM",
+        "title": "Colts vs. Dolphins Week 4 Highlights | NFL 2021",
+        "published_at": "2021-10-03T20:15:42Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 4,
+      "away": "CLE",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401326385"
+      },
+      "kickoff": "2021-10-03T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "oAMPN0727Fo",
+        "title": "Browns vs. Vikings Week 4 Highlights | NFL 2021",
+        "published_at": "2021-10-03T20:24:21Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 4,
+      "away": "NYG",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401326386"
+      },
+      "kickoff": "2021-10-03T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "57O4ByVZ_fg",
+        "title": "Giants vs. Saints Week 4 Highlights | NFL 2021",
+        "published_at": "2021-10-03T20:29:50Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 4,
+      "away": "TEN",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401326387"
+      },
+      "kickoff": "2021-10-03T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Y1mOkYny1io",
+        "title": "Titans vs. Jets Week 4 Highlights | NFL 2021",
+        "published_at": "2021-10-03T21:00:09Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 4,
+      "away": "KC",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401326388"
+      },
+      "kickoff": "2021-10-03T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "MBMDSk6e1cs",
+        "title": "Chiefs vs. Eagles Week 4 Highlights | NFL 2021",
+        "published_at": "2021-10-03T20:30:31Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 4,
+      "away": "ARI",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401326389"
+      },
+      "kickoff": "2021-10-03T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "QzjnugM8RXM",
+        "title": "Cardinals vs. Rams Week 4 Highlights | NFL 2021",
+        "published_at": "2021-10-03T23:25:02Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 4,
+      "away": "SEA",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401326390"
+      },
+      "kickoff": "2021-10-03T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "9ayRguK3DPA",
+        "title": "Seahawks vs. 49ers Week 4 Highlights | NFL 2021",
+        "published_at": "2021-10-03T23:29:31Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 4,
+      "away": "BAL",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401326391"
+      },
+      "kickoff": "2021-10-03T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "1bM8FiTrGFQ",
+        "title": "Ravens vs. Broncos Week 4 Highlights | NFL 2021",
+        "published_at": "2021-10-03T23:37:06Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 4,
+      "away": "PIT",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401326392"
+      },
+      "kickoff": "2021-10-03T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "eduktK6HXm8",
+        "title": "Steelers vs. Packers Week 4 Highlights | NFL 2021",
+        "published_at": "2021-10-03T23:42:38Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 4,
+      "away": "TB",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401326393"
+      },
+      "kickoff": "2021-10-04T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "y3VebhRs0GQ",
+        "title": "Buccaneers vs. Patriots Week 4 Highlights | NFL 2021",
+        "published_at": "2021-10-04T04:05:05Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 4,
+      "away": "LV",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401326394"
+      },
+      "kickoff": "2021-10-05T00:50:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "1QzsgYY9leI",
+        "title": "Raiders vs. Chargers Week 4 Highlights | NFL 2021",
+        "published_at": "2021-10-05T04:00:56Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 5,
+      "away": "LAR",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401326395"
+      },
+      "kickoff": "2021-10-08T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "BsKtDfMjHEo",
+        "title": "Rams vs. Seahawks Week 5 Highlights | NFL 2021",
+        "published_at": "2021-10-08T03:47:12Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 5,
+      "away": "NYJ",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401326324"
+      },
+      "kickoff": "2021-10-10T13:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "trKoD1jjVA8",
+        "title": "Jets vs. Falcons Week 5 Highlights | NFL 2021",
+        "published_at": "2021-10-10T16:39:28Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 5,
+      "away": "PHI",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401326396"
+      },
+      "kickoff": "2021-10-10T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "1HL0vK344NU",
+        "title": "Eagles vs. Panthers Week 5 Highlights | NFL 2021",
+        "published_at": "2021-10-10T20:25:27Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 5,
+      "away": "GB",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401326397"
+      },
+      "kickoff": "2021-10-10T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "kJcml4883ec",
+        "title": "Packers vs. Bengals Week 5 Highlights | NFL 2021",
+        "published_at": "2021-10-10T20:35:10Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 5,
+      "away": "NE",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401326398"
+      },
+      "kickoff": "2021-10-10T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "MgHmJVGtbqA",
+        "title": "Patriots vs. Texans Week 5 Highlights | NFL 2021",
+        "published_at": "2021-10-10T20:16:05Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 5,
+      "away": "TEN",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401326399"
+      },
+      "kickoff": "2021-10-10T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "FYaZWzIB5ZA",
+        "title": "Titans vs. Jaguars Week 5 Highlights | NFL 2021",
+        "published_at": "2021-10-10T20:23:28Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 5,
+      "away": "DET",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401326400"
+      },
+      "kickoff": "2021-10-10T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "TnlYhdVceBA",
+        "title": "Lions vs. Vikings Week 5 Highlights | NFL 2021",
+        "published_at": "2021-10-10T20:14:02Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 5,
+      "away": "DEN",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401326401"
+      },
+      "kickoff": "2021-10-10T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "mKmPneDVb3U",
+        "title": "Broncos vs. Steelers Week 5 Highlights | NFL 2021",
+        "published_at": "2021-10-10T20:18:02Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 5,
+      "away": "MIA",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401326402"
+      },
+      "kickoff": "2021-10-10T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "W0cdOSBe110",
+        "title": "Dolphins vs. Buccaneers Week 5 Highlights | NFL 2021",
+        "published_at": "2021-10-10T20:21:27Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 5,
+      "away": "NO",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401326403"
+      },
+      "kickoff": "2021-10-10T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "mxHjRIhneRA",
+        "title": "Saints vs. Washington Football Team Week 5 Highlights | NFL 2021",
+        "published_at": "2021-10-10T20:27:37Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 5,
+      "away": "CLE",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401326404"
+      },
+      "kickoff": "2021-10-10T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "9J_FQUUiS0M",
+        "title": "Browns vs. Chargers Week 5 Highlights | NFL 2021",
+        "published_at": "2021-10-10T23:38:42Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 5,
+      "away": "CHI",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401326405"
+      },
+      "kickoff": "2021-10-10T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "6V0YDcQW7Ng",
+        "title": "Bears vs. Raiders Week 5 Highlights | NFL 2021",
+        "published_at": "2021-10-10T23:25:45Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 5,
+      "away": "SF",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401326406"
+      },
+      "kickoff": "2021-10-10T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "pHxCOqmXzd8",
+        "title": "49ers vs. Cardinals Week 5 Highlights | NFL 2021",
+        "published_at": "2021-10-10T23:55:37Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 5,
+      "away": "NYG",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401326407"
+      },
+      "kickoff": "2021-10-10T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "I4yJ8KKGfpY",
+        "title": "Giants vs. Cowboys Week 5 Highlights | NFL 2021",
+        "published_at": "2021-10-11T00:01:37Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 5,
+      "away": "BUF",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401326408"
+      },
+      "kickoff": "2021-10-11T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "yxiOnaTUows",
+        "title": "Bills vs. Chiefs Week 5 Highlights | NFL 2021",
+        "published_at": "2021-10-11T04:48:12Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 5,
+      "away": "IND",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401326409"
+      },
+      "kickoff": "2021-10-12T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "FxQ39O0XtLo",
+        "title": "Colts vs. Ravens Week 5 Highlights | NFL 2021",
+        "published_at": "2021-10-12T03:52:02Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 6,
+      "away": "TB",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401326410"
+      },
+      "kickoff": "2021-10-15T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Z_xUiW-ozHw",
+        "title": "Buccaneers vs. Eagles Week 6 Highlights | NFL 2021",
+        "published_at": "2021-10-15T03:37:15Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 6,
+      "away": "MIA",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401326325"
+      },
+      "kickoff": "2021-10-17T13:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "W2RSjr-0lTE",
+        "title": "Dolphins vs. Jaguars Week 6 Highlights | NFL 2021",
+        "published_at": "2021-10-17T17:05:02Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 6,
+      "away": "LAC",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401326411"
+      },
+      "kickoff": "2021-10-17T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "fOPKQFGwiOE",
+        "title": "Chargers vs. Ravens Week 6 Highlights | NFL 2021",
+        "published_at": "2021-10-17T20:10:31Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 6,
+      "away": "MIN",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401326412"
+      },
+      "kickoff": "2021-10-17T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "eeEyl69Tccs",
+        "title": "Vikings vs. Panthers Week 6 Highlights | NFL 2021",
+        "published_at": "2021-10-17T20:55:20Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 6,
+      "away": "GB",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401326413"
+      },
+      "kickoff": "2021-10-17T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "3_nb_DyyeeU",
+        "title": "Packers vs. Bears Week 6 Highlights | NFL 2021",
+        "published_at": "2021-10-17T20:14:35Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 6,
+      "away": "CIN",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401326414"
+      },
+      "kickoff": "2021-10-17T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "dFkbPWLZbjg",
+        "title": "Bengals vs. Lions Week 6 Highlights | NFL 2021",
+        "published_at": "2021-10-17T20:06:15Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 6,
+      "away": "HOU",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401326415"
+      },
+      "kickoff": "2021-10-17T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "3WvU4eu2sWo",
+        "title": "Texans vs. Colts Week 6 Highlights | NFL 2021",
+        "published_at": "2021-10-17T20:08:55Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 6,
+      "away": "LAR",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401326416"
+      },
+      "kickoff": "2021-10-17T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "amscGqcE0V8",
+        "title": "Rams vs. Giants Week 6 Highlights | NFL 2021",
+        "published_at": "2021-10-17T20:12:16Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 6,
+      "away": "KC",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401326417"
+      },
+      "kickoff": "2021-10-17T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "RaY6FRXMljU",
+        "title": "Chiefs vs. Washington Football Team Week 6 Highlights | NFL 2021",
+        "published_at": "2021-10-17T20:43:47Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 6,
+      "away": "ARI",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401326418"
+      },
+      "kickoff": "2021-10-17T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "EMD8z0K5ioE",
+        "title": "Cardinals vs. Browns Week 6 Highlights | NFL 2021",
+        "published_at": "2021-10-17T23:16:02Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 6,
+      "away": "LV",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401326419"
+      },
+      "kickoff": "2021-10-17T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Ue32G83Vk1k",
+        "title": "Raiders vs. Broncos Week 6 Highlights | NFL 2021",
+        "published_at": "2021-10-17T23:51:31Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 6,
+      "away": "DAL",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401326420"
+      },
+      "kickoff": "2021-10-17T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "yu4hl0PJpFc",
+        "title": "Cowboys vs. Patriots Week 6 Highlights | NFL 2021",
+        "published_at": "2021-10-18T00:07:34Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 6,
+      "away": "SEA",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401326421"
+      },
+      "kickoff": "2021-10-18T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "2J6BT7TagmU",
+        "title": "Seahawks vs. Steelers Week 6 Highlights | NFL 2021",
+        "published_at": "2021-10-18T04:16:33Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 6,
+      "away": "BUF",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401326422"
+      },
+      "kickoff": "2021-10-19T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "-HJeSs2XquQ",
+        "title": "Bills vs. Titans Week 6 Highlights | NFL 2021",
+        "published_at": "2021-10-19T03:41:04Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 7,
+      "away": "DEN",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401326423"
+      },
+      "kickoff": "2021-10-22T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "QZVPj7jaQnE",
+        "title": "Broncos vs. Browns Week 7 Highlights | NFL 2021",
+        "published_at": "2021-10-22T03:32:14Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 7,
+      "away": "CIN",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401326424"
+      },
+      "kickoff": "2021-10-24T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "6DluYiYGj-0",
+        "title": "Bengals vs. Ravens Week 7 Highlights | NFL 2021",
+        "published_at": "2021-10-24T20:31:23Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 7,
+      "away": "WSH",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401326425"
+      },
+      "kickoff": "2021-10-24T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "AhBjw2JI0Cw",
+        "title": "Washington Football Team vs. Packers Week 7 Highlights | NFL 2021",
+        "published_at": "2021-10-24T20:20:33Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 7,
+      "away": "ATL",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401326426"
+      },
+      "kickoff": "2021-10-24T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "jX1FboJrCPA",
+        "title": "Falcons vs. Dolphins Week 7 Highlights | NFL 2021",
+        "published_at": "2021-10-24T20:28:43Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 7,
+      "away": "NYJ",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401326427"
+      },
+      "kickoff": "2021-10-24T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "4cC8M6CTn90",
+        "title": "Jets vs. Patriots Week 7 Highlights | NFL 2021",
+        "published_at": "2021-10-24T20:27:18Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 7,
+      "away": "CAR",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401326428"
+      },
+      "kickoff": "2021-10-24T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "SRr_iVeX4YA",
+        "title": "Panthers vs. Giants Week 7 Highlights | NFL 2021",
+        "published_at": "2021-10-24T20:17:39Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 7,
+      "away": "KC",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401326429"
+      },
+      "kickoff": "2021-10-24T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ofOjgXYELhQ",
+        "title": "Chiefs vs. Titans Week 7 Highlights | NFL 2021",
+        "published_at": "2021-10-24T20:12:12Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 7,
+      "away": "DET",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401326430"
+      },
+      "kickoff": "2021-10-24T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "-vKXxlrmw1U",
+        "title": "Lions vs. Rams Week 7 Highlights | NFL 2021",
+        "published_at": "2021-10-24T23:23:34Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 7,
+      "away": "PHI",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401326431"
+      },
+      "kickoff": "2021-10-24T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "dwjnjDWZYtM",
+        "title": "Eagles vs. Raiders Week 7 Highlights | NFL 2021",
+        "published_at": "2021-10-24T23:42:35Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 7,
+      "away": "HOU",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401326432"
+      },
+      "kickoff": "2021-10-24T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "32gHSdWY-7U",
+        "title": "Texans vs. Cardinals Week 7 Highlights | NFL 2021",
+        "published_at": "2021-10-24T23:44:05Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 7,
+      "away": "CHI",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401326433"
+      },
+      "kickoff": "2021-10-24T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "kPI2kUcKxQs",
+        "title": "Bears vs. Buccaneers Week 7 Highlights | NFL 2021",
+        "published_at": "2021-10-24T23:34:32Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 7,
+      "away": "IND",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401326434"
+      },
+      "kickoff": "2021-10-25T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ce13PozKFfg",
+        "title": "Colts vs. 49ers Week 7 Highlights | NFL 2021",
+        "published_at": "2021-10-25T03:39:00Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 7,
+      "away": "NO",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401326435"
+      },
+      "kickoff": "2021-10-26T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "G9iwCZSKVVY",
+        "title": "Saints vs. Seahawks Week 7 Highlights | NFL 2021 Highlights",
+        "published_at": "2021-10-26T03:31:02Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 8,
+      "away": "GB",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401326436"
+      },
+      "kickoff": "2021-10-29T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "dWeNmTB99FE",
+        "title": "Packers vs. Cardinals Week 8 Highlights | NFL 2021",
+        "published_at": "2021-10-29T03:51:55Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 8,
+      "away": "CAR",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401326437"
+      },
+      "kickoff": "2021-10-31T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "8X2ArXXwIMc",
+        "title": "Panthers vs. Falcons Week 8 Highlights | NFL 2021",
+        "published_at": "2021-10-31T20:11:04Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 8,
+      "away": "MIA",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401326438"
+      },
+      "kickoff": "2021-10-31T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "9xmB74NFIik",
+        "title": "Dolphins vs. Bills Week 8 Highlights | NFL 2021",
+        "published_at": "2021-10-31T20:28:11Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 8,
+      "away": "SF",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401326439"
+      },
+      "kickoff": "2021-10-31T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "M3Fm_TgBeqQ",
+        "title": "49ers vs. Bears Week 8 Highlights | NFL 2021",
+        "published_at": "2021-10-31T20:34:35Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 8,
+      "away": "PIT",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401326440"
+      },
+      "kickoff": "2021-10-31T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "8GvoSZ2GpGE",
+        "title": "Steelers vs. Browns Week 8 Highlights | NFL 2021",
+        "published_at": "2021-10-31T20:20:11Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 8,
+      "away": "PHI",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401326441"
+      },
+      "kickoff": "2021-10-31T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "iXl_zjfamQA",
+        "title": "Eagles vs. Lions Week 8 Highlights | NFL 2021",
+        "published_at": "2021-10-31T20:05:08Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 8,
+      "away": "LAR",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401326442"
+      },
+      "kickoff": "2021-10-31T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "yRUau7Bjj94",
+        "title": "Rams vs. Texans Week 8 Highlights | NFL 2021",
+        "published_at": "2021-10-31T20:37:09Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 8,
+      "away": "TEN",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401326443"
+      },
+      "kickoff": "2021-10-31T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "332YW5cjtjM",
+        "title": "Titans vs. Colts Week 8 Highlights | NFL 2021",
+        "published_at": "2021-10-31T20:50:19Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 8,
+      "away": "CIN",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401326444"
+      },
+      "kickoff": "2021-10-31T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "xehJhctWu-o",
+        "title": "Bengals vs. Jets Week 8 Highlights | NFL 2021",
+        "published_at": "2021-10-31T20:39:24Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 8,
+      "away": "NE",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401326445"
+      },
+      "kickoff": "2021-10-31T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "SS_2NGHJ4e0",
+        "title": "Patriots vs. Chargers Week 8 Highlights | NFL 2021",
+        "published_at": "2021-10-31T23:34:12Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 8,
+      "away": "JAX",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401326446"
+      },
+      "kickoff": "2021-10-31T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "EAfrvqTC1HQ",
+        "title": "Jaguars vs. Seahawks Week 8 Highlights | NFL 2021",
+        "published_at": "2021-10-31T23:17:21Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 8,
+      "away": "WSH",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401326447"
+      },
+      "kickoff": "2021-10-31T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "XhYofq3uvo8",
+        "title": "Washington Football Team vs. Broncos Week 8 Highlights | NFL 2021",
+        "published_at": "2021-10-31T23:39:04Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 8,
+      "away": "TB",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401326448"
+      },
+      "kickoff": "2021-10-31T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "2vPBZKZXGjo",
+        "title": "Buccaneers vs. Saints Week 8 Highlights | NFL 2021",
+        "published_at": "2021-10-31T23:44:46Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 8,
+      "away": "DAL",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401326449"
+      },
+      "kickoff": "2021-11-01T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "YAQgxG4zgo0",
+        "title": "Cowboys vs. Vikings Week 8 Highlights | NFL 2021",
+        "published_at": "2021-11-01T03:45:49Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 8,
+      "away": "NYG",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401326450"
+      },
+      "kickoff": "2021-11-02T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "gnD_FgSkjt8",
+        "title": "Giants vs. Chiefs Week 8 Highlights | NFL 2021",
+        "published_at": "2021-11-02T03:35:49Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 9,
+      "away": "NYJ",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401326451"
+      },
+      "kickoff": "2021-11-05T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "6kG_xdYCg_Q",
+        "title": "Jets vs. Colts Week 9 Highlights | NFL 2021",
+        "published_at": "2021-11-05T03:51:46Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 9,
+      "away": "MIN",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401326452"
+      },
+      "kickoff": "2021-11-07T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "6VizhMMcg68",
+        "title": "Vikings vs. Ravens Week 9 Highlights | NFL 2021",
+        "published_at": "2021-11-07T21:42:13Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 9,
+      "away": "NE",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401326453"
+      },
+      "kickoff": "2021-11-07T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "SphFPWJHKrk",
+        "title": "Patriots vs. Panthers Week 9 Highlights | NFL 2021",
+        "published_at": "2021-11-07T21:12:45Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 9,
+      "away": "CLE",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401326454"
+      },
+      "kickoff": "2021-11-07T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "xdu_1dCTzxU",
+        "title": "Browns vs. Bengals Week 9 Highlights | NFL 2021",
+        "published_at": "2021-11-07T21:26:50Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 9,
+      "away": "DEN",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401326455"
+      },
+      "kickoff": "2021-11-07T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "fBJx86Q9JkQ",
+        "title": "Broncos vs. Cowboys Week 9 Highlights | NFL 2021",
+        "published_at": "2021-11-07T21:18:11Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 9,
+      "away": "BUF",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401326456"
+      },
+      "kickoff": "2021-11-07T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "AaaDe6Z5vOM",
+        "title": "Bills vs. Jaguars Week 9 Highlights | NFL 2021",
+        "published_at": "2021-11-07T21:33:56Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 9,
+      "away": "HOU",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401326457"
+      },
+      "kickoff": "2021-11-07T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "WFLijmISjc4",
+        "title": "Texans vs. Dolphins Week 9 Highlights | NFL 2021",
+        "published_at": "2021-11-07T21:39:02Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 9,
+      "away": "ATL",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401326458"
+      },
+      "kickoff": "2021-11-07T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "wgUKd6DPyck",
+        "title": "Falcons vs. Saints Week 9 Highlights | NFL 2021",
+        "published_at": "2021-11-07T21:21:01Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 9,
+      "away": "LV",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401326459"
+      },
+      "kickoff": "2021-11-07T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "uTlURcFZOJI",
+        "title": "Raiders vs. Giants Week 9 Highlights | NFL 2021",
+        "published_at": "2021-11-07T21:28:31Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 9,
+      "away": "LAC",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401326460"
+      },
+      "kickoff": "2021-11-07T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "VWGQ5LNgiBU",
+        "title": "Chargers vs. Eagles Week 9 Highlights | NFL 2021",
+        "published_at": "2021-11-08T00:03:07Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 9,
+      "away": "GB",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401326461"
+      },
+      "kickoff": "2021-11-07T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "A_DKtEgEs7Y",
+        "title": "Packers vs. Chiefs Week 9 Highlights | NFL 2021",
+        "published_at": "2021-11-08T00:40:15Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 9,
+      "away": "ARI",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401326462"
+      },
+      "kickoff": "2021-11-07T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "FxOCsO2_N1k",
+        "title": "Cardinals vs. 49ers Week 9 Highlights | NFL 2021",
+        "published_at": "2021-11-08T01:00:25Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 9,
+      "away": "TEN",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401326463"
+      },
+      "kickoff": "2021-11-08T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ARaE4c1ib94",
+        "title": "Titans vs. Rams Week 9 Highlights | NFL 2021",
+        "published_at": "2021-11-08T05:37:02Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 9,
+      "away": "CHI",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401326464"
+      },
+      "kickoff": "2021-11-09T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "gGYizeHvhNg",
+        "title": "Bears vs. Steelers Week 9 Highlights | NFL 2021",
+        "published_at": "2021-11-09T04:58:25Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 10,
+      "away": "BAL",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401326465"
+      },
+      "kickoff": "2021-11-12T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "RsJixGsuee0",
+        "title": "Ravens vs. Dolphins Week 10 Highlights | NFL 2021",
+        "published_at": "2021-11-12T05:02:50Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 10,
+      "away": "ATL",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401326466"
+      },
+      "kickoff": "2021-11-14T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "6Z3eI13IN1U",
+        "title": "Falcons vs. Cowboys Week 10 Highlights | NFL 2021",
+        "published_at": "2021-11-14T21:28:52Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 10,
+      "away": "JAX",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401326467"
+      },
+      "kickoff": "2021-11-14T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "jsIhlNFpIyE",
+        "title": "Jaguars vs. Colts Week 10 Highlights | NFL 2021",
+        "published_at": "2021-11-14T21:35:51Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 10,
+      "away": "CLE",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401326468"
+      },
+      "kickoff": "2021-11-14T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "mJUL87a_DBY",
+        "title": "Browns vs. Patriots Week 10 Highlights | NFL 2021",
+        "published_at": "2021-11-14T21:31:35Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 10,
+      "away": "BUF",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401326469"
+      },
+      "kickoff": "2021-11-14T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "QBBlkCmfY2Y",
+        "title": "Bills vs. Jets Week 10 Highlights | NFL 2021",
+        "published_at": "2021-11-14T21:39:15Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 10,
+      "away": "DET",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401326470"
+      },
+      "kickoff": "2021-11-14T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "EjE7K2i0Ndk",
+        "title": "Lions vs. Steelers Week 10 Highlights | NFL 2021",
+        "published_at": "2021-11-14T22:39:07Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 10,
+      "away": "NO",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401326471"
+      },
+      "kickoff": "2021-11-14T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "chzY7eS0eW4",
+        "title": "Saints vs. Titans Week 10 Highlights | NFL 2021",
+        "published_at": "2021-11-14T21:14:00Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 10,
+      "away": "TB",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401326472"
+      },
+      "kickoff": "2021-11-14T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "YYKocw9s070",
+        "title": "Buccaneers vs. Washington Football Team Week 10 Highlights | NFL 2021",
+        "published_at": "2021-11-14T21:29:48Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 10,
+      "away": "CAR",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401326473"
+      },
+      "kickoff": "2021-11-14T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "0ATlGTB6-sM",
+        "title": "Panthers vs. Cardinals Week 10 Highlights | NFL 2021",
+        "published_at": "2021-11-15T00:31:07Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 10,
+      "away": "MIN",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401326474"
+      },
+      "kickoff": "2021-11-14T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ayUWJjIjSOA",
+        "title": "Vikings vs. Chargers Week 10 Highlights | NFL 2021",
+        "published_at": "2021-11-15T00:40:18Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 10,
+      "away": "PHI",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401326475"
+      },
+      "kickoff": "2021-11-14T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "8j5mMyJ4-R4",
+        "title": "Eagles vs. Broncos Week 10 Highlights | NFL 2021",
+        "published_at": "2021-11-15T00:53:46Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 10,
+      "away": "SEA",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401326476"
+      },
+      "kickoff": "2021-11-14T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "XHnkj9mWcUU",
+        "title": "Seahawks vs. Packers Week 10 Highlights | NFL 2021",
+        "published_at": "2021-11-15T00:46:38Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 10,
+      "away": "KC",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401326477"
+      },
+      "kickoff": "2021-11-15T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Pl6LehQBgZI",
+        "title": "Chiefs vs. Raiders Week 10 Highlights | NFL 2021",
+        "published_at": "2021-11-15T05:11:37Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 10,
+      "away": "LAR",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401326478"
+      },
+      "kickoff": "2021-11-16T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "XS7gAIAJZV0",
+        "title": "Rams vs. 49ers Week 10 Highlights | NFL 2021",
+        "published_at": "2021-11-16T04:17:18Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 11,
+      "away": "NE",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401326479"
+      },
+      "kickoff": "2021-11-19T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "uJFrYyv8ZA8",
+        "title": "Patriots vs. Falcons Week 11 Highlights | NFL 2021",
+        "published_at": "2021-11-19T04:26:29Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 11,
+      "away": "IND",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401326480"
+      },
+      "kickoff": "2021-11-21T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "eHYp8Rok82M",
+        "title": "Colts vs. Bills Week 11 Highlights | NFL 2021",
+        "published_at": "2021-11-21T21:08:11Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 11,
+      "away": "WSH",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401326481"
+      },
+      "kickoff": "2021-11-21T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "LwWoX5DO_VI",
+        "title": "Washington Football Team vs. Panthers Week 11 Highlights | NFL 2021",
+        "published_at": "2021-11-21T21:27:47Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 11,
+      "away": "BAL",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401326482"
+      },
+      "kickoff": "2021-11-21T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "OCoutBb47IU",
+        "title": "Ravens vs. Bears Week 11 Highlights | NFL 2021",
+        "published_at": "2021-11-21T21:34:33Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 11,
+      "away": "DET",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401326483"
+      },
+      "kickoff": "2021-11-21T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "r8BFLUeX8ac",
+        "title": "Lions vs. Browns Week 11 Highlights | NFL 2021",
+        "published_at": "2021-11-21T21:17:38Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 11,
+      "away": "SF",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401326484"
+      },
+      "kickoff": "2021-11-21T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "WJzYXFriBu8",
+        "title": "49ers vs. Jaguars Week 11 Highlights | NFL 2021",
+        "published_at": "2021-11-21T21:19:13Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 11,
+      "away": "GB",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401326485"
+      },
+      "kickoff": "2021-11-21T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "UJ9kirVJRYw",
+        "title": "Packers vs. Vikings Week 11 Highlights | NFL 2021",
+        "published_at": "2021-11-21T21:13:53Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 11,
+      "away": "MIA",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401326486"
+      },
+      "kickoff": "2021-11-21T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "NujaaU4i5yw",
+        "title": "Dolphins vs. Jets Week 11 Highlights | NFL 2021",
+        "published_at": "2021-11-21T21:24:01Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 11,
+      "away": "NO",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401326487"
+      },
+      "kickoff": "2021-11-21T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "R3dvFhjVdlc",
+        "title": "Saints vs. Eagles Week 11 Highlights | NFL 2021",
+        "published_at": "2021-11-21T21:39:18Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 11,
+      "away": "HOU",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401326488"
+      },
+      "kickoff": "2021-11-21T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "y8XaLrKEZBM",
+        "title": "Texans vs. Titans Week 11 Highlights | NFL 2021",
+        "published_at": "2021-11-21T21:32:28Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 11,
+      "away": "CIN",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401326489"
+      },
+      "kickoff": "2021-11-21T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "H8bzYo483to",
+        "title": "Bengals vs. Raiders Week 11 Highlights | NFL 2021",
+        "published_at": "2021-11-22T00:29:40Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 11,
+      "away": "DAL",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401326490"
+      },
+      "kickoff": "2021-11-21T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "vUMcLt1ic-4",
+        "title": "Cowboys vs. Chiefs Week 11 Highlights | NFL 2021",
+        "published_at": "2021-11-22T00:55:02Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 11,
+      "away": "ARI",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401326491"
+      },
+      "kickoff": "2021-11-21T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "e2W3ZEGdOus",
+        "title": "Cardinals vs. Seahawks Week 11 Highlights | NFL 2021",
+        "published_at": "2021-11-22T00:44:01Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 11,
+      "away": "PIT",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401326492"
+      },
+      "kickoff": "2021-11-22T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "6kn3Dkaq4yI",
+        "title": "Steelers vs. Chargers Week 11 Highlights | NFL 2021",
+        "published_at": "2021-11-22T04:45:57Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 11,
+      "away": "NYG",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401326493"
+      },
+      "kickoff": "2021-11-23T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "VlC1Xb_elt4",
+        "title": "Giants vs. Buccaneers Week 11 Highlights | NFL 2021",
+        "published_at": "2021-11-23T04:21:34Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 12,
+      "away": "CHI",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401326494"
+      },
+      "kickoff": "2021-11-25T17:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "bDHBCv6XdAU",
+        "title": "Bears vs. Lions Week 12 Highlights | NFL 2021",
+        "published_at": "2021-11-25T21:10:52Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 12,
+      "away": "LV",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401326495"
+      },
+      "kickoff": "2021-11-25T21:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "55RkDsW1dJk",
+        "title": "Raiders vs. Cowboys Week 12 Highlights | NFL 2021",
+        "published_at": "2021-11-26T01:45:04Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 12,
+      "away": "BUF",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401326496"
+      },
+      "kickoff": "2021-11-26T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "O6-na2b4RYU",
+        "title": "Bills vs. Saints Week 12 Highlights | NFL 2021",
+        "published_at": "2021-11-26T04:31:27Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 12,
+      "away": "PIT",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401326497"
+      },
+      "kickoff": "2021-11-28T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "lI3I6wduMLQ",
+        "title": "Steelers vs. Bengals Week 12 Highlights | NFL 2021",
+        "published_at": "2021-11-28T21:18:59Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 12,
+      "away": "NYJ",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401326498"
+      },
+      "kickoff": "2021-11-28T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "dQ1_iUazigs",
+        "title": "Jets vs. Texans Week 12 Highlights | NFL 2021",
+        "published_at": "2021-11-28T21:16:53Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 12,
+      "away": "TB",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401326499"
+      },
+      "kickoff": "2021-11-28T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "-guGJ_v7rgg",
+        "title": "Buccaneers vs. Colts Week 12 Highlights | NFL 2021",
+        "published_at": "2021-11-28T22:15:13Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 12,
+      "away": "ATL",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401326500"
+      },
+      "kickoff": "2021-11-28T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "aYjqpSr_-vw",
+        "title": "Falcons vs. Jaguars Week 12 Highlights | NFL 2021",
+        "published_at": "2021-11-28T21:12:51Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 12,
+      "away": "CAR",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401326501"
+      },
+      "kickoff": "2021-11-28T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "2EBtERjUIJc",
+        "title": "Panthers vs. Dolphins Week 12 Highlights | NFL 2021",
+        "published_at": "2021-11-28T21:33:36Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 12,
+      "away": "TEN",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401326502"
+      },
+      "kickoff": "2021-11-28T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "agmDF7U1TVg",
+        "title": "Titans vs. Patriots Week 12 Highlights | NFL 2021",
+        "published_at": "2021-11-28T21:15:15Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 12,
+      "away": "PHI",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401326503"
+      },
+      "kickoff": "2021-11-28T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "gnBEToF4_Y4",
+        "title": "Eagles vs. Giants Week 12 Highlights | NFL 2021",
+        "published_at": "2021-11-28T21:10:51Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 12,
+      "away": "LAC",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401326504"
+      },
+      "kickoff": "2021-11-28T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "25uSmeQ8rWw",
+        "title": "Chargers vs. Broncos Week 12 Highlights | NFL 2021",
+        "published_at": "2021-11-29T00:35:01Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 12,
+      "away": "LAR",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401326505"
+      },
+      "kickoff": "2021-11-28T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "mdfmRpAfK4s",
+        "title": "Rams vs. Packers Week 12 Highlights | NFL 2021",
+        "published_at": "2021-11-29T01:15:17Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 12,
+      "away": "MIN",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401326506"
+      },
+      "kickoff": "2021-11-28T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "rjB2gp0r2p8",
+        "title": "Vikings vs. 49ers Week 12 Highlights | NFL 2021",
+        "published_at": "2021-11-29T00:44:41Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 12,
+      "away": "CLE",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401326507"
+      },
+      "kickoff": "2021-11-29T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "fR90NwL87oY",
+        "title": "Browns vs. Ravens Week 12 Highlights | NFL 2021",
+        "published_at": "2021-11-29T05:02:49Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 12,
+      "away": "SEA",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401326508"
+      },
+      "kickoff": "2021-11-30T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "PX7044puhzY",
+        "title": "Seahawks vs. Washington Week 12 Highlights | NFL 2021",
+        "published_at": "2021-11-30T04:57:30Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 13,
+      "away": "DAL",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401326509"
+      },
+      "kickoff": "2021-12-03T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "jmTbW3lIZVM",
+        "title": "Cowboys vs. Saints Week 13 Highlights | NFL 2021 Highlights",
+        "published_at": "2021-12-03T04:51:14Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 13,
+      "away": "TB",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401326510"
+      },
+      "kickoff": "2021-12-05T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "apr2XzK8leE",
+        "title": "Buccaneers vs. Falcons Week 13 Highlights | NFL 2021",
+        "published_at": "2021-12-05T21:33:19Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 13,
+      "away": "ARI",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401326511"
+      },
+      "kickoff": "2021-12-05T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "lR2QMF_Bruo",
+        "title": "Cardinals vs. Bears Week 13 Highlights | NFL 2021",
+        "published_at": "2021-12-05T21:20:04Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 13,
+      "away": "LAC",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401326512"
+      },
+      "kickoff": "2021-12-05T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ilkYSfNAsJQ",
+        "title": "Chargers vs. Bengals Week 13 Highlights | NFL 2021",
+        "published_at": "2021-12-05T21:46:50Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 13,
+      "away": "MIN",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401326513"
+      },
+      "kickoff": "2021-12-05T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "INmy6xX6Qkc",
+        "title": "Vikings vs. Lions Week 13 Highlights | NFL 2021",
+        "published_at": "2021-12-05T21:38:50Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 13,
+      "away": "IND",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401326514"
+      },
+      "kickoff": "2021-12-05T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "MulP0i1WEJ4",
+        "title": "Colts vs. Texans Week 13 Highlights | NFL 2021",
+        "published_at": "2021-12-05T21:27:11Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 13,
+      "away": "NYG",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401326516"
+      },
+      "kickoff": "2021-12-05T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Jl5mps94nNI",
+        "title": "Giants vs. Dolphins Week 13 Highlights | NFL 2021",
+        "published_at": "2021-12-05T21:48:26Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 13,
+      "away": "PHI",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401326517"
+      },
+      "kickoff": "2021-12-05T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ThCPrSxnMTU",
+        "title": "Eagles vs. Jets Week 13 Highlights | NFL 2021",
+        "published_at": "2021-12-05T21:25:23Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 13,
+      "away": "JAX",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401326519"
+      },
+      "kickoff": "2021-12-05T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "FWDS-tNJdnI",
+        "title": "Jaguars vs. Rams Week 13 Highlights | NFL 2021",
+        "published_at": "2021-12-06T00:12:35Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 13,
+      "away": "WSH",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401326518"
+      },
+      "kickoff": "2021-12-05T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ghoaePB-Ly0",
+        "title": "Washington Football Team vs. Raiders Week 13 Highlights | NFL 2021",
+        "published_at": "2021-12-06T00:18:46Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 13,
+      "away": "BAL",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401326520"
+      },
+      "kickoff": "2021-12-05T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "NfdrSkgQAx8",
+        "title": "Ravens vs. Steelers Week 13 Highlights | NFL 2021",
+        "published_at": "2021-12-06T00:47:42Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 13,
+      "away": "SF",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401326521"
+      },
+      "kickoff": "2021-12-05T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "7lEzXK-4ZEw",
+        "title": "49ers vs. Seahawks Week 13 Highlights | NFL 2021",
+        "published_at": "2021-12-06T00:54:15Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 13,
+      "away": "DEN",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401326515"
+      },
+      "kickoff": "2021-12-06T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "kgad9TXZEYw",
+        "title": "Broncos vs. Chiefs Week 13 Highlights | NFL 2021",
+        "published_at": "2021-12-06T04:34:17Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 13,
+      "away": "NE",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401326522"
+      },
+      "kickoff": "2021-12-07T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "XGYL-2zZdyY",
+        "title": "Patriots vs. Bills Week 13 Highlights | NFL 2021 Highlights",
+        "published_at": "2021-12-07T04:22:58Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 14,
+      "away": "PIT",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401326523"
+      },
+      "kickoff": "2021-12-10T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "FIRnuLojSRs",
+        "title": "Steelers vs. Vikings Week 14 Highlights | NFL 2021 Highlights",
+        "published_at": "2021-12-10T04:59:08Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 14,
+      "away": "ATL",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401326524"
+      },
+      "kickoff": "2021-12-12T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "uMhPG75cL-k",
+        "title": "Falcons vs. Panthers Week 14 Highlights | NFL 2021",
+        "published_at": "2021-12-12T21:24:02Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 14,
+      "away": "BAL",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401326526"
+      },
+      "kickoff": "2021-12-12T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ue1CWmxqcjU",
+        "title": "Ravens vs. Browns Week 14 Highlights | NFL 2021",
+        "published_at": "2021-12-12T21:25:48Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 14,
+      "away": "SEA",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401326527"
+      },
+      "kickoff": "2021-12-12T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Q6e-pUVhI64",
+        "title": "Seahawks vs. Texans Week 14 Highlights | NFL 2021",
+        "published_at": "2021-12-12T21:33:40Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 14,
+      "away": "LV",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401326528"
+      },
+      "kickoff": "2021-12-12T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "9W2b2SI__ck",
+        "title": "Raiders vs. Chiefs Week 14 Highlights | NFL 2021",
+        "published_at": "2021-12-12T21:35:02Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 14,
+      "away": "NO",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401326529"
+      },
+      "kickoff": "2021-12-12T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "d5a7wSKhJl4",
+        "title": "Saints vs. Jets Week 14 Highlights | NFL 2021",
+        "published_at": "2021-12-12T21:36:09Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 14,
+      "away": "JAX",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401326530"
+      },
+      "kickoff": "2021-12-12T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "NgaNUJ4UKhM",
+        "title": "Jaguars vs. Titans Week 14 Highlights | NFL 2021",
+        "published_at": "2021-12-12T21:13:17Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 14,
+      "away": "DAL",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401326531"
+      },
+      "kickoff": "2021-12-12T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "9fu4VFAz68Y",
+        "title": "Cowboys vs. Washington Football Team Week 14 Highlights | NFL 2021",
+        "published_at": "2021-12-12T21:46:15Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 14,
+      "away": "DET",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401326532"
+      },
+      "kickoff": "2021-12-12T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "kiyDicJL1Ek",
+        "title": "Lions vs. Broncos Week 14 Highlights | NFL 2021",
+        "published_at": "2021-12-13T00:09:10Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 14,
+      "away": "NYG",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401326533"
+      },
+      "kickoff": "2021-12-12T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ziXPgr8hiLM",
+        "title": "Giants vs. Chargers Week 14 Highlights | NFL 2021",
+        "published_at": "2021-12-13T00:27:50Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 14,
+      "away": "SF",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401326525"
+      },
+      "kickoff": "2021-12-12T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "LZzH9VqfFEU",
+        "title": "49ers vs. Bengals Week 14 Highlights | NFL 2021",
+        "published_at": "2021-12-13T01:05:03Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 14,
+      "away": "BUF",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401326534"
+      },
+      "kickoff": "2021-12-12T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "2JRXRHDBkJE",
+        "title": "Bills vs. Buccaneers Week 14 Highlights | NFL 2021",
+        "published_at": "2021-12-13T01:07:50Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 14,
+      "away": "CHI",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401326535"
+      },
+      "kickoff": "2021-12-13T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "UR07WjlnmZg",
+        "title": "Bears vs. Packers Week 14 Highlights | NFL 2021",
+        "published_at": "2021-12-13T04:58:47Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 14,
+      "away": "LAR",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401326536"
+      },
+      "kickoff": "2021-12-14T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "HfOSoVhe43k",
+        "title": "Rams vs. Cardinals Week 14 Highlights | NFL 2021 Highlights",
+        "published_at": "2021-12-14T04:36:06Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 15,
+      "away": "KC",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401326537"
+      },
+      "kickoff": "2021-12-17T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "jxePHOeD6mU",
+        "title": "Chiefs vs. Chargers Week 15 Highlights | NFL 2021 Highlights",
+        "published_at": "2021-12-17T04:59:15Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 15,
+      "away": "NE",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401326540"
+      },
+      "kickoff": "2021-12-19T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "KECMm5HWUYI",
+        "title": "Patriots vs. Colts Week 15 Highlights | NFL 2021",
+        "published_at": "2021-12-19T04:40:52Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 15,
+      "away": "CAR",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401326538"
+      },
+      "kickoff": "2021-12-19T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "gtn_gGGn204",
+        "title": "Panthers vs. Bills Week 15 Highlights | NFL 2021",
+        "published_at": "2021-12-19T21:27:34Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 15,
+      "away": "ARI",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401326544"
+      },
+      "kickoff": "2021-12-19T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "wag22BhMKjQ",
+        "title": "Cardinals vs. Lions Week 15 Highlights | NFL 2021",
+        "published_at": "2021-12-19T21:19:24Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 15,
+      "away": "HOU",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401326545"
+      },
+      "kickoff": "2021-12-19T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "WZv4SB8ZwRo",
+        "title": "Texans vs. Jaguars Week 15 Highlights | NFL 2021",
+        "published_at": "2021-12-19T21:21:26Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 15,
+      "away": "NYJ",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401326541"
+      },
+      "kickoff": "2021-12-19T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "KF-RL7UcdQM",
+        "title": "Jets vs. Dolphins Week 15 Highlights | NFL 2021",
+        "published_at": "2021-12-19T21:23:50Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 15,
+      "away": "DAL",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401326546"
+      },
+      "kickoff": "2021-12-19T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "UHuvQKzRIhA",
+        "title": "Cowboys vs. Giants Week 15 Highlights | NFL 2021",
+        "published_at": "2021-12-19T21:17:40Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 15,
+      "away": "TEN",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401326547"
+      },
+      "kickoff": "2021-12-19T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "nzZrF3qTGqI",
+        "title": "Titans vs. Steelers Week 15 Highlights | NFL 2021",
+        "published_at": "2021-12-19T21:25:40Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 15,
+      "away": "CIN",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401326548"
+      },
+      "kickoff": "2021-12-19T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "a-g_yqoP2ag",
+        "title": "Bengals vs. Broncos Week 15 Highlights | NFL 2021",
+        "published_at": "2021-12-20T00:27:11Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 15,
+      "away": "ATL",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401326549"
+      },
+      "kickoff": "2021-12-19T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "V8co1mPg6Hw",
+        "title": "Falcons vs. 49ers Week 15 Highlights | NFL 2021",
+        "published_at": "2021-12-20T00:08:14Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 15,
+      "away": "GB",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401326543"
+      },
+      "kickoff": "2021-12-19T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "CaYOoVglz3o",
+        "title": "Packers vs. Ravens Week 15 Highlights | NFL 2021",
+        "published_at": "2021-12-20T00:42:01Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 15,
+      "away": "NO",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401326551"
+      },
+      "kickoff": "2021-12-20T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "pgMpkL4l9oU",
+        "title": "Saints vs. Buccaneers Week 15 Highlights | NFL 2021",
+        "published_at": "2021-12-20T04:31:05Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 15,
+      "away": "LV",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401326539"
+      },
+      "kickoff": "2021-12-20T22:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "5ESUKBzpkV0",
+        "title": "Raiders vs. Browns Week 15 Highlights | NFL 2021",
+        "published_at": "2021-12-21T01:17:57Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 15,
+      "away": "MIN",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401326552"
+      },
+      "kickoff": "2021-12-21T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "42LNu25YZUI",
+        "title": "Vikings vs. Bears Week 15 Highlights | NFL 2021",
+        "published_at": "2021-12-21T04:43:35Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 15,
+      "away": "SEA",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401326550"
+      },
+      "kickoff": "2021-12-22T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "uET9yGFm6OI",
+        "title": "Seahawks vs. Rams Week 15 Highlights | NFL 2021",
+        "published_at": "2021-12-22T03:15:25Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 15,
+      "away": "WSH",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401326542"
+      },
+      "kickoff": "2021-12-22T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "YaKPoKZerqg",
+        "title": "Washington vs. Eagles Week 15 Highlights | NFL 2021",
+        "published_at": "2021-12-22T03:32:12Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 16,
+      "away": "SF",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401326553"
+      },
+      "kickoff": "2021-12-24T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "C39MQhNp1SY",
+        "title": "49ers vs. Titans Week 16 Highlights | NFL 2021",
+        "published_at": "2021-12-24T04:32:31Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 16,
+      "away": "CLE",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401326554"
+      },
+      "kickoff": "2021-12-25T21:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "H_R3nVQ1WfI",
+        "title": "Browns vs. Packers Week 16 Highlights | NFL 2021",
+        "published_at": "2021-12-26T00:47:49Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 16,
+      "away": "IND",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401326555"
+      },
+      "kickoff": "2021-12-26T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "3fNVK9mo-mY",
+        "title": "Colts vs. Cardinals Week 16 Highlights | NFL 2021",
+        "published_at": "2021-12-26T04:28:39Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 16,
+      "away": "DET",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401326556"
+      },
+      "kickoff": "2021-12-26T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "50075fY93aI",
+        "title": "Lions vs. Falcons Week 16 Highlights | NFL 2021",
+        "published_at": "2021-12-26T20:56:03Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 16,
+      "away": "TB",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401326557"
+      },
+      "kickoff": "2021-12-26T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "P22T4RGFiSA",
+        "title": "Buccaneers vs. Panthers Week 16 Highlights | NFL 2021",
+        "published_at": "2021-12-26T21:26:11Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 16,
+      "away": "BAL",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401326558"
+      },
+      "kickoff": "2021-12-26T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "AZhGkt7OPjM",
+        "title": "Ravens vs. Bengals Week 16 Highlights | NFL 2021",
+        "published_at": "2021-12-26T21:21:08Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 16,
+      "away": "LAC",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401326559"
+      },
+      "kickoff": "2021-12-26T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "bxMw9_o6tSg",
+        "title": "Chargers vs. Texans Week 16 Highlights | NFL 2021",
+        "published_at": "2021-12-26T21:14:21Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 16,
+      "away": "LAR",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401326560"
+      },
+      "kickoff": "2021-12-26T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "glOpivixRO4",
+        "title": "Rams vs. Vikings Week 16 Highlights | NFL 2021",
+        "published_at": "2021-12-26T21:19:02Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 16,
+      "away": "BUF",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401326561"
+      },
+      "kickoff": "2021-12-26T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "JnK20rOEaic",
+        "title": "Bills vs. Patriots Week 16 Highlights | NFL 2021",
+        "published_at": "2021-12-26T21:33:08Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 16,
+      "away": "JAX",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401326562"
+      },
+      "kickoff": "2021-12-26T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "XE_2xDwXIc8",
+        "title": "Jaguars vs. Jets Week 16 Highlights | NFL 2021",
+        "published_at": "2021-12-26T21:29:25Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 16,
+      "away": "NYG",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401326563"
+      },
+      "kickoff": "2021-12-26T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "HUb48ybSW34",
+        "title": "Giants vs. Eagles Week 16 Highlights | NFL 2021",
+        "published_at": "2021-12-26T21:37:42Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 16,
+      "away": "CHI",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401326564"
+      },
+      "kickoff": "2021-12-26T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "58nqhE251S0",
+        "title": "Bears vs. Seahawks Week 16 Highlights | NFL 2021",
+        "published_at": "2021-12-27T00:19:13Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 16,
+      "away": "PIT",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401326565"
+      },
+      "kickoff": "2021-12-26T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "j4P2t_VcP0E",
+        "title": "Steelers vs. Chiefs Week 16 Highlights | NFL 2021",
+        "published_at": "2021-12-27T00:38:37Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 16,
+      "away": "DEN",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401326566"
+      },
+      "kickoff": "2021-12-26T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "MA9hNGV890U",
+        "title": "Broncos vs. Raiders Week 16 Highlights | NFL 2021",
+        "published_at": "2021-12-27T00:11:38Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 16,
+      "away": "WSH",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401326567"
+      },
+      "kickoff": "2021-12-27T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "6GR1Ml3XRHE",
+        "title": "Washington Football Team vs. Cowboys Week 16 Highlights | NFL 2021",
+        "published_at": "2021-12-27T04:36:54Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 16,
+      "away": "MIA",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401326568"
+      },
+      "kickoff": "2021-12-28T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "0GF2bKODgKU",
+        "title": "Dolphins vs. Saints Week 16 Highlights | NFL 2021",
+        "published_at": "2021-12-28T04:26:40Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 17,
+      "away": "LAR",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401326581"
+      },
+      "kickoff": "2022-01-02T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "UJJMRwp0LzM",
+        "title": "Rams vs. Ravens Week 17 Highlights | NFL 2021",
+        "published_at": "2022-01-02T21:13:17Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 17,
+      "away": "ATL",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401326569"
+      },
+      "kickoff": "2022-01-02T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "bnMWh2CIz0Y",
+        "title": "Falcons vs. Bills Week 17 Highlights | NFL 2021",
+        "published_at": "2022-01-02T21:25:32Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 17,
+      "away": "NYG",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401326570"
+      },
+      "kickoff": "2022-01-02T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "AjT4qWs2A8M",
+        "title": "Giants vs. Bears Week 17 Highlights | NFL 2021",
+        "published_at": "2022-01-02T21:12:09Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 17,
+      "away": "KC",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401326571"
+      },
+      "kickoff": "2022-01-02T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "kU6yIpghmLU",
+        "title": "Chiefs vs. Bengals Week 17 Highlights | NFL 2021",
+        "published_at": "2022-01-02T21:29:21Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 17,
+      "away": "LV",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401326573"
+      },
+      "kickoff": "2022-01-02T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "6uur6NarJ9o",
+        "title": "Raiders vs. Colts Week 17 Highlights | NFL 2021",
+        "published_at": "2022-01-02T21:15:29Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 17,
+      "away": "JAX",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401326574"
+      },
+      "kickoff": "2022-01-02T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "KJp2ULMPBo0",
+        "title": "Jaguars vs. Patriots Week 17 Highlights | NFL 2021",
+        "published_at": "2022-01-02T21:05:33Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 17,
+      "away": "TB",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401326576"
+      },
+      "kickoff": "2022-01-02T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "2Z3nuXY3XGs",
+        "title": "Buccaneers vs. Jets Week 17 Highlights | NFL 2021",
+        "published_at": "2022-01-02T21:24:05Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 17,
+      "away": "MIA",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401326577"
+      },
+      "kickoff": "2022-01-02T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "qDk97JOnkoI",
+        "title": "Dolphins vs. Titans Week 17 Highlights | NFL 2021",
+        "published_at": "2022-01-02T21:21:54Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 17,
+      "away": "PHI",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401326578"
+      },
+      "kickoff": "2022-01-02T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "2fIhtGV2DiA",
+        "title": "Eagles vs. Washington Football Team Week 17 Highlights | NFL 2021",
+        "published_at": "2022-01-02T21:07:24Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 17,
+      "away": "DEN",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401326579"
+      },
+      "kickoff": "2022-01-02T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "S2MEYMlWlFI",
+        "title": "Broncos vs. Chargers Week 17 Highlights | NFL 2021",
+        "published_at": "2022-01-03T00:14:07Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 17,
+      "away": "HOU",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401326580"
+      },
+      "kickoff": "2022-01-02T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "0GimKwrJ7Zc",
+        "title": "Texans vs. 49ers Week 17 Highlights | NFL 2021",
+        "published_at": "2022-01-03T00:16:41Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 17,
+      "away": "ARI",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401326572"
+      },
+      "kickoff": "2022-01-02T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "GHd3MogRLPE",
+        "title": "Cardinals vs. Cowboys Week 17 Highlights | NFL 2021",
+        "published_at": "2022-01-03T00:47:50Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 17,
+      "away": "CAR",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401326575"
+      },
+      "kickoff": "2022-01-02T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "GUNJybPniB4",
+        "title": "Panthers vs. Saints Week 17 Highlights | NFL 2021",
+        "published_at": "2022-01-03T00:34:12Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 17,
+      "away": "DET",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401326582"
+      },
+      "kickoff": "2022-01-02T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "uq06DxtjqCg",
+        "title": "Lions vs. Seahawks Week 17 Highlights | NFL 2021",
+        "published_at": "2022-01-03T00:55:16Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 17,
+      "away": "MIN",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401326583"
+      },
+      "kickoff": "2022-01-03T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "qt4gfdihZWQ",
+        "title": "Vikings vs. Packers Week 17 Highlights | NFL 2021",
+        "published_at": "2022-01-03T04:41:44Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 17,
+      "away": "CLE",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401326584"
+      },
+      "kickoff": "2022-01-04T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "MCUgH_jsSqo",
+        "title": "Browns vs. Steelers Week 17 Highlights | NFL 2021",
+        "published_at": "2022-01-04T04:54:02Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 18,
+      "away": "KC",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401326598"
+      },
+      "kickoff": "2022-01-08T21:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ju_ZbCk8y-Y",
+        "title": "Chiefs vs. Broncos Week 18 Highlights | NFL 2021",
+        "published_at": "2022-01-09T00:59:59Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 18,
+      "away": "DAL",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401326595"
+      },
+      "kickoff": "2022-01-09T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "HruMGYgiooY",
+        "title": "Cowboys vs. Eagles Week 18 Highlights | NFL 2021",
+        "published_at": "2022-01-09T04:34:27Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 18,
+      "away": "PIT",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401326586"
+      },
+      "kickoff": "2022-01-09T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "6PcPB1ll2Xo",
+        "title": "Steelers vs. Ravens Week 18 Highlights | NFL 2021",
+        "published_at": "2022-01-09T21:47:52Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 18,
+      "away": "CIN",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401326588"
+      },
+      "kickoff": "2022-01-09T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "7IYA6Wsxmts",
+        "title": "Bengals vs. Browns Week 18 Highlights | NFL 2021",
+        "published_at": "2022-01-09T21:16:56Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 18,
+      "away": "GB",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401326589"
+      },
+      "kickoff": "2022-01-09T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "GfNAZ_-PSvE",
+        "title": "Packers vs. Lions Week 18 Highlights | NFL 2021",
+        "published_at": "2022-01-09T21:24:05Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 18,
+      "away": "TEN",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401326590"
+      },
+      "kickoff": "2022-01-09T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "3eFX4YjniSc",
+        "title": "Titans vs. Texans Week 18 Highlights | NFL 2021",
+        "published_at": "2022-01-09T21:15:23Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 18,
+      "away": "IND",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401326591"
+      },
+      "kickoff": "2022-01-09T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "tBrl3j2PzCc",
+        "title": "Colts vs. Jaguars Week 18 Highlights | NFL 2021",
+        "published_at": "2022-01-09T21:25:26Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 18,
+      "away": "CHI",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401326593"
+      },
+      "kickoff": "2022-01-09T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "3sgcPMYH9Nc",
+        "title": "Bears vs. Vikings Week 18 Highlights | NFL 2021",
+        "published_at": "2022-01-09T21:07:21Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 18,
+      "away": "WSH",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401326594"
+      },
+      "kickoff": "2022-01-09T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "VgOLyu7PzcU",
+        "title": "Washington Football Team vs. Giants Week 18 Highlights | NFL 2021",
+        "published_at": "2022-01-09T21:06:04Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 18,
+      "away": "SEA",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401326597"
+      },
+      "kickoff": "2022-01-09T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "jAEXRFKUsCQ",
+        "title": "Seahawks vs. Cardinals Week 18 Highlights | NFL 2021",
+        "published_at": "2022-01-10T00:55:08Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 18,
+      "away": "NO",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401326585"
+      },
+      "kickoff": "2022-01-09T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "EGGOFiKgarA",
+        "title": "Saints vs. Falcons Week 18 Highlights | NFL 2021",
+        "published_at": "2022-01-10T00:40:54Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 18,
+      "away": "NYJ",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401326587"
+      },
+      "kickoff": "2022-01-09T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "pxjMOaV7I9k",
+        "title": "Jets vs. Bills Week 18 Highlights | NFL 2021",
+        "published_at": "2022-01-10T00:51:38Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 18,
+      "away": "SF",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401326599"
+      },
+      "kickoff": "2022-01-09T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "vK6V_cJMgwM",
+        "title": "49ers vs. Rams Week 18 Highlights | NFL 2021",
+        "published_at": "2022-01-10T00:56:33Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 18,
+      "away": "NE",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401326592"
+      },
+      "kickoff": "2022-01-09T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "zhyQ9ZgTLqE",
+        "title": "Patriots vs. Dolphins Week 18 Highlights | NFL 2021",
+        "published_at": "2022-01-10T00:45:46Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 18,
+      "away": "CAR",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401326596"
+      },
+      "kickoff": "2022-01-09T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "5XzeRp6wVtk",
+        "title": "Panthers vs. Buccaneers Week 18 Highlights | NFL 2021",
+        "published_at": "2022-01-10T00:42:36Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "regular",
+      "week": 18,
+      "away": "LAC",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401326600"
+      },
+      "kickoff": "2022-01-10T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "w3HKcG5WSi8",
+        "title": "Chargers vs. Raiders Week 18 Highlights | NFL 2021",
+        "published_at": "2022-01-10T05:35:33Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "postseason",
+      "week": 19,
+      "away": "LV",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401326627"
+      },
+      "kickoff": "2022-01-15T21:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "1oGxi3leA3w",
+        "title": "Raiders vs. Bengals Super Wild Card Weekend Highlights | NFL 2021",
+        "published_at": "2022-01-16T01:10:12Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "postseason",
+      "week": 19,
+      "away": "NE",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401326626"
+      },
+      "kickoff": "2022-01-16T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "VyDQdswNNK8",
+        "title": "Patriots vs. Bills Super Wild Card Weekend Highlights | NFL 2021",
+        "published_at": "2022-01-16T04:41:28Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "postseason",
+      "week": 19,
+      "away": "PHI",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401326630"
+      },
+      "kickoff": "2022-01-16T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "dqqprHCWuT8",
+        "title": "Eagles vs. Buccaneers Super Wild Card Weekend Highlights | NFL 2021",
+        "published_at": "2022-01-16T21:30:34Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "postseason",
+      "week": 19,
+      "away": "SF",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401326629"
+      },
+      "kickoff": "2022-01-16T21:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "eVrTX5Jbjyc",
+        "title": "49ers vs. Cowboys Super Wild Card Weekend Highlights | NFL 2021",
+        "published_at": "2022-01-17T01:41:59Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "postseason",
+      "week": 19,
+      "away": "PIT",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401326628"
+      },
+      "kickoff": "2022-01-17T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "H0rCKyc7__U",
+        "title": "Steelers vs. Chiefs Super Wild Card Weekend Highlights | NFL 2021",
+        "published_at": "2022-01-17T04:32:33Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "postseason",
+      "week": 19,
+      "away": "ARI",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401326625"
+      },
+      "kickoff": "2022-01-18T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "VfMqgtKsoag",
+        "title": "Cardinals vs. Rams Super Wild Card Weekend Highlights | NFL 2021",
+        "published_at": "2022-01-18T04:40:32Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "postseason",
+      "week": 20,
+      "away": "CIN",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401326632"
+      },
+      "kickoff": "2022-01-22T21:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "EuNoMnvI_x0",
+        "title": "Bengals vs. Titans Divisional Round Highlights | NFL 2021",
+        "published_at": "2022-01-23T00:50:24Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "postseason",
+      "week": 20,
+      "away": "SF",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401326631"
+      },
+      "kickoff": "2022-01-23T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "UtTsF5GcL48",
+        "title": "49ers vs. Packers Divisional Round Highlights | NFL 2021",
+        "published_at": "2022-01-23T04:29:40Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "postseason",
+      "week": 20,
+      "away": "LAR",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401326634"
+      },
+      "kickoff": "2022-01-23T20:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "oq3K2weNdhA",
+        "title": "Rams vs. Buccaneers Divisional Round Highlights | NFL 2021",
+        "published_at": "2022-01-23T23:45:09Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "postseason",
+      "week": 20,
+      "away": "BUF",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401326633"
+      },
+      "kickoff": "2022-01-23T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "n1dp2ZKi0cc",
+        "title": "Bills vs. Chiefs Divisional Round Highlights | NFL 2021",
+        "published_at": "2022-01-24T03:21:21Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "postseason",
+      "week": 21,
+      "away": "CIN",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401326635"
+      },
+      "kickoff": "2022-01-30T20:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "nhtkNBDk31A",
+        "title": "Bengals vs. Chiefs AFC Championship Highlights | NFL 2021",
+        "published_at": "2022-01-30T23:54:20Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "postseason",
+      "week": 21,
+      "away": "SF",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401326636"
+      },
+      "kickoff": "2022-01-30T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "SXrR7xwvokU",
+        "title": "49ers vs. Rams NFC Championship Highlights | NFL 2021",
+        "published_at": "2022-01-31T02:57:16Z"
+      }
+    },
+    {
+      "season": 2021,
+      "season_type": "postseason",
+      "week": 22,
+      "away": "LAR",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401326638"
+      },
+      "kickoff": "2022-02-13T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "4x4MND-Rhrc",
+        "title": "Rams vs. Bengals | Super Bowl LVI Game Highlights",
+        "published_at": "2022-02-14T03:31:43Z"
+      }
+    }
+  ]
+}

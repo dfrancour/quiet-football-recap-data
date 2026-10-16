@@ -1,0 +1,5634 @@
+{
+  "$schema": "./schema.json",
+  "schema_version": 1,
+  "season": 2016,
+  "games": [
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "WSH",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "400874795"
+      },
+      "kickoff": "2016-08-11T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ksMeW8y0ZuQ",
+        "title": "Redskins vs. Falcons | Game Highlights | NFL",
+        "published_at": "2016-08-12T03:21:44Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "TB",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "400874854"
+      },
+      "kickoff": "2016-08-11T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "nPde3JxTgMM",
+        "title": "Buccaneers vs. Eagles | Game Highlights | NFL",
+        "published_at": "2016-08-12T03:28:20Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "CAR",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "400874757"
+      },
+      "kickoff": "2016-08-11T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "n47RtID1lEg",
+        "title": "Panthers vs. Ravens | Game Highlights | NFL",
+        "published_at": "2016-08-12T05:04:36Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "NO",
+      "home": "NE",
+      "external_ids": {
+        "espn": "400874753"
+      },
+      "kickoff": "2016-08-11T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "u20qjAKRmSo",
+        "title": "Saints vs. Patriots | Game Highlights | NFL",
+        "published_at": "2016-08-12T05:05:31Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "JAX",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "400874772"
+      },
+      "kickoff": "2016-08-11T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "sdIlz9bdZJs",
+        "title": "Jaguars vs. Jets | Game Highlights | NFL",
+        "published_at": "2016-08-12T03:57:06Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "DEN",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "400874777"
+      },
+      "kickoff": "2016-08-12T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "yBAQTzVGjFk",
+        "title": "Broncos vs. Bears | Game Highlights | NFL",
+        "published_at": "2016-08-12T05:17:24Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "MIA",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "400874812"
+      },
+      "kickoff": "2016-08-12T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "BcPzx9umzBE",
+        "title": "Dolphins vs. Giants | Game Highlights | NFL",
+        "published_at": "2016-08-13T03:39:41Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "DET",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "400874767"
+      },
+      "kickoff": "2016-08-12T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "h0b0SdlzL-4",
+        "title": "Lions vs. Steelers | Game Highlights | NFL",
+        "published_at": "2016-08-13T03:10:18Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "MIN",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "400874761"
+      },
+      "kickoff": "2016-08-12T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "32iaenzcwZE",
+        "title": "Vikings vs. Bengals | Game Highlights | NFL",
+        "published_at": "2016-08-13T03:47:06Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "CLE",
+      "home": "GB",
+      "external_ids": {
+        "espn": "400874764"
+      },
+      "kickoff": "2016-08-13T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "YpYn6lMOXE4",
+        "title": "Browns vs. Packers | Game Highlights | NFL",
+        "published_at": "2016-08-13T04:54:45Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "LV",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "400874781"
+      },
+      "kickoff": "2016-08-13T02:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "o220voUarLk",
+        "title": "Raiders vs. Cardinals | Game Highlights | NFL",
+        "published_at": "2016-08-13T06:05:09Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "SEA",
+      "home": "KC",
+      "external_ids": {
+        "espn": "400874796"
+      },
+      "kickoff": "2016-08-13T20:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "H0OZSLKF7AA",
+        "title": "Seahawks vs. Chiefs | Game Highlights | NFL",
+        "published_at": "2016-08-14T00:39:54Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "IND",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "400874750"
+      },
+      "kickoff": "2016-08-13T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "7l-EI7RcjX4",
+        "title": "Colts vs. Bills | Game Highlights | NFL",
+        "published_at": "2016-08-14T04:28:53Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "DAL",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "400873867"
+      },
+      "kickoff": "2016-08-14T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "VSzrprs3zLo",
+        "title": "Cowboys vs. Rams | Game Highlights | NFL",
+        "published_at": "2016-08-14T04:43:15Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "LAC",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "400874775"
+      },
+      "kickoff": "2016-08-14T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "zcMhAWcrXa8",
+        "title": "Chargers vs. Titans | Game Highlights | NFL",
+        "published_at": "2016-08-14T04:20:43Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "HOU",
+      "home": "SF",
+      "external_ids": {
+        "espn": "400874798"
+      },
+      "kickoff": "2016-08-14T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "u3zxcoKrmFs",
+        "title": "Texans vs. 49ers | Game Highlights | NFL",
+        "published_at": "2016-08-15T17:04:34Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "PHI",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "400874768"
+      },
+      "kickoff": "2016-08-18T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "G-KFSptw300",
+        "title": "Eagles vs. Steelers | Game Highlights | NFL",
+        "published_at": "2016-08-19T03:08:38Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "CIN",
+      "home": "DET",
+      "external_ids": {
+        "espn": "400874762"
+      },
+      "kickoff": "2016-08-18T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "J6b5z--wQaA",
+        "title": "Bengals vs. Lions | Game Highlights | NFL",
+        "published_at": "2016-08-19T03:46:29Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "ATL",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "400874765"
+      },
+      "kickoff": "2016-08-19T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "vsaqhshrLlY",
+        "title": "Falcons vs. Browns | Game Highlights | NFL",
+        "published_at": "2016-08-19T03:42:26Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "LV",
+      "home": "GB",
+      "external_ids": {
+        "espn": "400874782"
+      },
+      "kickoff": "2016-08-19T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "-jbmzdvgLI4",
+        "title": "Raiders vs. Packers | Game Highlights | NFL",
+        "published_at": "2016-08-19T04:21:51Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "CHI",
+      "home": "NE",
+      "external_ids": {
+        "espn": "400874754"
+      },
+      "kickoff": "2016-08-19T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "BxMjxPDEt0k",
+        "title": "Bears vs. Patriots | Game Highlights | NFL",
+        "published_at": "2016-08-19T03:51:45Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "MIN",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "400874793"
+      },
+      "kickoff": "2016-08-19T02:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "XqJZ0MuDvdA",
+        "title": "Vikings vs. Seahawks | Game Highlights | NFL",
+        "published_at": "2016-08-19T06:31:00Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "NYJ",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "400874790"
+      },
+      "kickoff": "2016-08-19T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "1YULGDON10Y",
+        "title": "Jets vs. Redskins | Game Highlights | NFL",
+        "published_at": "2016-08-20T05:10:19Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "MIA",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "400874853"
+      },
+      "kickoff": "2016-08-20T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "6IQWczzxtrs",
+        "title": "Dolphins vs. Cowboys | Game Highlights | NFL",
+        "published_at": "2016-08-20T04:53:54Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "ARI",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "400874784"
+      },
+      "kickoff": "2016-08-20T01:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "mN2hDNBrq4Y",
+        "title": "Cardinals vs. Chargers | Game Highlights | NFL",
+        "published_at": "2016-08-20T05:18:23Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "CAR",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "400874776"
+      },
+      "kickoff": "2016-08-20T19:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "gcQVIktMsMY",
+        "title": "Panthers vs. Titans | Game Highlights | NFL",
+        "published_at": "2016-08-20T23:17:54Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "NYG",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "400874751"
+      },
+      "kickoff": "2016-08-20T20:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "cAavudvAt1Q",
+        "title": "Giants vs. Bills | Game Highlights | NFL",
+        "published_at": "2016-08-21T00:21:04Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "BAL",
+      "home": "IND",
+      "external_ids": {
+        "espn": "400874758"
+      },
+      "kickoff": "2016-08-20T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "xZtDMqzdGB0",
+        "title": "Ravens vs. Colts | Game Highlights | NFL",
+        "published_at": "2016-08-21T03:38:10Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "TB",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "400874773"
+      },
+      "kickoff": "2016-08-20T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "lG5aAq7bm7w",
+        "title": "Buccaneers vs. Jaguars | Game Highlights | NFL",
+        "published_at": "2016-08-21T03:52:14Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "NO",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "400874799"
+      },
+      "kickoff": "2016-08-21T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "BqVt4_iZwAc",
+        "title": "Saints vs. Texans | Game Highlights | NFL",
+        "published_at": "2016-08-21T05:38:58Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "SF",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "400874778"
+      },
+      "kickoff": "2016-08-21T01:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "hhh6wlyu3-U",
+        "title": "49ers vs. Broncos | Game Highlights | NFL",
+        "published_at": "2016-08-21T05:59:07Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "KC",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "400874811"
+      },
+      "kickoff": "2016-08-21T01:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "0QsYdUW83To",
+        "title": "Chiefs vs. Rams | Game Highlights | NFL",
+        "published_at": "2016-08-21T06:36:53Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "ATL",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "400873868"
+      },
+      "kickoff": "2016-08-26T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "w3ZvBpsZ83c",
+        "title": "Falcons vs. Dolphins | Game Highlights | NFL (2016 Preseason)",
+        "published_at": "2016-08-26T04:19:25Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "DAL",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "400874797"
+      },
+      "kickoff": "2016-08-26T02:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "srpI3RWC_C4",
+        "title": "Cowboys vs. Seahawks | Game Highlights | NFL",
+        "published_at": "2016-08-26T06:37:57Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "NE",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "400874755"
+      },
+      "kickoff": "2016-08-26T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "1xBXJSe5Cro",
+        "title": "Patriots vs. Panthers | Game Highlights | NFL",
+        "published_at": "2016-08-27T03:56:09Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "BUF",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "400874856"
+      },
+      "kickoff": "2016-08-26T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "PAKs_jobi5M",
+        "title": "Bills vs. Redskins | Game Highlights | NFL",
+        "published_at": "2016-08-27T03:54:03Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "PIT",
+      "home": "NO",
+      "external_ids": {
+        "espn": "400874769"
+      },
+      "kickoff": "2016-08-27T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "-6pBWVdPK30",
+        "title": "Steelers vs. Saints | Game Highlights | NFL",
+        "published_at": "2016-08-27T04:03:49Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "CLE",
+      "home": "TB",
+      "external_ids": {
+        "espn": "400873869"
+      },
+      "kickoff": "2016-08-27T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ryO0E5BDwkY",
+        "title": "Browns vs. Buccaneers | Game Highlights | NFL",
+        "published_at": "2016-08-27T04:01:29Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "GB",
+      "home": "SF",
+      "external_ids": {
+        "espn": "400874788"
+      },
+      "kickoff": "2016-08-27T02:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "mS4b9-8tz9g",
+        "title": "Packers vs. 49ers | Game Highlights | NFL",
+        "published_at": "2016-08-27T06:15:33Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "KC",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "400874786"
+      },
+      "kickoff": "2016-08-27T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "MygHrziWJ0c",
+        "title": "Chiefs vs. Bears | Game Highlights | NFL",
+        "published_at": "2016-08-27T20:44:29Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "DET",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "400874759"
+      },
+      "kickoff": "2016-08-27T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "5RF4s4LraxQ",
+        "title": "Lions vs. Ravens | Game Highlights | NFL",
+        "published_at": "2016-08-28T03:01:24Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "PHI",
+      "home": "IND",
+      "external_ids": {
+        "espn": "400874771"
+      },
+      "kickoff": "2016-08-27T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ewdob0HIE3k",
+        "title": "Eagles vs. Colts | Game Highlights | NFL",
+        "published_at": "2016-08-28T03:06:41Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "NYG",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "400874791"
+      },
+      "kickoff": "2016-08-27T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "9EPDiWhZ6KI",
+        "title": "Giants vs. Jets | Game Highlights (2016 Preseason) | NFL",
+        "published_at": "2016-08-28T04:21:55Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "TEN",
+      "home": "LV",
+      "external_ids": {
+        "espn": "400873970"
+      },
+      "kickoff": "2016-08-28T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "9JMWmUbFVrY",
+        "title": "Titans vs. Raiders | Game Highlights | NFL",
+        "published_at": "2016-08-28T03:46:49Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "LAR",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "400874779"
+      },
+      "kickoff": "2016-08-28T01:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ghpfeKPf1mA",
+        "title": "Rams vs. Broncos | Game Highlights | NFL",
+        "published_at": "2016-08-28T04:57:22Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "LAC",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "400873971"
+      },
+      "kickoff": "2016-08-28T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "mntMLv0OEjo",
+        "title": "Chargers vs. Vikings | Game Highlights | NFL",
+        "published_at": "2016-08-28T21:03:41Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "ARI",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "400873972"
+      },
+      "kickoff": "2016-08-28T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "rFT-383kPrI",
+        "title": "Cardinals vs. Texans | Game Highlights | NFL",
+        "published_at": "2016-08-29T01:05:46Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "CIN",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "400873973"
+      },
+      "kickoff": "2016-08-29T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "IHYToQEpdVA",
+        "title": "Jaguars vs. Bengals | Game Highlights | NFL",
+        "published_at": "2016-08-29T05:12:31Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 5,
+      "away": "WSH",
+      "home": "TB",
+      "external_ids": {
+        "espn": "400874855"
+      },
+      "kickoff": "2016-09-01T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "YsRxRehSJdc",
+        "title": "Redskins vs. Buccaneers | Game Highlights | NFL",
+        "published_at": "2016-09-01T04:06:25Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 5,
+      "away": "JAX",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "400879270"
+      },
+      "kickoff": "2016-09-01T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "zwcsYdwWcMo",
+        "title": "Jaguars vs. Falcons | Game Highlights | NFL",
+        "published_at": "2016-09-02T02:31:34Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 5,
+      "away": "TEN",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "400879271"
+      },
+      "kickoff": "2016-09-01T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "56BtW9xcWy0",
+        "title": "Titans vs. Dolphins | Game Highlights | NFL",
+        "published_at": "2016-09-02T02:36:52Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 5,
+      "away": "NE",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "400874756"
+      },
+      "kickoff": "2016-09-01T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "W1C8xNX7g2A",
+        "title": "Patriots vs. Giants | Game Highlights | NFL",
+        "published_at": "2016-09-02T02:55:49Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 5,
+      "away": "NYJ",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "400874792"
+      },
+      "kickoff": "2016-09-01T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "CxHMOodtwSA",
+        "title": "Jets vs. Eagles | Game Highlights | NFL",
+        "published_at": "2016-09-02T02:45:21Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 5,
+      "away": "PIT",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "400874770"
+      },
+      "kickoff": "2016-09-01T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "aEu9_iHPCFM",
+        "title": "Steelers vs. Panthers | Game Highlights | NFL",
+        "published_at": "2016-09-02T03:03:03Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 5,
+      "away": "IND",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "400874763"
+      },
+      "kickoff": "2016-09-01T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "mf4uhCuBGow",
+        "title": "Colts vs. Bengals | Game Highlights | NFL",
+        "published_at": "2016-09-02T03:12:19Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 5,
+      "away": "BUF",
+      "home": "DET",
+      "external_ids": {
+        "espn": "400874752"
+      },
+      "kickoff": "2016-09-01T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "f389O80FgeQ",
+        "title": "Bills vs. Lions | Game Highlights | NFL",
+        "published_at": "2016-09-02T03:57:28Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 5,
+      "away": "CHI",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "400874766"
+      },
+      "kickoff": "2016-09-02T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Gvy11T9VBv8",
+        "title": "Bears vs. Browns | Game Highlights | NFL",
+        "published_at": "2016-09-02T04:26:12Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 5,
+      "away": "HOU",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "400874800"
+      },
+      "kickoff": "2016-09-02T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "fAn6wSnVy14",
+        "title": "Texans vs. Cowboys | Game Highlights | NFL",
+        "published_at": "2016-09-02T03:29:14Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 5,
+      "away": "GB",
+      "home": "KC",
+      "external_ids": {
+        "espn": "400874789"
+      },
+      "kickoff": "2016-09-02T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "6J1Di2FYJEM",
+        "title": "Packers vs. Chiefs | Game Highlights | NFL",
+        "published_at": "2016-09-02T03:56:19Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 5,
+      "away": "LAR",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "400874794"
+      },
+      "kickoff": "2016-09-02T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "kLKqdl7u9DU",
+        "title": "Rams vs. Vikings | Game Highlights | NFL",
+        "published_at": "2016-09-02T06:01:06Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 5,
+      "away": "BAL",
+      "home": "NO",
+      "external_ids": {
+        "espn": "400874760"
+      },
+      "kickoff": "2016-09-02T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "lz7OjfYrHj0",
+        "title": "Ravens vs. Saints | Game Highlights | NFL",
+        "published_at": "2016-09-02T03:32:44Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 5,
+      "away": "DEN",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "400874780"
+      },
+      "kickoff": "2016-09-02T01:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "usBftF9e9dA",
+        "title": "Broncos vs. Cardinals | Game Highlights | NFL",
+        "published_at": "2016-09-02T07:05:27Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 5,
+      "away": "SF",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "400874785"
+      },
+      "kickoff": "2016-09-02T02:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "BFGAWkMXul0",
+        "title": "49ers vs. Chargers | Game Highlights | NFL",
+        "published_at": "2016-09-02T06:07:21Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "preseason",
+      "week": 5,
+      "away": "SEA",
+      "home": "LV",
+      "external_ids": {
+        "espn": "400874783"
+      },
+      "kickoff": "2016-09-02T02:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "0KFqbk3jD8M",
+        "title": "Seahawks vs. Raiders | 2016 Preseason Game Highlights | NFL",
+        "published_at": "2016-09-02T06:20:03Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 1,
+      "away": "CAR",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "400874484"
+      },
+      "kickoff": "2016-09-09T00:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "3p-yJloHNuc",
+        "title": "Panthers vs. Broncos | NFL Week 1 Game Highlights",
+        "published_at": "2016-09-09T04:33:17Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 1,
+      "away": "TB",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "400874522"
+      },
+      "kickoff": "2016-09-11T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Z9TJsFveSp4",
+        "title": "Buccaneers vs. Falcons | NFL Week 1 Game Highlights",
+        "published_at": "2016-09-11T22:03:21Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 1,
+      "away": "BUF",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "400874510"
+      },
+      "kickoff": "2016-09-11T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "MIAuac3WdrQ",
+        "title": "Bills vs. Ravens | NFL Week 1 Game Highlights",
+        "published_at": "2016-09-11T20:41:33Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 1,
+      "away": "CHI",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "400874511"
+      },
+      "kickoff": "2016-09-11T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Gesk3et0TDk",
+        "title": "Bears vs. Texans | NFL Week 1 Game Highlights",
+        "published_at": "2016-09-11T20:31:22Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 1,
+      "away": "GB",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "400874486"
+      },
+      "kickoff": "2016-09-11T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "GcNq5T7BmdQ",
+        "title": "Packers vs. Jaguars | NFL Week 1 Game Highlights",
+        "published_at": "2016-09-11T20:58:50Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 1,
+      "away": "LAC",
+      "home": "KC",
+      "external_ids": {
+        "espn": "400874570"
+      },
+      "kickoff": "2016-09-11T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "mFbfD0ZZFLk",
+        "title": "Chargers vs. Chiefs | NFL Week 1 Game Highlights",
+        "published_at": "2016-09-11T22:03:42Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 1,
+      "away": "LV",
+      "home": "NO",
+      "external_ids": {
+        "espn": "400874543"
+      },
+      "kickoff": "2016-09-11T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "bahl5_YirI8",
+        "title": "Raiders vs. Saints | NFL Week 1 Game Highlights",
+        "published_at": "2016-09-11T21:16:06Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 1,
+      "away": "CIN",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "400874527"
+      },
+      "kickoff": "2016-09-11T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ecdzG-9EfW4",
+        "title": "Bengals vs. Jets | NFL Week 1 Game Highlights",
+        "published_at": "2016-09-11T23:07:58Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 1,
+      "away": "CLE",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "400874520"
+      },
+      "kickoff": "2016-09-11T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "fuQQr5n2qTE",
+        "title": "Browns vs. Eagles | NFL Week 1 Game Highlights",
+        "published_at": "2016-09-11T21:49:22Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 1,
+      "away": "MIN",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "400874524"
+      },
+      "kickoff": "2016-09-11T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "DTyyvGLLsig",
+        "title": "Vikings vs. Titans | NFL Week 1 Game Highlights",
+        "published_at": "2016-09-11T21:46:47Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 1,
+      "away": "MIA",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "400874577"
+      },
+      "kickoff": "2016-09-11T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Q0jF-f0F9gU",
+        "title": "Dolphins vs. Seahawks | NFL Week 1 Game Highlights",
+        "published_at": "2016-09-12T01:02:10Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 1,
+      "away": "NYG",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "400874574"
+      },
+      "kickoff": "2016-09-11T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "FpZNf3MmIjY",
+        "title": "Giants vs. Cowboys | NFL Week 1 Game Highlights",
+        "published_at": "2016-09-12T00:56:40Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 1,
+      "away": "DET",
+      "home": "IND",
+      "external_ids": {
+        "espn": "400874573"
+      },
+      "kickoff": "2016-09-11T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "zFBbCovKELg",
+        "title": "Lions vs. Colts | NFL Week 1 Game Highlights",
+        "published_at": "2016-09-12T00:49:31Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 1,
+      "away": "NE",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "400874539"
+      },
+      "kickoff": "2016-09-12T00:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "OtoCwaeKb8o",
+        "title": "Patriots vs. Cardinals | NFL Week 1 Game Highlights",
+        "published_at": "2016-09-12T04:23:05Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 1,
+      "away": "PIT",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "400874537"
+      },
+      "kickoff": "2016-09-12T23:10:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "H1Yvqrd0tX0",
+        "title": "Steelers vs. Redskins | NFL Week 1 Game Highlights",
+        "published_at": "2016-09-13T02:54:04Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 1,
+      "away": "LAR",
+      "home": "SF",
+      "external_ids": {
+        "espn": "400874532"
+      },
+      "kickoff": "2016-09-13T02:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "rs0BMGG3s1E",
+        "title": "Rams vs. 49ers | NFL Week 1 Game Highlights",
+        "published_at": "2016-09-13T05:51:17Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 2,
+      "away": "NYJ",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "400874530"
+      },
+      "kickoff": "2016-09-16T00:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "LS1MXPxMX28",
+        "title": "Jets vs. Bills | NFL Week 2 Game Highlights",
+        "published_at": "2016-09-16T04:26:21Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 2,
+      "away": "SF",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "400874535"
+      },
+      "kickoff": "2016-09-18T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "jY_SQIB1_ao",
+        "title": "49ers vs. Panthers | NFL Week 2 Game Highlights",
+        "published_at": "2016-09-18T23:02:36Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 2,
+      "away": "BAL",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "400874512"
+      },
+      "kickoff": "2016-09-18T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "6ezH5z53ku0",
+        "title": "Ravens vs. Browns | NFL Week 2 Game Highlights",
+        "published_at": "2016-09-18T21:52:28Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 2,
+      "away": "TEN",
+      "home": "DET",
+      "external_ids": {
+        "espn": "400874488"
+      },
+      "kickoff": "2016-09-18T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "mOk87OsaUP4",
+        "title": "Titans vs. Lions | NFL Week 2 Game Highlights",
+        "published_at": "2016-09-18T23:34:43Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 2,
+      "away": "KC",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "400874549"
+      },
+      "kickoff": "2016-09-18T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "A_EwY1TKjb0",
+        "title": "Chiefs vs. Texans | NFL Week 2 Game Highlights",
+        "published_at": "2016-09-18T22:26:08Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 2,
+      "away": "MIA",
+      "home": "NE",
+      "external_ids": {
+        "espn": "400874541"
+      },
+      "kickoff": "2016-09-18T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "5yz7pg69xSM",
+        "title": "Dolphins vs. Patriots | NFL Week 2 Game Highlights",
+        "published_at": "2016-09-18T21:48:49Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 2,
+      "away": "NO",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "400874529"
+      },
+      "kickoff": "2016-09-18T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "tCOH2Tb7lao",
+        "title": "Saints vs. Giants | NFL Week 2 Game Highlights",
+        "published_at": "2016-09-18T21:54:47Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 2,
+      "away": "CIN",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "400874487"
+      },
+      "kickoff": "2016-09-18T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "vTG5MftW4ZU",
+        "title": "Bengals vs. Steelers | NFL Week 2 Game Highlights",
+        "published_at": "2016-09-18T22:06:34Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 2,
+      "away": "DAL",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "400874518"
+      },
+      "kickoff": "2016-09-18T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "B23VV4sI-Ew",
+        "title": "Cowboys vs. Redskins | NFL Week 2 Game Highlights",
+        "published_at": "2016-09-18T22:10:04Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 2,
+      "away": "TB",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "400874515"
+      },
+      "kickoff": "2016-09-18T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "xxtf7-XHx3A",
+        "title": "Buccaneers vs. Cardinals | NFL Week 2 Game Highlights",
+        "published_at": "2016-09-18T23:56:01Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 2,
+      "away": "SEA",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "400874514"
+      },
+      "kickoff": "2016-09-18T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "vTn3EbkKmGg",
+        "title": "Seahawks vs. Rams | NFL Week 2 Game Highlights",
+        "published_at": "2016-09-18T23:55:33Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 2,
+      "away": "IND",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "400874526"
+      },
+      "kickoff": "2016-09-18T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Ejyz49vEMPM",
+        "title": "Colts vs. Broncos | NFL Week 2 Game Highlights",
+        "published_at": "2016-09-19T01:02:51Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 2,
+      "away": "JAX",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "400874517"
+      },
+      "kickoff": "2016-09-18T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "bIERQ-elxCQ",
+        "title": "Jaguars vs. Chargers | NFL Week 2 Game Highlights",
+        "published_at": "2016-09-19T00:22:21Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 2,
+      "away": "ATL",
+      "home": "LV",
+      "external_ids": {
+        "espn": "400874525"
+      },
+      "kickoff": "2016-09-18T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "_smNKEZn5ho",
+        "title": "Falcons vs. Raiders | NFL Week 2 Game Highlights",
+        "published_at": "2016-09-19T00:34:28Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 2,
+      "away": "GB",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "400874545"
+      },
+      "kickoff": "2016-09-19T00:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "P681dk3B6w4",
+        "title": "Packers vs. Vikings | NFL Week 2 Game Highlights",
+        "published_at": "2016-09-19T04:22:05Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 2,
+      "away": "PHI",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "400874547"
+      },
+      "kickoff": "2016-09-20T00:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "j8wjh93GY2U",
+        "title": "Eagles vs. Bears | NFL Week 2 Game Highlights",
+        "published_at": "2016-09-20T04:13:13Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 3,
+      "away": "HOU",
+      "home": "NE",
+      "external_ids": {
+        "espn": "400874551"
+      },
+      "kickoff": "2016-09-23T00:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "RVq4HxeN8K4",
+        "title": "Texans vs. Patriots | NFL Week 3 Game Highlights",
+        "published_at": "2016-09-23T04:10:44Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 3,
+      "away": "ARI",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "400874558"
+      },
+      "kickoff": "2016-09-25T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "sPB3u2zN8S0",
+        "title": "Cardinals vs. Bills | NFL Week 3 Game Highlights",
+        "published_at": "2016-09-25T22:46:56Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 3,
+      "away": "MIN",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "400874615"
+      },
+      "kickoff": "2016-09-25T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "gYocWM6W69s",
+        "title": "Vikings vs. Panthers | NFL Week 3 Game Highlights",
+        "published_at": "2016-09-25T21:02:55Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 3,
+      "away": "DEN",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "400874613"
+      },
+      "kickoff": "2016-09-25T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "nAz8BUzmxDM",
+        "title": "Broncos vs. Bengals | NFL Week 3 Game Highlights",
+        "published_at": "2016-09-25T20:59:45Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 3,
+      "away": "DET",
+      "home": "GB",
+      "external_ids": {
+        "espn": "400874610"
+      },
+      "kickoff": "2016-09-25T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "H2IzPyXxHK8",
+        "title": "Lions vs. Packers | NFL Week 3 Game Highlights",
+        "published_at": "2016-09-25T23:26:22Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 3,
+      "away": "BAL",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "400874567"
+      },
+      "kickoff": "2016-09-25T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ARkAtMR1PKw",
+        "title": "Ravens vs. Jaguars | NFL Week 3 Game Highlights",
+        "published_at": "2016-09-25T21:57:31Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 3,
+      "away": "CLE",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "400874565"
+      },
+      "kickoff": "2016-09-25T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "hQ10jsXuBFM",
+        "title": "Browns vs. Dolphins | NFL Week 3 Game Highlights",
+        "published_at": "2016-09-25T22:33:59Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 3,
+      "away": "WSH",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "400874682"
+      },
+      "kickoff": "2016-09-25T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "dg5RB70usjs",
+        "title": "Redskins vs. Giants | NFL Week 3 Game Highlights",
+        "published_at": "2016-09-25T21:58:36Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 3,
+      "away": "LV",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "400874562"
+      },
+      "kickoff": "2016-09-25T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ezBjdO_Lshk",
+        "title": "Raiders vs. Titans | NFL Week 3 Game Highlights",
+        "published_at": "2016-09-25T23:30:15Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 3,
+      "away": "SF",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "400874620"
+      },
+      "kickoff": "2016-09-25T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "-eKuSEBNcfo",
+        "title": "49ers vs. Seahawks | NFL Week 3 Game Highlights",
+        "published_at": "2016-09-25T23:58:04Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 3,
+      "away": "LAR",
+      "home": "TB",
+      "external_ids": {
+        "espn": "400874618"
+      },
+      "kickoff": "2016-09-25T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "8JDs0MKCbzw",
+        "title": "Rams vs. Buccaneers | NFL Week 3 Game Highlights",
+        "published_at": "2016-09-26T01:38:50Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 3,
+      "away": "LAC",
+      "home": "IND",
+      "external_ids": {
+        "espn": "400874624"
+      },
+      "kickoff": "2016-09-25T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "PB_JHlfXbRE",
+        "title": "Chargers vs. Colts | NFL Week 3 Game Highlights",
+        "published_at": "2016-09-26T00:34:45Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 3,
+      "away": "NYJ",
+      "home": "KC",
+      "external_ids": {
+        "espn": "400874623"
+      },
+      "kickoff": "2016-09-25T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "7JR8n2MVbh8",
+        "title": "Jets vs. Chiefs | NFL Week 3 Game Highlights",
+        "published_at": "2016-09-25T23:53:58Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 3,
+      "away": "PIT",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "400874628"
+      },
+      "kickoff": "2016-09-25T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "K9RP8MOt6-8",
+        "title": "Steelers vs. Eagles | NFL Week 3 Game Highlights",
+        "published_at": "2016-09-26T00:02:24Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 3,
+      "away": "CHI",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "400874650"
+      },
+      "kickoff": "2016-09-26T00:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "KQ6-suVy9B0",
+        "title": "Bears vs. Cowboys | NFL Week 3 Game Highlights",
+        "published_at": "2016-09-26T04:49:54Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 3,
+      "away": "ATL",
+      "home": "NO",
+      "external_ids": {
+        "espn": "400874653"
+      },
+      "kickoff": "2016-09-27T00:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "o7K0CR6a9C4",
+        "title": "Falcons vs. Saints | NFL Week 3 Game Highlights",
+        "published_at": "2016-09-27T04:11:00Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 4,
+      "away": "MIA",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "400874655"
+      },
+      "kickoff": "2016-09-30T00:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "oyuD__c9OoU",
+        "title": "Dolphins vs. Bengals | NFL Week 4 Game Highlights",
+        "published_at": "2016-09-30T04:16:51Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 4,
+      "away": "IND",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "400874657"
+      },
+      "kickoff": "2016-10-02T13:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "j66Vg__hElk",
+        "title": "Colts vs. Jaguars | NFL Week 4 Game Highlights",
+        "published_at": "2016-10-02T17:48:57Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 4,
+      "away": "CAR",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "400874664"
+      },
+      "kickoff": "2016-10-02T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "f8Do9W1dnM4",
+        "title": "Panthers vs. Falcons | NFL Week 4 Game Highlights",
+        "published_at": "2016-10-02T21:16:11Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 4,
+      "away": "LV",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "400874666"
+      },
+      "kickoff": "2016-10-02T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "w0p3KZpuW_k",
+        "title": "Raiders vs. Ravens | NFL Week 4 Game Highlights",
+        "published_at": "2016-10-02T20:54:51Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 4,
+      "away": "DET",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "400874668"
+      },
+      "kickoff": "2016-10-02T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "riy0PWEZR3U",
+        "title": "Lions vs. Bears | NFL Week 4 Game Highlights",
+        "published_at": "2016-10-02T20:56:54Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 4,
+      "away": "TEN",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "400874658"
+      },
+      "kickoff": "2016-10-02T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "1rP9svxX5BY",
+        "title": "Titans vs. Texans | NFL Week 4 Game Highlights",
+        "published_at": "2016-10-02T22:24:58Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 4,
+      "away": "BUF",
+      "home": "NE",
+      "external_ids": {
+        "espn": "400874663"
+      },
+      "kickoff": "2016-10-02T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "8f0Ha-d9zMM",
+        "title": "Bills vs. Patriots | NFL Week 4 Game Highlights",
+        "published_at": "2016-10-02T20:40:07Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 4,
+      "away": "SEA",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "400874662"
+      },
+      "kickoff": "2016-10-02T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "2aG-YKCizGU",
+        "title": "Seahawks vs. Jets | NFL Week 4 Game Highlights",
+        "published_at": "2016-10-02T21:31:41Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 4,
+      "away": "CLE",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "400874660"
+      },
+      "kickoff": "2016-10-02T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "fzKnwfTLc88",
+        "title": "Browns vs. Redskins | NFL Week 4 Game Highlights",
+        "published_at": "2016-10-02T21:31:17Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 4,
+      "away": "DEN",
+      "home": "TB",
+      "external_ids": {
+        "espn": "400874669"
+      },
+      "kickoff": "2016-10-02T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "WMoqsrYv2Rc",
+        "title": "Broncos vs. Buccaneers | NFL Week 4 Game Highlights",
+        "published_at": "2016-10-03T01:07:09Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 4,
+      "away": "LAR",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "400874671"
+      },
+      "kickoff": "2016-10-02T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "qWgc69zHjIU",
+        "title": "Rams vs. Cardinals | NFL Week 4 Game Highlights",
+        "published_at": "2016-10-03T00:51:27Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 4,
+      "away": "NO",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "400874672"
+      },
+      "kickoff": "2016-10-02T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "lTUXllzagw8",
+        "title": "Saints vs. Chargers | NFL Week 4 Game Highlights",
+        "published_at": "2016-10-03T00:35:52Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 4,
+      "away": "DAL",
+      "home": "SF",
+      "external_ids": {
+        "espn": "400874674"
+      },
+      "kickoff": "2016-10-02T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "eXJ-v78ii5M",
+        "title": "Cowboys vs. 49ers | NFL Week 4 Game Highlights",
+        "published_at": "2016-10-03T00:08:07Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 4,
+      "away": "KC",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "400874675"
+      },
+      "kickoff": "2016-10-03T00:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "KbMAeumZT-E",
+        "title": "Chiefs vs. Steelers | NFL Week 4 Game Highlights",
+        "published_at": "2016-10-03T04:06:39Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 4,
+      "away": "NYG",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "400874677"
+      },
+      "kickoff": "2016-10-04T00:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Qwpir-hsmA8",
+        "title": "Giants vs. Vikings | NFL Week 4 Game Highlights",
+        "published_at": "2016-10-04T04:26:27Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 5,
+      "away": "ARI",
+      "home": "SF",
+      "external_ids": {
+        "espn": "400874483"
+      },
+      "kickoff": "2016-10-07T00:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "JbY3REPkDoM",
+        "title": "Cardinals vs. 49ers | NFL Week 5 Game Highlights",
+        "published_at": "2016-10-07T04:09:08Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 5,
+      "away": "WSH",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "400874590"
+      },
+      "kickoff": "2016-10-09T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "tFq-Cz9qqyY",
+        "title": "Redskins vs. Ravens | NFL Week 5 Game Highlights",
+        "published_at": "2016-10-09T22:34:03Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 5,
+      "away": "NE",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "400874519"
+      },
+      "kickoff": "2016-10-09T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "91YDDwbXTK0",
+        "title": "Patriots vs. Browns | NFL Week 5 Game Highlights",
+        "published_at": "2016-10-09T20:54:17Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 5,
+      "away": "PHI",
+      "home": "DET",
+      "external_ids": {
+        "espn": "400874533"
+      },
+      "kickoff": "2016-10-09T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "wpDXBOJc-DY",
+        "title": "Eagles vs. Lions | NFL Week 5 Game Highlights",
+        "published_at": "2016-10-09T22:01:32Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 5,
+      "away": "CHI",
+      "home": "IND",
+      "external_ids": {
+        "espn": "400874548"
+      },
+      "kickoff": "2016-10-09T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "5S2A9vBneJ8",
+        "title": "Bears vs. Colts | NFL Week 5 Game Highlights",
+        "published_at": "2016-10-09T23:16:23Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 5,
+      "away": "TEN",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "400874581"
+      },
+      "kickoff": "2016-10-09T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "CWlcazyxrYs",
+        "title": "Titans vs. Dolphins | NFL Week 5 Game Highlights",
+        "published_at": "2016-10-09T23:26:06Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 5,
+      "away": "HOU",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "400874595"
+      },
+      "kickoff": "2016-10-09T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "JuxUENNh7kw",
+        "title": "Texans vs. Vikings | NFL Week 5 Game Highlights",
+        "published_at": "2016-10-09T20:49:32Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 5,
+      "away": "NYJ",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "400874602"
+      },
+      "kickoff": "2016-10-09T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "2VgijCtfH7o",
+        "title": "Jets vs. Steelers | NFL Week 5 Game Highlights",
+        "published_at": "2016-10-09T21:16:04Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 5,
+      "away": "ATL",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "400874607"
+      },
+      "kickoff": "2016-10-09T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "yAfiQKNt4r4",
+        "title": "Falcons vs. Broncos | NFL Week 5 Game Highlights",
+        "published_at": "2016-10-09T23:34:38Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 5,
+      "away": "CIN",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "400874630"
+      },
+      "kickoff": "2016-10-09T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "2rxkJRpDR-o",
+        "title": "Bengals vs. Cowboys | NFL Week 5 Game Highlights",
+        "published_at": "2016-10-09T23:42:41Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 5,
+      "away": "BUF",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "400874633"
+      },
+      "kickoff": "2016-10-09T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "lxN-H2lXCaI",
+        "title": "Bills vs. Rams | NFL Week 5 Game Highlights",
+        "published_at": "2016-10-09T23:58:45Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 5,
+      "away": "LAC",
+      "home": "LV",
+      "external_ids": {
+        "espn": "400874636"
+      },
+      "kickoff": "2016-10-09T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "7ks_1-7qUJg",
+        "title": "Chargers vs. Raiders | NFL Week 5 Game Highlights",
+        "published_at": "2016-10-10T00:56:38Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 5,
+      "away": "NYG",
+      "home": "GB",
+      "external_ids": {
+        "espn": "400874640"
+      },
+      "kickoff": "2016-10-10T00:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Y26CxKjUq5k",
+        "title": "Giants vs. Packers | NFL Week 5 Game Highlights",
+        "published_at": "2016-10-10T05:08:37Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 5,
+      "away": "TB",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "400874648"
+      },
+      "kickoff": "2016-10-11T00:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "5nGu7BgajOs",
+        "title": "Buccaneers vs. Panthers | NFL Week 5 Game Highlights",
+        "published_at": "2016-10-11T04:20:28Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 6,
+      "away": "DEN",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "400874693"
+      },
+      "kickoff": "2016-10-14T00:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "7WLuU0xAFZ4",
+        "title": "Broncos vs. Chargers | NFL Week 6 Game Highlights",
+        "published_at": "2016-10-14T04:29:02Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 6,
+      "away": "SF",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "400874698"
+      },
+      "kickoff": "2016-10-16T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "acPJd8nX8f0",
+        "title": "49ers vs. Bills | NFL Week 6 Game Highlights",
+        "published_at": "2016-10-16T23:01:55Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 6,
+      "away": "JAX",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "400874708"
+      },
+      "kickoff": "2016-10-16T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "etInWOz507U",
+        "title": "Jaguars vs. Bears | NFL Week 6 Game Highlights",
+        "published_at": "2016-10-16T21:26:10Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 6,
+      "away": "LAR",
+      "home": "DET",
+      "external_ids": {
+        "espn": "400874709"
+      },
+      "kickoff": "2016-10-16T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "9k1F1JF7o_M",
+        "title": "Rams vs. Lions | NFL Week 6 Game Highlights",
+        "published_at": "2016-10-16T21:24:25Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 6,
+      "away": "PIT",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "400874730"
+      },
+      "kickoff": "2016-10-16T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "iN9KKPCgDbg",
+        "title": "Steelers vs. Dolphins | NFL Week 6 Game Highlights",
+        "published_at": "2016-10-16T20:49:41Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 6,
+      "away": "CIN",
+      "home": "NE",
+      "external_ids": {
+        "espn": "400874736"
+      },
+      "kickoff": "2016-10-16T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "6Tn7Kz1ewvU",
+        "title": "Bengals vs. Patriots | NFL Week 6 Game Highlights",
+        "published_at": "2016-10-16T20:46:59Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 6,
+      "away": "CAR",
+      "home": "NO",
+      "external_ids": {
+        "espn": "400874707"
+      },
+      "kickoff": "2016-10-16T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "rB8MsxgXJkE",
+        "title": "Panthers vs. Saints | NFL Week 6 Game Highlights",
+        "published_at": "2016-10-17T00:56:26Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 6,
+      "away": "BAL",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "400874705"
+      },
+      "kickoff": "2016-10-16T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "0MJiiL7if0E",
+        "title": "Ravens vs. Giants | NFL Week 6 Game Highlights",
+        "published_at": "2016-10-16T22:14:48Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 6,
+      "away": "CLE",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "400874703"
+      },
+      "kickoff": "2016-10-16T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "nnDQcXwKw40",
+        "title": "Browns vs. Titans | NFL Week 6 Game Highlights",
+        "published_at": "2016-10-16T22:20:26Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 6,
+      "away": "PHI",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "400874701"
+      },
+      "kickoff": "2016-10-16T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "w36f6v3ZVm4",
+        "title": "Eagles vs. Redskins | NFL Week 6 Game Highlights",
+        "published_at": "2016-10-16T20:54:38Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 6,
+      "away": "KC",
+      "home": "LV",
+      "external_ids": {
+        "espn": "400874731"
+      },
+      "kickoff": "2016-10-16T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "CdLk7sP1g8o",
+        "title": "Chiefs vs. Raiders | NFL Week 6 Game Highlights",
+        "published_at": "2016-10-16T23:30:23Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 6,
+      "away": "DAL",
+      "home": "GB",
+      "external_ids": {
+        "espn": "400874733"
+      },
+      "kickoff": "2016-10-16T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "DL5svfnvWpQ",
+        "title": "Cowboys vs. Packers | NFL Week 6 Game Highlights",
+        "published_at": "2016-10-17T00:25:12Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 6,
+      "away": "ATL",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "400874732"
+      },
+      "kickoff": "2016-10-16T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "TZwfyvQpIcM",
+        "title": "Falcons vs. Seahawks | NFL Week 6 Game Highlights",
+        "published_at": "2016-10-17T00:33:00Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 6,
+      "away": "IND",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "400874734"
+      },
+      "kickoff": "2016-10-17T00:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "34AJ-iwqHHA",
+        "title": "Colts vs. Texans | NFL Week 6 Game Highlights",
+        "published_at": "2016-10-17T04:58:30Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 6,
+      "away": "NYJ",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "400874735"
+      },
+      "kickoff": "2016-10-18T00:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ok-0IpJ22pc",
+        "title": "Jets vs. Cardinals | NFL Week 6 Game Highlights",
+        "published_at": "2016-10-18T04:21:26Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 7,
+      "away": "CHI",
+      "home": "GB",
+      "external_ids": {
+        "espn": "400874429"
+      },
+      "kickoff": "2016-10-21T00:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "RVNoNERjMno",
+        "title": "Bears vs. Packers | NFL Week 7 Game Highlights",
+        "published_at": "2016-10-21T04:23:48Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 7,
+      "away": "NYG",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "400874490"
+      },
+      "kickoff": "2016-10-23T13:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "oVsPit6nsvA",
+        "title": "Giants vs. Rams | NFL in London Week 7 Game Highlights",
+        "published_at": "2016-10-23T18:05:12Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 7,
+      "away": "CLE",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "400874494"
+      },
+      "kickoff": "2016-10-23T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "7Wkbqja2quc",
+        "title": "Browns vs. Bengals | NFL Week 7 Game Highlights",
+        "published_at": "2016-10-23T21:18:05Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 7,
+      "away": "WSH",
+      "home": "DET",
+      "external_ids": {
+        "espn": "400874496"
+      },
+      "kickoff": "2016-10-23T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "1oORb4GAY1I",
+        "title": "Redskins vs. Lions | NFL Week 7 Game Highlights",
+        "published_at": "2016-10-23T20:57:20Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 7,
+      "away": "LV",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "400874498"
+      },
+      "kickoff": "2016-10-23T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Zf5M9JD9vZk",
+        "title": "Raiders vs. Jaguars | NFL Week 7 Game Highlights",
+        "published_at": "2016-10-23T21:34:38Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 7,
+      "away": "NO",
+      "home": "KC",
+      "external_ids": {
+        "espn": "400874491"
+      },
+      "kickoff": "2016-10-23T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "3KIpEdKEnHk",
+        "title": "Saints vs. Chiefs | NFL Week 7 Game Highlights",
+        "published_at": "2016-10-23T20:52:28Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 7,
+      "away": "BUF",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "400874500"
+      },
+      "kickoff": "2016-10-23T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "SD2LTwgBd2Y",
+        "title": "Bills vs. Dolphins | NFL Week 7 Game Highlights",
+        "published_at": "2016-10-23T23:12:51Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 7,
+      "away": "BAL",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "400874501"
+      },
+      "kickoff": "2016-10-23T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "XDmciJVP35c",
+        "title": "Ravens vs. Jets | NFL Week 7 Game Highlights",
+        "published_at": "2016-10-23T21:57:23Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 7,
+      "away": "MIN",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "400874493"
+      },
+      "kickoff": "2016-10-23T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "fMgmfxTlXmU",
+        "title": "Vikings vs. Eagles | NFL Week 7 Game Highlights",
+        "published_at": "2016-10-23T21:06:05Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 7,
+      "away": "IND",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "400874492"
+      },
+      "kickoff": "2016-10-23T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "iUxcPwZuxMY",
+        "title": "Colts vs. Titans | NFL Week 7 Game Highlights",
+        "published_at": "2016-10-23T22:39:42Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 7,
+      "away": "LAC",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "400874505"
+      },
+      "kickoff": "2016-10-23T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "5KPyrtLhj_M",
+        "title": "Chargers vs. Falcons | NFL Week 7 Game Highlights",
+        "published_at": "2016-10-24T00:42:55Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 7,
+      "away": "TB",
+      "home": "SF",
+      "external_ids": {
+        "espn": "400874503"
+      },
+      "kickoff": "2016-10-23T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "cn_yj0nobJ0",
+        "title": "Buccaneers vs. 49ers | NFL Week 7 Game Highlights",
+        "published_at": "2016-10-23T23:47:18Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 7,
+      "away": "NE",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "400874506"
+      },
+      "kickoff": "2016-10-23T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "0fKv_bBRPrM",
+        "title": "Patriots vs. Steelers | NFL Week 7 Game Highlights",
+        "published_at": "2016-10-23T23:57:57Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 7,
+      "away": "SEA",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "400874508"
+      },
+      "kickoff": "2016-10-24T00:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "KEc44SUpFFc",
+        "title": "Seahawks vs. Cardinals | NFL Week 7 Game Highlights",
+        "published_at": "2016-10-24T05:37:17Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 7,
+      "away": "HOU",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "400874509"
+      },
+      "kickoff": "2016-10-25T00:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "VYQE2OwNG5c",
+        "title": "Texans vs. Broncos | NFL Week 7 Game Highlights",
+        "published_at": "2016-10-25T04:52:58Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 8,
+      "away": "JAX",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "400874553"
+      },
+      "kickoff": "2016-10-28T00:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "DTvhRsSiTbc",
+        "title": "Jaguars vs. Titans | NFL Week 8 Game Highlights",
+        "published_at": "2016-10-28T04:17:05Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 8,
+      "away": "WSH",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "400874555"
+      },
+      "kickoff": "2016-10-30T13:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "dbsOJSW1Ro0",
+        "title": "Redskins vs. Bengals | NFL Week 8 Game Highlights",
+        "published_at": "2016-10-30T20:48:01Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 8,
+      "away": "NE",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "400874619"
+      },
+      "kickoff": "2016-10-30T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "j698yPWaWQY",
+        "title": "Patriots vs. Bills | NFL Week 8 Game Highlights",
+        "published_at": "2016-10-30T21:50:02Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 8,
+      "away": "ARI",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "400874625"
+      },
+      "kickoff": "2016-10-30T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "x6acs5JXMd0",
+        "title": "Cardinals vs. Panthers | NFL Week 8 Game Highlights",
+        "published_at": "2016-10-30T20:56:57Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 8,
+      "away": "NYJ",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "400874612"
+      },
+      "kickoff": "2016-10-30T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "y4A7D2PQBAs",
+        "title": "Jets vs. Browns | NFL Week 8 Game Highlights",
+        "published_at": "2016-10-30T22:08:45Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 8,
+      "away": "DET",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "400874569"
+      },
+      "kickoff": "2016-10-30T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "5aXVDCGRM2U",
+        "title": "Lions vs. Texans | NFL Week 8 Game Highlights",
+        "published_at": "2016-10-30T22:41:22Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 8,
+      "away": "KC",
+      "home": "IND",
+      "external_ids": {
+        "espn": "400874557"
+      },
+      "kickoff": "2016-10-30T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "oiKWdZGYOYM",
+        "title": "Chiefs vs. Colts | NFL Week 8 Game Highlights",
+        "published_at": "2016-10-30T21:57:24Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 8,
+      "away": "SEA",
+      "home": "NO",
+      "external_ids": {
+        "espn": "400874564"
+      },
+      "kickoff": "2016-10-30T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "WIuiul5xZQU",
+        "title": "Seahawks vs. Saints | NFL Week 8 Game Highlights",
+        "published_at": "2016-10-30T20:51:30Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 8,
+      "away": "LV",
+      "home": "TB",
+      "external_ids": {
+        "espn": "400874561"
+      },
+      "kickoff": "2016-10-30T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "R9mW4r655do",
+        "title": "Derek Carr Passes for Career-High 513 Yards! Raiders vs. Buccaneers | NFL Week 8 Game Highlights",
+        "published_at": "2016-10-30T22:39:42Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 8,
+      "away": "LAC",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "400874622"
+      },
+      "kickoff": "2016-10-30T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "uFz0p7wJCu4",
+        "title": "Chargers vs. Broncos | NFL Week 8 Game Highlights",
+        "published_at": "2016-10-31T01:11:25Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 8,
+      "away": "GB",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "400874616"
+      },
+      "kickoff": "2016-10-30T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "4W7FyuZvKKo",
+        "title": "Matt Ryan Out-Duels Aaron Rodgers! Packers vs. Falcons | NFL Week 8 Game Highlights",
+        "published_at": "2016-10-31T01:07:57Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 8,
+      "away": "PHI",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "400874629"
+      },
+      "kickoff": "2016-10-31T00:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "wlKop4BV6gQ",
+        "title": "Eagles vs. Cowboys | NFL Week 8 Game Highlights",
+        "published_at": "2016-10-31T05:13:11Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 8,
+      "away": "MIN",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "400874652"
+      },
+      "kickoff": "2016-11-01T00:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "qQXOhcjrQZ8",
+        "title": "Vikings vs. Bears | NFL Week 8 Game Highlights",
+        "published_at": "2016-11-01T04:16:59Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 9,
+      "away": "ATL",
+      "home": "TB",
+      "external_ids": {
+        "espn": "400874605"
+      },
+      "kickoff": "2016-11-04T00:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "UKTXhqRw0Cc",
+        "title": "Falcons vs. Buccaneers | NFL Week 9 Game Highlights",
+        "published_at": "2016-11-04T05:41:12Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 9,
+      "away": "PIT",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "400874598"
+      },
+      "kickoff": "2016-11-06T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "H4mVfxDZH34",
+        "title": "Steelers vs. Ravens | NFL Week 9 Game Highlights",
+        "published_at": "2016-11-06T22:05:09Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 9,
+      "away": "DAL",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "400874599"
+      },
+      "kickoff": "2016-11-06T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "xW-MUFSgF64",
+        "title": "Cowboys vs. Browns | NFL Week 9 Game Highlights",
+        "published_at": "2016-11-06T22:47:17Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 9,
+      "away": "JAX",
+      "home": "KC",
+      "external_ids": {
+        "espn": "400874600"
+      },
+      "kickoff": "2016-11-06T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "NEV-_oM2LXo",
+        "title": "Jaguars vs. Chiefs | NFL Week 9 Game Highlights",
+        "published_at": "2016-11-06T22:31:09Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 9,
+      "away": "NYJ",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "400874601"
+      },
+      "kickoff": "2016-11-06T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "mpIDQR8XFtk",
+        "title": "Jets vs. Dolphins | NFL Week 9 Game Highlights",
+        "published_at": "2016-11-06T23:12:57Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 9,
+      "away": "DET",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "400874604"
+      },
+      "kickoff": "2016-11-06T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "4Npcx8OaC-E",
+        "title": "Lions vs. Vikings | NFL Week 9 Game Highlights",
+        "published_at": "2016-11-07T00:27:23Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 9,
+      "away": "PHI",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "400874603"
+      },
+      "kickoff": "2016-11-06T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "sxf-ByhmAOM",
+        "title": "Eagles vs. Giants | NFL Week 9 Game Highlights",
+        "published_at": "2016-11-06T22:56:57Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 9,
+      "away": "CAR",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "400874596"
+      },
+      "kickoff": "2016-11-06T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "YPtx_O7NETQ",
+        "title": "Panthers vs. Rams | NFL Week 9 Game Highlights",
+        "published_at": "2016-11-07T01:31:24Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 9,
+      "away": "NO",
+      "home": "SF",
+      "external_ids": {
+        "espn": "400874597"
+      },
+      "kickoff": "2016-11-06T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "esPRhCHg2ag",
+        "title": "Saints vs. 49ers | NFL Week 9 Game Highlights",
+        "published_at": "2016-11-07T01:09:30Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 9,
+      "away": "IND",
+      "home": "GB",
+      "external_ids": {
+        "espn": "400874594"
+      },
+      "kickoff": "2016-11-06T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "8mosZ6NYlk0",
+        "title": "Colts vs. Packers | NFL Week 9 Game Highlights",
+        "published_at": "2016-11-07T02:08:29Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 9,
+      "away": "TEN",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "400874593"
+      },
+      "kickoff": "2016-11-06T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "k7hM5uAHV4s",
+        "title": "Titans vs. Chargers | NFL Week 9 Game Highlights",
+        "published_at": "2016-11-07T01:23:23Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 9,
+      "away": "DEN",
+      "home": "LV",
+      "external_ids": {
+        "espn": "400874592"
+      },
+      "kickoff": "2016-11-07T01:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "8OyuAdIWOQ0",
+        "title": "Broncos vs. Raiders | NFL Week 9 Game Highlights",
+        "published_at": "2016-11-07T06:19:28Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 9,
+      "away": "BUF",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "400874591"
+      },
+      "kickoff": "2016-11-08T01:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "LzvjkDwihd0",
+        "title": "Bills vs. Seahawks | NFL Week 9 Game Highlights",
+        "published_at": "2016-11-08T06:09:56Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 10,
+      "away": "CLE",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "400874589"
+      },
+      "kickoff": "2016-11-11T01:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "WEG2DE1Bdk4",
+        "title": "Browns vs. Ravens | NFL Week 10 Game Highlights",
+        "published_at": "2016-11-11T05:17:37Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 10,
+      "away": "KC",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "400874580"
+      },
+      "kickoff": "2016-11-13T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "MhXbEl79mYc",
+        "title": "Chiefs vs. Panthers | NFL Week 10 Game Highlights (2016)",
+        "published_at": "2016-11-13T21:51:32Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 10,
+      "away": "HOU",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "400874587"
+      },
+      "kickoff": "2016-11-13T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "yDzZcf9xUgo",
+        "title": "Texans vs. Jaguars | NFL Week 10 Game Highlights",
+        "published_at": "2016-11-13T22:40:45Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 10,
+      "away": "DEN",
+      "home": "NO",
+      "external_ids": {
+        "espn": "400874586"
+      },
+      "kickoff": "2016-11-13T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "KjV1SZMBHpo",
+        "title": "Broncos vs. Saints | NFL Week 10 Game Highlights",
+        "published_at": "2016-11-13T22:29:11Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 10,
+      "away": "LAR",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "400874584"
+      },
+      "kickoff": "2016-11-13T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "lrcshWvFzFE",
+        "title": "Rams vs. Jets | NFL Week 10 Game Highlights",
+        "published_at": "2016-11-13T22:31:35Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 10,
+      "away": "ATL",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "400874582"
+      },
+      "kickoff": "2016-11-13T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "MTdjAfVFlAo",
+        "title": "Falcons vs. Eagles | NFL Week 10 Game Highlights",
+        "published_at": "2016-11-13T22:24:11Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 10,
+      "away": "CHI",
+      "home": "TB",
+      "external_ids": {
+        "espn": "400874578"
+      },
+      "kickoff": "2016-11-13T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "sNcqvOLQsjY",
+        "title": "Bears vs. Buccaneers | NFL Week 10 Game Highlights",
+        "published_at": "2016-11-14T00:55:04Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 10,
+      "away": "GB",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "400874572"
+      },
+      "kickoff": "2016-11-13T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ptDuWNAlnL8",
+        "title": "Packers vs. Titans | NFL Week 10 Game Highlights",
+        "published_at": "2016-11-13T22:25:16Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 10,
+      "away": "MIN",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "400874576"
+      },
+      "kickoff": "2016-11-13T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "dZ7yPsF8JLk",
+        "title": "Vikings vs. Redskins | NFL Week 10 Game Highlights",
+        "published_at": "2016-11-13T23:22:53Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 10,
+      "away": "MIA",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "400874544"
+      },
+      "kickoff": "2016-11-13T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "5ULf1g3yB00",
+        "title": "Dolphins vs. Chargers | NFL Week 10 Game Highlights",
+        "published_at": "2016-11-14T01:23:52Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 10,
+      "away": "SF",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "400874542"
+      },
+      "kickoff": "2016-11-13T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "FqSocIRcZgk",
+        "title": "49ers vs. Cardinals | NFL Week 10 Game Highlights",
+        "published_at": "2016-11-14T02:05:07Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 10,
+      "away": "DAL",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "400874538"
+      },
+      "kickoff": "2016-11-13T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "bK4vn07W1lk",
+        "title": "Cowboys vs. Steelers | NFL Week 10 Game Highlights",
+        "published_at": "2016-11-14T02:01:57Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 10,
+      "away": "SEA",
+      "home": "NE",
+      "external_ids": {
+        "espn": "400874536"
+      },
+      "kickoff": "2016-11-14T01:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Ohz5t5luypA",
+        "title": "Seahawks vs. Patriots | NFL Week 10 Game Highlights",
+        "published_at": "2016-11-14T07:27:31Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 10,
+      "away": "CIN",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "400874531"
+      },
+      "kickoff": "2016-11-15T01:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "5c2mOz2RuXo",
+        "title": "Giants vs. Bengals | NFL Week 10 Game Highlights",
+        "published_at": "2016-11-15T05:28:10Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 11,
+      "away": "NO",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "400874609"
+      },
+      "kickoff": "2016-11-18T01:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "nZBlA1F7Xf4",
+        "title": "Saints vs. Panthers | NFL Week 11 Game Highlights",
+        "published_at": "2016-11-18T05:24:29Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 11,
+      "away": "BUF",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "400874646"
+      },
+      "kickoff": "2016-11-20T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "uSynBQCG5Y8",
+        "title": "Bills vs. Bengals | NFL Week 11 Game Highlights",
+        "published_at": "2016-11-20T23:12:00Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 11,
+      "away": "PIT",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "400874634"
+      },
+      "kickoff": "2016-11-20T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "rkL3nNvKt1g",
+        "title": "Steelers vs. Browns | NFL Week 11 Game Highlights",
+        "published_at": "2016-11-20T21:36:34Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 11,
+      "away": "BAL",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "400874638"
+      },
+      "kickoff": "2016-11-20T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "mtlhNZOIobw",
+        "title": "Ravens vs. Cowboys | NFL Week 11 Game Highlights",
+        "published_at": "2016-11-20T22:58:05Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 11,
+      "away": "JAX",
+      "home": "DET",
+      "external_ids": {
+        "espn": "400874641"
+      },
+      "kickoff": "2016-11-20T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "IAqNRa9dOyM",
+        "title": "Jaguars vs. Lions | NFL Week 11 Game Highlights",
+        "published_at": "2016-11-21T00:30:24Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 11,
+      "away": "TEN",
+      "home": "IND",
+      "external_ids": {
+        "espn": "400874644"
+      },
+      "kickoff": "2016-11-20T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "D5JeCg4e6Eo",
+        "title": "Titans vs. Colts | NFL Week 11 Game Highlights",
+        "published_at": "2016-11-20T22:07:03Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 11,
+      "away": "TB",
+      "home": "KC",
+      "external_ids": {
+        "espn": "400874649"
+      },
+      "kickoff": "2016-11-20T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Wr5vEISdJs0",
+        "title": "Buccaneers vs. Chiefs | NFL Week 11 Game Highlights",
+        "published_at": "2016-11-20T22:38:26Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 11,
+      "away": "ARI",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "400874695"
+      },
+      "kickoff": "2016-11-20T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "UeX6Pmos99w",
+        "title": "Cardinals vs. Vikings | NFL Week 11 Game Highlights",
+        "published_at": "2016-11-20T22:38:40Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 11,
+      "away": "CHI",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "400874691"
+      },
+      "kickoff": "2016-11-20T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "4Kln7cpDojQ",
+        "title": "Bears vs. Giants | NFL Week 11 Game Highlights",
+        "published_at": "2016-11-20T21:51:26Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 11,
+      "away": "MIA",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "400874697"
+      },
+      "kickoff": "2016-11-20T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "vxrxhzTdFac",
+        "title": "Dolphins vs. Rams | NFL Week 11 Game Highlights",
+        "published_at": "2016-11-21T02:15:42Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 11,
+      "away": "PHI",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "400874702"
+      },
+      "kickoff": "2016-11-20T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "xYCL1A8GRLA",
+        "title": "Eagles vs. Seahawks | NFL Week 11 Game Highlights",
+        "published_at": "2016-11-21T01:20:05Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 11,
+      "away": "NE",
+      "home": "SF",
+      "external_ids": {
+        "espn": "400874700"
+      },
+      "kickoff": "2016-11-20T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Cni4jXHqJBk",
+        "title": "Patriots vs. 49ers | NFL Week 11 Game Highlights",
+        "published_at": "2016-11-21T01:43:09Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 11,
+      "away": "GB",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "400874704"
+      },
+      "kickoff": "2016-11-21T01:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ntHowShGouo",
+        "title": "Packers vs. Redskins | NFL Week 11 Game Highlights",
+        "published_at": "2016-11-21T05:55:54Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 11,
+      "away": "HOU",
+      "home": "LV",
+      "external_ids": {
+        "espn": "400874706"
+      },
+      "kickoff": "2016-11-22T01:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "I-2jQwhLxdM",
+        "title": "Texans vs. Raiders | NFL International Week 11 Game Highlights",
+        "published_at": "2016-11-22T05:37:50Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 12,
+      "away": "MIN",
+      "home": "DET",
+      "external_ids": {
+        "espn": "400874495"
+      },
+      "kickoff": "2016-11-24T17:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "S3D67Bi626A",
+        "title": "Vikings vs. Lions | NFL on Thanksgiving Week 12 Game Highlights",
+        "published_at": "2016-11-24T21:13:41Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 12,
+      "away": "WSH",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "400874499"
+      },
+      "kickoff": "2016-11-24T21:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "TeSR6e-ogI0",
+        "title": "Redskins vs. Cowboys | NFL on Thanksgiving Week 12 Game Highlights",
+        "published_at": "2016-11-25T01:49:29Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 12,
+      "away": "PIT",
+      "home": "IND",
+      "external_ids": {
+        "espn": "400874502"
+      },
+      "kickoff": "2016-11-25T01:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ge0q6Rv4DuA",
+        "title": "Steelers vs. Colts | NFL on Thanksgiving Week 12 Game Highlights",
+        "published_at": "2016-11-25T05:03:13Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 12,
+      "away": "ARI",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "400874566"
+      },
+      "kickoff": "2016-11-27T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "_tUYsnjvvLY",
+        "title": "Cardinals vs. Falcons | NFL Week 12 Game Highlights",
+        "published_at": "2016-11-27T21:44:34Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 12,
+      "away": "CIN",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "400874560"
+      },
+      "kickoff": "2016-11-27T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "sS_fDCOXjLc",
+        "title": "Bengals vs. Ravens | NFL Week 12 Game Highlights",
+        "published_at": "2016-11-27T22:11:32Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 12,
+      "away": "JAX",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "400874554"
+      },
+      "kickoff": "2016-11-27T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "H4eLgvs7oEE",
+        "title": "Jaguars vs. Bills | NFL Week 12 Game Highlights",
+        "published_at": "2016-11-27T23:16:52Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 12,
+      "away": "TEN",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "400874507"
+      },
+      "kickoff": "2016-11-27T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "2nFTrxPsK40",
+        "title": "Titans vs. Bears | NFL Week 12 Game Highlights",
+        "published_at": "2016-11-27T22:01:37Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 12,
+      "away": "NYG",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "400874614"
+      },
+      "kickoff": "2016-11-27T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "MrotVZPW3_k",
+        "title": "Giants vs. Browns | NFL Week 12 Game Highlights",
+        "published_at": "2016-11-27T22:13:31Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 12,
+      "away": "LAC",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "400874659"
+      },
+      "kickoff": "2016-11-27T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "SPnDG39FMRU",
+        "title": "Chargers vs. Texans | NFL Week 12 Game Highlights",
+        "published_at": "2016-11-27T22:26:14Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 12,
+      "away": "SF",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "400874654"
+      },
+      "kickoff": "2016-11-27T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "hPaMZKI5DA8",
+        "title": "49ers vs. Dolphins | NFL Week 12 Game Highlights",
+        "published_at": "2016-11-27T23:33:23Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 12,
+      "away": "LAR",
+      "home": "NO",
+      "external_ids": {
+        "espn": "400874626"
+      },
+      "kickoff": "2016-11-27T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "gXkTGQvJtqM",
+        "title": "Rams vs. Saints | NFL Week 12 Game Highlights",
+        "published_at": "2016-11-27T22:52:09Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 12,
+      "away": "SEA",
+      "home": "TB",
+      "external_ids": {
+        "espn": "400874665"
+      },
+      "kickoff": "2016-11-27T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Sg4lfS82BIk",
+        "title": "Seahawks vs. Buccaneers | NFL Week 12 Game Highlights",
+        "published_at": "2016-11-28T01:29:46Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 12,
+      "away": "CAR",
+      "home": "LV",
+      "external_ids": {
+        "espn": "400874670"
+      },
+      "kickoff": "2016-11-27T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "6lC0VHZBeMQ",
+        "title": "Panthers vs. Raiders | NFL Week 12 Game Highlights",
+        "published_at": "2016-11-28T02:08:21Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 12,
+      "away": "NE",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "400874680"
+      },
+      "kickoff": "2016-11-27T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "rATrrpIB7Vo",
+        "title": "Patriots vs. Jets | NFL Week 12 Game Highlights",
+        "published_at": "2016-11-28T02:25:13Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 12,
+      "away": "KC",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "400874676"
+      },
+      "kickoff": "2016-11-28T01:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "UB_WXbcOsXM",
+        "title": "Chiefs vs. Broncos | NFL Week 12 Game Highlights",
+        "published_at": "2016-11-28T06:51:13Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 12,
+      "away": "GB",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "400874684"
+      },
+      "kickoff": "2016-11-29T01:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "TSZYsTCa2Nc",
+        "title": "Packers vs. Eagles | NFL Week 12 Game Highlights",
+        "published_at": "2016-11-29T05:08:14Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 13,
+      "away": "DAL",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "400874713"
+      },
+      "kickoff": "2016-12-02T01:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "_AylAw2wvag",
+        "title": "Cowboys vs. Vikings | NFL Week 13 Game Highlights",
+        "published_at": "2016-12-02T05:24:24Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 13,
+      "away": "KC",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "400874715"
+      },
+      "kickoff": "2016-12-04T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "s1XiNZb99Zg",
+        "title": "Chiefs vs. Falcons | NFL Week 13 Game Highlights",
+        "published_at": "2016-12-04T21:53:16Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 13,
+      "away": "MIA",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "400874722"
+      },
+      "kickoff": "2016-12-04T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "GYI9GFPoiU8",
+        "title": "Dolphins vs. Ravens | NFL Week 13 Game Highlights",
+        "published_at": "2016-12-04T22:19:29Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 13,
+      "away": "SF",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "400874723"
+      },
+      "kickoff": "2016-12-04T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Wi4_tlDHtTo",
+        "title": "49ers vs. Bears | NFL Week 13 Game Highlights",
+        "published_at": "2016-12-04T23:05:25Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 13,
+      "away": "PHI",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "400874721"
+      },
+      "kickoff": "2016-12-04T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "dvrlDY2aUWk",
+        "title": "Eagles vs. Bengals | NFL Week 13 Game Highlights",
+        "published_at": "2016-12-04T21:56:27Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 13,
+      "away": "HOU",
+      "home": "GB",
+      "external_ids": {
+        "espn": "400874720"
+      },
+      "kickoff": "2016-12-04T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "RsOcD1SLFF8",
+        "title": "Texans vs. Packers | NFL Week 13 Game Highlights",
+        "published_at": "2016-12-04T22:29:29Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 13,
+      "away": "DEN",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "400874719"
+      },
+      "kickoff": "2016-12-04T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "U9OzAbrKPtE",
+        "title": "Broncos vs. Jaguars | NFL Week 13 Game Highlights",
+        "published_at": "2016-12-04T22:05:07Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 13,
+      "away": "LAR",
+      "home": "NE",
+      "external_ids": {
+        "espn": "400874718"
+      },
+      "kickoff": "2016-12-04T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "gbdEowUnBbc",
+        "title": "Rams vs. Patriots | NFL Week 13 Game Highlights",
+        "published_at": "2016-12-04T21:58:31Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 13,
+      "away": "DET",
+      "home": "NO",
+      "external_ids": {
+        "espn": "400874717"
+      },
+      "kickoff": "2016-12-04T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "OECC5Yi_5VI",
+        "title": "Lions vs. Saints | NFL Week 13 Game Highlights",
+        "published_at": "2016-12-04T22:18:53Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 13,
+      "away": "BUF",
+      "home": "LV",
+      "external_ids": {
+        "espn": "400874724"
+      },
+      "kickoff": "2016-12-04T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "mXUvHzCGrkU",
+        "title": "Bills vs. Raiders | NFL Week 13 Game Highlights",
+        "published_at": "2016-12-05T02:04:36Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 13,
+      "away": "WSH",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "400874726"
+      },
+      "kickoff": "2016-12-04T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "xSVZgb3PIeI",
+        "title": "Redskins vs. Cardinals | NFL Week 13 Game Highlights",
+        "published_at": "2016-12-05T01:20:53Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 13,
+      "away": "TB",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "400874727"
+      },
+      "kickoff": "2016-12-04T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "_UP48qaMG48",
+        "title": "Buccaneers vs. Chargers | NFL Week 13 Game Highlights",
+        "published_at": "2016-12-05T01:43:31Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 13,
+      "away": "NYG",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "400874725"
+      },
+      "kickoff": "2016-12-04T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "H2J_NXdamtk",
+        "title": "Giants vs. Steelers | NFL Week 13 Game Highlights",
+        "published_at": "2016-12-05T01:01:48Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 13,
+      "away": "CAR",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "400874728"
+      },
+      "kickoff": "2016-12-05T01:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ZJkcJ7o4luo",
+        "title": "Panthers vs. Seahawks | NFL Week 13 Game Highlights",
+        "published_at": "2016-12-05T05:27:04Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 13,
+      "away": "IND",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "400874729"
+      },
+      "kickoff": "2016-12-06T01:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "MpVrtshFF2Y",
+        "title": "Colts vs. Jets | NFL Monday Night Football Week 13 Game Highlights",
+        "published_at": "2016-12-06T05:10:59Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 14,
+      "away": "LV",
+      "home": "KC",
+      "external_ids": {
+        "espn": "400874428"
+      },
+      "kickoff": "2016-12-09T01:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "vmisfOqSalc",
+        "title": "Raiders vs. Chiefs | NFL Week 14 Game Highlights",
+        "published_at": "2016-12-09T06:30:05Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 14,
+      "away": "PIT",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "400874497"
+      },
+      "kickoff": "2016-12-11T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "7ipVnAAF0rw",
+        "title": "Steelers vs. Bills | NFL Week 14 Game Highlights",
+        "published_at": "2016-12-11T21:51:17Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 14,
+      "away": "LAC",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "400874559"
+      },
+      "kickoff": "2016-12-11T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "viFCv55Vla0",
+        "title": "Chargers vs. Panthers | NFL Week 14 Game Highlights",
+        "published_at": "2016-12-11T22:31:37Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 14,
+      "away": "CIN",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "400874563"
+      },
+      "kickoff": "2016-12-11T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Slnb8PBzmZw",
+        "title": "Bengals vs. Browns | NFL Week 14 Game Highlights",
+        "published_at": "2016-12-11T21:32:51Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 14,
+      "away": "CHI",
+      "home": "DET",
+      "external_ids": {
+        "espn": "400874568"
+      },
+      "kickoff": "2016-12-11T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "yAJvmIBFptg",
+        "title": "Bears vs. Lions | NFL Week 14 Game Highlights",
+        "published_at": "2016-12-11T22:09:24Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 14,
+      "away": "HOU",
+      "home": "IND",
+      "external_ids": {
+        "espn": "400874611"
+      },
+      "kickoff": "2016-12-11T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "5QrKjZQICrU",
+        "title": "Texans vs. Colts | NFL Week 14 Game Highlights",
+        "published_at": "2016-12-11T22:22:29Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 14,
+      "away": "MIN",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "400874617"
+      },
+      "kickoff": "2016-12-11T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "MHHGamB9gMI",
+        "title": "Vikings vs. Jaguars | NFL Week 14 Game Highlights",
+        "published_at": "2016-12-11T22:57:53Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 14,
+      "away": "ARI",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "400874556"
+      },
+      "kickoff": "2016-12-11T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "rbkG5pyKUcI",
+        "title": "Cardinals vs. Dolphins | NFL Week 14 Game Highlights",
+        "published_at": "2016-12-11T23:20:43Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 14,
+      "away": "WSH",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "400874552"
+      },
+      "kickoff": "2016-12-11T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Dtnoy_JDWbY",
+        "title": "Redskins vs. Eagles | NFL Week 14 Game Highlights",
+        "published_at": "2016-12-11T22:05:38Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 14,
+      "away": "DEN",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "400874504"
+      },
+      "kickoff": "2016-12-11T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "skHo9L_VgEg",
+        "title": "Broncos vs. Titans | NFL Week 14 Game Highlights",
+        "published_at": "2016-12-11T22:00:02Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 14,
+      "away": "NYJ",
+      "home": "SF",
+      "external_ids": {
+        "espn": "400874621"
+      },
+      "kickoff": "2016-12-11T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "_XT_enSJ9rk",
+        "title": "Jets vs. 49ers | NFL Week 14 Game Highlights",
+        "published_at": "2016-12-12T01:56:47Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 14,
+      "away": "SEA",
+      "home": "GB",
+      "external_ids": {
+        "espn": "400874651"
+      },
+      "kickoff": "2016-12-11T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "8DGCKMj7d1Y",
+        "title": "Seahawks vs. Packers | NFL Week 14 Game Highlights",
+        "published_at": "2016-12-12T02:05:45Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 14,
+      "away": "ATL",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "400874627"
+      },
+      "kickoff": "2016-12-11T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "iEoB906LRIQ",
+        "title": "Falcons vs. Rams | NFL Week 14 Game Highlights",
+        "published_at": "2016-12-12T01:29:53Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 14,
+      "away": "NO",
+      "home": "TB",
+      "external_ids": {
+        "espn": "400874550"
+      },
+      "kickoff": "2016-12-11T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "nv6cflFew8g",
+        "title": "Saints vs. Buccaneers | NFL Week 14 Game Highlights",
+        "published_at": "2016-12-12T01:12:17Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 14,
+      "away": "DAL",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "400874656"
+      },
+      "kickoff": "2016-12-12T01:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Xs1e94Uahjc",
+        "title": "Cowboys vs. Giants | NFL Week 14 Game Highlights",
+        "published_at": "2016-12-12T05:38:45Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 14,
+      "away": "BAL",
+      "home": "NE",
+      "external_ids": {
+        "espn": "400874661"
+      },
+      "kickoff": "2016-12-13T01:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "-LzeKTAnkjc",
+        "title": "Ravens vs. Patriots | NFL Week 14 Game Highlights",
+        "published_at": "2016-12-13T05:36:28Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 15,
+      "away": "LAR",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "400874667"
+      },
+      "kickoff": "2016-12-16T01:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "3NnXzKSJIVw",
+        "title": "Rams vs. Seahawks | NFL Week 15 Game Highlights",
+        "published_at": "2016-12-16T05:18:32Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 15,
+      "away": "MIA",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "400874673"
+      },
+      "kickoff": "2016-12-18T01:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "8e_sZncvnfg",
+        "title": "Dolphins vs. Jets | NFL Week 15 Game Highlights",
+        "published_at": "2016-12-18T05:09:02Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 15,
+      "away": "PHI",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "400874685"
+      },
+      "kickoff": "2016-12-18T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "jki3pafz414",
+        "title": "Eagles vs. Ravens | NFL Week 15 Game Highlights",
+        "published_at": "2016-12-18T22:31:45Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 15,
+      "away": "CLE",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "400874683"
+      },
+      "kickoff": "2016-12-18T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "7XTYZAo3Sgc",
+        "title": "Browns vs. Bills | NFL Week 15 Game Highlights",
+        "published_at": "2016-12-18T21:44:45Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 15,
+      "away": "GB",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "400874678"
+      },
+      "kickoff": "2016-12-18T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "CmDlCTLqTE4",
+        "title": "Packers vs. Bears | NFL Week 15 Game Highlights",
+        "published_at": "2016-12-18T22:25:25Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 15,
+      "away": "PIT",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "400874714"
+      },
+      "kickoff": "2016-12-18T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "2bX525ZiiGs",
+        "title": "Steelers vs. Bengals | NFL Week 15 Game Highlights",
+        "published_at": "2016-12-18T21:59:39Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 15,
+      "away": "JAX",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "400874681"
+      },
+      "kickoff": "2016-12-18T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "UzE6757Nsg4",
+        "title": "Jaguars vs. Texans | NFL Week 15 Game Highlights",
+        "published_at": "2016-12-18T23:53:29Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 15,
+      "away": "TEN",
+      "home": "KC",
+      "external_ids": {
+        "espn": "400874686"
+      },
+      "kickoff": "2016-12-18T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "HJber8jfzOg",
+        "title": "Titans vs. Chiefs | NFL Week 15 Game Highlights",
+        "published_at": "2016-12-18T22:28:24Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 15,
+      "away": "IND",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "400874688"
+      },
+      "kickoff": "2016-12-18T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "oalxcfNegOY",
+        "title": "Colts vs. Vikings | NFL Week 15 Game Highlights",
+        "published_at": "2016-12-18T21:45:11Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 15,
+      "away": "DET",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "400874687"
+      },
+      "kickoff": "2016-12-18T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "qIJe7zAh000",
+        "title": "Lions vs. Giants | NFL Week 15 Game Highlights",
+        "published_at": "2016-12-18T22:25:38Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 15,
+      "away": "NO",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "400874689"
+      },
+      "kickoff": "2016-12-18T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "7kwSBsIz4l4",
+        "title": "Saints vs. Cardinals | NFL Week 15 Game Highlights",
+        "published_at": "2016-12-19T02:07:33Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 15,
+      "away": "SF",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "400874710"
+      },
+      "kickoff": "2016-12-18T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "jxEVy8dltOI",
+        "title": "49ers vs. Falcons | NFL Week 15 Game Highlights",
+        "published_at": "2016-12-19T00:53:16Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 15,
+      "away": "NE",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "400874711"
+      },
+      "kickoff": "2016-12-18T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "gijTjt0Yr2o",
+        "title": "Patriots vs. Broncos | NFL Week 15 Game Highlights",
+        "published_at": "2016-12-19T00:59:54Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 15,
+      "away": "LV",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "400874712"
+      },
+      "kickoff": "2016-12-18T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "l0gppOWG2Fk",
+        "title": "Raiders vs. Chargers | NFL Week 15 Game Highlights",
+        "published_at": "2016-12-19T02:06:10Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 15,
+      "away": "TB",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "400874679"
+      },
+      "kickoff": "2016-12-19T01:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "i72oXnPh8FI",
+        "title": "Buccaneers vs. Cowboys | NFL Week 15 Game Highlights",
+        "published_at": "2016-12-19T05:32:49Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 15,
+      "away": "CAR",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "400874716"
+      },
+      "kickoff": "2016-12-20T01:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "PXT6zdNcaT8",
+        "title": "Panthers vs. Redskins | NFL Week 15 Game Highlights",
+        "published_at": "2016-12-20T05:32:48Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 16,
+      "away": "NYG",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "400874485"
+      },
+      "kickoff": "2016-12-23T01:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "wiCwXx4ZC0U",
+        "title": "Giants vs. Eagles | NFL Week 16 Game Highlights",
+        "published_at": "2016-12-23T06:05:54Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 16,
+      "away": "MIA",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "400874489"
+      },
+      "kickoff": "2016-12-24T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "xeNf-axc_4s",
+        "title": "Dolphins vs. Bills | NFL Week 16 Game Highlights",
+        "published_at": "2016-12-24T22:43:53Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 16,
+      "away": "ATL",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "400874540"
+      },
+      "kickoff": "2016-12-24T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "sFKZKYglme8",
+        "title": "Falcons vs. Panthers | NFL Week 16 Game Highlights",
+        "published_at": "2016-12-24T22:04:48Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 16,
+      "away": "WSH",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "400874534"
+      },
+      "kickoff": "2016-12-24T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "_D3NuwcmGW8",
+        "title": "Redskins vs. Bears | NFL Week 16 Game Highlights",
+        "published_at": "2016-12-24T21:55:08Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 16,
+      "away": "LAC",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "400874528"
+      },
+      "kickoff": "2016-12-24T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "b96V48KvTls",
+        "title": "Chargers vs. Browns | NFL Week 16 Game Highlights",
+        "published_at": "2016-12-24T22:25:59Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 16,
+      "away": "MIN",
+      "home": "GB",
+      "external_ids": {
+        "espn": "400874523"
+      },
+      "kickoff": "2016-12-24T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Se5cR3Ft3To",
+        "title": "Vikings vs. Packers | NFL Week 16 Game Highlights",
+        "published_at": "2016-12-24T22:29:41Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 16,
+      "away": "TEN",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "400874521"
+      },
+      "kickoff": "2016-12-24T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "gjXHJGzNKy8",
+        "title": "Titans vs. Jaguars | NFL Week 16 Game Highlights",
+        "published_at": "2016-12-24T21:59:02Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 16,
+      "away": "NYJ",
+      "home": "NE",
+      "external_ids": {
+        "espn": "400874516"
+      },
+      "kickoff": "2016-12-24T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "B2PtzwqsVXI",
+        "title": "Jets vs. Patriots | NFL Week 16 Game Highlights",
+        "published_at": "2016-12-24T21:51:40Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 16,
+      "away": "IND",
+      "home": "LV",
+      "external_ids": {
+        "espn": "400874546"
+      },
+      "kickoff": "2016-12-24T21:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "8hPlvnD5wj4",
+        "title": "Colts vs. Raiders | NFL Week 16 Game Highlights",
+        "published_at": "2016-12-25T01:06:43Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 16,
+      "away": "SF",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "400874575"
+      },
+      "kickoff": "2016-12-24T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "GUf9oztwMQk",
+        "title": "49ers vs. Rams | NFL Week 16 Game Highlights",
+        "published_at": "2016-12-25T01:15:14Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 16,
+      "away": "TB",
+      "home": "NO",
+      "external_ids": {
+        "espn": "400874513"
+      },
+      "kickoff": "2016-12-24T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "j7TCP6S4L44",
+        "title": "Buccaneers vs. Saints | NFL Week 16 Game Highlights",
+        "published_at": "2016-12-25T00:54:33Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 16,
+      "away": "ARI",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "400874571"
+      },
+      "kickoff": "2016-12-24T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "uCHqGHToZOw",
+        "title": "Cardinals vs. Seahawks | NFL Week 16 Game Highlights",
+        "published_at": "2016-12-25T02:09:32Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 16,
+      "away": "CIN",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "400874579"
+      },
+      "kickoff": "2016-12-25T01:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "SWxCdv-zC0s",
+        "title": "Bengals vs. Texans | NFL Week 16 Game Highlights",
+        "published_at": "2016-12-25T05:17:31Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 16,
+      "away": "BAL",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "400874583"
+      },
+      "kickoff": "2016-12-25T21:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "QFzpXTC5dMU",
+        "title": "Ravens vs. Steelers | NFL Week 16 Christmas Game Highlights",
+        "published_at": "2016-12-26T02:20:16Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 16,
+      "away": "DEN",
+      "home": "KC",
+      "external_ids": {
+        "espn": "400874585"
+      },
+      "kickoff": "2016-12-26T01:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "UxyHIP_TdKo",
+        "title": "Broncos vs. Chiefs | NFL Week 16 Christmas Game Highlights",
+        "published_at": "2016-12-26T06:28:23Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 16,
+      "away": "DET",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "400874588"
+      },
+      "kickoff": "2016-12-27T01:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "FJmEiGoBVsw",
+        "title": "Lions vs. Cowboys | NFL Week 16 Game Highlights",
+        "published_at": "2016-12-27T05:19:52Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 17,
+      "away": "BAL",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "400874608"
+      },
+      "kickoff": "2017-01-01T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "3P4Fmn5vxNo",
+        "title": "Ravens vs. Bengals | NFL Week 17 Game Highlights",
+        "published_at": "2017-01-01T23:26:36Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 17,
+      "away": "JAX",
+      "home": "IND",
+      "external_ids": {
+        "espn": "400874639"
+      },
+      "kickoff": "2017-01-01T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "2sGfaqhbkmk",
+        "title": "Jaguars vs. Colts | NFL Week 17 Game Highlights",
+        "published_at": "2017-01-01T22:37:54Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 17,
+      "away": "NE",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "400874642"
+      },
+      "kickoff": "2017-01-01T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "XXEqf7ViiCQ",
+        "title": "Patriots vs. Dolphins | NFL Week 17 Game Highlights",
+        "published_at": "2017-01-01T21:31:38Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 17,
+      "away": "CHI",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "400874643"
+      },
+      "kickoff": "2017-01-01T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "R0MJKn_Wa7g",
+        "title": "Bears vs. Vikings | NFL Week 17 Game Highlights",
+        "published_at": "2017-01-01T21:32:37Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 17,
+      "away": "BUF",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "400874645"
+      },
+      "kickoff": "2017-01-01T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "uO7F6XO8qCo",
+        "title": "Bills vs. Jets | NFL Week 17 Game Highlights",
+        "published_at": "2017-01-01T21:47:32Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 17,
+      "away": "DAL",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "400874647"
+      },
+      "kickoff": "2017-01-01T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "x5MAjyEOLX4",
+        "title": "Cowboys vs. Eagles | NFL Week 17 Game Highlights",
+        "published_at": "2017-01-01T21:56:38Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 17,
+      "away": "CLE",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "400874690"
+      },
+      "kickoff": "2017-01-01T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "9ctY8iz0O_s",
+        "title": "Browns vs. Steelers | NFL Week 17 Game Highlights",
+        "published_at": "2017-01-01T23:48:22Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 17,
+      "away": "CAR",
+      "home": "TB",
+      "external_ids": {
+        "espn": "400874635"
+      },
+      "kickoff": "2017-01-01T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "UJiD7F36Als",
+        "title": "Panthers vs. Buccaneers | NFL Week 17 Game Highlights",
+        "published_at": "2017-01-01T22:06:57Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 17,
+      "away": "HOU",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "400874632"
+      },
+      "kickoff": "2017-01-01T18:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "fP5ocaVe5XQ",
+        "title": "Texans vs. Titans | NFL Week 17 Game Highlights",
+        "published_at": "2017-01-01T22:48:21Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 17,
+      "away": "NO",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "400874606"
+      },
+      "kickoff": "2017-01-01T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Pjg53vkdLno",
+        "title": "Saints vs. Falcons | NFL Week 17 Game Highlights",
+        "published_at": "2017-01-02T01:53:15Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 17,
+      "away": "LV",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "400874694"
+      },
+      "kickoff": "2017-01-01T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "vrMGuNdpPFI",
+        "title": "Raiders vs. Broncos | NFL Week 17 Game Highlights",
+        "published_at": "2017-01-02T01:20:46Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 17,
+      "away": "KC",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "400874696"
+      },
+      "kickoff": "2017-01-01T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "0mUvO4c9nuY",
+        "title": "Chiefs vs. Chargers | NFL Week 17 Game Highlights",
+        "published_at": "2017-01-02T01:18:22Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 17,
+      "away": "ARI",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "400874692"
+      },
+      "kickoff": "2017-01-01T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "6ZQo__Gt95s",
+        "title": "Cardinals vs. Rams | NFL Week 17 Game Highlights",
+        "published_at": "2017-01-02T01:57:09Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 17,
+      "away": "SEA",
+      "home": "SF",
+      "external_ids": {
+        "espn": "400874699"
+      },
+      "kickoff": "2017-01-01T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "5fHSERMkEwI",
+        "title": "Seahawks vs. 49ers | NFL Week 17 Game Highlights",
+        "published_at": "2017-01-02T01:05:04Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 17,
+      "away": "NYG",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "400874631"
+      },
+      "kickoff": "2017-01-01T21:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "3BiLV4JfUWw",
+        "title": "Giants vs. Redskins | NFL Week 17 Game Highlights",
+        "published_at": "2017-01-02T00:56:21Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "regular",
+      "week": 17,
+      "away": "GB",
+      "home": "DET",
+      "external_ids": {
+        "espn": "400874637"
+      },
+      "kickoff": "2017-01-02T01:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "aL6nxVZ51UY",
+        "title": "Packers vs. Lions | NFL Week 17 Game Highlights",
+        "published_at": "2017-01-02T06:41:24Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "postseason",
+      "week": 18,
+      "away": "LV",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "400932688"
+      },
+      "kickoff": "2017-01-07T21:35:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "waOVOlkShAI",
+        "title": "Raiders vs. Texans | NFL Wild Card Game Highlights",
+        "published_at": "2017-01-08T01:39:11Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "postseason",
+      "week": 18,
+      "away": "DET",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "400932689"
+      },
+      "kickoff": "2017-01-08T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "-VFEZLsd5RQ",
+        "title": "Lions vs. Seahawks | NFL Wild Card Game Highlights",
+        "published_at": "2017-01-08T05:00:54Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "postseason",
+      "week": 18,
+      "away": "MIA",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "400932687"
+      },
+      "kickoff": "2017-01-08T18:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "H1U48LddfK0",
+        "title": "Dolphins vs. Steelers | NFL Wild Card Game Highlights",
+        "published_at": "2017-01-08T22:13:31Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "postseason",
+      "week": 18,
+      "away": "NYG",
+      "home": "GB",
+      "external_ids": {
+        "espn": "400932690"
+      },
+      "kickoff": "2017-01-08T21:40:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "rD8XRjYBwrA",
+        "title": "Giants vs. Packers | NFL Wild Card Game Highlights",
+        "published_at": "2017-01-09T01:41:16Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "postseason",
+      "week": 19,
+      "away": "SEA",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "400927747"
+      },
+      "kickoff": "2017-01-14T21:35:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "h6aiv5D7DVw",
+        "title": "Seahawks vs. Falcons | NFL Divisional Game Highlights",
+        "published_at": "2017-01-15T01:44:26Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "postseason",
+      "week": 19,
+      "away": "HOU",
+      "home": "NE",
+      "external_ids": {
+        "espn": "400927746"
+      },
+      "kickoff": "2017-01-15T01:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "o3sojpWw_Yo",
+        "title": "Texans vs. Patriots | NFL Divisional Game Highlights",
+        "published_at": "2017-01-15T05:22:57Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "postseason",
+      "week": 19,
+      "away": "GB",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "400927749"
+      },
+      "kickoff": "2017-01-15T21:40:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "HBuW3TmVe30",
+        "title": "Packers vs. Cowboys | NFL Divisional Game Highlights",
+        "published_at": "2017-01-16T01:44:53Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "postseason",
+      "week": 19,
+      "away": "PIT",
+      "home": "KC",
+      "external_ids": {
+        "espn": "400927748"
+      },
+      "kickoff": "2017-01-16T01:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "lBfyg_cJexw",
+        "title": "Steelers vs. Chiefs | NFL Divisional Game Highlights",
+        "published_at": "2017-01-16T05:00:15Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "postseason",
+      "week": 20,
+      "away": "GB",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "400927751"
+      },
+      "kickoff": "2017-01-22T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "4uiEGZx9Wxs",
+        "title": "Packers vs. Falcons | NFC Championship Game Highlights",
+        "published_at": "2017-01-23T00:06:41Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "postseason",
+      "week": 20,
+      "away": "PIT",
+      "home": "NE",
+      "external_ids": {
+        "espn": "400927750"
+      },
+      "kickoff": "2017-01-22T23:40:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "TLFX6zKUcPo",
+        "title": "Steelers vs. Patriots | AFC Championship Game Highlights",
+        "published_at": "2017-01-23T03:18:52Z"
+      }
+    },
+    {
+      "season": 2016,
+      "season_type": "postseason",
+      "week": 21,
+      "away": "NE",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "400927752"
+      },
+      "kickoff": "2017-02-05T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "016LXFHpFCk",
+        "title": "New England Patriots vs. Atlanta Falcons | Super Bowl LI Game Highlights | The 28-3 Comeback",
+        "published_at": "2017-02-06T05:36:55Z"
+      }
+    }
+  ]
+}

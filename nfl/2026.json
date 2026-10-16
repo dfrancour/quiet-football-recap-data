@@ -1,0 +1,2200 @@
+{
+  "$schema": "./schema.json",
+  "schema_version": 1,
+  "season": 2026,
+  "games": [
+    {
+      "season": 2026,
+      "season_type": "preseason",
+      "week": 1,
+      "away": "CAR",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401873271"
+      },
+      "kickoff": "2026-08-07T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "DM2cJZlleFE",
+        "title": "Carolina Panthers vs. Arizona Cardinals | 2026 Hall of Fame Game Highlights",
+        "published_at": "2026-08-07T03:22:26Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "DET",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401873272"
+      },
+      "kickoff": "2026-08-13T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "4F0M1HReG6g",
+        "title": "Detroit Lions vs. Cincinnati Bengals | 2026 Preseason Week 1",
+        "published_at": "2026-08-14T02:35:16Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "GB",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401873275"
+      },
+      "kickoff": "2026-08-13T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "TAM_TIYbYGU",
+        "title": "Green Bay Packers vs. Pittsburgh Steelers | 2026 Preseason Week 1",
+        "published_at": "2026-08-14T02:37:19Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "IND",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401873273"
+      },
+      "kickoff": "2026-08-13T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "9Eod-c4mrpI",
+        "title": "Indianapolis Colts vs. New England Patriots | 2026 Preseason Week 1",
+        "published_at": "2026-08-14T03:01:09Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "LAC",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401873274"
+      },
+      "kickoff": "2026-08-14T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Br5pK3zlAw4",
+        "title": "Los Angeles Chargers vs Houston Texans | Preseason Week 1",
+        "published_at": "2026-08-14T03:46:45Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "ARI",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401873640"
+      },
+      "kickoff": "2026-08-14T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "cLfZgxz-Aio",
+        "title": "Arizona Cardinals vs Las Vegas Raiders | 2026 Preseason Week 1",
+        "published_at": "2026-08-14T03:45:29Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "TEN",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401874392"
+      },
+      "kickoff": "2026-08-14T01:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "QAjFDzWNm9E",
+        "title": "Tennessee Titans vs San Francisco 49ers | 2026 Preseason Week 1",
+        "published_at": "2026-08-14T04:22:50Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "DEN",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401873278"
+      },
+      "kickoff": "2026-08-14T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "vFs6a2CqHTk",
+        "title": "Denver Broncos vs. Atlanta Falcons  | 2026 Preseason Week 1",
+        "published_at": "2026-08-15T02:36:08Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "TB",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401873276"
+      },
+      "kickoff": "2026-08-14T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ofm_sT62f-c",
+        "title": "Tampa Bay Buccaneers vs. New York Jets | 2026 Preseason Week 1",
+        "published_at": "2026-08-15T02:26:15Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "MIA",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401873277"
+      },
+      "kickoff": "2026-08-14T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "b6kc4rR5H8c",
+        "title": "Miami Dolphins vs. Washington Commanders  | 2026 Preseason Week 1",
+        "published_at": "2026-08-15T02:24:06Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "CAR",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401873282"
+      },
+      "kickoff": "2026-08-15T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "yYHEdqe2TqQ",
+        "title": "Carolina Panthers vs. Buffalo Bills | 2026 Preseason Week 1",
+        "published_at": "2026-08-15T20:24:13Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "CLE",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401874393"
+      },
+      "kickoff": "2026-08-15T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "BGa1hE_2rwg",
+        "title": "Cleveland Browns vs. Chicago Bears | 2026 Preseason Week 1",
+        "published_at": "2026-08-15T20:29:33Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "MIN",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401873280"
+      },
+      "kickoff": "2026-08-15T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "_ao9lrkDsjc",
+        "title": "Minnesota Vikings vs. New York Giants | 2026 Preseason Week 1",
+        "published_at": "2026-08-15T20:28:04Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "LAR",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401873283"
+      },
+      "kickoff": "2026-08-15T20:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "_TtInH48nDY",
+        "title": "Los Angeles Rams vs. Kansas City Chiefs  | 2026 Preseason Week 1",
+        "published_at": "2026-08-15T23:30:45Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "JAX",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401873281"
+      },
+      "kickoff": "2026-08-15T20:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "pzS8jXtQg30",
+        "title": "Jacksonville Jaguars vs. New Orleans Saints | 2026 Preseason Week 1",
+        "published_at": "2026-08-15T23:35:35Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "PHI",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401873284"
+      },
+      "kickoff": "2026-08-15T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Qrua6OcCm4c",
+        "title": "Philadelphia Eagles vs. Baltimore Ravens | 2026 Preseason Week 1",
+        "published_at": "2026-08-16T02:38:06Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "preseason",
+      "week": 2,
+      "away": "DAL",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401873279"
+      },
+      "kickoff": "2026-08-16T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "NUvZpCNjH38",
+        "title": "Dallas Cowboys vs. Seattle Seahawks | 2026 Preseason Week 1",
+        "published_at": "2026-08-16T03:13:23Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "LV",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401873286"
+      },
+      "kickoff": "2026-08-21T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "8wd5sEqGYpI",
+        "title": "Las Vegas Raiders vs. Houston Texans  | 2026 Preseason  Week 2",
+        "published_at": "2026-08-21T03:20:53Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "SF",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401873285"
+      },
+      "kickoff": "2026-08-21T02:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "DHlHW9N7lbg",
+        "title": "San Francisco 49ers vs. Los Angeles Chargers  | 2026 Preseason Week 2",
+        "published_at": "2026-08-21T05:31:10Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "NYJ",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401873288"
+      },
+      "kickoff": "2026-08-21T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "KbTJq1tGFWI",
+        "title": "New York Jets vs. Pittsburgh Steelers | 2026 Preseason Week 2",
+        "published_at": "2026-08-22T02:13:03Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "CAR",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401873287"
+      },
+      "kickoff": "2026-08-21T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "qlm7Cn1Vfk0",
+        "title": "Carolina Panthers vs Jacksonville Jaguars | 2026 Preseason Week 2",
+        "published_at": "2026-08-22T03:04:33Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "GB",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401873613"
+      },
+      "kickoff": "2026-08-22T01:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "x8VUx_fual0",
+        "title": "Green Bay Packers vs. Denver Broncos | 2026 Preseason Week 2",
+        "published_at": "2026-08-22T04:21:43Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "WSH",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401873601"
+      },
+      "kickoff": "2026-08-22T16:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "o34kRxVTH48",
+        "title": "Washington Commanders vs. Detroit Lions | 2026 Preseason Week 2",
+        "published_at": "2026-08-22T19:11:34Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "BUF",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401873294"
+      },
+      "kickoff": "2026-08-22T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "3Zv3XGs0mKY",
+        "title": "Buffalo Bills vs Cleveland Browns | 2026 Preseason Week 2",
+        "published_at": "2026-08-22T21:19:01Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "ATL",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401873295"
+      },
+      "kickoff": "2026-08-22T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "WjPXwDZeS44",
+        "title": "Atlanta Falcons vs. Indianapolis Colts | 2026 Preseason Week 2",
+        "published_at": "2026-08-22T20:09:03Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "BAL",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401873291"
+      },
+      "kickoff": "2026-08-22T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "75RJk_LK4tE",
+        "title": "Baltimore Ravens vs. Minnesota Vikings | 2026 Preseason Week 2",
+        "published_at": "2026-08-22T20:50:23Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "NO",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401873290"
+      },
+      "kickoff": "2026-08-22T20:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "RYVEBqW7HK4",
+        "title": "New Orleans Saints vs. Los Angeles Rams | 2026 Preseason Week 2",
+        "published_at": "2026-08-22T23:26:26Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "NYG",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401873292"
+      },
+      "kickoff": "2026-08-22T20:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "4BW4VZUU6k0",
+        "title": "New York Giants vs. Miami Dolphins | 2026 Preseason Week 2",
+        "published_at": "2026-08-22T23:17:26Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "CHI",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401873289"
+      },
+      "kickoff": "2026-08-22T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "J_NNOm_Ljh8",
+        "title": "Chicago Bears vs. Cincinnati Bengals | 2026 Preseason Week 2",
+        "published_at": "2026-08-23T02:51:10Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "PHI",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401873293"
+      },
+      "kickoff": "2026-08-22T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "oaMBTMAdkW8",
+        "title": "Philadelphia Eagles vs. New England Patriots | 2026 Preseason Week 2",
+        "published_at": "2026-08-23T02:45:43Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "KC",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401873296"
+      },
+      "kickoff": "2026-08-22T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "yiX-40LsJMc",
+        "title": "Kansas City Chiefs vs. Tampa Bay Buccaneers | 2026 Preseason Week 2",
+        "published_at": "2026-08-23T03:27:51Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "DAL",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401874101"
+      },
+      "kickoff": "2026-08-23T02:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "EE3Vxr7y_ho",
+        "title": "Dallas Cowboys vs Arizona Cardinals | 2026 Preseason Week 2",
+        "published_at": "2026-08-23T05:02:51Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "preseason",
+      "week": 3,
+      "away": "SEA",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401873297"
+      },
+      "kickoff": "2026-08-24T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "wLb5_rcnSe0",
+        "title": "Seattle Seahawks vs. Tennessee Titans | 2026 Preseason Week 2",
+        "published_at": "2026-08-24T03:21:04Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "PIT",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401873298"
+      },
+      "kickoff": "2026-08-27T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "U1oaQfdcNZ4",
+        "title": "Pittsburgh Steelers vs. Buffalo Bills | 2026 Preseason Week 3",
+        "published_at": "2026-08-28T02:10:49Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "NE",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401873299"
+      },
+      "kickoff": "2026-08-28T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Z93x46lvZy0",
+        "title": "New England Patriots vs. Cleveland Browns | 2026 Preseason Week 3",
+        "published_at": "2026-08-28T02:59:20Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "SF",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401873641"
+      },
+      "kickoff": "2026-08-28T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "iR5hbAlVc7k",
+        "title": "San Francisco 49ers vs. Las Vegas Raiders | 2026 Preseason Week 3",
+        "published_at": "2026-08-28T03:10:57Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "LAR",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401873300"
+      },
+      "kickoff": "2026-08-28T02:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "pHfqinG-z8A",
+        "title": "Los Angeles Rams vs. Los Angeles Chargers | 2026 Preseason Week 3",
+        "published_at": "2026-08-28T05:09:07Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "WSH",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401873302"
+      },
+      "kickoff": "2026-08-28T22:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "_JfNRMSc6Ak",
+        "title": "Washington Commanders vs. Baltimore Ravens | 2026 Preseason Week 3",
+        "published_at": "2026-08-29T01:38:21Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "HOU",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401873307"
+      },
+      "kickoff": "2026-08-28T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "wbrUKXwLNbY",
+        "title": "Houston Texans vs. Carolina Panthers  | 2026 PreseasonWeek 3",
+        "published_at": "2026-08-29T02:13:54Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "ATL",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401873304"
+      },
+      "kickoff": "2026-08-28T23:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "DQvyyEncZso",
+        "title": "Atlanta Falcons vs. Miami Dolphins | 2026 Preseason Week 3",
+        "published_at": "2026-08-29T02:16:43Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "TB",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401873306"
+      },
+      "kickoff": "2026-08-28T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "cuXmxIBq8rI",
+        "title": "Tampa Bay Buccaneers vs. Jacksonville Jaguars | 2026 Preseason Week 3",
+        "published_at": "2026-08-29T02:35:28Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "NYG",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401873303"
+      },
+      "kickoff": "2026-08-28T23:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "uqBUIjRFJ_0",
+        "title": "New York Giants vs. New York Jets | 2026 Preseason Week 3",
+        "published_at": "2026-08-29T02:56:33Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "NO",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401874048"
+      },
+      "kickoff": "2026-08-29T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "JFRetgTYii8",
+        "title": "New Orleans Saints vs. Dallas Cowboys | 2026 Preseason Week 3",
+        "published_at": "2026-08-29T03:06:59Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "ARI",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401874102"
+      },
+      "kickoff": "2026-08-29T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "KcWgmj42y18",
+        "title": "Arizona Cardinals vs. Green Bay Packers | 2026 Preseason Week 3",
+        "published_at": "2026-08-29T03:24:01Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "SEA",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401873305"
+      },
+      "kickoff": "2026-08-29T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "_bGJwbgwdD8",
+        "title": "Seattle Seahawks vs. Kansas City Chiefs | 2026 Preseason Week 3",
+        "published_at": "2026-08-29T03:19:09Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "CIN",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401873301"
+      },
+      "kickoff": "2026-08-29T00:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "GydmfzHGnt0",
+        "title": "Cincinnati Bengals vs. Philadelphia Eagles | 2026 Preseason Week 3",
+        "published_at": "2026-08-29T03:15:33Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "MIN",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401873614"
+      },
+      "kickoff": "2026-08-29T01:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "78bMrEt1qg8",
+        "title": "Minnesota Vikings vs. Denver Broncos | 2026 Preseason Week 3",
+        "published_at": "2026-08-29T04:17:57Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "DET",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401873308"
+      },
+      "kickoff": "2026-08-29T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "zPOLpNquCCU",
+        "title": "Detroit Lions vs Indianapolis Colts | 2026 Preseason Week 3",
+        "published_at": "2026-08-29T20:14:37Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "preseason",
+      "week": 4,
+      "away": "CHI",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401874394"
+      },
+      "kickoff": "2026-08-29T22:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "tqqbRB2uu2g",
+        "title": "Chicago Bears vs Tennessee Titans | 2026 Preseason Week 3",
+        "published_at": "2026-08-30T01:36:23Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 1,
+      "away": "NE",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401872656"
+      },
+      "kickoff": "2026-09-10T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "hyEng1b5j8o",
+        "title": "New England Patriots vs. Seattle Seahawks Game Highlights Week 1 | NFL 2026",
+        "published_at": "2026-09-10T03:47:43Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 1,
+      "away": "SF",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401872657"
+      },
+      "kickoff": "2026-09-11T00:35:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "C9sL5j_iUiE",
+        "title": "San Francisco 49ers vs Los Angeles Rams Game Highlights | 2026 Week 1 Melbourne Game",
+        "published_at": "2026-09-11T03:55:31Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 1,
+      "away": "CHI",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401872661"
+      },
+      "kickoff": "2026-09-13T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "gXmzn5ZBsHU",
+        "title": "Chicago Bears vs Carolina Panthers Game Highlights | NFL 2026 Week 1",
+        "published_at": "2026-09-13T20:58:35Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 1,
+      "away": "TB",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401872925"
+      },
+      "kickoff": "2026-09-13T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "6Jc-OI39Qng",
+        "title": "Tampa Bay Buccaneers vs. Cincinnati Bengals Game Highlights | NFL 2026 Season Week 1",
+        "published_at": "2026-09-13T20:28:15Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 1,
+      "away": "NO",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401872923"
+      },
+      "kickoff": "2026-09-13T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "KC4OW2m3hjs",
+        "title": "New Orleans Saints vs. Detroit Lions Game Highlights | NFL 2026 Season Week 1",
+        "published_at": "2026-09-13T21:06:11Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 1,
+      "away": "BUF",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401872660"
+      },
+      "kickoff": "2026-09-13T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "X3AZfHgZXFE",
+        "title": "Buffalo Bills vs. Houston Texans Game Highlights | NFL 2026 Season Week 1",
+        "published_at": "2026-09-13T20:34:25Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 1,
+      "away": "BAL",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401872659"
+      },
+      "kickoff": "2026-09-13T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "iyDolDtuiT0",
+        "title": "Baltimore Ravens vs. Indianapolis Colts Game Highlights | NFL 2026 Season Week 1",
+        "published_at": "2026-09-13T20:32:29Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 1,
+      "away": "CLE",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401872922"
+      },
+      "kickoff": "2026-09-13T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "T5D7UViL1L0",
+        "title": "Cleveland Browns vs Jacksonville Jaguars Game Highlights | NFL 2026 Week 1",
+        "published_at": "2026-09-13T20:34:58Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 1,
+      "away": "ATL",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401872658"
+      },
+      "kickoff": "2026-09-13T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "TQcletbGnAk",
+        "title": "Atlanta Falcons vs. Pittsburgh Steelers Game Highlights | NFL 2026 Season Week 1",
+        "published_at": "2026-09-13T20:34:46Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 1,
+      "away": "NYJ",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401872924"
+      },
+      "kickoff": "2026-09-13T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "vt9DKUJ_Q-Y",
+        "title": "New York Jets vs Tennessee Titans Game Highlights | NFL 2026 Week 1",
+        "published_at": "2026-09-13T20:49:48Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 1,
+      "away": "ARI",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401872926"
+      },
+      "kickoff": "2026-09-13T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "UKqM7fT42uk",
+        "title": "Arizona Cardinals vs. Los Angeles Chargers Game Highlights | NFL 2026 Season Week 1",
+        "published_at": "2026-09-13T23:52:23Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 1,
+      "away": "MIA",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401872928"
+      },
+      "kickoff": "2026-09-13T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "bi4dvOh4tPA",
+        "title": "Miami Dolphins vs Las Vegas Raiders Game Highlights | 2026 NFL Week 1",
+        "published_at": "2026-09-14T00:12:21Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 1,
+      "away": "GB",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401872927"
+      },
+      "kickoff": "2026-09-13T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "d6wKdU-5kME",
+        "title": "Green Bay Packers vs. Minnesota Vikings Game Highlights | NFL 2026 Season Week 1",
+        "published_at": "2026-09-14T00:28:05Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 1,
+      "away": "WSH",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401872929"
+      },
+      "kickoff": "2026-09-13T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "UYunnfDMXGc",
+        "title": "Washington Commanders vs Philadelphia Eagles Game Highlights | 2026 NFL Week 1",
+        "published_at": "2026-09-14T00:09:24Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 1,
+      "away": "DAL",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401872930"
+      },
+      "kickoff": "2026-09-14T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "9R8P93W2iKE",
+        "title": "Dallas Cowboys vs New York Giants Game Highlights | NFL 2026 Season Week 1",
+        "published_at": "2026-09-14T04:04:41Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 1,
+      "away": "DEN",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401872931"
+      },
+      "kickoff": "2026-09-15T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "RYh8_uw45Fw",
+        "title": "Denver Broncos vs Kansas City Chiefs Game Highlights | 2026 NFL Season Week 1",
+        "published_at": "2026-09-15T03:38:43Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 2,
+      "away": "DET",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401872932"
+      },
+      "kickoff": "2026-09-18T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ULjOfKcZl4o",
+        "title": "Detroit Lions vs Buffalo Bills Game Highlights | 2026 NFL Season Week 2",
+        "published_at": "2026-09-18T04:02:44Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 2,
+      "away": "CAR",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401872933"
+      },
+      "kickoff": "2026-09-20T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "6zdUT_bY1Gg",
+        "title": "Carolina Panthers vs. Atlanta Falcons Game Highlights | NFL Week 2",
+        "published_at": "2026-09-20T20:29:58Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 2,
+      "away": "NO",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401872938"
+      },
+      "kickoff": "2026-09-20T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "ZhFUgsuEgV4",
+        "title": "New Orleans Saints vs. Baltimore Ravens Game Highlights | NFL 2026 Season Week 2",
+        "published_at": "2026-09-20T20:22:43Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 2,
+      "away": "MIN",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401872937"
+      },
+      "kickoff": "2026-09-20T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "hwqFHBP3_VM",
+        "title": "Minnesota Vikings vs. Chicago Bears Game Highlights | NFL 2026 Season Week 2",
+        "published_at": "2026-09-20T20:31:09Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 2,
+      "away": "CIN",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401872934"
+      },
+      "kickoff": "2026-09-20T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Bi13ofXC0xY",
+        "title": "Cincinnati Bengals vs Houston Texans Game Highlights | 2026 NFL Season Week 2",
+        "published_at": "2026-09-20T20:32:58Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 2,
+      "away": "PIT",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401872946"
+      },
+      "kickoff": "2026-09-20T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "HMeTHt77nYE",
+        "title": "Pittsburgh Steelers vs. New England Patriots Game Highlights | NFL Week 2",
+        "published_at": "2026-09-21T00:05:10Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 2,
+      "away": "GB",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401872936"
+      },
+      "kickoff": "2026-09-20T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Z7OIS7hXV7E",
+        "title": "Green Bay Packers vs. New York Jets Game Highlights | NFL 2026 Season Week 2",
+        "published_at": "2026-09-20T20:59:45Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 2,
+      "away": "CLE",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401872935"
+      },
+      "kickoff": "2026-09-20T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Q5PgGZKMUqk",
+        "title": "Cleveland Browns vs Tampa Bay Buccaneers Game Highlights",
+        "published_at": "2026-09-20T22:27:52Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 2,
+      "away": "PHI",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401872939"
+      },
+      "kickoff": "2026-09-20T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "qQFyOm6nFaE",
+        "title": "Philadelphia Eagles vs Tennessee Titans Game Highlights | 2026 NFL Season Week 2",
+        "published_at": "2026-09-20T20:28:58Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 2,
+      "away": "JAX",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401872940"
+      },
+      "kickoff": "2026-09-20T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "bGoj6Mktog0",
+        "title": "Jacksonville Jaguars vs. Denver Broncos Game Highlights | NFL 2026 Season Week 2",
+        "published_at": "2026-09-20T23:33:13Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 2,
+      "away": "LV",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401872941"
+      },
+      "kickoff": "2026-09-20T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "cyk5Vci3k-c",
+        "title": "Las Vegas Raiders vs Los Angeles Chargers Game Highlights | 2026 NFL Season Week 2",
+        "published_at": "2026-09-20T23:30:45Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 2,
+      "away": "SEA",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401872943"
+      },
+      "kickoff": "2026-09-20T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "_k-w90zF8t4",
+        "title": "Seattle Seahawks vs. Arizona Cardinals Game Highlights | NFL 2026 Season Week 2",
+        "published_at": "2026-09-20T23:42:36Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 2,
+      "away": "WSH",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401872944"
+      },
+      "kickoff": "2026-09-20T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "s6KiKu6PZgk",
+        "title": "Washington Commanders vs Dallas Cowboys Game Highlights | 2026 NFL Season Week 2",
+        "published_at": "2026-09-20T23:53:29Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 2,
+      "away": "MIA",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401872942"
+      },
+      "kickoff": "2026-09-20T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "pV8FmQa0a5w",
+        "title": "Miami Dolphins vs. San Francisco 49ers Game Highlights | NFL 2026 Week 2",
+        "published_at": "2026-09-20T23:35:42Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 2,
+      "away": "IND",
+      "home": "KC",
+      "external_ids": {
+        "espn": "401872945"
+      },
+      "kickoff": "2026-09-21T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "baPzspvJv5Q",
+        "title": "Indianapolis Colts vs Kansas City Chiefs Game Highlights | 2026 NFL Season Week 2",
+        "published_at": "2026-09-21T04:15:58Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 2,
+      "away": "NYG",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401872947"
+      },
+      "kickoff": "2026-09-22T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "qg9GZqmTRto",
+        "title": "New York Giants vs Los Angeles Rams Game Highlights | 2026 NFL Season Week 2",
+        "published_at": "2026-09-22T03:20:15Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 3,
+      "away": "ATL",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401872948"
+      },
+      "kickoff": "2026-09-25T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "sbXZBAUOkDw",
+        "title": "Atlanta Falcons vs Green Bay Packers Game Highlights | 2026 NFL Season Week 3",
+        "published_at": "2026-09-25T03:41:14Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 3,
+      "away": "LAC",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401872953"
+      },
+      "kickoff": "2026-09-27T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "v__pg6qIYL4",
+        "title": "Los Angeles Chargers vs. Buffalo Bills Game Highlights | NFL 2026 Season Week 3",
+        "published_at": "2026-09-27T20:35:35Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 3,
+      "away": "CAR",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401872949"
+      },
+      "kickoff": "2026-09-27T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "EyGW6pqjIgs",
+        "title": "Carolina Panthers vs. Cleveland Browns Game Highlights | NFL 2026 Season Week 3",
+        "published_at": "2026-09-27T20:39:27Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 3,
+      "away": "NYJ",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401872954"
+      },
+      "kickoff": "2026-09-27T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "xsJzYyK4mGE",
+        "title": "New York Jets vs. Detroit Lions Game Highlights | NFL 2026 Season Week 3",
+        "published_at": "2026-09-27T20:28:58Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 3,
+      "away": "HOU",
+      "home": "IND",
+      "external_ids": {
+        "espn": "401872951"
+      },
+      "kickoff": "2026-09-27T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "LwBJf78vzjY",
+        "title": "Houston Texans vs Indianapolis Colts Game Highlights | 2026 NFL Season Week 3",
+        "published_at": "2026-09-27T20:55:59Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 3,
+      "away": "NE",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401872957"
+      },
+      "kickoff": "2026-09-27T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Oi9HQlp-ysA",
+        "title": "New England Patriots vs Jacksonville Jaguars Game Highlights | 2026 NFL Season Week 3",
+        "published_at": "2026-09-27T20:51:20Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 3,
+      "away": "KC",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401872952"
+      },
+      "kickoff": "2026-09-27T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "eyM7QUODW6c",
+        "title": "Kansas City Chiefs vs. Miami Dolphins Game Highlights | NFL 2026 Season Week 3",
+        "published_at": "2026-09-27T20:34:59Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 3,
+      "away": "TEN",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401872956"
+      },
+      "kickoff": "2026-09-27T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "GmCLbwLRGqA",
+        "title": "Tennessee Titans vs. New York Giants Game Highlights | NFL 2026 Season Week 3",
+        "published_at": "2026-09-27T20:22:07Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 3,
+      "away": "CIN",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401872950"
+      },
+      "kickoff": "2026-09-27T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "sqOhOfjHhaI",
+        "title": "Cincinnati Bengals vs. Pittsburgh Steelers Game Highlights | NFL 2026 Season Week 3",
+        "published_at": "2026-09-27T20:41:23Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 3,
+      "away": "SEA",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401872955"
+      },
+      "kickoff": "2026-09-27T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "j8mZDG_M7cs",
+        "title": "Seattle Seahawks vs Washington Commanders Game Highlights | 2026 NFL Season Week 3",
+        "published_at": "2026-09-27T20:55:38Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 3,
+      "away": "ARI",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401872958"
+      },
+      "kickoff": "2026-09-27T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "7ngu-tT0PQs",
+        "title": "Arizona Cardinals vs. San Francisco 49ers Game Highlights | NFL 2026 Season Week 3",
+        "published_at": "2026-09-27T23:42:59Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 3,
+      "away": "MIN",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401872959"
+      },
+      "kickoff": "2026-09-27T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "PwKZhQg5n6w",
+        "title": "Minnesota Vikings vs Tampa Bay Buccaneers Game Highlights | 2026 NFL Season Week 3",
+        "published_at": "2026-09-27T23:58:11Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 3,
+      "away": "BAL",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401872960"
+      },
+      "kickoff": "2026-09-27T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "7gWPdESD1og",
+        "title": "Baltimore Ravens vs Dallas Cowboys Game Highlights from Rio | 2026 NFL Season Week 3",
+        "published_at": "2026-09-28T00:18:43Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 3,
+      "away": "LV",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401872961"
+      },
+      "kickoff": "2026-09-27T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "xcj0NwyEJUk",
+        "title": "Las Vegas Raiders vs. New Orleans Saints Game Highlights | NFL 2026 Season Week 3",
+        "published_at": "2026-09-28T00:02:33Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 3,
+      "away": "LAR",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401872962"
+      },
+      "kickoff": "2026-09-28T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "EL-uDgYSYlI",
+        "title": "Los Angeles Rams vs Denver Broncos Game Highlights | 2026 NFL Season Week 3",
+        "published_at": "2026-09-28T04:25:09Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 3,
+      "away": "PHI",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401872963"
+      },
+      "kickoff": "2026-09-29T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "KScULet1ves",
+        "title": "Philadelphia Eagles vs. Chicago Bears Game Highlights | 2026 NFL Season Week 3",
+        "published_at": "2026-09-29T03:29:50Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 4,
+      "away": "PIT",
+      "home": "CLE",
+      "external_ids": {
+        "espn": "401872964"
+      },
+      "kickoff": "2026-10-02T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "qJn2zHTs9BY",
+        "title": "Pittsburgh Steelers vs Cleveland Browns Game Highlights | 2026 NFL Season Week 4",
+        "published_at": "2026-10-02T04:07:01Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 4,
+      "away": "IND",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401872965"
+      },
+      "kickoff": "2026-10-04T13:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "VSkRsq4Tlfg",
+        "title": "Indianapolis Colts vs. Washington Commanders Game Highlights | 2026 NFL Season Week 4",
+        "published_at": "2026-10-04T16:52:55Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 4,
+      "away": "TEN",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401872973"
+      },
+      "kickoff": "2026-10-04T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "1MzoImgClWQ",
+        "title": "Tennessee Titans vs Baltimore Ravens Game Highlights | 2026 NFL Season Week 4",
+        "published_at": "2026-10-04T20:48:08Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 4,
+      "away": "NE",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401872971"
+      },
+      "kickoff": "2026-10-04T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Z5zAM_GLGI0",
+        "title": "New England Patriots vs. Buffalo Bills Game Highlights | NFL 2026 Season Week 4",
+        "published_at": "2026-10-04T20:28:08Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 4,
+      "away": "NYJ",
+      "home": "CHI",
+      "external_ids": {
+        "espn": "401872972"
+      },
+      "kickoff": "2026-10-04T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "IlcC1zFWyVw",
+        "title": "New York Jets vs. Chicago Bears Game Highlights | NFL 2026 Season Week 4",
+        "published_at": "2026-10-04T20:22:38Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 4,
+      "away": "JAX",
+      "home": "CIN",
+      "external_ids": {
+        "espn": "401872969"
+      },
+      "kickoff": "2026-10-04T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "a2zogEoiXV0",
+        "title": "Jacksonville Jaguars vs Cincinnati Bengals Game Highlights | 2026 NFL Season Week 4",
+        "published_at": "2026-10-04T20:48:04Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 4,
+      "away": "DAL",
+      "home": "HOU",
+      "external_ids": {
+        "espn": "401872967"
+      },
+      "kickoff": "2026-10-04T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "Yayn1UWwu1Y",
+        "title": "Dallas Cowboys vs. Houston Texans Game Highlights | NFL 2026 Season Week 4",
+        "published_at": "2026-10-04T20:33:53Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 4,
+      "away": "ARI",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401872966"
+      },
+      "kickoff": "2026-10-04T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "OdvCc-cxRz4",
+        "title": "Arizona Cardinals vs. New York Giants Game Highlights | NFL 2026 Season Week 4",
+        "published_at": "2026-10-04T20:45:54Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 4,
+      "away": "LAR",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401872970"
+      },
+      "kickoff": "2026-10-04T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "h6eywSmXaCI",
+        "title": "Los Angeles Rams vs. Philadelphia Eagles Game Highlights | NFL 2026 Season Week 4",
+        "published_at": "2026-10-04T20:45:27Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 4,
+      "away": "GB",
+      "home": "TB",
+      "external_ids": {
+        "espn": "401872968"
+      },
+      "kickoff": "2026-10-04T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "13AbO1AEq1E",
+        "title": "Green Bay Packers vs Tampa Bay Buccaneers Game Highlights | 2026 NFL Season Week 4",
+        "published_at": "2026-10-04T20:47:59Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 4,
+      "away": "MIA",
+      "home": "MIN",
+      "external_ids": {
+        "espn": "401872974"
+      },
+      "kickoff": "2026-10-04T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "YHo13wCIHT4",
+        "title": "Miami Dolphins vs Minnesota Vikings Game Highlights | 2026 NFL Season Week 4",
+        "published_at": "2026-10-04T23:59:18Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 4,
+      "away": "KC",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401872976"
+      },
+      "kickoff": "2026-10-04T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "UH-pYLB0KQ4",
+        "title": "Kansas City Chiefs vs. Las Vegas Raiders Game Highlights | NFL 2026 Season Week 4",
+        "published_at": "2026-10-05T00:10:17Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 4,
+      "away": "LAC",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401872977"
+      },
+      "kickoff": "2026-10-04T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "a0oq3jtgsvE",
+        "title": "Los Angeles Chargers vs. Seattle Seahawks Game Highlights | NFL 2026 Season Week 4",
+        "published_at": "2026-10-05T00:18:02Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 4,
+      "away": "DEN",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401872975"
+      },
+      "kickoff": "2026-10-04T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "3T1_zYMHPaQ",
+        "title": "Denver Broncos vs San Francisco 49ers Game Highlights | 2026 NFL Season Week 4",
+        "published_at": "2026-10-05T00:18:21Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 4,
+      "away": "DET",
+      "home": "CAR",
+      "external_ids": {
+        "espn": "401872978"
+      },
+      "kickoff": "2026-10-05T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "sD0WZLGybRw",
+        "title": "Detroit Lions vs Carolina Panthers Game Highlights | 2026 NFL Season Week 4",
+        "published_at": "2026-10-05T04:12:51Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 4,
+      "away": "ATL",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401872979"
+      },
+      "kickoff": "2026-10-06T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "8qB8fHEgpkg",
+        "title": "Atlanta Falcons vs New Orleans Saints Game Highlights | 2026 NFL Season Week 4",
+        "published_at": "2026-10-06T03:43:52Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 5,
+      "away": "TB",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401872980"
+      },
+      "kickoff": "2026-10-09T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "OmJqJI7pJpI",
+        "title": "Tampa Bay Buccaneers vs Dallas Cowboys Game Highlights | 2026 NFL Season Week 5",
+        "published_at": "2026-10-09T03:45:10Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 5,
+      "away": "PHI",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401872981"
+      },
+      "kickoff": "2026-10-11T13:30:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "WXw2IIj01Sg",
+        "title": "Philadelphia Eagles vs. Jacksonville Jaguars Game Highlights | 2026 NFL Season Week 5",
+        "published_at": "2026-10-11T17:29:35Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 5,
+      "away": "CHI",
+      "home": "GB",
+      "external_ids": {
+        "espn": "401872990"
+      },
+      "kickoff": "2026-10-11T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "SWAC-z8sGjQ",
+        "title": "Chicago Bears vs. Green Bay Packers Game Highlights | NFL 2026 Season Week 5",
+        "published_at": "2026-10-11T20:54:45Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 5,
+      "away": "CIN",
+      "home": "MIA",
+      "external_ids": {
+        "espn": "401872982"
+      },
+      "kickoff": "2026-10-11T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "veMELeUzxeo",
+        "title": "Cincinnati Bengals vs Miami Dolphins Game Highlights | 2026 NFL Season Week 5",
+        "published_at": "2026-10-11T20:42:06Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 5,
+      "away": "LV",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401872986"
+      },
+      "kickoff": "2026-10-11T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "fLKLrtqun84",
+        "title": "Las Vegas Raiders vs. New England Patriots Game Highlights | 2026 NFL Season Week 5",
+        "published_at": "2026-10-11T20:33:52Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 5,
+      "away": "MIN",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401872987"
+      },
+      "kickoff": "2026-10-11T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "OeaSf-kDpYA",
+        "title": "Minnesota Vikings vs New Orleans Saint Game Highlights | NFL 2026 Season Week 5",
+        "published_at": "2026-10-11T20:44:59Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 5,
+      "away": "CLE",
+      "home": "NYJ",
+      "external_ids": {
+        "espn": "401872983"
+      },
+      "kickoff": "2026-10-11T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "p_DHFA3Sfys",
+        "title": "Cleveland Browns vs New York Jets Game Highlights | 2026 NFL Season Week 5",
+        "published_at": "2026-10-11T20:44:31Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 5,
+      "away": "IND",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401872985"
+      },
+      "kickoff": "2026-10-11T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "padeBx3DEdM",
+        "title": "Indianapolis Colts vs. Pittsburgh Steelers Game Highlights | 2026 NFL Season Week 5",
+        "published_at": "2026-10-11T20:34:19Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 5,
+      "away": "HOU",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401872984"
+      },
+      "kickoff": "2026-10-11T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "K4ZVwiL_Tf4",
+        "title": "Houston Texans vs. Tennessee Titans Game Highlights | NFL 2026 Season Week 5",
+        "published_at": "2026-10-11T20:49:19Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 5,
+      "away": "NYG",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401872988"
+      },
+      "kickoff": "2026-10-11T17:00:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "E9KI_S2-vwo",
+        "title": "New York Giants vs Washington Commanders Game Highlights | 2026 NFL Season Week 5",
+        "published_at": "2026-10-11T21:35:01Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 5,
+      "away": "DEN",
+      "home": "LAC",
+      "external_ids": {
+        "espn": "401872989"
+      },
+      "kickoff": "2026-10-11T20:05:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "EjqZq2newqk",
+        "title": "Denver Broncos vs. Los Angeles Chargers Game Highlights | NFL 2026 Season Week 5",
+        "published_at": "2026-10-11T23:48:39Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 5,
+      "away": "DET",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401872991"
+      },
+      "kickoff": "2026-10-11T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "a7ixKMcIHHs",
+        "title": "Detroit Lions vs. Arizona Cardinals Game Highlights | NFL 2026 Week 5",
+        "published_at": "2026-10-12T00:20:31Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 5,
+      "away": "SF",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401872992"
+      },
+      "kickoff": "2026-10-11T20:25:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "B1hjRUzIduc",
+        "title": "San Francisco 49ers vs Seattle Seahawks Game Highlights | 2026 NFL Season Week 5",
+        "published_at": "2026-10-12T00:06:18Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 5,
+      "away": "BAL",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401872993"
+      },
+      "kickoff": "2026-10-12T00:20:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "fVlmow2jCDA",
+        "title": "Baltimore Ravens vs Atlanta Falcons Game Highlights | 2026 NFL Season Week 5",
+        "published_at": "2026-10-12T04:12:47Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 5,
+      "away": "BUF",
+      "home": "LAR",
+      "external_ids": {
+        "espn": "401872994"
+      },
+      "kickoff": "2026-10-13T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "GP9zR_SKRr0",
+        "title": "Buffalo Bills vs Los Angeles Rams Game Highlights | 2026 NFL Season Week 5",
+        "published_at": "2026-10-13T04:10:35Z"
+      }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 6,
+      "away": "SEA",
+      "home": "DEN",
+      "external_ids": {
+        "espn": "401872995"
+      },
+      "kickoff": "2026-10-16T00:15:00Z",
+      "status": "found",
+      "video": {
+        "youtube_id": "6uFD3NGt0GE",
+        "title": "Seattle Seahawks vs Denver Broncos Game Highlights | 2026 NFL Season Week 6",
+        "published_at": "2026-10-16T03:46:56Z"
+      }
+    }
+  ]
+}

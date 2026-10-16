@@ -1,0 +1,9 @@
+.git/
+.github/
+.cache/
+.env
+node_modules/
+nfl/
+docs/
+test/
+scripts/

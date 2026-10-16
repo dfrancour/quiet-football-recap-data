@@ -1,0 +1,42 @@
+# The live publisher, to run on the server beside Quiet Football:
+#
+#   PUBLISHER_BUILD=$(git rev-parse --short=12 HEAD) docker compose up -d --build
+#
+# Needs, beside this file:
+#   .env         YOUTUBE_API_KEY=…, and optionally PUBLISHER_GIT_NAME and
+#                PUBLISHER_GIT_EMAIL for the bot identity its commits carry
+#   deploy_key   the private half of a deploy key with write access to the
+#                dataset repository
+services:
+  publisher:
+    build:
+      context: .
+      args:
+        PUBLISHER_BUILD: ${PUBLISHER_BUILD:-unknown}
+    image: football-recaps-publisher
+    env_file: .env
+    environment:
+      PUBLISHER_REPO: ${PUBLISHER_REPO:-git@github.com:dfrancour/quiet-football-recap-data.git}
+    secrets:
+      - deploy_key
+    volumes:
+      - data:/data
+    restart: unless-stopped
+    read_only: true
+    tmpfs:
+      - /tmp
+    security_opt:
+      - no-new-privileges:true
+    cap_drop:
+      - ALL
+    logging:
+      options:
+        max-size: 10m
+        max-file: "3"
+
+secrets:
+  deploy_key:
+    file: ./deploy_key
+
+volumes:
+  data:
