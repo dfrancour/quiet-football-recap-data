@@ -2326,8 +2326,14 @@
         "espn": "401873002"
       },
       "kickoff": "2026-10-18T17:00:00Z",
-      "status": "searching",
-      "final_seen_at": "2026-10-18T20:44:31Z"
+      "status": "found",
+      "final_seen_at": "2026-10-18T20:44:31Z",
+      "video": {
+        "youtube_id": "vf4ksuXiQ1M",
+        "title": "Pittsburgh Steelers vs. Tampa Bay Buccaneers Game Highlights | 2026 NFL Season Week 6",
+        "published_at": "2026-10-18T21:00:06Z"
+      },
+      "detected_at": "2026-10-18T21:01:31Z"
     }
   ]
 }
