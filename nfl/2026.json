@@ -2206,7 +2206,13 @@
         "espn": "401872996"
       },
       "kickoff": "2026-10-18T13:30:00Z",
-      "status": "searching"
+      "status": "found",
+      "video": {
+        "youtube_id": "SQT1S7J4s-o",
+        "title": "Houston Texans vs. Jacksonville Jaguars Game Highlights | 2026 NFL Season Week 6",
+        "published_at": "2026-10-18T17:01:50Z"
+      },
+      "detected_at": "2026-10-18T17:49:06Z"
     }
   ]
 }
