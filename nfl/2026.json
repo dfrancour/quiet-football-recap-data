@@ -2378,6 +2378,19 @@
       "kickoff": "2026-10-18T20:25:00Z",
       "status": "searching",
       "final_seen_at": "2026-10-18T23:27:37Z"
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 6,
+      "away": "BUF",
+      "home": "LV",
+      "external_ids": {
+        "espn": "401873005"
+      },
+      "kickoff": "2026-10-18T20:25:00Z",
+      "status": "searching",
+      "final_seen_at": "2026-10-18T23:32:37Z"
     }
   ]
 }
