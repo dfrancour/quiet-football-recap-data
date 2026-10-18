@@ -13,7 +13,7 @@ services:
       context: .
       args:
         PUBLISHER_BUILD: ${PUBLISHER_BUILD:-unknown}
-    image: football-recaps-publisher
+    image: quiet-football-recap-publisher
     env_file: .env
     environment:
       PUBLISHER_REPO: ${PUBLISHER_REPO:-git@github.com:dfrancour/quiet-football-recap-data.git}

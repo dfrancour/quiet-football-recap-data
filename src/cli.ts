@@ -267,10 +267,10 @@ async function publish(args: string[]): Promise<void> {
   if (!apiKey) throw new Error("Set YOUTUBE_API_KEY");
 
   const identity = {
-    name: process.env.PUBLISHER_GIT_NAME ?? "football-recaps-publisher",
+    name: process.env.PUBLISHER_GIT_NAME ?? "quiet-football-recap-publisher",
     email:
       process.env.PUBLISHER_GIT_EMAIL ??
-      "football-recaps-publisher@users.noreply.github.com",
+      "quiet-football-recap-publisher@users.noreply.github.com",
   };
   const options: PublisherOptions = {
     dataDir,
