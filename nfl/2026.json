@@ -2245,6 +2245,19 @@
       "kickoff": "2026-10-18T17:00:00Z",
       "status": "searching",
       "final_seen_at": "2026-10-18T20:10:30Z"
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 6,
+      "away": "NYJ",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401873001"
+      },
+      "kickoff": "2026-10-18T17:00:00Z",
+      "status": "searching",
+      "final_seen_at": "2026-10-18T20:12:30Z"
     }
   ]
 }
