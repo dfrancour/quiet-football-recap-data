@@ -2269,8 +2269,14 @@
         "espn": "401873001"
       },
       "kickoff": "2026-10-18T17:00:00Z",
-      "status": "searching",
-      "final_seen_at": "2026-10-18T20:12:30Z"
+      "status": "found",
+      "final_seen_at": "2026-10-18T20:12:30Z",
+      "video": {
+        "youtube_id": "CDcGaEkMy6s",
+        "title": "New York Jets vs New England Patriots Game Highlights | 2026 NFL Season Week 6",
+        "published_at": "2026-10-18T20:32:47Z"
+      },
+      "detected_at": "2026-10-18T20:33:30Z"
     },
     {
       "season": 2026,
