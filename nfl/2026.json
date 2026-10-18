@@ -2300,8 +2300,14 @@
         "espn": "401873000"
       },
       "kickoff": "2026-10-18T17:00:00Z",
-      "status": "searching",
-      "final_seen_at": "2026-10-18T20:27:30Z"
+      "status": "found",
+      "final_seen_at": "2026-10-18T20:27:30Z",
+      "video": {
+        "youtube_id": "a1M5YngTbus",
+        "title": "New Orleans Saints vs. New York Giants Game Highlights | NFL 2026 Season Week 6",
+        "published_at": "2026-10-18T21:01:48Z"
+      },
+      "detected_at": "2026-10-18T21:02:32Z"
     },
     {
       "season": 2026,
