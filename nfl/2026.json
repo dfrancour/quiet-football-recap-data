@@ -2357,8 +2357,14 @@
         "espn": "401873004"
       },
       "kickoff": "2026-10-18T20:05:00Z",
-      "status": "searching",
-      "final_seen_at": "2026-10-18T23:00:36Z"
+      "status": "found",
+      "final_seen_at": "2026-10-18T23:00:36Z",
+      "video": {
+        "youtube_id": "kXX4xq2el10",
+        "title": "Arizona Cardinals vs. Los Angeles Rams Game Highlights | NFL 2026 Season Week 6",
+        "published_at": "2026-10-18T23:11:28Z"
+      },
+      "detected_at": "2026-10-18T23:12:36Z"
     }
   ]
 }
