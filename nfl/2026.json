@@ -2224,8 +2224,14 @@
         "espn": "401872997"
       },
       "kickoff": "2026-10-18T17:00:00Z",
-      "status": "searching",
-      "final_seen_at": "2026-10-18T19:57:10Z"
+      "status": "found",
+      "final_seen_at": "2026-10-18T19:57:10Z",
+      "video": {
+        "youtube_id": "agBZnbbPCq0",
+        "title": "Baltimore Ravens vs. Cleveland Browns Game Highlights | 2026 NFL Season Week 6",
+        "published_at": "2026-10-18T20:09:05Z"
+      },
+      "detected_at": "2026-10-18T20:10:30Z"
     },
     {
       "season": 2026,
