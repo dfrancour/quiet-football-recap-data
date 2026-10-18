@@ -2218,6 +2218,19 @@
       "season": 2026,
       "season_type": "regular",
       "week": 6,
+      "away": "CHI",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401872999"
+      },
+      "kickoff": "2026-10-18T17:00:00Z",
+      "status": "searching",
+      "final_seen_at": "2026-10-18T20:19:30Z"
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 6,
       "away": "BAL",
       "home": "CLE",
       "external_ids": {
