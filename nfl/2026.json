@@ -2395,8 +2395,14 @@
         "espn": "401873005"
       },
       "kickoff": "2026-10-18T20:25:00Z",
-      "status": "searching",
-      "final_seen_at": "2026-10-18T23:32:37Z"
+      "status": "found",
+      "final_seen_at": "2026-10-18T23:32:37Z",
+      "video": {
+        "youtube_id": "JCwv4Mrkdd8",
+        "title": "Buffalo Bills vs. Las Vegas Raiders Game Highlights | NFL 2026 Season Week 6",
+        "published_at": "2026-10-18T23:57:16Z"
+      },
+      "detected_at": "2026-10-18T23:58:37Z"
     }
   ]
 }
