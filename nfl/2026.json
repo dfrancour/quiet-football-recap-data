@@ -2195,6 +2195,18 @@
         "title": "Seattle Seahawks vs Denver Broncos Game Highlights | 2026 NFL Season Week 6",
         "published_at": "2026-10-16T03:46:56Z"
       }
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 6,
+      "away": "HOU",
+      "home": "JAX",
+      "external_ids": {
+        "espn": "401872996"
+      },
+      "kickoff": "2026-10-18T13:30:00Z",
+      "status": "searching"
     }
   ]
 }
