@@ -2256,8 +2256,14 @@
         "espn": "401873003"
       },
       "kickoff": "2026-10-18T17:00:00Z",
-      "status": "searching",
-      "final_seen_at": "2026-10-18T20:10:30Z"
+      "status": "found",
+      "final_seen_at": "2026-10-18T20:10:30Z",
+      "video": {
+        "youtube_id": "MJZhpnKoY7E",
+        "title": "Tennessee Titans vs Indianapolis Colts Game Highlights | 2026 NFL Season Week 6",
+        "published_at": "2026-10-18T20:37:34Z"
+      },
+      "detected_at": "2026-10-18T20:38:31Z"
     },
     {
       "season": 2026,
