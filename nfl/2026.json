@@ -2319,8 +2319,14 @@
         "espn": "401872998"
       },
       "kickoff": "2026-10-18T17:00:00Z",
-      "status": "searching",
-      "final_seen_at": "2026-10-18T20:26:30Z"
+      "status": "found",
+      "final_seen_at": "2026-10-18T20:26:30Z",
+      "video": {
+        "youtube_id": "7x-qq154bgs",
+        "title": "Carolina Panthers vs. Philadelphia Eagles Game Highlights | NFL 2026 Season Week 6",
+        "published_at": "2026-10-18T21:01:09Z"
+      },
+      "detected_at": "2026-10-18T21:02:32Z"
     },
     {
       "season": 2026,
