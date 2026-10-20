@@ -2422,6 +2422,19 @@
         "published_at": "2026-10-19T04:04:04Z"
       },
       "detected_at": "2026-10-19T04:05:07Z"
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 6,
+      "away": "WSH",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401873008"
+      },
+      "kickoff": "2026-10-20T00:15:00Z",
+      "status": "searching",
+      "final_seen_at": "2026-10-20T03:22:06Z"
     }
   ]
 }
