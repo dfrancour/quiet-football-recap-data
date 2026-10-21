@@ -6,7 +6,7 @@
 #   .env         YOUTUBE_API_KEY=…, and optionally PUBLISHER_GIT_NAME and
 #                PUBLISHER_GIT_EMAIL for the bot identity its commits carry
 #   deploy_key   the private half of a deploy key with write access to the
-#                dataset repository
+#                dataset repository (or set DEPLOY_KEY_FILE to its path)
 services:
   publisher:
     build:
@@ -36,7 +36,7 @@ services:
 
 secrets:
   deploy_key:
-    file: ./deploy_key
+    file: ${DEPLOY_KEY_FILE:-./deploy_key}
 
 volumes:
   data:

@@ -2,6 +2,7 @@
 .github/
 .cache/
 .env
+deploy_key
 node_modules/
 nfl/
 docs/
