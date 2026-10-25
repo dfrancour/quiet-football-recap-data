@@ -2625,6 +2625,19 @@
       "kickoff": "2026-10-25T20:05:00Z",
       "status": "searching",
       "final_seen_at": "2026-10-25T23:28:36Z"
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 7,
+      "away": "GB",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401873020"
+      },
+      "kickoff": "2026-10-25T20:25:00Z",
+      "status": "searching",
+      "final_seen_at": "2026-10-25T23:31:36Z"
     }
   ]
 }
