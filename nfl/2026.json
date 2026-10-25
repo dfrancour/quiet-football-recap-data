@@ -2642,8 +2642,14 @@
         "espn": "401873020"
       },
       "kickoff": "2026-10-25T20:25:00Z",
-      "status": "searching",
-      "final_seen_at": "2026-10-25T23:31:36Z"
+      "status": "found",
+      "final_seen_at": "2026-10-25T23:31:36Z",
+      "video": {
+        "youtube_id": "r3NBIs-ABLA",
+        "title": "Green Bay Packers vs Detroit Lions Game Highlights | 2026 NFL Season Week 7",
+        "published_at": "2026-10-25T23:52:56Z"
+      },
+      "detected_at": "2026-10-25T23:53:36Z"
     },
     {
       "season": 2026,
