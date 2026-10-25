@@ -2516,8 +2516,14 @@
         "espn": "401873014"
       },
       "kickoff": "2026-10-25T17:00:00Z",
-      "status": "searching",
-      "final_seen_at": "2026-10-25T19:48:05Z"
+      "status": "found",
+      "final_seen_at": "2026-10-25T19:48:05Z",
+      "video": {
+        "youtube_id": "4PyjDuD7-4I",
+        "title": "Indianapolis Colts vs. Minnesota Vikings Game Highlights | NFL 2026 Season Week 7",
+        "published_at": "2026-10-25T20:08:57Z"
+      },
+      "detected_at": "2026-10-25T20:09:30Z"
     },
     {
       "season": 2026,
