@@ -2661,8 +2661,14 @@
         "espn": "401873021"
       },
       "kickoff": "2026-10-25T20:25:00Z",
-      "status": "searching",
-      "final_seen_at": "2026-10-25T23:36:36Z"
+      "status": "found",
+      "final_seen_at": "2026-10-25T23:36:36Z",
+      "video": {
+        "youtube_id": "7RnrZzPJUJ0",
+        "title": "Los Angeles Rams vs. Las Vegas Raiders Game Highlights | NFL 2026 Season Week 7",
+        "published_at": "2026-10-25T23:58:34Z"
+      },
+      "detected_at": "2026-10-25T23:59:37Z"
     }
   ]
 }
