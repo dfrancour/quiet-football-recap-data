@@ -2484,6 +2484,19 @@
       "season": 2026,
       "season_type": "regular",
       "week": 7,
+      "away": "CIN",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401873012"
+      },
+      "kickoff": "2026-10-25T17:00:00Z",
+      "status": "searching",
+      "final_seen_at": "2026-10-25T19:58:05Z"
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 7,
       "away": "TB",
       "home": "CAR",
       "external_ids": {
