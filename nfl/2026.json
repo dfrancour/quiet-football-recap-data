@@ -2503,8 +2503,14 @@
         "espn": "401873012"
       },
       "kickoff": "2026-10-25T17:00:00Z",
-      "status": "searching",
-      "final_seen_at": "2026-10-25T19:58:05Z"
+      "status": "found",
+      "final_seen_at": "2026-10-25T19:58:05Z",
+      "video": {
+        "youtube_id": "LJRRMbR4BrE",
+        "title": "Cincinnati Bengals vs. Baltimore Ravens Game Highlights | 2026 NFL Season Week 7",
+        "published_at": "2026-10-25T20:15:09Z"
+      },
+      "detected_at": "2026-10-25T20:16:30Z"
     },
     {
       "season": 2026,
