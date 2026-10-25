@@ -2522,8 +2522,14 @@
         "espn": "401873018"
       },
       "kickoff": "2026-10-25T17:00:00Z",
-      "status": "searching",
-      "final_seen_at": "2026-10-25T19:50:05Z"
+      "status": "found",
+      "final_seen_at": "2026-10-25T19:50:05Z",
+      "video": {
+        "youtube_id": "KHLfLsKZlRg",
+        "title": "Tampa Bay Buccaneers vs Carolina Panthers Game Highlights | 2026 NFL Season Week 7",
+        "published_at": "2026-10-25T20:24:33Z"
+      },
+      "detected_at": "2026-10-25T20:25:30Z"
     },
     {
       "season": 2026,
