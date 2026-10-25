@@ -2554,8 +2554,14 @@
         "espn": "401873015"
       },
       "kickoff": "2026-10-25T17:00:00Z",
-      "status": "searching",
-      "final_seen_at": "2026-10-25T19:59:05Z"
+      "status": "found",
+      "final_seen_at": "2026-10-25T19:59:05Z",
+      "video": {
+        "youtube_id": "iXW84N92-vE",
+        "title": "Miami Dolphins vs. New York Jets Game Highlights | 2026 NFL Season Week 7",
+        "published_at": "2026-10-25T20:18:15Z"
+      },
+      "detected_at": "2026-10-25T20:19:30Z"
     },
     {
       "season": 2026,
