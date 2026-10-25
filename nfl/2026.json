@@ -2623,8 +2623,14 @@
         "espn": "401873019"
       },
       "kickoff": "2026-10-25T20:05:00Z",
-      "status": "searching",
-      "final_seen_at": "2026-10-25T23:28:36Z"
+      "status": "found",
+      "final_seen_at": "2026-10-25T23:28:36Z",
+      "video": {
+        "youtube_id": "ELahNguVTLM",
+        "title": "Denver Broncos vs Arizona Cardinals Game Highlights | 2026 NFL Season Week 7",
+        "published_at": "2026-10-25T23:38:39Z"
+      },
+      "detected_at": "2026-10-25T23:39:36Z"
     },
     {
       "season": 2026,
