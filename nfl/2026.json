@@ -2547,8 +2547,14 @@
         "espn": "401873016"
       },
       "kickoff": "2026-10-25T17:00:00Z",
-      "status": "searching",
-      "final_seen_at": "2026-10-25T20:22:30Z"
+      "status": "found",
+      "final_seen_at": "2026-10-25T20:22:30Z",
+      "video": {
+        "youtube_id": "oy5jJycVydI",
+        "title": "New York Giants vs Houston Texans Game Highlights | 2026 NFL Season Week 7",
+        "published_at": "2026-10-25T20:36:14Z"
+      },
+      "detected_at": "2026-10-25T20:37:30Z"
     },
     {
       "season": 2026,
