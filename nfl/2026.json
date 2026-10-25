@@ -2573,8 +2573,14 @@
         "espn": "401873013"
       },
       "kickoff": "2026-10-25T17:00:00Z",
-      "status": "searching",
-      "final_seen_at": "2026-10-25T20:08:30Z"
+      "status": "found",
+      "final_seen_at": "2026-10-25T20:08:30Z",
+      "video": {
+        "youtube_id": "_4OJ6iu8K1I",
+        "title": "Cleveland Browns vs. Tennessee Titans Game Highlights | NFL 2026 Season Week 7",
+        "published_at": "2026-10-25T20:19:34Z"
+      },
+      "detected_at": "2026-10-25T20:20:30Z"
     }
   ]
 }
