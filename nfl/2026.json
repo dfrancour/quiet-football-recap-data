@@ -2680,8 +2680,14 @@
         "espn": "401873022"
       },
       "kickoff": "2026-10-26T00:20:00Z",
-      "status": "searching",
-      "final_seen_at": "2026-10-26T03:17:35Z"
+      "status": "found",
+      "final_seen_at": "2026-10-26T03:17:35Z",
+      "video": {
+        "youtube_id": "dIfN83Krivs",
+        "title": "Kansas City Chiefs vs. Seattle Seahawks Game Highlights | NFL 2026 Season Week 7",
+        "published_at": "2026-10-26T03:25:42Z"
+      },
+      "detected_at": "2026-10-26T03:26:35Z"
     }
   ]
 }
