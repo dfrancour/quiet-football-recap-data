@@ -2669,6 +2669,19 @@
         "published_at": "2026-10-25T23:58:34Z"
       },
       "detected_at": "2026-10-25T23:59:37Z"
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 7,
+      "away": "KC",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401873022"
+      },
+      "kickoff": "2026-10-26T00:20:00Z",
+      "status": "searching",
+      "final_seen_at": "2026-10-26T03:17:35Z"
     }
   ]
 }
