@@ -2699,8 +2699,14 @@
         "espn": "401873009"
       },
       "kickoff": "2026-10-27T00:15:00Z",
-      "status": "searching",
-      "final_seen_at": "2026-10-27T03:19:36Z"
+      "status": "found",
+      "final_seen_at": "2026-10-27T03:19:36Z",
+      "video": {
+        "youtube_id": "6Hdk00wyWZk",
+        "title": "Dallas Cowboys vs Philadelphia Eagles Game Highlights | 2026 NFL Season Week 7",
+        "published_at": "2026-10-27T03:34:11Z"
+      },
+      "detected_at": "2026-10-27T03:35:36Z"
     }
   ]
 }
