@@ -2718,8 +2718,14 @@
         "espn": "401873023"
       },
       "kickoff": "2026-10-30T00:15:00Z",
-      "status": "searching",
-      "final_seen_at": "2026-10-30T03:25:51Z"
+      "status": "found",
+      "final_seen_at": "2026-10-30T03:25:51Z",
+      "video": {
+        "youtube_id": "L6m1RUIXLB4",
+        "title": "Carolina Panthers vs Green Bay Packers Game Highlights | 2026 NFL Season Week 8",
+        "published_at": "2026-10-30T03:45:33Z"
+      },
+      "detected_at": "2026-10-30T03:46:52Z"
     }
   ]
 }
