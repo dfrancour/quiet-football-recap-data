@@ -2763,8 +2763,14 @@
         "espn": "401873028"
       },
       "kickoff": "2026-11-01T18:00:00Z",
-      "status": "searching",
-      "final_seen_at": "2026-11-01T21:06:30Z"
+      "status": "found",
+      "final_seen_at": "2026-11-01T21:06:30Z",
+      "video": {
+        "youtube_id": "R7zUguz0Aag",
+        "title": "Indianapolis Colts vs. Jacksonville Jaguars Game Highlights | NFL 2026 Week 8",
+        "published_at": "2026-11-01T21:26:29Z"
+      },
+      "detected_at": "2026-11-01T21:27:30Z"
     },
     {
       "season": 2026,
