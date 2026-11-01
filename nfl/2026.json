@@ -2789,8 +2789,14 @@
         "espn": "401873025"
       },
       "kickoff": "2026-11-01T18:00:00Z",
-      "status": "searching",
-      "final_seen_at": "2026-11-01T20:52:05Z"
+      "status": "found",
+      "final_seen_at": "2026-11-01T20:52:05Z",
+      "video": {
+        "youtube_id": "lGnOFwQPXD4",
+        "title": "Atlanta Falcons vs. Tampa Bay Buccaneers Game Highlights | NFL 2026 Week 8",
+        "published_at": "2026-11-01T21:19:54Z"
+      },
+      "detected_at": "2026-11-01T21:20:30Z"
     }
   ]
 }
