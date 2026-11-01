@@ -2776,8 +2776,14 @@
         "espn": "401873030"
       },
       "kickoff": "2026-11-01T18:00:00Z",
-      "status": "searching",
-      "final_seen_at": "2026-11-01T21:07:30Z"
+      "status": "found",
+      "final_seen_at": "2026-11-01T21:07:30Z",
+      "video": {
+        "youtube_id": "pB59Bt0uklY",
+        "title": "Minnesota Vikings vs. Detroit Lions Game Highlights | NFL 2026 Season Week 8",
+        "published_at": "2026-11-01T21:45:07Z"
+      },
+      "detected_at": "2026-11-01T21:46:31Z"
     },
     {
       "season": 2026,
