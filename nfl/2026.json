@@ -2737,8 +2737,14 @@
         "espn": "401873026"
       },
       "kickoff": "2026-11-01T18:00:00Z",
-      "status": "searching",
-      "final_seen_at": "2026-11-01T21:23:30Z"
+      "status": "found",
+      "final_seen_at": "2026-11-01T21:23:30Z",
+      "video": {
+        "youtube_id": "3xMS3qL2KwY",
+        "title": "Baltimore Ravens vs Buffalo Bills Game Highlights | 2026 NFL Season Week 8",
+        "published_at": "2026-11-01T21:58:29Z"
+      },
+      "detected_at": "2026-11-01T21:59:31Z"
     },
     {
       "season": 2026,
