@@ -2889,8 +2889,14 @@
         "espn": "401873032"
       },
       "kickoff": "2026-11-01T21:05:00Z",
-      "status": "searching",
-      "final_seen_at": "2026-11-01T23:55:35Z"
+      "status": "found",
+      "final_seen_at": "2026-11-01T23:55:35Z",
+      "video": {
+        "youtube_id": "Z5w0O7Jprdk",
+        "title": "Los Angeles Chargers vs Los Angeles Rams Game Highlights | 2026 NFL Season Week 8",
+        "published_at": "2026-11-02T00:13:34Z"
+      },
+      "detected_at": "2026-11-02T00:14:35Z"
     }
   ]
 }
