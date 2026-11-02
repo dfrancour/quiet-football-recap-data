@@ -2946,8 +2946,14 @@
         "espn": "401873035"
       },
       "kickoff": "2026-11-02T01:20:00Z",
-      "status": "searching",
-      "final_seen_at": "2026-11-02T04:25:05Z"
+      "status": "found",
+      "final_seen_at": "2026-11-02T04:25:05Z",
+      "video": {
+        "youtube_id": "40wesZPReUc",
+        "title": "Philadelphia Eagles vs Washington Commanders Game Highlights | 2026 NFL Season Week 8",
+        "published_at": "2026-11-02T04:44:43Z"
+      },
+      "detected_at": "2026-11-02T04:46:06Z"
     }
   ]
 }
