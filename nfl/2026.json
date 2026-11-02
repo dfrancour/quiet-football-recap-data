@@ -2935,6 +2935,19 @@
         "published_at": "2026-11-02T00:42:12Z"
       },
       "detected_at": "2026-11-02T00:43:06Z"
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 8,
+      "away": "PHI",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401873035"
+      },
+      "kickoff": "2026-11-02T01:20:00Z",
+      "status": "searching",
+      "final_seen_at": "2026-11-02T04:25:05Z"
     }
   ]
 }
