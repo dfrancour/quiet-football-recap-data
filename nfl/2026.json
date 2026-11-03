@@ -2954,6 +2954,19 @@
         "published_at": "2026-11-02T04:44:43Z"
       },
       "detected_at": "2026-11-02T04:46:06Z"
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 8,
+      "away": "CHI",
+      "home": "SEA",
+      "external_ids": {
+        "espn": "401873036"
+      },
+      "kickoff": "2026-11-03T01:15:00Z",
+      "status": "searching",
+      "final_seen_at": "2026-11-03T04:25:05Z"
     }
   ]
 }
