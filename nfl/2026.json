@@ -2984,8 +2984,14 @@
         "espn": "401873037"
       },
       "kickoff": "2026-11-06T01:15:00Z",
-      "status": "searching",
-      "final_seen_at": "2026-11-06T04:07:05Z"
+      "status": "found",
+      "final_seen_at": "2026-11-06T04:07:05Z",
+      "video": {
+        "youtube_id": "TRUoUtxPZIU",
+        "title": "Jacksonville Jaguars vs Baltimore Ravens Game Highlights | 2026 NFL Season Week 9",
+        "published_at": "2026-11-06T04:20:12Z"
+      },
+      "detected_at": "2026-11-06T04:21:05Z"
     }
   ]
 }
