@@ -3093,8 +3093,14 @@
         "espn": "401873044"
       },
       "kickoff": "2026-11-08T18:00:00Z",
-      "status": "searching",
-      "final_seen_at": "2026-11-08T21:18:30Z"
+      "status": "found",
+      "final_seen_at": "2026-11-08T21:18:30Z",
+      "video": {
+        "youtube_id": "znF3q5lZYC4",
+        "title": "New York Giants vs. Philadelphia Eagles Game Highlights | 2026 NFL Season Week 9",
+        "published_at": "2026-11-08T21:34:41Z"
+      },
+      "detected_at": "2026-11-08T21:35:30Z"
     },
     {
       "season": 2026,
