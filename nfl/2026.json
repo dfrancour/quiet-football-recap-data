@@ -3041,8 +3041,14 @@
         "espn": "401873040"
       },
       "kickoff": "2026-11-08T18:00:00Z",
-      "status": "searching",
-      "final_seen_at": "2026-11-08T21:34:30Z"
+      "status": "found",
+      "final_seen_at": "2026-11-08T21:34:30Z",
+      "video": {
+        "youtube_id": "Wb-pcRK-LH8",
+        "title": "Dallas Cowboys vs. Indianapolis Colts Game Highlights | 2026 NFL Season Week 9",
+        "published_at": "2026-11-08T21:48:44Z"
+      },
+      "detected_at": "2026-11-08T21:49:31Z"
     },
     {
       "season": 2026,
