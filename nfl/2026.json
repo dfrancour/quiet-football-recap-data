@@ -3055,6 +3055,19 @@
       "season": 2026,
       "season_type": "regular",
       "week": 9,
+      "away": "NYG",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401873044"
+      },
+      "kickoff": "2026-11-08T18:00:00Z",
+      "status": "searching",
+      "final_seen_at": "2026-11-08T21:18:30Z"
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 9,
       "away": "LAR",
       "home": "WSH",
       "external_ids": {
