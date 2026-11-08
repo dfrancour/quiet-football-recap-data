@@ -3067,8 +3067,14 @@
         "espn": "401873042"
       },
       "kickoff": "2026-11-08T18:00:00Z",
-      "status": "searching",
-      "final_seen_at": "2026-11-08T20:52:05Z"
+      "status": "found",
+      "final_seen_at": "2026-11-08T20:52:05Z",
+      "video": {
+        "youtube_id": "cfpgrM5JfsQ",
+        "title": "Detroit Lions vs. Miami Dolphins Game Highlights | NFL 2026 Season Week 9",
+        "published_at": "2026-11-08T21:41:31Z"
+      },
+      "detected_at": "2026-11-08T21:42:31Z"
     },
     {
       "season": 2026,
