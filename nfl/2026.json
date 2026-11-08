@@ -3022,8 +3022,14 @@
         "espn": "401873041"
       },
       "kickoff": "2026-11-08T18:00:00Z",
-      "status": "searching",
-      "final_seen_at": "2026-11-08T21:14:30Z"
+      "status": "found",
+      "final_seen_at": "2026-11-08T21:14:30Z",
+      "video": {
+        "youtube_id": "owBZ7u9L6B8",
+        "title": "Denver Broncos vs. Carolina Panthers Game Highlights | 2026 NFL Season Week 9",
+        "published_at": "2026-11-08T21:26:22Z"
+      },
+      "detected_at": "2026-11-08T21:27:30Z"
     },
     {
       "season": 2026,
