@@ -3124,8 +3124,14 @@
         "espn": "401873043"
       },
       "kickoff": "2026-11-08T18:00:00Z",
-      "status": "searching",
-      "final_seen_at": "2026-11-08T21:12:30Z"
+      "status": "found",
+      "final_seen_at": "2026-11-08T21:12:30Z",
+      "video": {
+        "youtube_id": "N9qwPsA9FI0",
+        "title": "Los Angeles Rams vs. Washington Commanders Game Highlights | NFL 2026 Season Week 9",
+        "published_at": "2026-11-08T21:41:43Z"
+      },
+      "detected_at": "2026-11-08T21:44:31Z"
     }
   ]
 }
