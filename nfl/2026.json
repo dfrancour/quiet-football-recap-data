@@ -3092,8 +3092,14 @@
         "espn": "401873039"
       },
       "kickoff": "2026-11-08T18:00:00Z",
-      "status": "searching",
-      "final_seen_at": "2026-11-08T21:33:30Z"
+      "status": "found",
+      "final_seen_at": "2026-11-08T21:33:30Z",
+      "video": {
+        "youtube_id": "yidVkmPmxcU",
+        "title": "Cleveland Browns vs. New Orleans Saints Game Highlights | 2026 NFL Season Week 9",
+        "published_at": "2026-11-08T21:44:20Z"
+      },
+      "detected_at": "2026-11-08T21:45:31Z"
     },
     {
       "season": 2026,
