@@ -2992,6 +2992,19 @@
         "published_at": "2026-11-06T04:20:12Z"
       },
       "detected_at": "2026-11-06T04:21:05Z"
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 9,
+      "away": "CIN",
+      "home": "ATL",
+      "external_ids": {
+        "espn": "401873038"
+      },
+      "kickoff": "2026-11-08T14:30:00Z",
+      "status": "searching",
+      "final_seen_at": "2026-11-08T17:36:05Z"
     }
   ]
 }
