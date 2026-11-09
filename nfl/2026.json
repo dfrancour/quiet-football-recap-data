@@ -3162,6 +3162,19 @@
       "season": 2026,
       "season_type": "regular",
       "week": 9,
+      "away": "GB",
+      "home": "NE",
+      "external_ids": {
+        "espn": "401873049"
+      },
+      "kickoff": "2026-11-08T21:25:00Z",
+      "status": "searching",
+      "final_seen_at": "2026-11-09T00:43:06Z"
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 9,
       "away": "ARI",
       "home": "SEA",
       "external_ids": {
