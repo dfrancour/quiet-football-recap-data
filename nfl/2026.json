@@ -3174,8 +3174,14 @@
         "espn": "401873049"
       },
       "kickoff": "2026-11-08T21:25:00Z",
-      "status": "searching",
-      "final_seen_at": "2026-11-09T00:43:06Z"
+      "status": "found",
+      "final_seen_at": "2026-11-09T00:43:06Z",
+      "video": {
+        "youtube_id": "ONX73PsPFD8",
+        "title": "Green Bay Packers vs. New England Patriots Game Highlights | NFL 2026 Season Week 9",
+        "published_at": "2026-11-09T01:23:45Z"
+      },
+      "detected_at": "2026-11-09T01:24:30Z"
     },
     {
       "season": 2026,
