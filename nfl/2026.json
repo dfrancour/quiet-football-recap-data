@@ -3231,8 +3231,14 @@
         "espn": "401873050"
       },
       "kickoff": "2026-11-09T01:20:00Z",
-      "status": "searching",
-      "final_seen_at": "2026-11-09T04:40:05Z"
+      "status": "found",
+      "final_seen_at": "2026-11-09T04:40:05Z",
+      "video": {
+        "youtube_id": "O1fZ6Zkabgc",
+        "title": "Tampa Bay Buccaneers vs Chicago Bears Game Highlights | 2026 NFL Season Week 9",
+        "published_at": "2026-11-09T05:04:55Z"
+      },
+      "detected_at": "2026-11-09T05:06:06Z"
     }
   ]
 }
