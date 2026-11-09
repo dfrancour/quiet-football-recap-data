@@ -3155,8 +3155,14 @@
         "espn": "401873046"
       },
       "kickoff": "2026-11-08T21:05:00Z",
-      "status": "searching",
-      "final_seen_at": "2026-11-09T00:30:06Z"
+      "status": "found",
+      "final_seen_at": "2026-11-09T00:30:06Z",
+      "video": {
+        "youtube_id": "04k2ARJ05UU",
+        "title": "Houston Texans vs. Los Angeles Chargers Game Highlights | NFL 2026 Season Week 9",
+        "published_at": "2026-11-09T01:14:15Z"
+      },
+      "detected_at": "2026-11-09T01:15:07Z"
     },
     {
       "season": 2026,
