@@ -8,17 +8,26 @@
  *   node --env-file=.env src/cli.ts collect ids GP9zR_SKRr0 ...
  *   node --env-file=.env src/cli.ts run [--once] [--no-push] [--data <dir>] [--clone <url>]
  *   node src/cli.ts status [--data <dir>] [--check]
+ *   node src/cli.ts feeds [--out _site] [--base-url https://…/]
  *
  * `backfill` reads each season's schedule from ESPN, matches it against the
  * gathered videos and `nfl/corrections.json`, and rewrites `nfl/<season>.json`.
  * `collect` gathers videos into the cache from YouTube, which needs
  * `YOUTUBE_API_KEY`. `run` is the live publisher (src/publisher.ts), and
  * `status` reports on it; `status --check` exits non-zero when it looks
- * stalled, for a health check.
+ * stalled, for a health check. `feeds` writes the current season's Atom
+ * feeds and the page that lists them (src/feeds.ts), for GitHub Pages.
  */
 
 import { execFileSync } from "node:child_process";
-import { existsSync, readFileSync, writeFileSync } from "node:fs";
+import {
+  existsSync,
+  mkdirSync,
+  readdirSync,
+  readFileSync,
+  writeFileSync,
+} from "node:fs";
+import { dirname, join } from "node:path";
 import { parseArgs } from "node:util";
 import { z } from "zod";
 import { backfillSeason, lostRecaps } from "./backfill.ts";
@@ -32,8 +41,9 @@ import {
   type GapGame,
 } from "./collect.ts";
 import { correctionsSchema } from "./corrections.ts";
-import { serializeSeasonFile } from "./dataset.ts";
+import { parseSeasonFile, serializeSeasonFile } from "./dataset.ts";
 import { fetchEspnJson, fetchSeasonSchedule } from "./espn.ts";
+import { buildFeeds, feedIndex } from "./feeds.ts";
 import { GitRepo } from "./git.ts";
 import { NFL_CHANNEL_ID } from "./nfl/channel.ts";
 import { NFL_TEAMS } from "./nfl/teams.ts";
@@ -314,9 +324,48 @@ async function status(args: string[]): Promise<void> {
   if (values.check && !ok) process.exitCode = 1;
 }
 
+const PAGES_URL = "https://feeds.quiet-football.com/";
+
+async function feeds(args: string[]): Promise<void> {
+  const { values } = parseArgs({
+    args,
+    options: {
+      out: { type: "string", default: "_site" },
+      "base-url": { type: "string", default: PAGES_URL },
+    },
+  });
+  const baseUrl = values["base-url"].replace(/\/*$/, "/");
+  const seasons = readdirSync(`${ROOT}nfl`)
+    .map((name) => /^(\d{4})\.json$/.exec(name)?.[1])
+    .filter((season) => season !== undefined)
+    .map(Number);
+  const season = Math.max(...seasons);
+  const file = parseSeasonFile(
+    readFileSync(`${ROOT}nfl/${season}.json`, "utf8"),
+  );
+  const options = {
+    league: "nfl",
+    leagueName: "NFL",
+    teams: NFL_TEAMS,
+    baseUrl,
+  };
+  const pages = buildFeeds({ ...options, file });
+  pages.set("index.html", feedIndex(options));
+  for (const [path, text] of pages) {
+    const target = join(values.out, path);
+    mkdirSync(dirname(target), { recursive: true });
+    writeFileSync(target, text);
+  }
+  const found = file.games.filter((game) => game.status === "found").length;
+  console.log(
+    `${season}: ${pages.size - 1} feeds, ${found} recaps, in ${values.out}`,
+  );
+}
+
 const COMMANDS: Record<string, (args: string[]) => Promise<void>> = {
   backfill,
   collect,
+  feeds,
   run: publish,
   status,
 };

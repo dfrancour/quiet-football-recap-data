@@ -6,7 +6,8 @@ Why the dataset is shaped the way it is. The README says what is in it;
 recaps taught.
 
 Status: the backfill (`src/cli.ts backfill`) and the live publisher
-(`src/cli.ts run`) are built. The publisher is not yet deployed.
+(`src/cli.ts run`) are built, and the publisher has run live since
+October 18, 2026.
 
 ## The shape of it
 
@@ -179,8 +180,10 @@ Publisher: <commit of the build that made it>
 - `correct` and `remove` over `add` is the matcher's error rate, and `miss`
   its coverage gaps. `backfill` commits are left out of both.
 - GitHub serves the history as an Atom feed (`/commits/main.atom`), so "a
-  recap was posted" is subscribable with no code. Per-team feeds that list
-  only `add` can follow.
+  recap was posted" is subscribable with no code. Per-team Atom feeds are
+  built from the season files rather than the commits (`src/feeds.ts`), so a
+  correction or removal is already reflected in them; their titles are
+  written from the record, never YouTube's, so they give nothing away.
 - The publisher commits as a bot identity, never as a person, and a person's
   correction is a commit to `nfl/corrections.json`. The two can be told
   apart, which the error rate depends on.

@@ -2,3 +2,4 @@ node_modules/
 nfl/20*.json
 package-lock.json
 .cache/
+_site/

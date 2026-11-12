@@ -5,13 +5,13 @@ season. Today that is the NFL, from the NFL's own channel, under `nfl/`.
 Kept current by [Quiet Football](https://github.com/dfrancour/quiet-football),
 which finds each recap minutes after it is posted and commits it here.
 
-**Status: publisher built, not yet deployed.** The files hold 2015 through
-2026 to date, preseason included, backfilled from the NFL's uploads and its
-weekly highlight playlists. The live publisher that keeps them current is
-built and tested but not yet running on a server, so for now a new recap is
-added by hand (below). Coverage is near-complete except
-2021–2024, where the playlists skip games (most of all in the preseason).
-Those gaps are `unknown`, not `missing`: a recap may well exist.
+**Status: live.** The publisher has kept the files current since week 6 of
+2026 (October 18, 2026), committing each game as it goes final and its recap
+minutes after it is posted. Earlier games, back to 2015 and preseason
+included, were backfilled from the NFL's uploads and its weekly highlight
+playlists. Coverage is near-complete except 2021–2024, where the playlists
+skip games (most of all in the preseason). Those gaps are `unknown`, not
+`missing`: a recap may well exist.
 
 ## Reading it
 
@@ -22,6 +22,24 @@ https://raw.githubusercontent.com/dfrancour/quiet-football-recap-data/main/nfl/2
 One request returns the whole season (about 110 KB when complete). Send
 `If-None-Match` with the last `ETag`, and an unchanged file costs nothing.
 GitHub caches the file for about five minutes after a commit.
+
+### As a feed
+
+Each team's recaps are an Atom feed, one entry per game, newest first:
+
+```
+https://feeds.quiet-football.com/nfl/kc.atom
+https://feeds.quiet-football.com/nfl/all.atom
+```
+
+A feed covers the current season. An entry's title names the game, never
+the result ("2026 Week 9: Bills at Vikings"), and links to the video on YouTube
+and to the game on [Quiet Football](https://quiet-football.com).
+Its id names the game, so a corrected match updates the entry in place. The
+feeds are rebuilt from the season files on every push
+(`.github/workflows/feeds.yml`, `src/feeds.ts`), a minute or two after the
+publisher's commit. [The index](https://feeds.quiet-football.com/)
+lists them all.
 
 ## A season file
 
@@ -200,7 +218,7 @@ whole season (`collect uploads --since` the preseason) before it adds a
 game; a rewrite that would take a recap away from a game found before is
 refused unless `--allow-loss` says so.
 
-Until the publisher is deployed, a new recap is added by hand:
+If the publisher is down, a recap can still be added by hand:
 
 ```bash
 node --env-file=.env src/cli.ts collect uploads --since 2026-08-01T00:00:00Z
