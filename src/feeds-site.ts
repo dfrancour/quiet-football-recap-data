@@ -263,20 +263,22 @@ ${alternates.join("\n")}
         <a class="mark" href="${SITE}/" aria-label="Back to ${SITE_NAME}" title="Back to ${SITE_NAME}">${icon("back", "icon back")}<svg class="football" viewBox="0 0 52 32" aria-hidden="true">${FOOTBALL}</svg><span>${SITE_NAME}</span></a>
         <span class="slash" aria-hidden="true">/</span>
         <h1>Recap feeds</h1>
-        <a class="control" href="${DATA_REPO}" aria-label="The data on GitHub" title="The data on GitHub">${GITHUB}</a>
       </header>
 
-      <p class="lede">Each ${leagueLabel} team&rsquo;s game recap videos from YouTube, as a feed for your reader.</p>
-
-      <table class="league" aria-label="The league">
-        <tbody>
-${feedRow(allPath, baseUrl + allPath, icon("rss"), `Every ${leagueName} game`, `every ${leagueName} game`)}
-        </tbody>
-      </table>
+      <div class="intro">
+        <p class="lede">Each ${leagueLabel} team&rsquo;s game recap videos from YouTube, as a feed for your reader.</p>
+        <div class="all-games">
+          <a href="${escape(allPath)}">${icon("rss")}<span>Every ${leagueLabel} game</span></a>${copyButton(baseUrl + allPath, `every ${leagueName} game`)}
+        </div>
+      </div>
 
       <div class="conferences">
 ${columns.join("\n")}
       </div>
+
+      <footer>
+        <a href="${DATA_REPO}">${GITHUB}<span>Source data on GitHub</span></a>
+      </footer>
     </main>
     <script>${SCRIPT}</script>
   </body>
@@ -334,12 +336,6 @@ const STYLE = `
       .mark .back { margin-right: -0.25rem; }
       .slash { color: var(--ink-faint); }
       h1 { margin: 0; font-size: 0.875rem; font-weight: 600; letter-spacing: -0.025em; white-space: nowrap; }
-      .control {
-        margin-left: auto; display: inline-flex; align-items: center; justify-content: center;
-        width: 2rem; height: 2rem; border-radius: 0.375rem; color: var(--ink-faint);
-        transition: color 200ms, background-color 200ms;
-      }
-      .control:hover { color: var(--ink-muted); background: var(--surface-raised); }
 
       table { width: 100%; border-collapse: collapse; font-size: 0.875rem; }
       tr { position: relative; border-top: 1px solid var(--edge); transition: background-color 200ms; }
@@ -366,9 +362,19 @@ const STYLE = `
       .copy .when-copied, .copy[data-copied] .when-idle { display: none; }
       .copy[data-copied] .when-copied { display: block; color: var(--win); }
 
-      .lede { margin: 1.5rem 0 0; color: var(--ink-muted); font-size: 0.875rem; line-height: 1.625; text-wrap: pretty; }
-      .league { margin-top: 1.5rem; border-bottom: 1px solid var(--edge); }
-      .league th a .icon { width: 1.25rem; color: var(--ink-faint); }
+      /* The sentence, and beside it the one feed of every game, as a control. */
+      .intro { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 0.75rem 1.5rem; margin-top: 1.5rem; }
+      .lede { margin: 0; color: var(--ink-muted); font-size: 0.875rem; line-height: 1.625; text-wrap: pretty; }
+      .all-games { display: inline-flex; align-items: stretch; height: 2rem; border: 1px solid var(--edge); border-radius: 0.375rem; }
+      .all-games a {
+        display: inline-flex; align-items: center; gap: 0.5rem; padding: 0 0.75rem 0 0.625rem;
+        border-radius: 0.3125rem; font-size: 0.875rem; white-space: nowrap;
+        transition: background-color 200ms;
+      }
+      .all-games a:hover { background: var(--surface-raised); }
+      .all-games a .icon { width: 0.875rem; height: 0.875rem; color: var(--ink-faint); }
+      .all-games .copy { height: auto; width: 2rem; border-left: 1px solid var(--edge); border-radius: 0 0.3125rem 0.3125rem 0; }
+      .all-games a:has(+ .copy:not([hidden])) { border-top-right-radius: 0; border-bottom-right-radius: 0; }
 
       /* The standings: NFC then AFC side by side, each its divisions. */
       .conferences { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0 1.5rem; margin-top: 1.5rem; }
@@ -389,6 +395,11 @@ const STYLE = `
       }
       .opml:hover { color: var(--ink-muted); background: var(--surface-raised); }
       .opml .icon { width: 0.75rem; height: 0.75rem; }
+
+      footer { margin-top: 2.25rem; padding-top: 1.25rem; border-top: 1px solid var(--edge); text-align: center; font-size: 0.75rem; }
+      footer a { display: inline-flex; align-items: center; gap: 0.375rem; color: var(--ink-faint); transition: color 200ms; }
+      footer a:hover { color: var(--ink-muted); }
+      footer .icon { width: 0.75rem; height: 0.75rem; }
 
       /* On a phone, as on the site, the mark also reads as the way back. */
       .mark .back { display: none; }

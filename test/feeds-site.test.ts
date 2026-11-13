@@ -110,7 +110,24 @@ describe("the index", () => {
     ];
     assert.equal(links.length, 1);
     assert.ok(page.indexOf(links[0]![0]) < page.indexOf("</header>"));
-    assert.ok(!page.includes("<footer"));
+  });
+
+  it("links the source data from its footer", () => {
+    const footer = page.slice(
+      page.indexOf("<footer>"),
+      page.indexOf("</footer>"),
+    );
+    assert.match(
+      footer,
+      /href="https:\/\/github\.com\/dfrancour\/quiet-football-recap-data">.*Source data on GitHub/,
+    );
+  });
+
+  it("offers the feed of every game beside its sentence", () => {
+    assert.match(
+      page,
+      /<div class="all-games">\s*<a href="nfl\/all\.atom">.*Every NFL game.*data-copy="https:\/\/example\.test\/feeds\/nfl\/all\.atom"/,
+    );
   });
 
   it("describes itself as Quiet Football's pages do", () => {
