@@ -60,6 +60,32 @@ describe("feeds", () => {
     assert.ok(feeds.has("nfl/wsh.atom"));
   });
 
+  it("names a feed for a reader's list, the team first, then the site", () => {
+    const feeds = build([]);
+    const kc = feeds.get("nfl/kc.atom")!;
+    assert.match(kc, /<title>Chiefs recaps · Quiet Football<\/title>/);
+    assert.match(
+      kc,
+      /<subtitle>Every Kansas City Chiefs game&apos;s recap video, minutes after it is posted\. Spoiler-free: no scores, no YouTube titles, no thumbnails\.<\/subtitle>/,
+    );
+    assert.match(
+      kc,
+      /<author><name>Quiet Football<\/name><uri>https:\/\/quiet-football\.com\/<\/uri><\/author>/,
+    );
+    assert.match(
+      feeds.get("nfl/all.atom")!,
+      /<title>NFL recaps · Quiet Football<\/title>\s*<subtitle>Every NFL game&apos;s/,
+    );
+  });
+
+  it("names the WebSub hub beside its own address", () => {
+    const kc = build([]).get("nfl/kc.atom")!;
+    assert.match(
+      kc,
+      /<link rel="self" type="application\/atom\+xml" href="https:\/\/example\.test\/feeds\/nfl\/kc\.atom"\/>\s*<link rel="hub" href="https:\/\/pubsubhubbub\.appspot\.com\/"\/>/,
+    );
+  });
+
   it("lists a team's found games, home and away, newest first", () => {
     const feeds = build([
       found("KC", "BUF", 6, "2026-10-12T04:00:00Z"),

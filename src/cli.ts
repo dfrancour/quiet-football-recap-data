@@ -8,7 +8,7 @@
  *   node --env-file=.env src/cli.ts collect ids GP9zR_SKRr0 ...
  *   node --env-file=.env src/cli.ts run [--once] [--no-push] [--data <dir>] [--clone <url>]
  *   node src/cli.ts status [--data <dir>] [--check]
- *   node src/cli.ts feeds [--out _site] [--base-url https://…/]
+ *   node src/cli.ts feeds [--out _site] [--base-url https://…/] [--changed <file>]
  *
  * `backfill` reads each season's schedule from ESPN, matches it against the
  * gathered videos and `nfl/corrections.json`, and rewrites `nfl/<season>.json`.
@@ -18,17 +18,24 @@
  * stalled, for a health check. `feeds` writes the current season's Atom
  * feeds (src/feeds/atom.ts), the page that lists them and an OPML file per
  * division (src/feeds/site.ts), and the icons in src/feeds/assets, for
- * GitHub Pages. Checking the files is src/check.ts, apart from this, since
+ * GitHub Pages. With `--changed`, it also compares what it wrote with what
+ * is served at the base URL now, and appends to that file, as a GitHub
+ * Actions step's outputs, whether anything differs (`deploy`), the WebSub
+ * hub, and the feeds that differ, for the workflow to deploy only a build
+ * that changes something and to ping the hub once it is live
+ * (src/feeds/served.ts). Checking the files is src/check.ts, apart from this, since
  * it needs the dev dependencies the publisher's image leaves out.
  */
 
 import { execFileSync } from "node:child_process";
 import {
+  appendFileSync,
   cpSync,
   existsSync,
   mkdirSync,
   readdirSync,
   readFileSync,
+  statSync,
   writeFileSync,
 } from "node:fs";
 import { dirname, join } from "node:path";
@@ -46,7 +53,8 @@ import {
 } from "./collect.ts";
 import { correctionsSchema } from "./corrections.ts";
 import { parseSeasonFile, serializeSeasonFile } from "./dataset.ts";
-import { buildFeeds } from "./feeds/atom.ts";
+import { buildFeeds, HUB } from "./feeds/atom.ts";
+import { changedFiles } from "./feeds/served.ts";
 import { buildSite } from "./feeds/site.ts";
 import { NFL } from "./leagues/nfl.ts";
 import { GitRepo } from "./publisher/git.ts";
@@ -338,6 +346,7 @@ async function feeds(args: string[]): Promise<void> {
     options: {
       out: { type: "string", default: "_site" },
       "base-url": { type: "string", default: PAGES_URL },
+      changed: { type: "string" },
     },
   });
   const baseUrl = values["base-url"].replace(/\/*$/, "/");
@@ -355,11 +364,32 @@ async function feeds(args: string[]): Promise<void> {
     writeFileSync(target, text);
   }
   // The icons, Quiet Football's own.
-  cpSync(`${ROOT}src/feeds/assets`, values.out, { recursive: true });
+  const assets = `${ROOT}src/feeds/assets`;
+  cpSync(assets, values.out, { recursive: true });
   const found = file.games.filter((game) => game.status === "found").length;
   console.log(
     `${season}: ${feeds.size} feeds, ${found} recaps, in ${values.out}`,
   );
+  if (values.changed) {
+    const built = new Map<string, string | Uint8Array>([...feeds, ...pages]);
+    for (const name of readdirSync(assets, { recursive: true })) {
+      const path = join(assets, String(name));
+      if (statSync(path).isFile()) built.set(String(name), readFileSync(path));
+    }
+    const changed = await changedFiles(built, baseUrl);
+    const changedFeeds = changed
+      .filter((path) => feeds.has(path))
+      .map((path) => baseUrl + path);
+    appendFileSync(
+      values.changed,
+      `deploy=${changed.length > 0}\nhub=${HUB}\nfeeds=${changedFeeds.join(" ")}\n`,
+    );
+    console.log(
+      changed.length > 0
+        ? `${changed.length} changed: ${changed.join(" ")}`
+        : `Nothing changed from ${baseUrl}`,
+    );
+  }
 }
 
 const COMMANDS: Record<string, (args: string[]) => Promise<void>> = {

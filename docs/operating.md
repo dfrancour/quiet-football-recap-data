@@ -23,7 +23,7 @@ src/
   publisher/         the live publisher: its pass and loop, planner,
                      transitions and git checkout
   feeds/             the Atom feeds, the page and OPML files that list
-                     them, and the site's icons
+                     them, the site's icons, and the WebSub ping
 test/                the same layout as src/
 deploy/              the publisher's image and compose file
 ```
@@ -164,3 +164,18 @@ change them, and serves them from GitHub Pages:
 ```bash
 node src/cli.ts feeds --out _site
 ```
+
+Before it deploys, the workflow compares every file it built with the one
+served (`--changed`, `src/feeds/served.ts`):
+
+- A build that changes nothing is not deployed. Most of the publisher's
+  pushes change no feed (a game going final, a recap still searched for, a
+  retitle), and Pages dates every file by its deploy, so each needless one
+  would give every feed a new `ETag` and every reader a full download. A
+  manual run (`workflow_dispatch`) deploys regardless, which is how to drop
+  a file the build no longer writes.
+- Each feed names a WebSub hub (Google's). Once the deploy is live, the
+  workflow pings it with the feeds that changed, and the hub pushes them to
+  readers subscribed through it. A recap changes three feeds (the league's
+  and its two teams'). A failed ping shows on the run but fails nothing,
+  since readers still poll.

@@ -13,6 +13,13 @@
  * (`/team/MIN?season=2026&week=5`), so it still names the same game once the
  * site has moved on to a later season.
  *
+ * A feed names itself for a reader's list, team first and then the site
+ * ("Vikings recaps · Quiet Football"), and says what it promises: the recap,
+ * soon after it is posted, with nothing that gives the result away. It
+ * names a WebSub hub, which the workflow tells of each feed that changed
+ * (served.ts), so a reader subscribed through the hub has a recap in a
+ * minute rather than at its next poll.
+ *
  * Like a season file, a feed is a pure function of the data: built again
  * without news, it changes no byte.
  */
@@ -35,6 +42,17 @@ type FoundGame = DatasetGame & { status: "found"; video: DatasetVideo };
 const TAG = "tag:quiet-football.com,2026";
 
 export const SITE = "https://quiet-football.com";
+
+/**
+ * The WebSub hub every feed names: Google's, free and keyless. Pinged with a
+ * feed, it fetches it and pushes what is new to the readers subscribed
+ * through it (Feedly, Inoreader, NewsBlur, …), which would otherwise wait
+ * for their next poll, an hour or more for a feed this small.
+ */
+export const HUB = "https://pubsubhubbub.appspot.com/";
+
+/** Quiet Football's name, which ends every feed's title as it ends its pages'. */
+export const SITE_NAME = "Quiet Football";
 
 /** The site's names for the postseason weeks, as its URLs give them. */
 const SITE_ROUNDS = ["wild-card", "divisional", "conference", "super-bowl"];
@@ -66,6 +84,16 @@ export function buildFeeds(options: FeedOptions): Map<string, string> {
 
 export function feedPath(league: string, team: Team): string {
   return `${league}/${team.abbreviation.toLowerCase()}.atom`;
+}
+
+/**
+ * A feed's name, as a reader lists it and an OPML file offers it: "Vikings
+ * recaps · Quiet Football", "NFL recaps · Quiet Football". The team comes
+ * first, so a narrow sidebar that cuts the title short still tells the feeds
+ * apart; the site's name follows, as it does in its pages' titles.
+ */
+export function feedTitle(league: League, team: Team | null): string {
+  return `${team ? team.nickname : league.name} recaps · ${SITE_NAME}`;
 }
 
 /**
@@ -153,10 +181,9 @@ function feed(
   const { baseUrl } = options;
   const season = options.file.season;
   const path = team ? feedPath(league, team) : `${league}/all.atom`;
-  const title = team ? `${fullName(team)} recaps` : `${leagueName} recaps`;
-  const subtitle = team
-    ? `Each ${fullName(team)} game's recap video from YouTube, ${season} season.`
-    : `Each ${leagueName} game's recap video from YouTube, ${season} season.`;
+  const title = feedTitle(options.league, team);
+  // What the feed promises, where a reader's directory search finds it.
+  const subtitle = `Every ${team ? fullName(team) : leagueName} game's recap video, minutes after it is posted. Spoiler-free: no scores, no YouTube titles, no thumbnails.`;
   const lines = [
     `<?xml version="1.0" encoding="utf-8"?>`,
     `<feed xmlns="http://www.w3.org/2005/Atom">`,
@@ -166,9 +193,10 @@ function feed(
     // With no recap yet this season, the season's first day stands in.
     `  <updated>${updated ?? `${season}-01-01T00:00:00Z`}</updated>`,
     `  <link rel="self" type="application/atom+xml" href="${escape(baseUrl + path)}"/>`,
+    `  <link rel="hub" href="${escape(HUB)}"/>`,
     `  <link rel="alternate" type="text/html" href="${escape(siteSeasonUrl(season, team))}"/>`,
     `  <icon>${escape(`${baseUrl}apple-icon.png`)}</icon>`,
-    `  <author><name>Quiet Football</name></author>`,
+    `  <author><name>${SITE_NAME}</name><uri>${SITE}/</uri></author>`,
     ...games.flatMap((game) => entry(league, game, teams, team)),
     `</feed>`,
   ];

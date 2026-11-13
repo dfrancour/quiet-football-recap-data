@@ -35,7 +35,11 @@ https://feeds.quiet-football.com/nfl/all.atom
 A feed covers the current season. An entry's title names the game, never
 the result ("2026 Week 9: Bills at Vikings"), and links to the video on YouTube
 and to the game on [Quiet Football](https://quiet-football.com).
-Its id names the game, so a corrected match updates the entry in place. The
+Its id names the game, so a corrected match updates the entry in place.
+Each feed names a [WebSub](https://www.w3.org/TR/websub/) hub, which is told
+of every change, so a reader that subscribes through it (Feedly, Inoreader
+and NewsBlur, among others) gets a recap as soon as the feed does, not at
+its next poll. The
 feeds are rebuilt from the season files on every push
 (`.github/workflows/feeds.yml`, `src/feeds/`), a minute or two after the
 publisher's commit. [The index](https://feeds.quiet-football.com/)

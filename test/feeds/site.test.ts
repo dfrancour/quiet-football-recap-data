@@ -61,7 +61,7 @@ describe("OPML", () => {
     ]);
     assert.match(
       north,
-      /type="rss" text="Chicago Bears recaps" title="Chicago Bears recaps"[^>]*htmlUrl="https:\/\/quiet-football\.com\/team\/CHI"/,
+      /type="rss" text="Bears recaps · Quiet Football" title="Bears recaps · Quiet Football"[^>]*htmlUrl="https:\/\/quiet-football\.com\/team\/CHI"/,
     );
   });
 
@@ -159,11 +159,11 @@ describe("the index", () => {
       ),
     ];
     assert.equal(feeds.length, NFL.teams.length + 1);
-    assert.equal(feeds[0]![1], "NFL recaps");
+    assert.equal(feeds[0]![1], "NFL recaps · Quiet Football");
     assert.ok(
       feeds.some(
         (m) =>
-          m[1] === "Kansas City Chiefs recaps" &&
+          m[1] === "Chiefs recaps · Quiet Football" &&
           m[2] === "https://example.test/feeds/nfl/kc.atom",
       ),
     );

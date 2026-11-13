@@ -8,7 +8,14 @@
  */
 
 import type { League, Team } from "../model.ts";
-import { escape, feedPath, fullName, SITE } from "./atom.ts";
+import {
+  escape,
+  feedPath,
+  feedTitle,
+  fullName,
+  SITE,
+  SITE_NAME,
+} from "./atom.ts";
 
 export interface SiteOptions {
   league: League;
@@ -22,9 +29,6 @@ interface Division {
   /** In the order the standings list them. */
   teams: Team[];
 }
-
-/** Quiet Football's name, which ends every page's title as it does there. */
-const SITE_NAME = "Quiet Football";
 
 const DATA_REPO = "https://github.com/dfrancour/quiet-football-recap-data";
 
@@ -73,7 +77,7 @@ function opml(options: SiteOptions, division: Division): string {
   const league = options.league.id;
   const name = escape(division.name);
   const outlines = division.teams.map((team) => {
-    const title = escape(`${fullName(team)} recaps`);
+    const title = escape(feedTitle(options.league, team));
     return `      <outline type="rss" text="${title}" title="${title}" xmlUrl="${escape(baseUrl + feedPath(league, team))}" htmlUrl="${escape(`${SITE}/team/${team.abbreviation}`)}"/>`;
   });
   return [
@@ -202,10 +206,10 @@ ${list.map((division) => divisionTable(options, division)).join("\n")}
   const description = `Each ${leagueName} team's game recap videos from YouTube, as Atom feeds.`;
   // Every feed, the league's first, so a reader given this page offers them all.
   const alternates = [
-    { title: `${leagueName} recaps`, href: baseUrl + allPath },
+    { title: feedTitle(options.league, null), href: baseUrl + allPath },
     ...divisions(options).flatMap((division) =>
       division.teams.map((team) => ({
-        title: `${fullName(team)} recaps`,
+        title: feedTitle(options.league, team),
         href: baseUrl + feedPath(league, team),
       })),
     ),
