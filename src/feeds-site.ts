@@ -197,7 +197,9 @@ export function feedIndex(options: SiteOptions): string {
       list,
     ]) => `      <section class="conference" aria-labelledby="conference-${escape(conference)}">
         <h2 id="conference-${escape(conference)}">${escape(conference)}</h2>
+        <div class="divisions">
 ${list.map((division) => divisionTable(options, division)).join("\n")}
+        </div>
       </section>`,
   );
   const title = `Recap feeds | ${SITE_NAME}`;
@@ -314,7 +316,7 @@ const STYLE = `
       }
       .icon { width: 1rem; height: 1rem; flex-shrink: 0; }
       main {
-        max-width: 44rem;
+        max-width: 72rem;
         margin: 0 auto;
         padding: calc(1.5rem + env(safe-area-inset-top)) max(1rem, env(safe-area-inset-right)) calc(1.5rem + env(safe-area-inset-bottom)) max(1rem, env(safe-area-inset-left));
       }
@@ -324,14 +326,14 @@ const STYLE = `
       .mark {
         display: flex; align-items: center; gap: 0.5rem; flex-shrink: 0;
         margin: -0.5rem; padding: 0.5rem; border-radius: 0.375rem;
-        color: var(--ink-muted); font-size: 0.875rem; font-weight: 600; letter-spacing: -0.015em;
+        color: var(--ink-muted); font-size: 0.875rem; font-weight: 600; letter-spacing: -0.025em;
         transition: color 200ms;
       }
       .mark:hover { color: var(--ink); }
       .mark .football { width: 1.5rem; height: 0.875rem; }
       .mark .back { margin-right: -0.25rem; }
       .slash { color: var(--ink-faint); }
-      h1 { margin: 0; font-size: 0.875rem; font-weight: 600; white-space: nowrap; }
+      h1 { margin: 0; font-size: 0.875rem; font-weight: 600; letter-spacing: -0.025em; white-space: nowrap; }
       .control {
         margin-left: auto; display: inline-flex; align-items: center; justify-content: center;
         width: 2rem; height: 2rem; border-radius: 0.375rem; color: var(--ink-faint);
@@ -371,6 +373,11 @@ const STYLE = `
       /* The standings: NFC then AFC side by side, each its divisions. */
       .conferences { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0 1.5rem; margin-top: 1.5rem; }
       .conference { display: flex; flex-direction: column; gap: 1rem; min-width: 0; }
+      .divisions { display: grid; gap: 1rem 1.5rem; }
+      /* As wide as the site, a conference's divisions sit two by two. */
+      @media (min-width: 56rem) {
+        .divisions { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      }
       h2 { margin: 0; color: var(--ink-muted); font-size: 0.75rem; font-weight: 600; letter-spacing: 0.14em; }
       .division-head { display: flex; align-items: center; justify-content: space-between; gap: 0.5rem; padding-bottom: 0.25rem; }
       h3 { margin: 0; color: var(--ink-faint); font-size: 0.75rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; }
@@ -383,10 +390,9 @@ const STYLE = `
       .opml:hover { color: var(--ink-muted); background: var(--surface-raised); }
       .opml .icon { width: 0.75rem; height: 0.75rem; }
 
-      /* On a phone the name gives way to the subject, and the mark reads as the way back. */
+      /* On a phone, as on the site, the mark also reads as the way back. */
       .mark .back { display: none; }
       @media (max-width: 40rem) {
-        .mark span, .slash { display: none; }
         .mark .back { display: block; }
       }
 `;
