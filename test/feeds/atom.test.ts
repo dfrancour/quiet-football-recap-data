@@ -78,6 +78,26 @@ describe("feeds", () => {
     );
   });
 
+  it("files an entry under its two teams and its part of the season", () => {
+    const feed = build([
+      found("BUF", "MIN", 9, "2026-11-10T04:00:00Z"),
+      found("CHI", "TEN", 3, "2026-08-20T04:00:00Z", "", {
+        season_type: "preseason",
+      }),
+    ]).get("nfl/all.atom")!;
+    const categories = [...feed.matchAll(/<category term="([^"]+)"\/>/g)].map(
+      (m) => m[1],
+    );
+    assert.deepEqual(categories, [
+      "Buffalo Bills",
+      "Minnesota Vikings",
+      "Regular season",
+      "Chicago Bears",
+      "Tennessee Titans",
+      "Preseason",
+    ]);
+  });
+
   it("names the WebSub hub beside its own address", () => {
     const kc = build([]).get("nfl/kc.atom")!;
     assert.match(
@@ -111,10 +131,7 @@ describe("feeds", () => {
       }),
     ]).get("nfl/ne.atom")!;
     assert.ok(!feed.includes("28-3"));
-    assert.match(
-      feed,
-      /<title>2026 Super Bowl: Patriots vs\. Falcons<\/title>/,
-    );
+    assert.match(feed, /<title>Patriots vs\. Falcons · Super Bowl<\/title>/);
   });
 
   it("names an entry by its game, so a correction moves its link in place", () => {
@@ -174,7 +191,11 @@ describe("entryTitle", () => {
   it("names the week as the league does", () => {
     assert.equal(
       entryTitle(game("regular", 9), byCode),
-      "2026 Week 9: Steelers at Texans",
+      "Steelers at Texans · Week 9",
+    );
+    assert.equal(
+      entryTitle(game("postseason", 19), byCode),
+      "Steelers at Texans · Wild Card",
     );
     assert.equal(roundName(game("preseason", 1)), "Hall of Fame Game");
     assert.equal(roundName(game("preseason", 2)), "Preseason Week 1");

@@ -2,7 +2,7 @@
  * Atom feeds of the season's recaps: one per team, and one of every game.
  *
  * A feed is a reader of the dataset, so hiding spoilers is its job. An
- * entry's title is written from the record ("2026 Week 9: Bills at Vikings"),
+ * entry's title is written from the record ("Bills at Vikings · Week 9"),
  * never YouTube's, which can give the result away and which the NFL often
  * changes after posting. An entry is a game, not a video: its id names the
  * game, so a correction moves its link and a removal drops it, and a
@@ -97,16 +97,42 @@ export function feedTitle(league: League, team: Team | null): string {
 }
 
 /**
- * How an entry names its game, without the result: "2026 Week 9: Bills
- * at Vikings", "2025 Wild Card: Steelers at Texans", "2025 Super Bowl:
- * Patriots vs. Seahawks". The year is the season's, as in the dataset, so a
- * season's postseason, played the next January and February, keeps it.
+ * How an entry names its game, without the result: "Bills at Vikings ·
+ * Week 9", "Steelers at Texans · Wild Card", "Patriots vs. Seahawks · Super
+ * Bowl". The matchup comes first, since it is what tells one entry from the
+ * next where a phone's list cuts the title short. The season is the same
+ * for every entry of a feed, so the title leaves it to the summary.
  */
 export function entryTitle(
   game: DatasetGame,
   teams: ReadonlyMap<string, Team>,
 ): string {
-  return `${game.season} ${roundName(game)}: ${matchup(game, teams, (team) => team.nickname)}`;
+  return `${matchup(game, teams, (team) => team.nickname)} · ${roundName(game)}`;
+}
+
+/** The season types as an entry's category names them. */
+const SEASON_TYPES: Record<DatasetGame["season_type"], string> = {
+  preseason: "Preseason",
+  regular: "Regular season",
+  postseason: "Postseason",
+};
+
+/**
+ * An entry's categories: its two teams and its part of the season, as a
+ * reader shows them and its rules match them ("Buffalo Bills", "Minnesota
+ * Vikings", "Regular season"). A reader's filter can then make the league's
+ * feed one of a few teams', or leave out the preseason. Each is a term
+ * alone, which every reader shows; some ignore a label.
+ */
+export function entryCategories(
+  game: DatasetGame,
+  teams: ReadonlyMap<string, Team>,
+): string[] {
+  return [
+    fullName(team(game.away, teams)),
+    fullName(team(game.home, teams)),
+    SEASON_TYPES[game.season_type],
+  ];
 }
 
 /** "Bills at Vikings"; the Super Bowl, at a neutral site, is "vs.". */
@@ -228,6 +254,9 @@ function entry(
     `    <published>${game.video.published_at}</published>`,
     `    <link rel="alternate" type="text/html" href="${escape(url)}"/>`,
     `    <link rel="related" type="text/html" title="Quiet Football" href="${escape(site)}"/>`,
+    ...entryCategories(game, teams).map(
+      (term) => `    <category term="${escape(term)}"/>`,
+    ),
     `    <summary>${escape(description)}</summary>`,
     // HTML, escaped once for itself and once more for the XML around it.
     `    <content type="html">${escape(content)}</content>`,
