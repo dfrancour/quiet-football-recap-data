@@ -37,7 +37,7 @@ type FoundGame = DatasetGame & { status: "found"; video: DatasetVideo };
 /** A feed id's authority, fixed for good: a feed's id must never change. */
 const TAG = "tag:quiet-football.com,2026";
 
-const SITE = "https://quiet-football.com";
+export const SITE = "https://quiet-football.com";
 
 /** The site's names for the postseason weeks, as its URLs give them. */
 const SITE_ROUNDS = ["wild-card", "divisional", "conference", "super-bowl"];
@@ -157,8 +157,8 @@ function feed(
   const path = team ? feedPath(league, team) : `${league}/all.atom`;
   const title = team ? `${fullName(team)} recaps` : `${leagueName} recaps`;
   const subtitle = team
-    ? `Each ${fullName(team)} game's official recap video, ${season} season, without the score.`
-    : `Each ${leagueName} game's official recap video, ${season} season, without the score.`;
+    ? `Each ${fullName(team)} game's recap video from YouTube, ${season} season.`
+    : `Each ${leagueName} game's recap video from YouTube, ${season} season.`;
   const lines = [
     `<?xml version="1.0" encoding="utf-8"?>`,
     `<feed xmlns="http://www.w3.org/2005/Atom">`,
@@ -169,6 +169,7 @@ function feed(
     `  <updated>${updated ?? `${season}-01-01T00:00:00Z`}</updated>`,
     `  <link rel="self" type="application/atom+xml" href="${escape(baseUrl + path)}"/>`,
     `  <link rel="alternate" type="text/html" href="${escape(siteSeasonUrl(season, team))}"/>`,
+    `  <icon>${escape(`${baseUrl}apple-icon.png`)}</icon>`,
     `  <author><name>Quiet Football</name></author>`,
     ...games.flatMap((game) => entry(league, game, teams, team)),
     `</feed>`,
@@ -226,49 +227,12 @@ function team(code: string, teams: ReadonlyMap<string, Team>): Team {
   return found;
 }
 
-function fullName(team: Team): string {
+export function fullName(team: Team): string {
   return `${team.location} ${team.nickname}`;
 }
 
-/** The page that lists the feeds, so a reader can find them from the site. */
-export function feedIndex(options: Omit<FeedOptions, "file">): string {
-  const { league, leagueName, teams, baseUrl } = options;
-  const sorted = [...teams].sort((a, b) =>
-    fullName(a).localeCompare(fullName(b)),
-  );
-  const items = sorted.map(
-    (team) =>
-      `      <li><a href="${escape(feedPath(league, team))}">${escape(fullName(team))}</a></li>`,
-  );
-  return `<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Recap feeds</title>
-    <link rel="alternate" type="application/atom+xml" title="${escape(leagueName)} recaps" href="${escape(`${baseUrl}${league}/all.atom`)}">
-    <style>
-      :root { color-scheme: light dark; }
-      body { font: 16px/1.5 system-ui, sans-serif; max-width: 40rem; margin: 2rem auto; padding: 0 1rem; }
-      ul { columns: 2 14rem; padding-left: 1.2rem; }
-    </style>
-  </head>
-  <body>
-    <h1>Recap feeds</h1>
-    <p>Atom feeds of each game's official recap video, posted minutes after
-    it appears on YouTube. Titles name the game, never the result. Add a
-    feed's address to your reader.</p>
-    <p><a href="${escape(`${league}/all.atom`)}">Every ${escape(leagueName)} game</a></p>
-    <ul>
-${items.join("\n")}
-    </ul>
-    <p>Built from <a href="https://github.com/dfrancour/quiet-football-recap-data">quiet-football-recap-data</a>.</p>
-  </body>
-</html>
-`;
-}
-
-function escape(text: string): string {
+/** Text escaped for XML or HTML, in content or an attribute. */
+export function escape(text: string): string {
   return text
     .replaceAll("&", "&amp;")
     .replaceAll("<", "&lt;")

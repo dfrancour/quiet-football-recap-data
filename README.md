@@ -39,7 +39,9 @@ Its id names the game, so a corrected match updates the entry in place. The
 feeds are rebuilt from the season files on every push
 (`.github/workflows/feeds.yml`, `src/feeds.ts`), a minute or two after the
 publisher's commit. [The index](https://feeds.quiet-football.com/)
-lists them all.
+lists them all, by conference and division, and each division is an OPML
+file (`nfl/nfc-north.opml`, …) a reader imports to follow its four teams at
+once.
 
 ## A season file
 

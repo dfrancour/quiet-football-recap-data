@@ -4,7 +4,6 @@ import type { DatasetGame, SeasonFile } from "../src/dataset.ts";
 import {
   buildFeeds,
   entryTitle,
-  feedIndex,
   roundName,
   siteGameUrl,
 } from "../src/feeds.ts";
@@ -231,25 +230,5 @@ describe("links to Quiet Football", () => {
       feed,
       /<content type="html">&lt;p&gt;.*season=2026&amp;amp;week=6.*&lt;\/p&gt;<\/content>/,
     );
-  });
-});
-
-describe("feedIndex", () => {
-  it("links every feed and advertises the league's", () => {
-    const page = feedIndex({
-      league: "nfl",
-      leagueName: "NFL",
-      teams: NFL_TEAMS,
-      baseUrl: BASE,
-    });
-    assert.match(
-      page,
-      /rel="alternate" type="application\/atom\+xml"[^>]*href="https:\/\/example\.test\/feeds\/nfl\/all\.atom"/,
-    );
-    for (const team of NFL_TEAMS) {
-      assert.ok(
-        page.includes(`href="nfl/${team.abbreviation.toLowerCase()}.atom"`),
-      );
-    }
   });
 });

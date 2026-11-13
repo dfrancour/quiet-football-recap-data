@@ -9,6 +9,7 @@ on:
     paths:
       - "nfl/*.json"
       - "src/**"
+      - "site/**"
       - "package-lock.json"
       - ".github/workflows/feeds.yml"
   workflow_dispatch:

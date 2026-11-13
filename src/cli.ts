@@ -16,11 +16,13 @@
  * `YOUTUBE_API_KEY`. `run` is the live publisher (src/publisher.ts), and
  * `status` reports on it; `status --check` exits non-zero when it looks
  * stalled, for a health check. `feeds` writes the current season's Atom
- * feeds and the page that lists them (src/feeds.ts), for GitHub Pages.
+ * feeds (src/feeds.ts), the page that lists them and an OPML file per
+ * division (src/feeds-site.ts), and the icons in `site/`, for GitHub Pages.
  */
 
 import { execFileSync } from "node:child_process";
 import {
+  cpSync,
   existsSync,
   mkdirSync,
   readdirSync,
@@ -43,9 +45,11 @@ import {
 import { correctionsSchema } from "./corrections.ts";
 import { parseSeasonFile, serializeSeasonFile } from "./dataset.ts";
 import { fetchEspnJson, fetchSeasonSchedule } from "./espn.ts";
-import { buildFeeds, feedIndex } from "./feeds.ts";
+import { buildFeeds } from "./feeds.ts";
+import { buildSite } from "./feeds-site.ts";
 import { GitRepo } from "./git.ts";
 import { NFL_CHANNEL_ID } from "./nfl/channel.ts";
+import { NFL_CONFERENCES } from "./nfl/divisions.ts";
 import { NFL_TEAMS } from "./nfl/teams.ts";
 import {
   healthy,
@@ -349,16 +353,18 @@ async function feeds(args: string[]): Promise<void> {
     teams: NFL_TEAMS,
     baseUrl,
   };
-  const pages = buildFeeds({ ...options, file });
-  pages.set("index.html", feedIndex(options));
-  for (const [path, text] of pages) {
+  const feeds = buildFeeds({ ...options, file });
+  const pages = buildSite({ ...options, conferences: NFL_CONFERENCES });
+  for (const [path, text] of [...feeds, ...pages]) {
     const target = join(values.out, path);
     mkdirSync(dirname(target), { recursive: true });
     writeFileSync(target, text);
   }
+  // The icons, Quiet Football's own.
+  cpSync(`${ROOT}site`, values.out, { recursive: true });
   const found = file.games.filter((game) => game.status === "found").length;
   console.log(
-    `${season}: ${pages.size - 1} feeds, ${found} recaps, in ${values.out}`,
+    `${season}: ${feeds.size} feeds, ${found} recaps, in ${values.out}`,
   );
 }
 
