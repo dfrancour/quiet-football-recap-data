@@ -37,7 +37,7 @@ the result ("2026 Week 9: Bills at Vikings"), and links to the video on YouTube
 and to the game on [Quiet Football](https://quiet-football.com).
 Its id names the game, so a corrected match updates the entry in place. The
 feeds are rebuilt from the season files on every push
-(`.github/workflows/feeds.yml`, `src/feeds.ts`), a minute or two after the
+(`.github/workflows/feeds.yml`, `src/feeds/`), a minute or two after the
 publisher's commit. [The index](https://feeds.quiet-football.com/)
 lists them all, by conference and division, and each division is an OPML
 file (`nfl/nfc-north.opml`, …) a reader imports to follow its four teams at
@@ -179,98 +179,16 @@ change to it: when it was tracked, found, retitled or corrected.
 ## How it's made
 
 The code that builds the dataset lives here with it, so a change to the
-matching rules and the data it changes land together. Why the data is shaped
-this way is in [docs/design.md](docs/design.md), when the publisher works in
-[docs/scheduling.md](docs/scheduling.md), and what twelve seasons of recaps
-taught in [docs/findings.md](docs/findings.md).
+matching rules and the data it changes land together.
 
-- `src/matcher.ts` decides which video is a game's recap: a title that says
-  "highlights" or is only the matchup, never a preview, naming both teams,
-  published within three days of kickoff. Publish time pins the game; a week
-  in the title only breaks ties.
-- `src/espn.ts` reads each season's schedule from ESPN's scoreboard, and
-  numbers its weeks as described above.
-- `src/youtube.ts` reads the channel's videos: its uploads, its playlists, a
-  search within a time window, and a lookup by id. It counts the quota each
-  call spends.
-- `src/nfl/teams.ts` holds each team's codes, names and former names
-  ("Redskins", "Oakland").
-- `src/backfill.ts` builds a season after the fact from its schedule and the
-  videos gathered for it. Nothing in it was watched live, so a game with no
-  recap is `unknown`.
-- `src/transitions.ts` is what the live publisher changes, given what it
-  knows: track, add, correct, retitle, remove, miss and untrack, each one
-  game's new record and its commit message.
-- `src/planner.ts` decides when the publisher reads ESPN and YouTube, from
-  the data and the quota left (docs/scheduling.md).
-- `src/publisher.ts` runs a pass (pull, read what is due, commit each
-  change, push) and the loop around it; `src/git.ts` is its checkout.
-- `nfl/corrections.json` holds matches decided by a person: a recap whose
-  title follows no rule, or a match the rules got wrong. The matcher never
-  overrides one. Each names its game, the video (or `null` for none) and a
-  reason.
-- `test/` holds the titles the NFL has actually used, every quirk included.
-  A new quirk belongs there.
+- [docs/operating.md](docs/operating.md): the code's layout, gathering
+  videos, rebuilding a season, checking the files and running the publisher
+- [docs/design.md](docs/design.md): why the data is shaped this way
+- [docs/scheduling.md](docs/scheduling.md): when the publisher works
+- [docs/findings.md](docs/findings.md): what twelve seasons of recaps taught
 
-Videos are gathered into `.cache/nfl-videos.json` (not in git), which also
-remembers the searches already run so none is paid for twice. Gathering
-needs a YouTube Data API key in `.env` (`YOUTUBE_API_KEY=…`). A backfill
-rewrites a season from the cache alone, so a fresh checkout must gather the
-whole season (`collect uploads --since` the preseason) before it adds a
-game; a rewrite that would take a recap away from a game found before is
-refused unless `--allow-loss` says so.
-
-If the publisher is down, a recap can still be added by hand:
-
-```bash
-node --env-file=.env src/cli.ts collect uploads --since 2026-08-01T00:00:00Z
-node src/cli.ts backfill 2026
-npm run check && git diff
-```
-
-```bash
-# the uploads list, back to a date (1 unit per 50 videos; it reaches back ~20,000 videos)
-node --env-file=.env src/cli.ts collect uploads --since 2026-09-01T00:00:00Z
-# every playlist whose title matches (1 unit per 50 videos)
-node --env-file=.env src/cli.ts collect playlists --match "game highlights" --exclude "player"
-# searches of the windows where games still have no recap (100 units each)
-node --env-file=.env src/cli.ts collect gaps 2023 --types regular,postseason
-node --env-file=.env src/cli.ts collect gaps 2023 --per-game
-# specific videos, such as one a correction names
-node --env-file=.env src/cli.ts collect ids GP9zR_SKRr0
-```
-
-Then rebuild seasons from ESPN's schedules, the gathered videos and the
-corrections:
-
-```bash
-node src/cli.ts backfill 2015-2026
-```
-
-```bash
-npm ci
-npm test
-```
-
-## Checking
-
-```bash
-npm ci
-npm run check
-```
-
-This validates every file against its schema (`scripts/validate.mjs`), then
-checks what the schema can't (`scripts/check.mjs`, no dependencies):
-
-- each file points at its schema, and its name and games match its season
-- games are in order, and no team plays twice in a week
-- no source's id names two games
-- each file is in canonical form (2-space JSON, keys in schema order, a final
-  newline)
-
-A file is a pure function of what the publisher knows, so writing it again
-without news changes no byte and makes no commit. Both cover `nfl/` only so
-far, and CI runs them on every push.
+Every push is checked (`npm run check`): each file must pass its schema and
+be exactly what the publisher would write for it.
 
 ## License
 
@@ -279,29 +197,3 @@ domain, so use them for anything, without asking or crediting.
 
 CC0 waives only rights this project holds. A video and its title belong to
 whoever posted it, and this dataset only points to them.
-
-## Running the publisher
-
-`run` is the live publisher. It works in its own checkout, commits as its
-own identity, and pushes after every pass, so try it on a scratch clone with
-`--no-push` first:
-
-```bash
-node --env-file=.env src/cli.ts run --once --no-push --data /tmp/trial --clone "$PWD"
-node src/cli.ts status --data /tmp/trial
-```
-
-On the server it runs in a container (`Dockerfile`, `compose.yaml`) with its
-checkout and cache on a volume. Beside `compose.yaml` it needs `.env` with
-`YOUTUBE_API_KEY` (and, optionally, `PUBLISHER_GIT_NAME` and
-`PUBLISHER_GIT_EMAIL` for the bot identity), and `deploy_key`, the private
-half of a deploy key with write access to this repository, readable by uid 1000. Then:
-
-```bash
-PUBLISHER_BUILD=$(git rev-parse --short=12 HEAD) docker compose up -d --build
-docker compose logs -f publisher
-```
-
-The first start clones the repository onto the volume. `status --check` is
-the container's health check: it fails when no pass has run in two hours or
-the publisher is ten minutes past when it meant to wake.

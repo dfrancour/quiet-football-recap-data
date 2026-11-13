@@ -91,7 +91,8 @@ sleeps until it resets at midnight Pacific.
 
 ## Decisions made in building it
 
-`src/planner.ts` and `src/transitions.ts` hold these, with tests:
+`src/publisher/planner.ts` and `src/publisher/transitions.ts` hold these,
+with tests:
 
 - **ESPN is read by day.** Its scoreboard takes one Eastern day
   (`dates=20261015`, not a range), and every event names its own season,

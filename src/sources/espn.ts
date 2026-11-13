@@ -1,30 +1,20 @@
 /**
  * Reads a season's schedule from ESPN's scoreboard: every game of the
  * preseason, regular season and postseason, with its kickoff, status and
- * teams, numbered the way the dataset numbers weeks.
+ * teams, numbered the way the dataset numbers weeks. The weeks are the NFL's:
+ * its preseason, its 17 or 18 regular-season weeks, and a Super Bowl told
+ * from the Pro Bowl by its headline.
  */
 
 import { z } from "zod";
-import type { Game, Team } from "./matcher.ts";
-
-export type SeasonType = "preseason" | "regular" | "postseason";
-
-export type GameStatus =
-  | "scheduled"
-  | "in_progress"
-  | "final"
-  | "postponed"
-  | "canceled";
-
-export interface ScheduledGame extends Game {
-  seasonType: SeasonType;
-  status: GameStatus;
-  /** ESPN's event id, kept as a reference in `external_ids`. */
-  espnId: string;
-}
-
-const SCOREBOARD =
-  "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard";
+import type {
+  GameStatus,
+  League,
+  LiveGame,
+  ScheduledGame,
+  SeasonType,
+  Team,
+} from "../model.ts";
 
 const ESPN_SEASON_TYPES: Readonly<Record<SeasonType, number>> = {
   preseason: 1,
@@ -48,11 +38,12 @@ export function regularSeasonWeeks(season: number): number {
 }
 
 export function scoreboardUrl(
+  league: League,
   season: number,
   seasonType: SeasonType,
   week: number,
 ): string {
-  return `${SCOREBOARD}?dates=${season}&seasontype=${ESPN_SEASON_TYPES[seasonType]}&week=${week}`;
+  return `${league.espn.scoreboard}?dates=${season}&seasontype=${ESPN_SEASON_TYPES[seasonType]}&week=${week}`;
 }
 
 const scoreboardSchema = z.object({
@@ -210,7 +201,7 @@ export async function fetchEspnJson(url: string): Promise<unknown> {
 }
 
 export interface ScheduleOptions {
-  teams: readonly Team[];
+  league: League;
   fetchJson?: FetchJson;
   pauseMs?: number;
 }
@@ -222,7 +213,7 @@ export interface ScheduleOptions {
  */
 export async function fetchSeasonSchedule(
   season: number,
-  { teams, fetchJson = fetchEspnJson, pauseMs = PAUSE_MS }: ScheduleOptions,
+  { league, fetchJson = fetchEspnJson, pauseMs = PAUSE_MS }: ScheduleOptions,
 ): Promise<ScheduledGame[]> {
   const weeks: [SeasonType, number][] = [
     ...range(PRESEASON_WEEKS).map((week): [SeasonType, number] => [
@@ -242,13 +233,15 @@ export async function fetchSeasonSchedule(
   const games: ScheduledGame[] = [];
   for (const [index, [seasonType, week]] of weeks.entries()) {
     if (index > 0) await new Promise((done) => setTimeout(done, pauseMs));
-    const payload = await fetchJson(scoreboardUrl(season, seasonType, week));
+    const payload = await fetchJson(
+      scoreboardUrl(league, season, seasonType, week),
+    );
     const weekGames = gamesFromScoreboard(
       payload,
       season,
       seasonType,
       week,
-      teams,
+      league.teams,
     );
     if (seasonType === "regular" && weekGames.length === 0) {
       throw new Error(`ESPN returned no games for ${season} week ${week}`);
@@ -262,23 +255,15 @@ function range(count: number): number[] {
   return Array.from({ length: count }, (_, index) => index + 1);
 }
 
-/** A game read from a day's scoreboard, which can span seasons. */
-export interface LiveGame extends ScheduledGame {
-  season: number;
-}
-
 const SEASON_TYPES_BY_NUMBER: Readonly<Record<number, SeasonType>> = {
   1: "preseason",
   2: "regular",
   3: "postseason",
 };
 
-/** ESPN's scoreboard for the current week, upcoming games included. */
-export const CURRENT_SCOREBOARD_URL = SCOREBOARD;
-
 /** ESPN's scoreboard for one day, which ESPN counts in US Eastern time. */
-export function scoreboardDayUrl(day: string): string {
-  return `${SCOREBOARD}?dates=${day}`;
+export function scoreboardDayUrl(league: League, day: string): string {
+  return `${league.espn.scoreboard}?dates=${day}`;
 }
 
 /** An instant's day in US Eastern time, as ESPN's `dates` takes it: `20261015`. */

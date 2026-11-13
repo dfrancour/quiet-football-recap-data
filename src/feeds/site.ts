@@ -7,16 +7,11 @@
  * Football's colors, mark and titles.
  */
 
-import { escape, feedPath, fullName, SITE } from "./feeds.ts";
-import type { Team } from "./matcher.ts";
-import type { Conference } from "./nfl/divisions.ts";
+import type { League, Team } from "../model.ts";
+import { escape, feedPath, fullName, SITE } from "./atom.ts";
 
 export interface SiteOptions {
-  league: string;
-  /** The league's name as a reader knows it: "NFL". */
-  leagueName: string;
-  teams: readonly Team[];
-  conferences: readonly Conference[];
+  league: League;
   /** Where the site is served, with a final slash. */
   baseUrl: string;
 }
@@ -37,7 +32,7 @@ const DATA_REPO = "https://github.com/dfrancour/quiet-football-recap-data";
 export function buildSite(options: SiteOptions): Map<string, string> {
   const site = new Map<string, string>([["index.html", feedIndex(options)]]);
   for (const division of divisions(options)) {
-    site.set(opmlPath(options.league, division), opml(options, division));
+    site.set(opmlPath(options.league.id, division), opml(options, division));
   }
   return site;
 }
@@ -53,14 +48,13 @@ export function opmlPath(league: string, division: { name: string }): string {
  * since any other order gives results away.
  */
 function divisions(options: SiteOptions): Division[] {
-  return options.conferences.flatMap((conference) =>
+  const { conferences, teams } = options.league;
+  return conferences.flatMap((conference) =>
     conference.divisions.map((division) => ({
       name: `${conference.name} ${division.name}`,
       teams: division.teams
         .map((code) => {
-          const team = options.teams.find(
-            (entry) => entry.abbreviation === code,
-          );
+          const team = teams.find((entry) => entry.abbreviation === code);
           if (!team) throw new Error(`No team ${code}`);
           return team;
         })
@@ -75,7 +69,8 @@ function divisions(options: SiteOptions): Division[] {
  * included.
  */
 function opml(options: SiteOptions, division: Division): string {
-  const { league, baseUrl } = options;
+  const { baseUrl } = options;
+  const league = options.league.id;
   const name = escape(division.name);
   const outlines = division.teams.map((team) => {
     const title = escape(`${fullName(team)} recaps`);
@@ -100,8 +95,8 @@ function opml(options: SiteOptions, division: Division): string {
 }
 
 /** ESPN's dark-variant mark, as Quiet Football shows it, at 2× its 20px. */
-function logoUrl(team: Team): string {
-  return `https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500-dark/${team.abbreviation.toLowerCase()}.png&h=96&w=96`;
+function logoUrl(league: League, team: Team): string {
+  return `https://a.espncdn.com/combiner/i?img=${league.espn.logos}/${team.abbreviation.toLowerCase()}.png&h=96&w=96`;
 }
 
 /** Quiet Football's mark: the possession football (`FootballMark` there). */
@@ -154,8 +149,8 @@ function feedRow(
 function divisionTable(options: SiteOptions, division: Division): string {
   const id = escape(opmlPath("", division).slice(1, -".opml".length));
   const rows = division.teams.map((team) => {
-    const path = feedPath(options.league, team);
-    const logo = `<img src="${escape(logoUrl(team))}" alt="" width="20" height="20" loading="lazy">`;
+    const path = feedPath(options.league.id, team);
+    const logo = `<img src="${escape(logoUrl(options.league, team))}" alt="" width="20" height="20" loading="lazy">`;
     return feedRow(
       path,
       options.baseUrl + path,
@@ -168,7 +163,7 @@ function divisionTable(options: SiteOptions, division: Division): string {
   return `        <div class="division">
           <div class="division-head">
             <h3 id="${id}"><span class="sr-only">${escape(conference ?? "")} </span>${escape(rest.join(" "))}</h3>
-            <a class="opml" href="${escape(opmlPath(options.league, division))}" download title="All four ${escape(division.name)} feeds, as OPML">${icon("download")}<span>OPML</span><span class="sr-only">: all four ${escape(division.name)} feeds</span></a>
+            <a class="opml" href="${escape(opmlPath(options.league.id, division))}" download title="All four ${escape(division.name)} feeds, as OPML">${icon("download")}<span>OPML</span><span class="sr-only">: all four ${escape(division.name)} feeds</span></a>
           </div>
           <table aria-labelledby="${id}">
             <tbody>
@@ -180,7 +175,8 @@ ${rows.join("\n")}
 
 /** The page that lists the feeds, in Quiet Football's colors and layout. */
 export function feedIndex(options: SiteOptions): string {
-  const { league, leagueName, baseUrl } = options;
+  const { id: league, name: leagueName } = options.league;
+  const { baseUrl } = options;
   const allPath = `${league}/all.atom`;
   const leagueLabel = escape(leagueName);
   const byConference = new Map<string, Division[]>();

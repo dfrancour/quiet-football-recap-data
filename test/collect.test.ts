@@ -12,9 +12,9 @@ import {
   searchKey,
   type GapGame,
 } from "../src/collect.ts";
-import type { Video } from "../src/matcher.ts";
-import { NFL_TEAMS } from "../src/nfl/teams.ts";
-import { YouTube } from "../src/youtube.ts";
+import type { Video } from "../src/model.ts";
+import { NFL } from "../src/leagues/nfl.ts";
+import { YouTube } from "../src/sources/youtube.ts";
 
 const CHANNEL = "UCDVYQ4Zhbm3S2dlz7P1GBDg";
 
@@ -92,7 +92,7 @@ describe("gapWindows", () => {
   ];
 
   it("searches overlapping windows once, for vs", () => {
-    const windows = gapWindows(games, NFL_TEAMS, { hours: 12, perGame: false });
+    const windows = gapWindows(games, NFL.teams, { hours: 12, perGame: false });
     assert.deepEqual(
       windows.map((w) => [w.after, w.before, w.query, w.games.length]),
       [
@@ -103,7 +103,7 @@ describe("gapWindows", () => {
   });
 
   it("gives each game its own search for both nicknames", () => {
-    const windows = gapWindows(games, NFL_TEAMS, { hours: 12, perGame: true });
+    const windows = gapWindows(games, NFL.teams, { hours: 12, perGame: true });
     assert.deepEqual(
       windows.map((w) => w.query),
       ["Saints Colts", "Chiefs Broncos", "Raiders Lions"],
@@ -118,7 +118,7 @@ describe("collectGaps", () => {
       gap("LV", "DET", "2023-10-31T00:15:00Z"),
       gap("SF", "CIN", "2023-11-05T21:05:00Z"),
     ],
-    NFL_TEAMS,
+    NFL.teams,
     { hours: 12, perGame: false },
   );
 

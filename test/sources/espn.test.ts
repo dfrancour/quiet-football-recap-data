@@ -7,8 +7,8 @@ import {
   gamesFromScoreboard,
   regularSeasonWeeks,
   scoreboardUrl,
-} from "../src/espn.ts";
-import { NFL_TEAMS, nflTeam } from "../src/nfl/teams.ts";
+} from "../../src/sources/espn.ts";
+import { NFL, nflTeam } from "../../src/leagues/nfl.ts";
 
 interface EventSpec {
   id: string;
@@ -49,7 +49,7 @@ const read = (
   season: number,
   seasonType: "preseason" | "regular" | "postseason",
   week: number,
-) => gamesFromScoreboard(payload, season, seasonType, week, NFL_TEAMS);
+) => gamesFromScoreboard(payload, season, seasonType, week, NFL.teams);
 
 describe("regularSeasonWeeks", () => {
   it("is 17 through 2020 and 18 since", () => {
@@ -60,9 +60,18 @@ describe("regularSeasonWeeks", () => {
 
 describe("scoreboardUrl", () => {
   it("names ESPN's season type by number", () => {
-    assert.match(scoreboardUrl(2026, "preseason", 1), /seasontype=1&week=1$/);
-    assert.match(scoreboardUrl(2026, "regular", 6), /dates=2026&seasontype=2/);
-    assert.match(scoreboardUrl(2026, "postseason", 5), /seasontype=3&week=5$/);
+    assert.match(
+      scoreboardUrl(NFL, 2026, "preseason", 1),
+      /seasontype=1&week=1$/,
+    );
+    assert.match(
+      scoreboardUrl(NFL, 2026, "regular", 6),
+      /dates=2026&seasontype=2/,
+    );
+    assert.match(
+      scoreboardUrl(NFL, 2026, "postseason", 5),
+      /seasontype=3&week=5$/,
+    );
   });
 });
 
@@ -211,7 +220,7 @@ describe("fetchSeasonSchedule", () => {
       }),
     });
     const games = await fetchSeasonSchedule(2026, {
-      teams: NFL_TEAMS,
+      league: NFL,
       fetchJson,
       pauseMs: 0,
     });
@@ -228,7 +237,7 @@ describe("fetchSeasonSchedule", () => {
     delete weeks["2-7"];
     const { fetchJson } = stub(weeks);
     await assert.rejects(
-      fetchSeasonSchedule(2026, { teams: NFL_TEAMS, fetchJson, pauseMs: 0 }),
+      fetchSeasonSchedule(2026, { league: NFL, fetchJson, pauseMs: 0 }),
       /no games for 2026 week 7/,
     );
   });
@@ -257,7 +266,7 @@ describe("gamesFromDay", () => {
         home: "DEN",
         date: "2026-10-16T00:15Z",
       }),
-      NFL_TEAMS,
+      NFL.teams,
     );
     assert.equal(game!.season, 2026);
     assert.equal(game!.seasonType, "regular");
@@ -289,7 +298,7 @@ describe("gamesFromDay", () => {
           headline: "Pro Bowl",
         },
       ),
-      NFL_TEAMS,
+      NFL.teams,
     );
     assert.deepEqual(
       games.map((game) => [game.season, game.week]),
@@ -304,7 +313,7 @@ describe("gamesFromDay", () => {
     assert.deepEqual(
       gamesFromDay(
         scoreboard({ id: "1", away: "SEA", home: "DEN" }),
-        NFL_TEAMS,
+        NFL.teams,
       ),
       [],
     );

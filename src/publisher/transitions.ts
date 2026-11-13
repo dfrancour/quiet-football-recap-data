@@ -12,22 +12,16 @@
  * can be replaced by a better video at once.
  */
 
-import type { Correction } from "./corrections.ts";
+import type { Correction } from "../corrections.ts";
 import {
   gameKey,
   gameName,
   instant,
   type DatasetGame,
   type SeasonFile,
-} from "./dataset.ts";
-import type { LiveGame } from "./espn.ts";
-import {
-  matchRecap,
-  RECAP_WINDOW_MS,
-  type Game,
-  type Team,
-  type Video,
-} from "./matcher.ts";
+} from "../dataset.ts";
+import { matchRecap, RECAP_WINDOW_MS } from "../matcher.ts";
+import type { Game, LiveGame, Team, Video } from "../model.ts";
 
 export interface Change {
   season: number;

@@ -1,12 +1,17 @@
-import type { Team } from "../matcher.ts";
+/**
+ * The NFL: everything the code knows that is the league's own. A season's
+ * week numbering is ESPN's NFL numbering, which src/sources/espn.ts reads.
+ */
+
+import type { Conference, League, Team } from "../model.ts";
 
 /**
- * The league's teams, one per franchise for every season. `formerNames` are
- * what older titles call a team on their own ("Redskins vs. Cowboys"); a
- * renamed or relocated team adds its old name there.
+ * One per franchise for every season. `formerNames` are what older titles
+ * call a team on their own ("Redskins vs. Cowboys"); a renamed or relocated
+ * team adds its old name there.
  */
 // prettier-ignore
-export const NFL_TEAMS: readonly Team[] = [
+const TEAMS: readonly Team[] = [
   { abbreviation: "ARI", espnId: "22", location: "Arizona", nickname: "Cardinals", formerNames: [] },
   { abbreviation: "ATL", espnId: "1", location: "Atlanta", nickname: "Falcons", formerNames: [] },
   { abbreviation: "BAL", espnId: "33", location: "Baltimore", nickname: "Ravens", formerNames: [] },
@@ -41,8 +46,48 @@ export const NFL_TEAMS: readonly Team[] = [
   { abbreviation: "WSH", espnId: "28", location: "Washington", nickname: "Commanders", formerNames: ["Redskins"] },
 ];
 
+/**
+ * The conferences and divisions as they stand today (the alignment since
+ * 2002), in the order Quiet Football's standings lay them out: NFC then AFC,
+ * each North, East, South, West.
+ */
+const CONFERENCES: readonly Conference[] = [
+  {
+    name: "NFC",
+    divisions: [
+      { name: "North", teams: ["CHI", "DET", "GB", "MIN"] },
+      { name: "East", teams: ["DAL", "NYG", "PHI", "WSH"] },
+      { name: "South", teams: ["ATL", "CAR", "NO", "TB"] },
+      { name: "West", teams: ["ARI", "LAR", "SF", "SEA"] },
+    ],
+  },
+  {
+    name: "AFC",
+    divisions: [
+      { name: "North", teams: ["BAL", "CIN", "CLE", "PIT"] },
+      { name: "East", teams: ["BUF", "MIA", "NE", "NYJ"] },
+      { name: "South", teams: ["HOU", "IND", "JAX", "TEN"] },
+      { name: "West", teams: ["DEN", "KC", "LV", "LAC"] },
+    ],
+  },
+];
+
+export const NFL: League = {
+  id: "nfl",
+  name: "NFL",
+  teams: TEAMS,
+  conferences: CONFERENCES,
+  // The NFL's own YouTube channel.
+  channelId: "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+  espn: {
+    scoreboard:
+      "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard",
+    logos: "/i/teamlogos/nfl/500-dark",
+  },
+};
+
 export function nflTeam(abbreviation: string): Team {
-  const team = NFL_TEAMS.find((entry) => entry.abbreviation === abbreviation);
+  const team = TEAMS.find((entry) => entry.abbreviation === abbreviation);
   if (!team) throw new Error(`No NFL team ${abbreviation}`);
   return team;
 }

@@ -13,11 +13,13 @@
  * `backfill` reads each season's schedule from ESPN, matches it against the
  * gathered videos and `nfl/corrections.json`, and rewrites `nfl/<season>.json`.
  * `collect` gathers videos into the cache from YouTube, which needs
- * `YOUTUBE_API_KEY`. `run` is the live publisher (src/publisher.ts), and
+ * `YOUTUBE_API_KEY`. `run` is the live publisher (src/publisher/run.ts), and
  * `status` reports on it; `status --check` exits non-zero when it looks
  * stalled, for a health check. `feeds` writes the current season's Atom
- * feeds (src/feeds.ts), the page that lists them and an OPML file per
- * division (src/feeds-site.ts), and the icons in `site/`, for GitHub Pages.
+ * feeds (src/feeds/atom.ts), the page that lists them and an OPML file per
+ * division (src/feeds/site.ts), and the icons in src/feeds/assets, for
+ * GitHub Pages. Checking the files is src/check.ts, apart from this, since
+ * it needs the dev dependencies the publisher's image leaves out.
  */
 
 import { execFileSync } from "node:child_process";
@@ -44,24 +46,26 @@ import {
 } from "./collect.ts";
 import { correctionsSchema } from "./corrections.ts";
 import { parseSeasonFile, serializeSeasonFile } from "./dataset.ts";
-import { fetchEspnJson, fetchSeasonSchedule } from "./espn.ts";
-import { buildFeeds } from "./feeds.ts";
-import { buildSite } from "./feeds-site.ts";
-import { GitRepo } from "./git.ts";
-import { NFL_CHANNEL_ID } from "./nfl/channel.ts";
-import { NFL_CONFERENCES } from "./nfl/divisions.ts";
-import { NFL_TEAMS } from "./nfl/teams.ts";
+import { buildFeeds } from "./feeds/atom.ts";
+import { buildSite } from "./feeds/site.ts";
+import { NFL } from "./leagues/nfl.ts";
+import { GitRepo } from "./publisher/git.ts";
 import {
   healthy,
   paths,
   readStatus,
   runLoop,
   type PublisherOptions,
-} from "./publisher.ts";
-import { YouTube, YouTubeError } from "./youtube.ts";
+} from "./publisher/run.ts";
+import { fetchEspnJson, fetchSeasonSchedule } from "./sources/espn.ts";
+import { YouTube, YouTubeError } from "./sources/youtube.ts";
+
+/** The one league so far. */
+const LEAGUE = NFL;
 
 const ROOT = new URL("../", import.meta.url).pathname;
-const CACHE = `${ROOT}.cache/nfl-videos.json`;
+const DIR = `${ROOT}${LEAGUE.id}`;
+const CACHE = `${ROOT}.cache/${LEAGUE.id}-videos.json`;
 
 /** The fields of a season file's games that collecting and checking need. */
 const seasonGamesSchema = z.object({
@@ -105,19 +109,19 @@ async function backfill(args: string[]): Promise<void> {
 
   const videos = VideoCache.read(CACHE).videos;
   const corrections = correctionsSchema.parse(
-    readJson(`${ROOT}nfl/corrections.json`),
+    readJson(`${DIR}/corrections.json`),
   );
 
   for (const season of parseSeasons(spec)) {
-    const schedule = await fetchSeasonSchedule(season, { teams: NFL_TEAMS });
+    const schedule = await fetchSeasonSchedule(season, { league: LEAGUE });
     const file = backfillSeason(
       season,
       schedule,
       videos,
       corrections,
-      NFL_TEAMS,
+      LEAGUE.teams,
     );
-    const path = `${ROOT}nfl/${season}.json`;
+    const path = `${DIR}/${season}.json`;
     const before = existsSync(path)
       ? seasonGamesSchema.parse(readJson(path))
       : null;
@@ -172,7 +176,7 @@ async function collect(args: string[]): Promise<void> {
           await collectUploads(
             client,
             cache,
-            NFL_CHANNEL_ID,
+            LEAGUE.channelId,
             values.since,
             Number(values["max-pages"]),
           ),
@@ -184,7 +188,7 @@ async function collect(args: string[]): Promise<void> {
           await collectPlaylists(
             client,
             cache,
-            NFL_CHANNEL_ID,
+            LEAGUE.channelId,
             new RegExp(values.match, "i"),
             values.exclude ? new RegExp(values.exclude, "i") : null,
           ),
@@ -197,13 +201,13 @@ async function collect(args: string[]): Promise<void> {
         const types = new Set(values.types.split(","));
         const games: GapGame[] = parseSeasons(spec).flatMap((season) =>
           seasonGamesSchema
-            .parse(readJson(`${ROOT}nfl/${season}.json`))
+            .parse(readJson(`${DIR}/${season}.json`))
             .games.filter(
               (game) =>
                 game.status === "unknown" && types.has(game.season_type),
             ),
         );
-        const windows = gapWindows(games, NFL_TEAMS, {
+        const windows = gapWindows(games, LEAGUE.teams, {
           hours: Number(values.hours),
           perGame: values["per-game"],
         });
@@ -211,7 +215,7 @@ async function collect(args: string[]): Promise<void> {
           `${games.length} games without a recap, ${windows.length} windows`,
         );
         report(
-          await collectGaps(client, cache, NFL_CHANNEL_ID, windows, {
+          await collectGaps(client, cache, LEAGUE.channelId, windows, {
             maxSearches: Number(values["max-searches"]),
             pagesPerWindow: Number(values.pages),
           }),
@@ -288,9 +292,7 @@ async function publish(args: string[]): Promise<void> {
   };
   const options: PublisherOptions = {
     dataDir,
-    league: "nfl",
-    teams: NFL_TEAMS,
-    channelId: NFL_CHANNEL_ID,
+    league: LEAGUE,
     fetchJson: fetchEspnJson,
     youtube: () => new YouTube({ apiKey }),
     git: new GitRepo(dataDir, identity),
@@ -320,7 +322,7 @@ async function status(args: string[]): Promise<void> {
       check: { type: "boolean", default: false },
     },
   });
-  const current = readStatus(paths(values.data, "nfl").status);
+  const current = readStatus(paths(values.data, LEAGUE.id).status);
   const ok = healthy(current, Date.now());
   if (!values.check || !ok) {
     console.log(current ? JSON.stringify(current, null, 2) : "No pass yet.");
@@ -339,29 +341,21 @@ async function feeds(args: string[]): Promise<void> {
     },
   });
   const baseUrl = values["base-url"].replace(/\/*$/, "/");
-  const seasons = readdirSync(`${ROOT}nfl`)
+  const seasons = readdirSync(DIR)
     .map((name) => /^(\d{4})\.json$/.exec(name)?.[1])
     .filter((season) => season !== undefined)
     .map(Number);
   const season = Math.max(...seasons);
-  const file = parseSeasonFile(
-    readFileSync(`${ROOT}nfl/${season}.json`, "utf8"),
-  );
-  const options = {
-    league: "nfl",
-    leagueName: "NFL",
-    teams: NFL_TEAMS,
-    baseUrl,
-  };
-  const feeds = buildFeeds({ ...options, file });
-  const pages = buildSite({ ...options, conferences: NFL_CONFERENCES });
+  const file = parseSeasonFile(readFileSync(`${DIR}/${season}.json`, "utf8"));
+  const feeds = buildFeeds({ league: LEAGUE, file, baseUrl });
+  const pages = buildSite({ league: LEAGUE, baseUrl });
   for (const [path, text] of [...feeds, ...pages]) {
     const target = join(values.out, path);
     mkdirSync(dirname(target), { recursive: true });
     writeFileSync(target, text);
   }
   // The icons, Quiet Football's own.
-  cpSync(`${ROOT}site`, values.out, { recursive: true });
+  cpSync(`${ROOT}src/feeds/assets`, values.out, { recursive: true });
   const found = file.games.filter((game) => game.status === "found").length;
   console.log(
     `${season}: ${feeds.size} feeds, ${found} recaps, in ${values.out}`,

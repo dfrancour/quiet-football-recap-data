@@ -1,6 +1,8 @@
-# The live publisher (src/publisher.ts). It keeps its own checkout of the
+# The live publisher (src/publisher/run.ts). It keeps its own checkout of the
 # dataset on the /data volume, separate from this image's code, and pushes
-# to it with a deploy key.
+# to it with a deploy key. Built from the repository's root:
+#
+#   docker compose -f deploy/compose.yaml build
 
 # Node 24 runs the TypeScript directly; pinned by digest, as Quiet Football's.
 ARG NODE_IMAGE=node:24.18.0-bookworm-slim@sha256:6f7b03f7c2c8e2e784dcf9295400527b9b1270fd37b7e9a7285cf83b6951452d

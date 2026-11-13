@@ -134,7 +134,7 @@ the dataset only as durable as that source. A game is identified by
 `games` is a list (git-history's ideal input), sorted by season type, then
 week, kickoff and home team, so a change is a one-object diff. What JSON
 Schema can't say (no team twice in a week, no source id on two games) is
-checked by `scripts/check.mjs`.
+checked by `src/check.ts`.
 
 ## What a record holds
 
@@ -155,7 +155,8 @@ checked by `scripts/check.mjs`.
 - **One canonical form.** A season file is a pure function of what the
   publisher knows: 2-space JSON, keys in schema order, instants to the
   second, a final newline. Writing it again without news changes no byte, so
-  no commit is ever noise. `scripts/check.mjs` enforces the form.
+  no commit is ever noise. `src/check.ts` enforces the form by writing each
+  file again with the publisher's own code and comparing.
 
 ## Commits are the change log
 
@@ -181,7 +182,7 @@ Publisher: <commit of the build that made it>
   its coverage gaps. `backfill` commits are left out of both.
 - GitHub serves the history as an Atom feed (`/commits/main.atom`), so "a
   recap was posted" is subscribable with no code. Per-team Atom feeds are
-  built from the season files rather than the commits (`src/feeds.ts`), so a
+  built from the season files rather than the commits (`src/feeds/`), so a
   correction or removal is already reflected in them; their titles are
   written from the record, never YouTube's, so they give nothing away.
 - The publisher commits as a bot identity, never as a person, and a person's

@@ -1,10 +1,10 @@
 {
-  "name": "football-recaps-data",
+  "name": "quiet-football-recap-data",
   "private": true,
   "license": "CC0-1.0",
   "type": "module",
   "scripts": {
-    "check": "node scripts/check.mjs && node scripts/validate.mjs",
+    "check": "node src/check.ts",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
     "test": "node --test 'test/**/*.test.ts'",

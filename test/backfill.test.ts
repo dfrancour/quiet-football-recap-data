@@ -9,9 +9,8 @@ import {
   serializeSeasonFile,
   type DatasetGame,
 } from "../src/dataset.ts";
-import type { ScheduledGame } from "../src/espn.ts";
-import type { Video } from "../src/matcher.ts";
-import { NFL_TEAMS, nflTeam } from "../src/nfl/teams.ts";
+import type { ScheduledGame, Video } from "../src/model.ts";
+import { NFL, nflTeam } from "../src/leagues/nfl.ts";
 
 function scheduled(
   espnId: string,
@@ -41,7 +40,7 @@ const backfill = (
   schedule: ScheduledGame[],
   videos: Video[] = [recap],
   corrections: Correction[] = [],
-) => backfillSeason(2026, schedule, videos, corrections, NFL_TEAMS);
+) => backfillSeason(2026, schedule, videos, corrections, NFL.teams);
 
 describe("backfillSeason", () => {
   it("links a final game's recap, with no observed times", () => {

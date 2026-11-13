@@ -7,8 +7,8 @@
 
 import { correctionFor, type Correction } from "./corrections.ts";
 import { instant, type DatasetGame, type SeasonFile } from "./dataset.ts";
-import type { ScheduledGame } from "./espn.ts";
-import { matchRecap, type Team, type Video } from "./matcher.ts";
+import { matchRecap } from "./matcher.ts";
+import type { ScheduledGame, Team, Video } from "./model.ts";
 
 export function backfillSeason(
   season: number,

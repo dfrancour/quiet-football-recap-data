@@ -17,17 +17,14 @@
  * without news, it changes no byte.
  */
 
-import type { DatasetGame, DatasetVideo, SeasonFile } from "./dataset.ts";
-import { compareGames } from "./dataset.ts";
-import type { Team } from "./matcher.ts";
+import type { DatasetGame, DatasetVideo, SeasonFile } from "../dataset.ts";
+import { compareGames } from "../dataset.ts";
+import type { League, Team } from "../model.ts";
 
 export interface FeedOptions {
-  league: string;
-  /** The league's name as a reader knows it: "NFL". */
-  leagueName: string;
+  league: League;
   /** The current season's file; a feed covers that season alone. */
   file: SeasonFile;
-  teams: readonly Team[];
   /** Where the site is served, with a final slash. */
   baseUrl: string;
 }
@@ -44,7 +41,7 @@ const SITE_ROUNDS = ["wild-card", "divisional", "conference", "super-bowl"];
 
 /** Each feed's path and contents: `nfl/all.atom`, `nfl/kc.atom`, … */
 export function buildFeeds(options: FeedOptions): Map<string, string> {
-  const { league, teams } = options;
+  const { id: league, teams } = options.league;
   const found = options.file.games
     .filter((game): game is FoundGame => game.status === "found")
     .sort(newestFirst);
@@ -152,7 +149,8 @@ function feed(
   teams: ReadonlyMap<string, Team>,
   updated: string | undefined,
 ): string {
-  const { league, leagueName, baseUrl } = options;
+  const { id: league, name: leagueName } = options.league;
+  const { baseUrl } = options;
   const season = options.file.season;
   const path = team ? feedPath(league, team) : `${league}/all.atom`;
   const title = team ? `${fullName(team)} recaps` : `${leagueName} recaps`;

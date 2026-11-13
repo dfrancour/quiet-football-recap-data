@@ -6,7 +6,18 @@
  */
 
 import { z } from "zod";
-import { decodeHtmlEntities, type Video } from "./matcher.ts";
+import type { Video } from "../model.ts";
+
+/** YouTube returns snippet titles HTML-escaped. */
+export function decodeHtmlEntities(value: string): string {
+  return value
+    .replace(/&quot;/g, '"')
+    .replace(/&#0?39;/g, "'")
+    .replace(/&apos;/g, "'")
+    .replace(/&lt;/g, "<")
+    .replace(/&gt;/g, ">")
+    .replace(/&amp;/g, "&");
+}
 
 const API = "https://www.googleapis.com/youtube/v3";
 const TIMEOUT_MS = 15_000;

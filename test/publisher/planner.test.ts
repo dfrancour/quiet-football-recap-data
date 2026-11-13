@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import { describe, it } from "node:test";
-import type { DatasetGame } from "../src/dataset.ts";
+import type { DatasetGame } from "../../src/dataset.ts";
 import {
   DAILY_UNITS,
   MAX_SEARCHES_PER_DAY,
@@ -12,7 +12,7 @@ import {
   stretched,
   uploadCadence,
   type PlannerState,
-} from "../src/planner.ts";
+} from "../../src/publisher/planner.ts";
 
 const MINUTE = 60_000;
 const HOUR = 60 * MINUTE;

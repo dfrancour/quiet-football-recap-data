@@ -5,7 +5,7 @@
  */
 
 import { z } from "zod";
-import type { ScheduledGame } from "./espn.ts";
+import type { ScheduledGame } from "./model.ts";
 
 const correctionSchema = z.object({
   season: z.number().int(),

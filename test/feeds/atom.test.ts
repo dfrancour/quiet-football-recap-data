@@ -1,16 +1,16 @@
 import assert from "node:assert/strict";
 import { describe, it } from "node:test";
-import type { DatasetGame, SeasonFile } from "../src/dataset.ts";
+import type { DatasetGame, SeasonFile } from "../../src/dataset.ts";
 import {
   buildFeeds,
   entryTitle,
   roundName,
   siteGameUrl,
-} from "../src/feeds.ts";
-import { NFL_TEAMS } from "../src/nfl/teams.ts";
+} from "../../src/feeds/atom.ts";
+import { NFL } from "../../src/leagues/nfl.ts";
 
 const BASE = "https://example.test/feeds/";
-const byCode = new Map(NFL_TEAMS.map((team) => [team.abbreviation, team]));
+const byCode = new Map(NFL.teams.map((team) => [team.abbreviation, team]));
 
 function found(
   away: string,
@@ -41,10 +41,8 @@ function found(
 function build(games: DatasetGame[]): Map<string, string> {
   const file: SeasonFile = { season: 2026, games };
   return buildFeeds({
-    league: "nfl",
-    leagueName: "NFL",
+    league: NFL,
     file,
-    teams: NFL_TEAMS,
     baseUrl: BASE,
   });
 }
@@ -56,7 +54,7 @@ function entryIds(feed: string): string[] {
 describe("feeds", () => {
   it("writes one feed per team and one of every game", () => {
     const feeds = build([]);
-    assert.equal(feeds.size, NFL_TEAMS.length + 1);
+    assert.equal(feeds.size, NFL.teams.length + 1);
     assert.ok(feeds.has("nfl/all.atom"));
     assert.ok(feeds.has("nfl/kc.atom"));
     assert.ok(feeds.has("nfl/wsh.atom"));
@@ -127,10 +125,8 @@ describe("feeds", () => {
 
   it("escapes what it writes", () => {
     const feeds = buildFeeds({
-      league: "nfl",
-      leagueName: "NFL",
+      league: NFL,
       file: { season: 2026, games: [] },
-      teams: NFL_TEAMS,
       baseUrl: "https://example.test/?a=1&b=2/",
     });
     assert.match(feeds.get("nfl/kc.atom")!, /\?a=1&amp;b=2\/nfl\/kc\.atom/);

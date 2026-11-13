@@ -5,9 +5,9 @@
  * next, so it is tested with a fake clock.
  */
 
-import { gameKey, type DatasetGame } from "./dataset.ts";
-import type { GameStatus } from "./espn.ts";
-import { RECAP_WINDOW_MS } from "./matcher.ts";
+import { gameKey, type DatasetGame } from "../dataset.ts";
+import { RECAP_WINDOW_MS } from "../matcher.ts";
+import type { GameStatus } from "../model.ts";
 
 const SECOND = 1_000;
 const MINUTE = 60 * SECOND;

@@ -4,7 +4,7 @@
  */
 
 import { z } from "zod";
-import type { SeasonType } from "./espn.ts";
+import { SEASON_TYPES, type SeasonType } from "./model.ts";
 
 export interface DatasetVideo {
   youtube_id: string;
@@ -44,12 +44,6 @@ export function gameName(league: string, game: DatasetGame): string {
   const type = game.season_type === "preseason" ? "PRE " : "";
   return `${league} ${game.season} ${type}W${game.week} ${game.away}@${game.home}`;
 }
-
-const SEASON_TYPES: readonly SeasonType[] = [
-  "preseason",
-  "regular",
-  "postseason",
-];
 
 /** Season type, then week, kickoff and home team. */
 export function compareGames(a: DatasetGame, b: DatasetGame): number {

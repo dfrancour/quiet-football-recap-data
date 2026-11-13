@@ -17,24 +17,24 @@ import {
 } from "node:fs";
 import { dirname, join } from "node:path";
 import { z } from "zod";
-import { VideoCache } from "./cache.ts";
-import { collectNewUploads } from "./collect.ts";
-import { correctionsSchema, type Correction } from "./corrections.ts";
+import { VideoCache } from "../cache.ts";
+import { collectNewUploads } from "../collect.ts";
+import { correctionsSchema, type Correction } from "../corrections.ts";
 import {
   parseSeasonFile,
   serializeSeasonFile,
   type SeasonFile,
-} from "./dataset.ts";
+} from "../dataset.ts";
+import { RECAP_WINDOW_MS } from "../matcher.ts";
+import type { League, LiveGame, Team, Video } from "../model.ts";
 import {
-  CURRENT_SCOREBOARD_URL,
   easternDay,
   gamesFromDay,
   scoreboardDayUrl,
   type FetchJson,
-  type LiveGame,
-} from "./espn.ts";
+} from "../sources/espn.ts";
+import { YouTubeError, type YouTube } from "../sources/youtube.ts";
 import type { Git } from "./git.ts";
-import { RECAP_WINDOW_MS, type Team, type Video } from "./matcher.ts";
 import {
   finalAt,
   nextPacificMidnight,
@@ -44,7 +44,6 @@ import {
   type PlannerState,
 } from "./planner.ts";
 import { applyChange, reconcile } from "./transitions.ts";
-import { YouTubeError, type YouTube } from "./youtube.ts";
 
 const MINUTE = 60_000;
 const DAY = 24 * 60 * MINUTE;
@@ -64,9 +63,7 @@ const RETRY_MS = 5 * MINUTE;
 export interface PublisherOptions {
   /** The checkout the publisher writes: its league's folder and `.cache/`. */
   dataDir: string;
-  league: string;
-  teams: readonly Team[];
-  channelId: string;
+  league: League;
   fetchJson: FetchJson;
   /** A fresh client per pass, so each pass's units are counted. */
   youtube: () => YouTube;
@@ -158,8 +155,9 @@ export async function runPass(
   options: PublisherOptions,
   now: number,
 ): Promise<PassReport> {
-  const { league, teams, git, log } = options;
-  const where = paths(options.dataDir, league);
+  const { league, git, log } = options;
+  const { teams } = league;
+  const where = paths(options.dataDir, league.id);
   const errors: string[] = [];
   const fail = (what: string, error: unknown) => {
     const line = `${what}: ${error instanceof Error ? error.message : String(error)}`;
@@ -170,7 +168,7 @@ export async function runPass(
   if ((await git.pull()) === "offline") {
     fail("pull", "the remote could not be reached; working from the last pull");
   }
-  if (await git.dirty([`${league}/`])) {
+  if (await git.dirty([`${league.id}/`])) {
     throw new Error(
       `${where.league} has changes not committed; the publisher will not write over them`,
     );
@@ -234,7 +232,7 @@ export async function runPass(
         due.scoreboard,
         state.schedule,
         now,
-        teams,
+        league,
       );
       const before = new Map(state.schedule.map((game) => [game.espnId, game]));
       for (const game of read) {
@@ -292,7 +290,7 @@ export async function runPass(
         const result = await collectNewUploads(
           youtube,
           cache,
-          options.channelId,
+          league.channelId,
           since,
           UPLOAD_PAGES,
         );
@@ -308,7 +306,7 @@ export async function runPass(
           Math.min(now, Date.parse(game.kickoff) + RECAP_WINDOW_MS),
         ).toISOString();
         const videos = await youtube.searchWindow(
-          options.channelId,
+          league.channelId,
           after,
           before,
           `${nickname(game.away)} ${nickname(game.home)}`,
@@ -376,7 +374,7 @@ export async function runPass(
 
   // What changed, a commit each.
   const { changes } = reconcile({
-    league,
+    league: league.id,
     now,
     files,
     schedule: state.schedule.flatMap((entry) => fromEntry(entry, teams)),
@@ -393,7 +391,7 @@ export async function runPass(
     const path = where.season(change.season);
     mkdirSync(dirname(path), { recursive: true });
     writeFileSync(path, serializeSeasonFile(next));
-    const file = `${league}/${change.season}.json`;
+    const file = `${league.id}/${change.season}.json`;
     try {
       await git.commit(
         [file],
@@ -448,12 +446,12 @@ async function readScoreboards(
   kind: "catch-up" | "live",
   schedule: readonly ScheduleEntry[],
   now: number,
-  teams: readonly Team[],
+  league: League,
 ): Promise<LiveGame[]> {
   const days = new Set<string>([easternDay(now)]);
   const urls: string[] = [];
   if (kind === "catch-up") {
-    urls.push(CURRENT_SCOREBOARD_URL);
+    urls.push(league.espn.scoreboard);
     for (let back = 1; back <= CATCH_UP_DAYS; back += 1) {
       days.add(easternDay(now - back * DAY));
     }
@@ -464,10 +462,10 @@ async function readScoreboards(
       }
     }
   }
-  urls.push(...[...days].map(scoreboardDayUrl));
+  urls.push(...[...days].map((day) => scoreboardDayUrl(league, day)));
   const games = new Map<string, LiveGame>();
   for (const url of urls) {
-    for (const game of gamesFromDay(await fetchJson(url), teams)) {
+    for (const game of gamesFromDay(await fetchJson(url), league.teams)) {
       games.set(game.espnId, game);
     }
   }
@@ -611,7 +609,7 @@ export async function runLoop(
   options: PublisherOptions,
   { signal, once = false }: { signal: AbortSignal; once?: boolean },
 ): Promise<void> {
-  const where = paths(options.dataDir, options.league);
+  const where = paths(options.dataDir, options.league.id);
   const release = acquireLock(where.lock);
   try {
     while (!signal.aborted) {

@@ -1,6 +1,11 @@
 import assert from "node:assert/strict";
 import { describe, it } from "node:test";
-import { YouTube, YouTubeError, uploadsPlaylistId } from "../src/youtube.ts";
+import {
+  YouTube,
+  YouTubeError,
+  decodeHtmlEntities,
+  uploadsPlaylistId,
+} from "../../src/sources/youtube.ts";
 
 const CHANNEL = "UCDVYQ4Zhbm3S2dlz7P1GBDg";
 
@@ -21,6 +26,17 @@ function client(...bodies: unknown[]) {
 const playlistItem = (id: string, title: string, at: string) => ({
   snippet: { title },
   contentDetails: { videoId: id, videoPublishedAt: at },
+});
+
+describe("decodeHtmlEntities", () => {
+  it("decodes the entities YouTube escapes in titles", () => {
+    assert.equal(
+      decodeHtmlEntities("Giants&#39; best plays"),
+      "Giants' best plays",
+    );
+    assert.equal(decodeHtmlEntities("&quot;Wow&quot;"), '"Wow"');
+    assert.equal(decodeHtmlEntities("Rams &amp; 49ers"), "Rams & 49ers");
+  });
 });
 
 describe("uploadsPlaylistId", () => {

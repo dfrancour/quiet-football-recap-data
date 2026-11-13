@@ -1,15 +1,14 @@
 import assert from "node:assert/strict";
 import { describe, it } from "node:test";
-import type { Correction } from "../src/corrections.ts";
-import type { DatasetGame, SeasonFile } from "../src/dataset.ts";
-import type { GameStatus, LiveGame } from "../src/espn.ts";
-import type { Video } from "../src/matcher.ts";
-import { NFL_TEAMS, nflTeam } from "../src/nfl/teams.ts";
+import type { Correction } from "../../src/corrections.ts";
+import type { DatasetGame, SeasonFile } from "../../src/dataset.ts";
+import type { GameStatus, LiveGame, Video } from "../../src/model.ts";
+import { NFL, nflTeam } from "../../src/leagues/nfl.ts";
 import {
   applyChange,
   reconcile,
   type ReconcileInput,
-} from "../src/transitions.ts";
+} from "../../src/publisher/transitions.ts";
 
 const KICKOFF = "2026-10-16T00:15:00Z";
 const HOUR = 3_600_000;
@@ -70,7 +69,7 @@ function run(overrides: Partial<ReconcileInput> & { games?: DatasetGame[] }) {
     videos: [],
     corrections: [],
     sweep: new Map(),
-    teams: NFL_TEAMS,
+    teams: NFL.teams,
     ...rest,
   });
 }

@@ -1,14 +1,10 @@
 import assert from "node:assert/strict";
 import { describe, it } from "node:test";
-import { buildSite } from "../src/feeds-site.ts";
-import { NFL_CONFERENCES } from "../src/nfl/divisions.ts";
-import { NFL_TEAMS } from "../src/nfl/teams.ts";
+import { buildSite } from "../../src/feeds/site.ts";
+import { NFL } from "../../src/leagues/nfl.ts";
 
 const site = buildSite({
-  league: "nfl",
-  leagueName: "NFL",
-  teams: NFL_TEAMS,
-  conferences: NFL_CONFERENCES,
+  league: NFL,
   baseUrl: "https://example.test/feeds/",
 });
 const page = site.get("index.html")!;
@@ -19,7 +15,7 @@ function feedUrls(opml: string): string[] {
 
 describe("the league's alignment", () => {
   it("places every team in one division of four", () => {
-    const placed = NFL_CONFERENCES.flatMap((conference) =>
+    const placed = NFL.conferences.flatMap((conference) =>
       conference.divisions.flatMap((division) => {
         assert.equal(division.teams.length, 4);
         return division.teams;
@@ -27,7 +23,7 @@ describe("the league's alignment", () => {
     );
     assert.deepEqual(
       [...placed].sort(),
-      NFL_TEAMS.map((team) => team.abbreviation).sort(),
+      NFL.teams.map((team) => team.abbreviation).sort(),
     );
   });
 });
@@ -71,14 +67,14 @@ describe("OPML", () => {
 
   it("covers every team once", () => {
     const all = opmls.flatMap((path) => feedUrls(site.get(path)!));
-    assert.equal(all.length, NFL_TEAMS.length);
-    assert.equal(new Set(all).size, NFL_TEAMS.length);
+    assert.equal(all.length, NFL.teams.length);
+    assert.equal(new Set(all).size, NFL.teams.length);
   });
 });
 
 describe("the index", () => {
   it("links every team's feed, NFC before AFC", () => {
-    for (const team of NFL_TEAMS) {
+    for (const team of NFL.teams) {
       assert.ok(
         page.includes(`href="nfl/${team.abbreviation.toLowerCase()}.atom"`),
       );
@@ -162,7 +158,7 @@ describe("the index", () => {
         /<link rel="alternate" type="application\/atom\+xml" title="([^"]+)" href="([^"]+)">/g,
       ),
     ];
-    assert.equal(feeds.length, NFL_TEAMS.length + 1);
+    assert.equal(feeds.length, NFL.teams.length + 1);
     assert.equal(feeds[0]![1], "NFL recaps");
     assert.ok(
       feeds.some(

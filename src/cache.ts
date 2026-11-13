@@ -7,7 +7,7 @@
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { dirname } from "node:path";
 import { z } from "zod";
-import type { Video } from "./matcher.ts";
+import type { Video } from "./model.ts";
 
 const videoSchema = z.object({
   youtubeId: z.string(),

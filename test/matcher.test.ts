@@ -1,16 +1,13 @@
 import assert from "node:assert/strict";
 import { describe, it } from "node:test";
+import { NFL, nflTeam } from "../src/leagues/nfl.ts";
 import {
   RECAP_WINDOW_MS,
-  decodeHtmlEntities,
   isRecapFor,
   matchRecap,
   namesTeam,
-  type Game,
-  type Team,
-  type Video,
 } from "../src/matcher.ts";
-import { NFL_TEAMS, nflTeam } from "../src/nfl/teams.ts";
+import type { Game, Team, Video } from "../src/model.ts";
 
 const HOUR = 3_600_000;
 
@@ -38,23 +35,12 @@ function accepts(title: string, at = week4, publishedAt?: string): boolean {
   return isRecapFor(
     video(title, publishedAt ?? hoursAfter(at.kickoff, 4)),
     at,
-    NFL_TEAMS,
+    NFL.teams,
   );
 }
 
 const names = (title: string, abbreviation: string) =>
-  namesTeam(title, nflTeam(abbreviation), NFL_TEAMS);
-
-describe("decodeHtmlEntities", () => {
-  it("decodes the entities YouTube escapes in titles", () => {
-    assert.equal(
-      decodeHtmlEntities("Giants&#39; best plays"),
-      "Giants' best plays",
-    );
-    assert.equal(decodeHtmlEntities("&quot;Wow&quot;"), '"Wow"');
-    assert.equal(decodeHtmlEntities("Rams &amp; 49ers"), "Rams & 49ers");
-  });
-});
+  namesTeam(title, nflTeam(abbreviation), NFL.teams);
 
 describe("namesTeam", () => {
   it("accepts the nickname", () => {
@@ -251,7 +237,7 @@ describe("isRecapFor", () => {
 describe("matchRecap", () => {
   const title = "Miami Dolphins vs Minnesota Vikings Game Highlights";
   const pick = (videos: Video[]) =>
-    matchRecap(videos, week4, NFL_TEAMS)?.youtubeId ?? null;
+    matchRecap(videos, week4, NFL.teams)?.youtubeId ?? null;
 
   it("returns the video that satisfies every constraint", () => {
     assert.equal(
@@ -434,7 +420,7 @@ describe("a season of titles", () => {
   ];
 
   const recapsFor = (entry: Game) =>
-    videos.filter((v) => isRecapFor(v, entry, NFL_TEAMS));
+    videos.filter((v) => isRecapFor(v, entry, NFL.teams));
   const label = (entry: Game) =>
     `W${entry.week} ${entry.away.abbreviation}@${entry.home.abbreviation}`;
 

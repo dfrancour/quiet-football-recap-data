@@ -1,7 +1,8 @@
 name: feeds
 
-# Rebuilds the recap feeds (src/feeds.ts) from the season files and serves
-# them from GitHub Pages, after every push the publisher makes.
+# Rebuilds the recap feeds (src/feeds/) from the season files and serves
+# them from GitHub Pages, after every push the publisher makes. A change to
+# the publisher or the sources it reads changes no feed, so it builds none.
 
 on:
   push:
@@ -9,7 +10,9 @@ on:
     paths:
       - "nfl/*.json"
       - "src/**"
-      - "site/**"
+      - "!src/publisher/**"
+      - "!src/sources/**"
+      - "!src/check.ts"
       - "package-lock.json"
       - ".github/workflows/feeds.yml"
   workflow_dispatch:

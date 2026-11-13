@@ -4,30 +4,7 @@
  * title only has to name both teams and look like a recap.
  */
 
-export interface Team {
-  /** ESPN's abbreviation, the dataset's team code. */
-  abbreviation: string;
-  /** ESPN's team id, for reading ESPN's schedules. */
-  espnId: string;
-  location: string;
-  nickname: string;
-  /** Names older titles use on their own: "Redskins", "Oakland". */
-  formerNames: readonly string[];
-}
-
-export interface Game {
-  /** The week within the game's season type. */
-  week: number;
-  kickoff: string;
-  home: Team;
-  away: Team;
-}
-
-export interface Video {
-  youtubeId: string;
-  title: string;
-  publishedAt: string;
-}
+import type { Game, Team, Video } from "./model.ts";
 
 /**
  * How long after kickoff a recap may be published. Recaps land 3–8 hours
@@ -35,17 +12,6 @@ export interface Video {
  * inside it, so it pins the game.
  */
 export const RECAP_WINDOW_MS = 3 * 24 * 60 * 60 * 1000;
-
-/** YouTube returns snippet titles HTML-escaped. */
-export function decodeHtmlEntities(value: string): string {
-  return value
-    .replace(/&quot;/g, '"')
-    .replace(/&#0?39;/g, "'")
-    .replace(/&apos;/g, "'")
-    .replace(/&lt;/g, "<")
-    .replace(/&gt;/g, ">")
-    .replace(/&amp;/g, "&");
-}
 
 function containsWord(haystack: string, phrase: string): boolean {
   const escaped = phrase.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");

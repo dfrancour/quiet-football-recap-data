@@ -5,8 +5,8 @@
  */
 
 import type { VideoCache } from "./cache.ts";
-import type { Team } from "./matcher.ts";
-import { uploadsPlaylistId, type YouTube } from "./youtube.ts";
+import type { Team } from "./model.ts";
+import { uploadsPlaylistId, type YouTube } from "./sources/youtube.ts";
 
 const HOUR = 3_600_000;
 

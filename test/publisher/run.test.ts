@@ -10,10 +10,10 @@ import {
 import { tmpdir } from "node:os";
 import { join } from "node:path";
 import { describe, it } from "node:test";
-import { parseSeasonFile, serializeSeasonFile } from "../src/dataset.ts";
-import { GitConflictError, GitRepo } from "../src/git.ts";
-import type { Video } from "../src/matcher.ts";
-import { NFL_TEAMS, nflTeam } from "../src/nfl/teams.ts";
+import { parseSeasonFile, serializeSeasonFile } from "../../src/dataset.ts";
+import { GitConflictError, GitRepo } from "../../src/publisher/git.ts";
+import type { Video } from "../../src/model.ts";
+import { NFL, nflTeam } from "../../src/leagues/nfl.ts";
 import {
   acquireLock,
   healthy,
@@ -22,8 +22,8 @@ import {
   runPass,
   seasonOf,
   type PublisherOptions,
-} from "../src/publisher.ts";
-import { YouTube } from "../src/youtube.ts";
+} from "../../src/publisher/run.ts";
+import { YouTube } from "../../src/sources/youtube.ts";
 
 const MINUTE = 60_000;
 const BOT = { name: "Test Publisher", email: "publisher@example.com" };
@@ -177,9 +177,7 @@ function setup() {
   };
   const options: PublisherOptions = {
     dataDir: dirs.data,
-    league: "nfl",
-    teams: NFL_TEAMS,
-    channelId: "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+    league: NFL,
     fetchJson: espn(world),
     youtube: youtube(world),
     git: new GitRepo(dirs.data, BOT),
