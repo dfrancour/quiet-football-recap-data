@@ -98,6 +98,18 @@ describe("feeds", () => {
     ]);
   });
 
+  it("shows a team's feed by its colors, and the league's by the site's", () => {
+    const feeds = build([]);
+    assert.match(
+      feeds.get("nfl/min.atom")!,
+      /<icon>https:\/\/example\.test\/feeds\/nfl\/icons\/min\.png<\/icon>/,
+    );
+    assert.match(
+      feeds.get("nfl/all.atom")!,
+      /<icon>https:\/\/example\.test\/feeds\/apple-icon\.png<\/icon>/,
+    );
+  });
+
   it("names the WebSub hub beside its own address", () => {
     const kc = build([]).get("nfl/kc.atom")!;
     assert.match(

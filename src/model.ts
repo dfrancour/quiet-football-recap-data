@@ -11,6 +11,8 @@ export interface Team {
   espnId: string;
   location: string;
   nickname: string;
+  /** Its two colors, as `#rrggbb`: the main one, then the alternate. */
+  colors: readonly [string, string];
   /** Names older titles use on their own: "Redskins", "Oakland". */
   formerNames: readonly string[];
 }

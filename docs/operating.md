@@ -22,8 +22,8 @@ src/
   sources/           ESPN's scoreboard and the YouTube Data API
   publisher/         the live publisher: its pass and loop, planner,
                      transitions and git checkout
-  feeds/             the Atom feeds, the page and OPML files that list
-                     them, the site's icons, and the WebSub ping
+  feeds/             the Atom feeds, their icons, the page and OPML
+                     files that list them, and what a build changes
 test/                the same layout as src/
 deploy/              the publisher's image and compose file
 ```

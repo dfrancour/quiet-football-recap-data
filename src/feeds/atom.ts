@@ -27,6 +27,7 @@
 import type { DatasetGame, DatasetVideo, SeasonFile } from "../dataset.ts";
 import { compareGames } from "../dataset.ts";
 import type { League, Team } from "../model.ts";
+import { iconPath } from "./icon.ts";
 
 export interface FeedOptions {
   league: League;
@@ -221,7 +222,8 @@ function feed(
     `  <link rel="self" type="application/atom+xml" href="${escape(baseUrl + path)}"/>`,
     `  <link rel="hub" href="${escape(HUB)}"/>`,
     `  <link rel="alternate" type="text/html" href="${escape(siteSeasonUrl(season, team))}"/>`,
-    `  <icon>${escape(`${baseUrl}apple-icon.png`)}</icon>`,
+    // A team's feed in its colors (icon.ts); the league's in the site's.
+    `  <icon>${escape(baseUrl + (team ? iconPath(league, team) : "apple-icon.png"))}</icon>`,
     `  <author><name>${SITE_NAME}</name><uri>${SITE}/</uri></author>`,
     ...games.flatMap((game) => entry(league, game, teams, team)),
     `</feed>`,

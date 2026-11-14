@@ -17,7 +17,8 @@
  * `status` reports on it; `status --check` exits non-zero when it looks
  * stalled, for a health check. `feeds` writes the current season's Atom
  * feeds (src/feeds/atom.ts), the page that lists them and an OPML file per
- * division (src/feeds/site.ts), and the icons in src/feeds/assets, for
+ * division (src/feeds/site.ts), each team feed's icon (src/feeds/icon.ts)
+ * and the site's icons in src/feeds/assets, for
  * GitHub Pages. With `--changed`, it also compares what it wrote with what
  * is served at the base URL now, and appends to that file, as a GitHub
  * Actions step's outputs, whether anything differs (`deploy`), the WebSub
@@ -54,6 +55,7 @@ import {
 import { correctionsSchema } from "./corrections.ts";
 import { parseSeasonFile, serializeSeasonFile } from "./dataset.ts";
 import { buildFeeds, HUB } from "./feeds/atom.ts";
+import { buildIcons } from "./feeds/icon.ts";
 import { changedFiles } from "./feeds/served.ts";
 import { buildSite } from "./feeds/site.ts";
 import { NFL } from "./leagues/nfl.ts";
@@ -358,7 +360,8 @@ async function feeds(args: string[]): Promise<void> {
   const file = parseSeasonFile(readFileSync(`${DIR}/${season}.json`, "utf8"));
   const feeds = buildFeeds({ league: LEAGUE, file, baseUrl });
   const pages = buildSite({ league: LEAGUE, baseUrl });
-  for (const [path, text] of [...feeds, ...pages]) {
+  const icons = buildIcons(LEAGUE);
+  for (const [path, text] of [...feeds, ...pages, ...icons]) {
     const target = join(values.out, path);
     mkdirSync(dirname(target), { recursive: true });
     writeFileSync(target, text);
@@ -371,7 +374,11 @@ async function feeds(args: string[]): Promise<void> {
     `${season}: ${feeds.size} feeds, ${found} recaps, in ${values.out}`,
   );
   if (values.changed) {
-    const built = new Map<string, string | Uint8Array>([...feeds, ...pages]);
+    const built = new Map<string, string | Uint8Array>([
+      ...feeds,
+      ...pages,
+      ...icons,
+    ]);
     for (const name of readdirSync(assets, { recursive: true })) {
       const path = join(assets, String(name));
       if (statSync(path).isFile()) built.set(String(name), readFileSync(path));
