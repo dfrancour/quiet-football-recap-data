@@ -3288,8 +3288,14 @@
         "espn": "401873053"
       },
       "kickoff": "2026-11-15T14:30:00Z",
-      "status": "searching",
-      "final_seen_at": "2026-11-15T17:38:05Z"
+      "status": "found",
+      "final_seen_at": "2026-11-15T17:38:05Z",
+      "video": {
+        "youtube_id": "u9ggzabBnEo",
+        "title": "New England Patriots vs. Detroit Lions Highlights | 2026 NFL Season Week 10",
+        "published_at": "2026-11-15T17:51:27Z"
+      },
+      "detected_at": "2026-11-15T17:52:06Z"
     }
   ]
 }
