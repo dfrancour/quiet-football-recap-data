@@ -3409,8 +3409,14 @@
         "espn": "401873057"
       },
       "kickoff": "2026-11-15T18:00:00Z",
-      "status": "searching",
-      "final_seen_at": "2026-11-15T21:13:30Z"
+      "status": "found",
+      "final_seen_at": "2026-11-15T21:13:30Z",
+      "video": {
+        "youtube_id": "j_qGDlVME2g",
+        "title": "Jacksonville Jaguars vs. Tennessee Titans Game Highlights | NFL 2026 Season Week 10",
+        "published_at": "2026-11-15T21:37:00Z"
+      },
+      "detected_at": "2026-11-15T21:37:31Z"
     }
   ]
 }
