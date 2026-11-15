@@ -3327,6 +3327,19 @@
       "season": 2026,
       "season_type": "regular",
       "week": 10,
+      "away": "CAR",
+      "home": "NO",
+      "external_ids": {
+        "espn": "401873055"
+      },
+      "kickoff": "2026-11-15T18:00:00Z",
+      "status": "searching",
+      "final_seen_at": "2026-11-15T21:13:30Z"
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 10,
       "away": "BUF",
       "home": "NYJ",
       "external_ids": {
