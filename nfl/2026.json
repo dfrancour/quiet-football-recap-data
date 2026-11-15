@@ -3320,8 +3320,14 @@
         "espn": "401873056"
       },
       "kickoff": "2026-11-15T18:00:00Z",
-      "status": "searching",
-      "final_seen_at": "2026-11-15T21:15:30Z"
+      "status": "found",
+      "final_seen_at": "2026-11-15T21:15:30Z",
+      "video": {
+        "youtube_id": "DJaODmVRaUo",
+        "title": "Houston Texans vs. Cleveland Browns Highlights | 2026 NFL Season Week 10",
+        "published_at": "2026-11-15T21:29:01Z"
+      },
+      "detected_at": "2026-11-15T21:29:30Z"
     },
     {
       "season": 2026,
