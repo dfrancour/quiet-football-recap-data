@@ -3335,6 +3335,19 @@
       "kickoff": "2026-11-15T18:00:00Z",
       "status": "searching",
       "final_seen_at": "2026-11-15T21:08:30Z"
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 10,
+      "away": "JAX",
+      "home": "TEN",
+      "external_ids": {
+        "espn": "401873057"
+      },
+      "kickoff": "2026-11-15T18:00:00Z",
+      "status": "searching",
+      "final_seen_at": "2026-11-15T21:13:30Z"
     }
   ]
 }
