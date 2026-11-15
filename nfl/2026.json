@@ -3429,6 +3429,19 @@
         "published_at": "2026-11-15T21:37:00Z"
       },
       "detected_at": "2026-11-15T21:37:31Z"
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 10,
+      "away": "LAR",
+      "home": "ARI",
+      "external_ids": {
+        "espn": "401873061"
+      },
+      "kickoff": "2026-11-15T21:05:00Z",
+      "status": "searching",
+      "final_seen_at": "2026-11-15T23:51:35Z"
     }
   ]
 }
