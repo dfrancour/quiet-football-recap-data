@@ -3371,8 +3371,14 @@
         "espn": "401873055"
       },
       "kickoff": "2026-11-15T18:00:00Z",
-      "status": "searching",
-      "final_seen_at": "2026-11-15T21:13:30Z"
+      "status": "found",
+      "final_seen_at": "2026-11-15T21:13:30Z",
+      "video": {
+        "youtube_id": "kpYlWvU7zjY",
+        "title": "Carolina Panthers vs. New Orleans Saints Game Highlights | NFL 2026 Season Week 10",
+        "published_at": "2026-11-15T21:35:19Z"
+      },
+      "detected_at": "2026-11-15T21:36:31Z"
     },
     {
       "season": 2026,
