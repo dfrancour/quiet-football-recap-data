@@ -3440,8 +3440,14 @@
         "espn": "401873061"
       },
       "kickoff": "2026-11-15T21:05:00Z",
-      "status": "searching",
-      "final_seen_at": "2026-11-15T23:51:35Z"
+      "status": "found",
+      "final_seen_at": "2026-11-15T23:51:35Z",
+      "video": {
+        "youtube_id": "1208aE3TLNY",
+        "title": "Los Angeles Rams vs. Arizona Cardinals Game Highlights | NFL 2026 Season Week 10",
+        "published_at": "2026-11-16T00:24:52Z"
+      },
+      "detected_at": "2026-11-16T00:25:36Z"
     },
     {
       "season": 2026,
