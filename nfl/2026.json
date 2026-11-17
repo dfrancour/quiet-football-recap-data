@@ -3505,6 +3505,19 @@
         "published_at": "2026-11-16T04:41:59Z"
       },
       "detected_at": "2026-11-16T04:43:06Z"
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 10,
+      "away": "LAC",
+      "home": "BAL",
+      "external_ids": {
+        "espn": "401873065"
+      },
+      "kickoff": "2026-11-17T01:15:00Z",
+      "status": "searching",
+      "final_seen_at": "2026-11-17T04:25:05Z"
     }
   ]
 }
