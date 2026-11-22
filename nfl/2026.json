@@ -3608,6 +3608,19 @@
       "kickoff": "2026-11-22T18:00:00Z",
       "status": "searching",
       "final_seen_at": "2026-11-22T20:47:05Z"
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 11,
+      "away": "PIT",
+      "home": "PHI",
+      "external_ids": {
+        "espn": "401873076"
+      },
+      "kickoff": "2026-11-22T18:00:00Z",
+      "status": "searching",
+      "final_seen_at": "2026-11-22T21:11:30Z"
     }
   ]
 }
