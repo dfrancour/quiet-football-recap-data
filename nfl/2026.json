@@ -3561,6 +3561,19 @@
       "season": 2026,
       "season_type": "regular",
       "week": 11,
+      "away": "TEN",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401873073"
+      },
+      "kickoff": "2026-11-22T18:00:00Z",
+      "status": "searching",
+      "final_seen_at": "2026-11-22T21:05:30Z"
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 11,
       "away": "ARI",
       "home": "KC",
       "external_ids": {
