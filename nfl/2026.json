@@ -3708,6 +3708,19 @@
       "kickoff": "2026-11-22T21:25:00Z",
       "status": "searching",
       "final_seen_at": "2026-11-23T00:47:07Z"
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 11,
+      "away": "JAX",
+      "home": "NYG",
+      "external_ids": {
+        "espn": "401873069"
+      },
+      "kickoff": "2026-11-22T21:25:00Z",
+      "status": "searching",
+      "final_seen_at": "2026-11-23T00:55:08Z"
     }
   ]
 }
