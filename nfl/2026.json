@@ -3744,8 +3744,14 @@
         "espn": "401873077"
       },
       "kickoff": "2026-11-23T01:20:00Z",
-      "status": "searching",
-      "final_seen_at": "2026-11-23T04:26:05Z"
+      "status": "found",
+      "final_seen_at": "2026-11-23T04:26:05Z",
+      "video": {
+        "youtube_id": "ceMTl2eqYDA",
+        "title": "Minnesota Vikings vs San Francisco 49ers Game Highlights | 2026 NFL Season Week 11 Mexico City Game",
+        "published_at": "2026-11-23T04:54:26Z"
+      },
+      "detected_at": "2026-11-23T04:55:06Z"
     }
   ]
 }
