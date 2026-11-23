@@ -3706,8 +3706,14 @@
         "espn": "401873075"
       },
       "kickoff": "2026-11-22T21:25:00Z",
-      "status": "searching",
-      "final_seen_at": "2026-11-23T00:47:07Z"
+      "status": "found",
+      "final_seen_at": "2026-11-23T00:47:07Z",
+      "video": {
+        "youtube_id": "i13fzifkiE8",
+        "title": "Las Vegas Raiders vs Denver Broncos Game Highlights | 2026 NFL Season Week 11",
+        "published_at": "2026-11-23T01:05:49Z"
+      },
+      "detected_at": "2026-11-23T01:07:08Z"
     },
     {
       "season": 2026,
