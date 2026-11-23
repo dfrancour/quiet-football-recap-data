@@ -3733,6 +3733,19 @@
         "published_at": "2026-11-23T01:31:07Z"
       },
       "detected_at": "2026-11-23T01:32:30Z"
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 11,
+      "away": "MIN",
+      "home": "SF",
+      "external_ids": {
+        "espn": "401873077"
+      },
+      "kickoff": "2026-11-23T01:20:00Z",
+      "status": "searching",
+      "final_seen_at": "2026-11-23T04:26:05Z"
     }
   ]
 }
