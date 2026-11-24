@@ -3752,6 +3752,19 @@
         "published_at": "2026-11-23T04:54:26Z"
       },
       "detected_at": "2026-11-23T04:55:06Z"
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 11,
+      "away": "CIN",
+      "home": "WSH",
+      "external_ids": {
+        "espn": "401873078"
+      },
+      "kickoff": "2026-11-24T01:15:00Z",
+      "status": "searching",
+      "final_seen_at": "2026-11-24T04:20:05Z"
     }
   ]
 }
