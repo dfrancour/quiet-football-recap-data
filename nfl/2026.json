@@ -3790,6 +3790,19 @@
         "published_at": "2026-11-26T04:48:07Z"
       },
       "detected_at": "2026-11-26T04:49:07Z"
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 12,
+      "away": "CHI",
+      "home": "DET",
+      "external_ids": {
+        "espn": "401873081"
+      },
+      "kickoff": "2026-11-26T18:00:00Z",
+      "status": "searching",
+      "final_seen_at": "2026-11-26T21:33:30Z"
     }
   ]
 }
