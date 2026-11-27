@@ -3828,6 +3828,19 @@
         "published_at": "2026-11-27T01:51:16Z"
       },
       "detected_at": "2026-11-27T01:52:31Z"
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 12,
+      "away": "KC",
+      "home": "BUF",
+      "external_ids": {
+        "espn": "401873082"
+      },
+      "kickoff": "2026-11-27T01:20:00Z",
+      "status": "searching",
+      "final_seen_at": "2026-11-27T04:27:35Z"
     }
   ]
 }
