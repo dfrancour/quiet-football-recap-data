@@ -3847,6 +3847,19 @@
         "published_at": "2026-11-27T04:48:47Z"
       },
       "detected_at": "2026-11-27T04:49:36Z"
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 12,
+      "away": "DEN",
+      "home": "PIT",
+      "external_ids": {
+        "espn": "401873083"
+      },
+      "kickoff": "2026-11-27T20:00:00Z",
+      "status": "searching",
+      "final_seen_at": "2026-11-27T22:54:05Z"
     }
   ]
 }
