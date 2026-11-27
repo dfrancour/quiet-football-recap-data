@@ -3858,8 +3858,14 @@
         "espn": "401873083"
       },
       "kickoff": "2026-11-27T20:00:00Z",
-      "status": "searching",
-      "final_seen_at": "2026-11-27T22:54:05Z"
+      "status": "found",
+      "final_seen_at": "2026-11-27T22:54:05Z",
+      "video": {
+        "youtube_id": "MafaSaRZiBg",
+        "title": "Denver Broncos vs. Pittsburgh Steelers Game Highlights | NFL 2026 Season Week 12",
+        "published_at": "2026-11-27T23:05:27Z"
+      },
+      "detected_at": "2026-11-27T23:07:05Z"
     }
   ]
 }
