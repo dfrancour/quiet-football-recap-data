@@ -3809,6 +3809,19 @@
         "published_at": "2026-11-26T21:44:26Z"
       },
       "detected_at": "2026-11-26T21:45:30Z"
+    },
+    {
+      "season": 2026,
+      "season_type": "regular",
+      "week": 12,
+      "away": "PHI",
+      "home": "DAL",
+      "external_ids": {
+        "espn": "401873080"
+      },
+      "kickoff": "2026-11-26T21:30:00Z",
+      "status": "searching",
+      "final_seen_at": "2026-11-27T01:34:30Z"
     }
   ]
 }
