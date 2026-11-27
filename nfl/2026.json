@@ -3820,8 +3820,14 @@
         "espn": "401873080"
       },
       "kickoff": "2026-11-26T21:30:00Z",
-      "status": "searching",
-      "final_seen_at": "2026-11-27T01:34:30Z"
+      "status": "found",
+      "final_seen_at": "2026-11-27T01:34:30Z",
+      "video": {
+        "youtube_id": "jXmdND-z0_8",
+        "title": "Philadelphia Eagles vs. Dallas Cowboys Game Highlights | 2026 NFL Season Week 12",
+        "published_at": "2026-11-27T01:51:16Z"
+      },
+      "detected_at": "2026-11-27T01:52:31Z"
     }
   ]
 }
