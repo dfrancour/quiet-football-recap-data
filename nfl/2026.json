@@ -3839,8 +3839,14 @@
         "espn": "401873082"
       },
       "kickoff": "2026-11-27T01:20:00Z",
-      "status": "searching",
-      "final_seen_at": "2026-11-27T04:27:35Z"
+      "status": "found",
+      "final_seen_at": "2026-11-27T04:27:35Z",
+      "video": {
+        "youtube_id": "WDYynoHb2Bs",
+        "title": "Kansas City Chiefs vs Buffalo Bills Thanksgiving Day Game Highlights | 2026 NFL Season Week 12",
+        "published_at": "2026-11-27T04:48:47Z"
+      },
+      "detected_at": "2026-11-27T04:49:36Z"
     }
   ]
 }
